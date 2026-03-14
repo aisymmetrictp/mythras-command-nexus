@@ -3,6 +3,7 @@
 import { motion } from 'framer-motion';
 import Link from 'next/link';
 import { channels } from '@/data/mockData';
+import { YouTubeChannel, formatCount, CHANNEL_IDS, ChannelSlug } from '@/lib/youtube';
 import SectionHeader from './SectionHeader';
 
 const platformCards = [
@@ -56,7 +57,11 @@ const platformCards = [
   },
 ];
 
-export default function ChannelDeck() {
+interface ChannelDeckProps {
+  ytChannels?: Map<string, YouTubeChannel>;
+}
+
+export default function ChannelDeck({ ytChannels }: ChannelDeckProps) {
   return (
     <section className="relative py-20 md:py-28">
       {/* Background accent */}
@@ -143,11 +148,30 @@ export default function ChannelDeck() {
                   </p>
 
                   <div className="flex items-center gap-4 text-[10px] text-[#55556a]">
-                    <span>{channel.stats.subscribers} subs</span>
-                    <span>•</span>
-                    <span>{channel.stats.videos} videos</span>
-                    <span>•</span>
-                    <span>{channel.stats.views} views</span>
+                    {(() => {
+                      const config = CHANNEL_IDS[channel.slug as ChannelSlug];
+                      const ytCh = config && ytChannels ? ytChannels.get(config.id) : null;
+                      if (ytCh) {
+                        return (
+                          <>
+                            <span>{formatCount(ytCh.subscriberCount)} subs</span>
+                            <span>•</span>
+                            <span>{formatCount(ytCh.videoCount)} videos</span>
+                            <span>•</span>
+                            <span>{formatCount(ytCh.viewCount)} views</span>
+                          </>
+                        );
+                      }
+                      return (
+                        <>
+                          <span>{channel.stats.subscribers} subs</span>
+                          <span>•</span>
+                          <span>{channel.stats.videos} videos</span>
+                          <span>•</span>
+                          <span>{channel.stats.views} views</span>
+                        </>
+                      );
+                    })()}
                   </div>
 
                   {/* Arrow */}

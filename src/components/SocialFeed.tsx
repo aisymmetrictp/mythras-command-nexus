@@ -1,7 +1,9 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { mockSocialFeed } from '@/data/mockData';
+import { mockSocialFeed, SocialPost } from '@/data/mockData';
+import { YouTubeVideo, formatRelativeDate, getSlugFromChannelId } from '@/lib/youtube';
+import { channels as channelMeta } from '@/data/mockData';
 import SectionHeader from './SectionHeader';
 
 const platformConfig: Record<string, { icon: React.ReactNode; color: string; label: string }> = {
@@ -50,7 +52,28 @@ const typeIcons: Record<string, string> = {
   event: '🎯',
 };
 
-export default function SocialFeed() {
+interface SocialFeedProps {
+  allVideos?: YouTubeVideo[];
+}
+
+export default function SocialFeed({ allVideos }: SocialFeedProps) {
+  // Generate real YouTube upload entries from actual video data
+  const ytPosts: SocialPost[] = (allVideos || []).slice(0, 5).map((video, i) => {
+    const slug = getSlugFromChannelId(video.channelId);
+    const meta = channelMeta.find(c => c.slug === slug);
+    return {
+      id: `yt-${video.id}`,
+      platform: 'youtube' as const,
+      content: `NEW VIDEO: ${video.title} — now live on ${meta?.name || video.channelTitle}!`,
+      date: formatRelativeDate(video.publishedAt),
+      type: 'upload' as const,
+      link: `https://www.youtube.com/watch?v=${video.id}`,
+    };
+  });
+
+  // Merge real YouTube posts with mock social posts (Twitter, Discord, Twitch)
+  const nonYtMock = mockSocialFeed.filter(p => p.platform !== 'youtube');
+  const feed = [...ytPosts.slice(0, 3), ...nonYtMock].slice(0, 8);
   return (
     <section className="relative py-20 md:py-28">
       <div className="max-w-7xl mx-auto px-4 sm:px-6">
@@ -62,7 +85,7 @@ export default function SocialFeed() {
         />
 
         <div className="max-w-3xl mx-auto space-y-3">
-          {mockSocialFeed.map((post, i) => {
+          {feed.map((post, i) => {
             const config = platformConfig[post.platform];
             return (
               <motion.div

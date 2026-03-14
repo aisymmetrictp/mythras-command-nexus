@@ -59,7 +59,8 @@ export const channels: Channel[] = [
     color: '#f97316',
     accentGradient: 'from-orange-500 to-amber-500',
     game: 'CookieRun: Kingdom',
-    stats: { subscribers: '12.4K', videos: '340', views: '2.1M' },
+    youtubeId: 'UCGp83Usm4riRWlAYa9F2diQ',
+    stats: { subscribers: '30.6K', videos: '6,121', views: '12.9M' },
   },
   {
     name: 'Gamertag Mythras',
@@ -70,7 +71,8 @@ export const channels: Channel[] = [
     color: '#8b5cf6',
     accentGradient: 'from-violet-500 to-purple-500',
     game: 'Magic: The Gathering',
-    stats: { subscribers: '8.2K', videos: '215', views: '1.4M' },
+    youtubeId: 'UCZwCXcKKgjxNDSe9mY1_TWQ',
+    stats: { subscribers: '3.1K', videos: '4,247', views: '3.5M' },
   },
   {
     name: 'Mythras Gaming',
@@ -81,7 +83,8 @@ export const channels: Channel[] = [
     color: '#06b6d4',
     accentGradient: 'from-cyan-500 to-blue-500',
     game: 'Multi-Game',
-    stats: { subscribers: '5.7K', videos: '180', views: '890K' },
+    youtubeId: 'UC-tDHOeoDgUaXxIkQBFffAg',
+    stats: { subscribers: '1.1K', videos: '2,139', views: '1.7M' },
   },
   {
     name: 'Pokemon Mythras',
@@ -92,7 +95,8 @@ export const channels: Channel[] = [
     color: '#eab308',
     accentGradient: 'from-yellow-500 to-orange-400',
     game: 'Pokemon',
-    stats: { subscribers: '6.1K', videos: '155', views: '720K' },
+    youtubeId: 'UCwI4EHyFi-z8Nrxh4ckr47Q',
+    stats: { subscribers: '861', videos: '1,596', views: '1.0M' },
   },
   {
     name: 'Lorcana Mythras',
@@ -103,6 +107,7 @@ export const channels: Channel[] = [
     color: '#3b82f6',
     accentGradient: 'from-blue-500 to-indigo-500',
     game: 'Disney Lorcana',
+    youtubeId: 'UCfvLejQsZnBEtQsn5h0SD3Q',
     stats: { subscribers: '3.8K', videos: '95', views: '380K' },
   },
 ];
