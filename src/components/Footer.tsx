@@ -12,8 +12,8 @@ export default function Footer() {
           {/* Brand */}
           <div className="md:col-span-1">
             <Link href="/" className="flex items-center gap-3 mb-4">
-              <div className="relative w-10 h-10 rounded-full overflow-hidden border border-[#8b5cf6]/30">
-                <Image src="/images/mythras-logo.png" alt="Mythras" fill className="object-cover" />
+              <div className="relative w-10 h-10 rounded-full overflow-hidden border border-white/20 bg-transparent">
+                <Image src="/images/mythras-logo.png" alt="Mythras" fill className="object-cover logo-white" />
               </div>
               <span className="text-xl font-bold tracking-wider text-gradient" style={{ fontFamily: 'var(--font-display)' }}>
                 MYTHRAS

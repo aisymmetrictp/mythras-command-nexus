@@ -6,8 +6,8 @@ import { YouTubeVideo, YouTubeChannel, parseDuration, formatCount, formatRelativ
 import { channels as channelMeta } from '@/data/mockData';
 import SectionHeader from './SectionHeader';
 
-const tabs = [
-  { id: 'all', label: 'All' },
+const channelTabs = [
+  { id: 'all', label: 'All Channels' },
   { id: 'cookierun', label: '🍪 CookieRun' },
   { id: 'gamertag', label: '⚔️ MTG' },
   { id: 'mythras-gaming', label: '🎮 Gaming' },
@@ -29,33 +29,37 @@ interface ContentHubProps {
 }
 
 export default function ContentHub({ allVideos, channelVideos, loading, channels }: ContentHubProps) {
-  const [activeTab, setActiveTab] = useState('all');
+  const [activeChannel, setActiveChannel] = useState('all');
   const [search, setSearch] = useState('');
   const [sort, setSort] = useState('date');
   const [modalVideo, setModalVideo] = useState<YouTubeVideo | null>(null);
 
-  const filtered = useMemo(() => {
-    let vids = activeTab === 'all' ? [...allVideos] : [...(channelVideos.get(activeTab) || [])];
+  // Split into full videos and shorts
+  const { fullVideos, shorts } = useMemo(() => {
+    let vids = activeChannel === 'all' ? [...allVideos] : [...(channelVideos.get(activeChannel) || [])];
     if (search) {
       const q = search.toLowerCase();
       vids = vids.filter(v => v.title.toLowerCase().includes(q) || v.channelTitle.toLowerCase().includes(q));
     }
-    if (sort === 'views') vids.sort((a, b) => parseInt(b.viewCount) - parseInt(a.viewCount));
-    if (sort === 'alpha') vids.sort((a, b) => a.title.localeCompare(b.title));
-    if (sort === 'date') vids.sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
-    return vids;
-  }, [activeTab, allVideos, channelVideos, search, sort]);
+    const sortFn = (a: YouTubeVideo, b: YouTubeVideo) => {
+      if (sort === 'views') return parseInt(b.viewCount) - parseInt(a.viewCount);
+      if (sort === 'alpha') return a.title.localeCompare(b.title);
+      return new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime();
+    };
+
+    const full = vids.filter(v => !v.isShort).sort(sortFn);
+    const short = vids.filter(v => v.isShort).sort(sortFn);
+    return { fullVideos: full, shorts: short };
+  }, [activeChannel, allVideos, channelVideos, search, sort]);
 
   const getChannelColor = (video: YouTubeVideo) => {
     const slug = getSlugFromChannelId(video.channelId);
-    const meta = channelMeta.find(c => c.slug === slug);
-    return meta?.color || '#8b5cf6';
+    return channelMeta.find(c => c.slug === slug)?.color || '#8b5cf6';
   };
 
   const getChannelName = (video: YouTubeVideo) => {
     const slug = getSlugFromChannelId(video.channelId);
-    const meta = channelMeta.find(c => c.slug === slug);
-    return meta?.name || video.channelTitle;
+    return channelMeta.find(c => c.slug === slug)?.name || video.channelTitle;
   };
 
   return (
@@ -64,18 +68,18 @@ export default function ContentHub({ allVideos, channelVideos, loading, channels
         <SectionHeader
           label="Content Hub"
           title="VIDEO VAULT"
-          subtitle="Browse, search, and watch across all Mythras channels. Every video, stream, short, and clip in one place."
+          subtitle="Browse, search, and watch across all Mythras channels. Full videos featured first, shorts below."
         />
 
         {/* Controls */}
-        <div className="flex flex-col md:flex-row items-start md:items-center gap-4 mb-8">
+        <div className="flex flex-col md:flex-row items-start md:items-center gap-4 mb-10">
           <div className="flex gap-1.5 p-1 rounded-xl bg-[#111118] border border-white/5 overflow-x-auto max-w-full">
-            {tabs.map(tab => (
+            {channelTabs.map(tab => (
               <button
                 key={tab.id}
-                onClick={() => setActiveTab(tab.id)}
+                onClick={() => setActiveChannel(tab.id)}
                 className={`px-3 md:px-4 py-2 rounded-lg text-xs font-semibold whitespace-nowrap transition-all ${
-                  activeTab === tab.id
+                  activeChannel === tab.id
                     ? 'bg-[#8b5cf6] text-white shadow-lg shadow-[#8b5cf6]/20'
                     : 'text-[#888898] hover:text-white hover:bg-white/5'
                 }`}
@@ -108,7 +112,7 @@ export default function ContentHub({ allVideos, channelVideos, loading, channels
           </select>
         </div>
 
-        {/* Loading state */}
+        {/* Loading */}
         {loading && (
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
             {Array.from({ length: 8 }).map((_, i) => (
@@ -124,68 +128,63 @@ export default function ContentHub({ allVideos, channelVideos, loading, channels
           </div>
         )}
 
-        {/* Grid */}
-        {!loading && (
-          <motion.div layout className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
-            <AnimatePresence mode="popLayout">
-              {filtered.map((video, i) => (
-                <motion.div
-                  key={video.id}
-                  layout
-                  initial={{ opacity: 0, scale: 0.95 }}
-                  animate={{ opacity: 1, scale: 1 }}
-                  exit={{ opacity: 0, scale: 0.95 }}
-                  transition={{ duration: 0.3, delay: Math.min(i * 0.03, 0.3) }}
-                  onClick={() => setModalVideo(video)}
-                  className="group cursor-pointer"
-                >
-                  <div className="rounded-xl glass-panel overflow-hidden hover:border-[#8b5cf6]/20 transition-all duration-300">
-                    <div className="relative aspect-video bg-[#111118] overflow-hidden">
-                      {/* eslint-disable-next-line @next/next/no-img-element */}
-                      <img
-                        src={video.thumbnail}
-                        alt={video.title}
-                        className="absolute inset-0 w-full h-full object-cover opacity-60 group-hover:opacity-80 group-hover:scale-105 transition-all duration-500"
-                        loading="lazy"
-                      />
-                      <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
-                        <div className="w-10 h-10 rounded-full bg-[#8b5cf6]/80 flex items-center justify-center">
-                          <svg className="w-4 h-4 text-white ml-0.5" fill="currentColor" viewBox="0 0 24 24">
-                            <path d="M8 5v14l11-7z" />
-                          </svg>
-                        </div>
-                      </div>
-                      <div className="absolute bottom-2 right-2 px-1.5 py-0.5 rounded bg-black/70 text-[10px] font-mono text-white">
-                        {parseDuration(video.duration)}
-                      </div>
-                      {video.isShort && (
-                        <div className="absolute top-2 left-2 px-2 py-0.5 rounded bg-[#06b6d4]/90 text-[10px] font-bold text-white">SHORT</div>
-                      )}
-                      {video.isLive && (
-                        <div className="absolute top-2 left-2 px-2 py-0.5 rounded bg-red-500/90 text-[10px] font-bold text-white animate-pulse-glow">LIVE</div>
-                      )}
-                    </div>
-                    <div className="p-4">
-                      <span className="text-[10px] font-semibold" style={{ color: getChannelColor(video) }}>
-                        {getChannelName(video)}
-                      </span>
-                      <h4 className="text-sm font-semibold leading-snug mt-1 line-clamp-2 group-hover:text-[#8b5cf6] transition-colors">
-                        {video.title}
-                      </h4>
-                      <div className="flex items-center gap-2 mt-2.5 text-[10px] text-[#55556a]">
-                        <span>{formatCount(video.viewCount)} views</span>
-                        <span>•</span>
-                        <span>{formatRelativeDate(video.publishedAt)}</span>
-                      </div>
-                    </div>
-                  </div>
-                </motion.div>
-              ))}
-            </AnimatePresence>
-          </motion.div>
+        {/* === FULL VIDEOS SECTION === */}
+        {!loading && fullVideos.length > 0 && (
+          <div className="mb-16">
+            <div className="flex items-center gap-3 mb-6">
+              <div className="w-1.5 h-6 rounded-full bg-[#8b5cf6]" />
+              <h3 className="text-xl md:text-2xl font-bold tracking-tight" style={{ fontFamily: 'var(--font-display)' }}>
+                FULL VIDEOS
+              </h3>
+              <span className="text-xs text-[#55556a] ml-2">({fullVideos.length})</span>
+            </div>
+
+            <motion.div layout className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
+              <AnimatePresence mode="popLayout">
+                {fullVideos.map((video, i) => (
+                  <VideoCard
+                    key={video.id}
+                    video={video}
+                    index={i}
+                    getChannelColor={getChannelColor}
+                    getChannelName={getChannelName}
+                    onClick={() => setModalVideo(video)}
+                  />
+                ))}
+              </AnimatePresence>
+            </motion.div>
+          </div>
         )}
 
-        {!loading && filtered.length === 0 && (
+        {/* === SHORTS SECTION === */}
+        {!loading && shorts.length > 0 && (
+          <div>
+            <div className="flex items-center gap-3 mb-6">
+              <div className="w-1.5 h-6 rounded-full bg-[#06b6d4]" />
+              <h3 className="text-xl md:text-2xl font-bold tracking-tight" style={{ fontFamily: 'var(--font-display)' }}>
+                SHORTS &amp; CLIPS
+              </h3>
+              <span className="text-xs text-[#55556a] ml-2">({shorts.length})</span>
+            </div>
+
+            <motion.div layout className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-3">
+              <AnimatePresence mode="popLayout">
+                {shorts.map((video, i) => (
+                  <ShortCard
+                    key={video.id}
+                    video={video}
+                    index={i}
+                    getChannelColor={getChannelColor}
+                    getChannelName={getChannelName}
+                    onClick={() => setModalVideo(video)}
+                  />
+                ))}
+              </AnimatePresence>
+            </motion.div>
+          </div>
+        )}
+
+        {!loading && fullVideos.length === 0 && shorts.length === 0 && (
           <div className="text-center py-20">
             <p className="text-[#55556a] text-lg">No videos found matching your search.</p>
           </div>
@@ -242,5 +241,140 @@ export default function ContentHub({ allVideos, channelVideos, loading, channels
         )}
       </AnimatePresence>
     </section>
+  );
+}
+
+// Full video card — larger, more detail
+function VideoCard({
+  video,
+  index,
+  getChannelColor,
+  getChannelName,
+  onClick,
+}: {
+  video: YouTubeVideo;
+  index: number;
+  getChannelColor: (v: YouTubeVideo) => string;
+  getChannelName: (v: YouTubeVideo) => string;
+  onClick: () => void;
+}) {
+  return (
+    <motion.div
+      layout
+      initial={{ opacity: 0, scale: 0.95 }}
+      animate={{ opacity: 1, scale: 1 }}
+      exit={{ opacity: 0, scale: 0.95 }}
+      transition={{ duration: 0.3, delay: Math.min(index * 0.03, 0.3) }}
+      onClick={onClick}
+      className="group cursor-pointer"
+    >
+      <div className="rounded-xl glass-panel overflow-hidden hover:border-[#8b5cf6]/20 transition-all duration-300">
+        <div className="relative aspect-video bg-[#111118] overflow-hidden">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src={video.thumbnail}
+            alt={video.title}
+            className="absolute inset-0 w-full h-full object-cover opacity-60 group-hover:opacity-80 group-hover:scale-105 transition-all duration-500"
+            loading="lazy"
+          />
+          <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
+            <div className="w-12 h-12 rounded-full bg-[#8b5cf6]/80 flex items-center justify-center backdrop-blur-sm">
+              <svg className="w-5 h-5 text-white ml-0.5" fill="currentColor" viewBox="0 0 24 24">
+                <path d="M8 5v14l11-7z" />
+              </svg>
+            </div>
+          </div>
+          <div className="absolute bottom-2 right-2 px-2 py-0.5 rounded bg-black/80 text-[11px] font-mono text-white">
+            {parseDuration(video.duration)}
+          </div>
+          {video.isLive && (
+            <div className="absolute top-2 left-2 px-2 py-0.5 rounded bg-red-500/90 text-[10px] font-bold text-white animate-pulse-glow">LIVE</div>
+          )}
+          {/* Channel color accent line */}
+          <div className="absolute bottom-0 left-0 right-0 h-[2px] opacity-0 group-hover:opacity-100 transition-opacity" style={{ backgroundColor: getChannelColor(video) }} />
+        </div>
+        <div className="p-4">
+          <div className="flex items-center gap-2 mb-1.5">
+            <span className="w-1.5 h-1.5 rounded-full" style={{ backgroundColor: getChannelColor(video) }} />
+            <span className="text-[10px] font-semibold" style={{ color: getChannelColor(video) }}>
+              {getChannelName(video)}
+            </span>
+          </div>
+          <h4 className="text-sm font-semibold leading-snug line-clamp-2 group-hover:text-white transition-colors">
+            {video.title}
+          </h4>
+          <div className="flex items-center gap-2 mt-2.5 text-[10px] text-[#55556a]">
+            <span>{formatCount(video.viewCount)} views</span>
+            <span>•</span>
+            <span>{formatRelativeDate(video.publishedAt)}</span>
+          </div>
+        </div>
+      </div>
+    </motion.div>
+  );
+}
+
+// Short card — compact, portrait-feel
+function ShortCard({
+  video,
+  index,
+  getChannelColor,
+  getChannelName,
+  onClick,
+}: {
+  video: YouTubeVideo;
+  index: number;
+  getChannelColor: (v: YouTubeVideo) => string;
+  getChannelName: (v: YouTubeVideo) => string;
+  onClick: () => void;
+}) {
+  return (
+    <motion.div
+      layout
+      initial={{ opacity: 0, scale: 0.95 }}
+      animate={{ opacity: 1, scale: 1 }}
+      exit={{ opacity: 0, scale: 0.95 }}
+      transition={{ duration: 0.25, delay: Math.min(index * 0.02, 0.2) }}
+      onClick={onClick}
+      className="group cursor-pointer"
+    >
+      <div className="rounded-xl glass-panel overflow-hidden hover:border-[#06b6d4]/20 transition-all duration-300">
+        <div className="relative aspect-[9/16] bg-[#111118] overflow-hidden max-h-[200px]">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src={video.thumbnail}
+            alt={video.title}
+            className="absolute inset-0 w-full h-full object-cover opacity-50 group-hover:opacity-70 group-hover:scale-110 transition-all duration-500"
+            loading="lazy"
+          />
+          <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />
+          <div className="absolute top-1.5 left-1.5 px-1.5 py-0.5 rounded bg-[#06b6d4]/90 text-[8px] font-bold text-white tracking-wider">
+            SHORT
+          </div>
+          <div className="absolute bottom-1.5 right-1.5 px-1.5 py-0.5 rounded bg-black/70 text-[9px] font-mono text-white">
+            {parseDuration(video.duration)}
+          </div>
+          {/* Play on hover */}
+          <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
+            <div className="w-8 h-8 rounded-full bg-[#06b6d4]/80 flex items-center justify-center">
+              <svg className="w-3 h-3 text-white ml-0.5" fill="currentColor" viewBox="0 0 24 24">
+                <path d="M8 5v14l11-7z" />
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div className="p-2.5">
+          <h4 className="text-[11px] font-semibold leading-snug line-clamp-2 group-hover:text-[#06b6d4] transition-colors">
+            {video.title}
+          </h4>
+          <div className="flex items-center gap-1 mt-1.5 text-[9px] text-[#55556a]">
+            <span className="w-1 h-1 rounded-full" style={{ backgroundColor: getChannelColor(video) }} />
+            <span>{getChannelName(video)}</span>
+            <span>•</span>
+            <span>{formatCount(video.viewCount)}</span>
+          </div>
+        </div>
+      </div>
+    </motion.div>
   );
 }

@@ -54,7 +54,7 @@ export const channels: Channel[] = [
     name: 'CookieRun Mythras',
     slug: 'cookierun',
     tagline: 'Top-tier CookieRun Kingdom strategy & content',
-    description: 'The flagship channel delivering elite CookieRun Kingdom content — tier lists, meta analysis, arena strategies, and guild war breakdowns. Where cookies become champions.',
+    description: 'The flagship channel delivering elite CookieRun Kingdom content — tier lists, meta analysis, arena strategies, and alliance war breakdowns. Where cookies become champions.',
     icon: '🍪',
     color: '#f97316',
     accentGradient: 'from-orange-500 to-amber-500',
@@ -309,7 +309,7 @@ export const mockSocialFeed: SocialPost[] = [
   {
     id: 's7',
     platform: 'discord',
-    content: 'Guild Wars team sign-ups are open! Check #guild-wars for details.',
+    content: 'Alliance Wars team sign-ups are open! Check #alliance-wars for details.',
     date: '4 days ago',
     type: 'event',
   },
@@ -370,7 +370,7 @@ export const mockSchedule: ScheduleItem[] = [
   },
   {
     id: 'sch6',
-    title: 'CookieRun Guild Wars Live',
+    title: 'CookieRun Alliance Wars Live',
     date: 'Saturday',
     time: '3:00 PM CST',
     platform: 'Twitch',

@@ -44,12 +44,12 @@ export default function Hero() {
             transition={{ duration: 0.8, ease: 'easeOut' }}
             className="relative mb-8"
           >
-            <div className="relative w-28 h-28 md:w-36 md:h-36 rounded-full overflow-hidden border-2 border-[#8b5cf6]/40">
+            <div className="relative w-28 h-28 md:w-36 md:h-36 rounded-full overflow-hidden border-2 animate-border-loop bg-transparent">
               <Image
                 src="/images/mythras-logo.png"
                 alt="Mythras"
                 fill
-                className="object-cover"
+                className="object-cover logo-white"
                 priority
               />
             </div>

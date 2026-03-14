@@ -31,12 +31,12 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-16 md:h-20">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-3 group">
-            <div className="relative w-10 h-10 md:w-12 md:h-12 rounded-full overflow-hidden border-2 border-[#8b5cf6]/30 group-hover:border-[#8b5cf6] transition-colors">
+            <div className="relative w-10 h-10 md:w-12 md:h-12 rounded-full overflow-hidden border-2 border-white/20 group-hover:border-[#8b5cf6] transition-colors bg-transparent">
               <Image
                 src="/images/mythras-logo.png"
                 alt="Mythras"
                 fill
-                className="object-cover"
+                className="object-cover logo-white"
               />
             </div>
             <span
