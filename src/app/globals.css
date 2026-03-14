@@ -33,7 +33,7 @@
   }
 
   body {
-    background-color: var(--color-obsidian);
+    background-color: transparent;
     color: var(--color-text-primary);
     font-family: var(--font-body);
     overflow-x: hidden;

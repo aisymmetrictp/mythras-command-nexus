@@ -9,6 +9,7 @@ import SectionHeader from '@/components/SectionHeader';
 import { channels } from '@/data/mockData';
 import { useChannelData } from '@/lib/useYouTubeData';
 import { parseDuration, formatCount, formatRelativeDate, YouTubeVideo } from '@/lib/youtube';
+import ParticleField from '@/components/ParticleField';
 
 const tabs = [
   { id: 'all', label: 'All' },
@@ -60,12 +61,32 @@ export default function ChannelPageClient({ slug }: { slug: string }) {
 
   return (
     <>
+      {/* Fixed full-page Dark Loop vortex background */}
+      <div className="fixed inset-0 z-0 pointer-events-none">
+        <div className="absolute inset-0 bg-[#060610]" />
+        <div
+          className="absolute inset-0 opacity-20"
+          style={{
+            background: 'radial-gradient(ellipse at 30% 20%, rgba(212, 168, 83, 0.1) 0%, transparent 50%), radial-gradient(ellipse at 70% 80%, rgba(255, 255, 255, 0.04) 0%, transparent 50%)',
+          }}
+        />
+        <div
+          className="absolute inset-0 opacity-[0.02]"
+          style={{
+            backgroundImage: 'linear-gradient(rgba(212, 168, 83, 0.15) 1px, transparent 1px), linear-gradient(90deg, rgba(212, 168, 83, 0.15) 1px, transparent 1px)',
+            backgroundSize: '60px 60px',
+          }}
+        />
+        <ParticleField />
+      </div>
+
+      <div className="relative z-10">
       <Navbar />
       <main className="min-h-screen">
         {/* Channel Hero */}
         <section className="relative pt-28 pb-16 md:pt-36 md:pb-20 overflow-hidden">
           <div className="absolute inset-0">
-            <div className="absolute inset-0 bg-gradient-to-b from-[#060610] via-[#0c0c18] to-[#060610]" />
+            <div className="absolute inset-0 bg-gradient-to-b from-[#060610]/60 via-[#0c0c18]/40 to-[#060610]/60" />
             <div className="absolute inset-0 opacity-20" style={{ background: `radial-gradient(ellipse at 50% 30%, ${color}20 0%, transparent 60%)` }} />
             <div className="absolute inset-0 opacity-[0.02]" style={{
               backgroundImage: 'linear-gradient(rgba(255,255,255,0.1) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.1) 1px, transparent 1px)',
@@ -264,6 +285,7 @@ export default function ChannelPageClient({ slug }: { slug: string }) {
         )}
       </AnimatePresence>
       <Footer />
+      </div>
     </>
   );
 }

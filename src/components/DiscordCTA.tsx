@@ -13,7 +13,7 @@ export default function DiscordCTA() {
           className="relative rounded-3xl overflow-hidden"
         >
           {/* Background */}
-          <div className="absolute inset-0 bg-gradient-to-br from-[#5865F2]/20 via-[#111118] to-[#8b5cf6]/10" />
+          <div className="absolute inset-0 bg-gradient-to-br from-[#5865F2]/20 via-[#111118]/80 to-[#8b5cf6]/10" />
           <div
             className="absolute inset-0 opacity-[0.03]"
             style={{

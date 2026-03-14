@@ -2,29 +2,13 @@
 
 import { motion } from 'framer-motion';
 import Image from 'next/image';
-import ParticleField from './ParticleField';
 
 export default function Hero() {
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
-      {/* Dark background with gold-tinted radials */}
+      {/* Local Hero overlay — vortex lives at page level */}
       <div className="absolute inset-0 z-0">
-        <div className="absolute inset-0 bg-gradient-to-b from-[#060610] via-[#0c0c18] to-[#060610]" />
-        <div
-          className="absolute inset-0 opacity-30"
-          style={{
-            background: 'radial-gradient(ellipse at 30% 20%, rgba(212, 168, 83, 0.1) 0%, transparent 50%), radial-gradient(ellipse at 70% 80%, rgba(255, 255, 255, 0.04) 0%, transparent 50%)',
-          }}
-        />
-        {/* Grid overlay */}
-        <div
-          className="absolute inset-0 opacity-[0.02]"
-          style={{
-            backgroundImage: 'linear-gradient(rgba(212, 168, 83, 0.15) 1px, transparent 1px), linear-gradient(90deg, rgba(212, 168, 83, 0.15) 1px, transparent 1px)',
-            backgroundSize: '60px 60px',
-          }}
-        />
-        <ParticleField />
+        <div className="absolute inset-0 bg-gradient-to-b from-transparent via-[#060610]/30 to-[#060610]/80" />
         {/* Scan line */}
         <div className="absolute inset-0 overflow-hidden pointer-events-none">
           <div
