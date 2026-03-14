@@ -6,24 +6,23 @@ import { channels } from '@/data/mockData';
 
 export default function Footer() {
   return (
-    <footer className="relative border-t border-white/5">
+    <footer className="relative border-t border-[#D4A853]/10">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 py-12 md:py-16">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10 mb-12">
-          {/* Brand */}
           <div className="md:col-span-1">
             <Link href="/" className="flex items-center gap-3 mb-4">
-              <div className="relative w-10 h-10 rounded-full overflow-hidden border border-white/20 bg-transparent">
-                <Image src="/images/mythras-logo.png" alt="Mythras" fill className="object-cover logo-white" />
+              <div className="relative w-10 h-10 rounded-full overflow-hidden border border-[#D4A853]/30 bg-[#060610]">
+                <Image src="/images/mythras-logo-new.png" alt="Mythras" fill className="object-cover" />
               </div>
               <span className="text-xl font-bold tracking-wider text-gradient" style={{ fontFamily: 'var(--font-display)' }}>
                 MYTHRAS
               </span>
             </Link>
             <p className="text-sm text-[#55556a] leading-relaxed mb-4">
-              Elite gaming ecosystem. Streams, strategy, and community across multiple channels and platforms.
+              Elite gaming ecosystem. Streams, strategy, and community across the Mythras Multiverse.
             </p>
             <div className="flex gap-3">
-              <SocialIcon href="https://www.youtube.com/@gamertagmythras" label="YouTube">
+              <SocialIcon href="https://www.youtube.com/channel/UCGp83Usm4riRWlAYa9F2diQ" label="YouTube">
                 <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z" /></svg>
               </SocialIcon>
               <SocialIcon href="https://www.twitch.tv/3mythras3" label="Twitch">
@@ -38,13 +37,12 @@ export default function Footer() {
             </div>
           </div>
 
-          {/* Channels */}
           <div>
-            <h4 className="text-sm font-bold mb-4">Channels</h4>
+            <h4 className="text-sm font-bold mb-4 text-[#D4A853]">Channels</h4>
             <ul className="space-y-2.5">
               {channels.map(c => (
                 <li key={c.slug}>
-                  <Link href={`/channels/${c.slug}`} className="text-sm text-[#888898] hover:text-white transition-colors flex items-center gap-2">
+                  <Link href={`/channels/${c.slug}`} className="text-sm text-[#9999aa] hover:text-white transition-colors flex items-center gap-2">
                     <span>{c.icon}</span> {c.name}
                   </Link>
                 </li>
@@ -52,36 +50,33 @@ export default function Footer() {
             </ul>
           </div>
 
-          {/* Platform Links */}
           <div>
-            <h4 className="text-sm font-bold mb-4">Platforms</h4>
+            <h4 className="text-sm font-bold mb-4 text-[#D4A853]">Platforms</h4>
             <ul className="space-y-2.5">
-              <li><a href="https://www.youtube.com/@gamertagmythras" target="_blank" rel="noopener noreferrer" className="text-sm text-[#888898] hover:text-white transition-colors">YouTube</a></li>
-              <li><a href="https://www.twitch.tv/3mythras3" target="_blank" rel="noopener noreferrer" className="text-sm text-[#888898] hover:text-white transition-colors">Twitch</a></li>
-              <li><a href="https://discord.gg/mFg8mbxtTS" target="_blank" rel="noopener noreferrer" className="text-sm text-[#888898] hover:text-white transition-colors">Discord</a></li>
-              <li><a href="https://twitter.com/MythrasCookie" target="_blank" rel="noopener noreferrer" className="text-sm text-[#888898] hover:text-white transition-colors">Twitter / X</a></li>
+              <li><a href="https://www.youtube.com/channel/UCGp83Usm4riRWlAYa9F2diQ" target="_blank" rel="noopener noreferrer" className="text-sm text-[#9999aa] hover:text-white transition-colors">YouTube</a></li>
+              <li><a href="https://www.twitch.tv/3mythras3" target="_blank" rel="noopener noreferrer" className="text-sm text-[#9999aa] hover:text-white transition-colors">Twitch</a></li>
+              <li><a href="https://discord.gg/mFg8mbxtTS" target="_blank" rel="noopener noreferrer" className="text-sm text-[#9999aa] hover:text-white transition-colors">Discord</a></li>
+              <li><a href="https://twitter.com/MythrasCookie" target="_blank" rel="noopener noreferrer" className="text-sm text-[#9999aa] hover:text-white transition-colors">Twitter / X</a></li>
             </ul>
           </div>
 
-          {/* Quick Links */}
           <div>
-            <h4 className="text-sm font-bold mb-4">Quick Links</h4>
+            <h4 className="text-sm font-bold mb-4 text-[#D4A853]">Quick Links</h4>
             <ul className="space-y-2.5">
-              <li><Link href="/#content-hub" className="text-sm text-[#888898] hover:text-white transition-colors">Video Vault</Link></li>
-              <li><Link href="/#schedule" className="text-sm text-[#888898] hover:text-white transition-colors">Stream Schedule</Link></li>
-              <li><Link href="/#community" className="text-sm text-[#888898] hover:text-white transition-colors">Community</Link></li>
-              <li><a href="https://discord.gg/mFg8mbxtTS" target="_blank" rel="noopener noreferrer" className="text-sm text-[#888898] hover:text-white transition-colors">Join Discord</a></li>
+              <li><Link href="/#content-hub" className="text-sm text-[#9999aa] hover:text-white transition-colors">Video Vault</Link></li>
+              <li><Link href="/#schedule" className="text-sm text-[#9999aa] hover:text-white transition-colors">Stream Schedule</Link></li>
+              <li><Link href="/#community" className="text-sm text-[#9999aa] hover:text-white transition-colors">Community</Link></li>
+              <li><a href="https://discord.gg/mFg8mbxtTS" target="_blank" rel="noopener noreferrer" className="text-sm text-[#9999aa] hover:text-white transition-colors">Join Discord</a></li>
             </ul>
           </div>
         </div>
 
-        {/* Bottom bar */}
-        <div className="border-t border-white/5 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
+        <div className="border-t border-[#D4A853]/10 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-xs text-[#55556a]">
             &copy; {new Date().getFullYear()} Mythras. All rights reserved.
           </p>
-          <p className="text-xs text-[#55556a]">
-            Mythras // Command Nexus — Elite Gameplay. Live Energy. Full Ecosystem.
+          <p className="text-xs text-[#D4A853]/40">
+            Mythras // The Multiverse — Elite Gameplay. Live Energy. Full Ecosystem.
           </p>
         </div>
       </div>
@@ -96,7 +91,7 @@ function SocialIcon({ href, label, children }: { href: string; label: string; ch
       target="_blank"
       rel="noopener noreferrer"
       aria-label={label}
-      className="w-9 h-9 rounded-lg bg-white/5 flex items-center justify-center text-[#888898] hover:text-white hover:bg-white/10 transition-all"
+      className="w-9 h-9 rounded-lg bg-[#D4A853]/5 flex items-center justify-center text-[#9999aa] hover:text-[#D4A853] hover:bg-[#D4A853]/10 transition-all"
     >
       {children}
     </a>

@@ -2,11 +2,11 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Mythras // Command Nexus — Streams. Clips. Strategy.",
-  description: "The ultimate gaming command center for Mythras. YouTube, Twitch, Discord — all channels, one elite hub. CookieRun, MTG, Pokemon, Lorcana, and more.",
-  keywords: "Mythras, gaming, streams, YouTube, Twitch, CookieRun, MTG, Pokemon, Lorcana",
+  title: "Mythras // The Multiverse — Streams. Strategy. Community.",
+  description: "The ultimate gaming multiverse for Mythras. YouTube, Twitch, Discord — all channels, one elite hub. CookieRun, MTG, Pokemon, Lorcana, and more.",
+  keywords: "Mythras, gaming, streams, YouTube, Twitch, CookieRun, MTG, Pokemon, Lorcana, Multiverse",
   openGraph: {
-    title: "Mythras // Command Nexus",
+    title: "Mythras // The Multiverse",
     description: "Elite Gameplay. Live Energy. Full Ecosystem.",
     type: "website",
     url: "https://gamertagmythras.com",

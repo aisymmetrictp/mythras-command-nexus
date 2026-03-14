@@ -7,28 +7,28 @@ import ParticleField from './ParticleField';
 export default function Hero() {
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
-      {/* Animated gradient background */}
+      {/* Dark background with gold-tinted radials */}
       <div className="absolute inset-0 z-0">
-        <div className="absolute inset-0 bg-gradient-to-b from-[#0a0a0f] via-[#111118] to-[#0a0a0f]" />
+        <div className="absolute inset-0 bg-gradient-to-b from-[#060610] via-[#0c0c18] to-[#060610]" />
         <div
           className="absolute inset-0 opacity-30"
           style={{
-            background: 'radial-gradient(ellipse at 30% 20%, rgba(139, 92, 246, 0.15) 0%, transparent 50%), radial-gradient(ellipse at 70% 80%, rgba(6, 182, 212, 0.1) 0%, transparent 50%)',
+            background: 'radial-gradient(ellipse at 30% 20%, rgba(212, 168, 83, 0.1) 0%, transparent 50%), radial-gradient(ellipse at 70% 80%, rgba(255, 255, 255, 0.04) 0%, transparent 50%)',
           }}
         />
         {/* Grid overlay */}
         <div
-          className="absolute inset-0 opacity-[0.03]"
+          className="absolute inset-0 opacity-[0.02]"
           style={{
-            backgroundImage: 'linear-gradient(rgba(255,255,255,0.1) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.1) 1px, transparent 1px)',
+            backgroundImage: 'linear-gradient(rgba(212, 168, 83, 0.15) 1px, transparent 1px), linear-gradient(90deg, rgba(212, 168, 83, 0.15) 1px, transparent 1px)',
             backgroundSize: '60px 60px',
           }}
         />
         <ParticleField />
-        {/* Scan line effect */}
+        {/* Scan line */}
         <div className="absolute inset-0 overflow-hidden pointer-events-none">
           <div
-            className="absolute left-0 right-0 h-[2px] bg-gradient-to-r from-transparent via-[#8b5cf6]/20 to-transparent animate-float"
+            className="absolute left-0 right-0 h-[2px] bg-gradient-to-r from-transparent via-[#D4A853]/15 to-transparent animate-float"
             style={{ top: '30%' }}
           />
         </div>
@@ -44,16 +44,16 @@ export default function Hero() {
             transition={{ duration: 0.8, ease: 'easeOut' }}
             className="relative mb-8"
           >
-            <div className="relative w-28 h-28 md:w-36 md:h-36 rounded-full overflow-hidden border-2 animate-border-loop bg-transparent">
+            <div className="relative w-32 h-32 md:w-40 md:h-40 rounded-full overflow-hidden border-2 animate-border-loop bg-[#060610]">
               <Image
-                src="/images/mythras-logo.png"
+                src="/images/mythras-logo-new.png"
                 alt="Mythras"
                 fill
-                className="object-cover logo-white"
+                className="object-cover"
                 priority
               />
             </div>
-            <div className="absolute inset-0 rounded-full bg-[#8b5cf6]/10 blur-xl animate-pulse-glow" />
+            <div className="absolute inset-0 rounded-full bg-[#D4A853]/10 blur-xl animate-pulse-glow" />
           </motion.div>
 
           {/* Title */}
@@ -72,10 +72,10 @@ export default function Hero() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.4 }}
-            className="text-lg md:text-xl tracking-[0.3em] uppercase text-[#888898] font-light mb-2"
+            className="text-lg md:text-xl tracking-[0.3em] uppercase text-white/60 font-light mb-2"
             style={{ fontFamily: 'var(--font-display)' }}
           >
-            COMMAND NEXUS
+            THE MULTIVERSE
           </motion.p>
 
           <motion.p
@@ -84,7 +84,7 @@ export default function Hero() {
             transition={{ duration: 0.6, delay: 0.5 }}
             className="text-base md:text-lg text-[#55556a] max-w-md mb-10"
           >
-            Streams. Clips. Strategy. Mythras.
+            Streams. Strategy. Community. One Universe.
           </motion.p>
 
           {/* CTAs */}
@@ -95,7 +95,7 @@ export default function Hero() {
             className="flex flex-wrap items-center justify-center gap-3 md:gap-4 mb-10"
           >
             <CTAButton
-              href="https://www.youtube.com/@gamertagmythras"
+              href="https://www.youtube.com/channel/UCGp83Usm4riRWlAYa9F2diQ"
               label="YouTube"
               icon={<YoutubeIcon />}
               color="bg-red-600 hover:bg-red-700"
@@ -125,10 +125,10 @@ export default function Hero() {
             className="flex items-center gap-2 px-4 py-2 rounded-full glass-panel"
           >
             <span className="relative flex h-2 w-2">
-              <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-[#888898] opacity-50" />
-              <span className="relative inline-flex rounded-full h-2 w-2 bg-[#888898]" />
+              <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-[#9999aa] opacity-50" />
+              <span className="relative inline-flex rounded-full h-2 w-2 bg-[#9999aa]" />
             </span>
-            <span className="text-xs font-semibold tracking-wider text-[#888898] uppercase">
+            <span className="text-xs font-semibold tracking-wider text-[#9999aa] uppercase">
               Offline — Next Stream Incoming
             </span>
           </motion.div>
@@ -144,18 +144,18 @@ export default function Hero() {
           <motion.div
             animate={{ y: [0, 8, 0] }}
             transition={{ duration: 2, repeat: Infinity }}
-            className="w-5 h-8 rounded-full border-2 border-[#55556a]/50 flex justify-center pt-1.5"
+            className="w-5 h-8 rounded-full border-2 border-[#D4A853]/30 flex justify-center pt-1.5"
           >
-            <div className="w-1 h-1.5 rounded-full bg-[#8b5cf6]" />
+            <div className="w-1 h-1.5 rounded-full bg-[#D4A853]" />
           </motion.div>
         </motion.div>
       </div>
 
       {/* Scrolling marquee */}
-      <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-r from-[#8b5cf6]/5 via-[#06b6d4]/5 to-[#8b5cf6]/5 border-t border-b border-white/5 py-2 overflow-hidden">
+      <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-r from-[#D4A853]/5 via-white/[0.02] to-[#D4A853]/5 border-t border-b border-[#D4A853]/10 py-2 overflow-hidden">
         <div className="animate-marquee flex gap-8 whitespace-nowrap">
           {Array.from({ length: 2 }).map((_, i) => (
-            <div key={i} className="flex gap-8 text-xs font-medium tracking-wider text-[#55556a]">
+            <div key={i} className="flex gap-8 text-xs font-medium tracking-wider text-[#D4A853]/40">
               <span>🍪 COOKIERUN MYTHRAS</span>
               <span>•</span>
               <span>⚔️ GAMERTAG MYTHRAS</span>

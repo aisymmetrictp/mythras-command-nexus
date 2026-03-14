@@ -114,7 +114,7 @@ export default function SocialFeed({ allVideos }: SocialFeedProps) {
                       <span className="text-[#55556a]">•</span>
                       <span className="text-[10px] text-[#55556a]">{post.date}</span>
                     </div>
-                    <p className="text-sm text-[#888898] leading-relaxed group-hover:text-white/80 transition-colors">
+                    <p className="text-sm text-[#9999aa] leading-relaxed group-hover:text-white/80 transition-colors">
                       {post.content}
                     </p>
                   </div>

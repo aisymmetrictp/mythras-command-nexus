@@ -1,7 +1,6 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import Link from 'next/link';
 import { channels } from '@/data/mockData';
 import { YouTubeChannel, formatCount, CHANNEL_IDS, ChannelSlug } from '@/lib/youtube';
 import SectionHeader from './SectionHeader';
@@ -15,7 +14,7 @@ const platformCards = [
       </svg>
     ),
     color: '#ef4444',
-    href: 'https://www.youtube.com/@gamertagmythras',
+    href: 'https://www.youtube.com/channel/UCGp83Usm4riRWlAYa9F2diQ',
     status: '5 Channels Active',
     external: true,
   },
@@ -57,6 +56,15 @@ const platformCards = [
   },
 ];
 
+// Map slugs to YouTube channel URLs
+const channelYouTubeUrls: Record<string, string> = {
+  cookierun: 'https://www.youtube.com/channel/UCGp83Usm4riRWlAYa9F2diQ',
+  gamertag: 'https://www.youtube.com/channel/UCZwCXcKKgjxNDSe9mY1_TWQ',
+  'mythras-gaming': 'https://www.youtube.com/channel/UC-tDHOeoDgUaXxIkQBFffAg',
+  pokemon: 'https://www.youtube.com/channel/UCwI4EHyFi-z8Nrxh4ckr47Q',
+  lorcana: 'https://www.youtube.com/channel/UCfvLejQsZnBEtQsn5h0SD3Q',
+};
+
 interface ChannelDeckProps {
   ytChannels?: Map<string, YouTubeChannel>;
 }
@@ -65,12 +73,12 @@ export default function ChannelDeck({ ytChannels }: ChannelDeckProps) {
   return (
     <section className="relative py-20 md:py-28">
       {/* Background accent */}
-      <div className="absolute inset-0 bg-gradient-to-b from-transparent via-[#8b5cf6]/[0.02] to-transparent" />
+      <div className="absolute inset-0 bg-gradient-to-b from-transparent via-[#D4A853]/[0.02] to-transparent" />
 
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6">
         <SectionHeader
           label="Control Deck"
-          title="MULTI-CHANNEL HQ"
+          title="THE MULTIVERSE"
           subtitle="Your command center for the entire Mythras ecosystem. Every platform, every channel, one hub."
           align="center"
         />
@@ -88,7 +96,7 @@ export default function ChannelDeck({ ytChannels }: ChannelDeckProps) {
               viewport={{ once: true }}
               transition={{ duration: 0.4, delay: i * 0.08 }}
               whileHover={{ y: -4, scale: 1.02 }}
-              className="group relative p-5 md:p-6 rounded-2xl glass-panel hover:border-white/10 transition-all duration-300 cursor-pointer text-center"
+              className="group relative p-5 md:p-6 rounded-2xl glass-panel hover:border-[#D4A853]/15 transition-all duration-300 cursor-pointer text-center"
             >
               <div
                 className="w-12 h-12 mx-auto rounded-xl flex items-center justify-center mb-3 transition-all duration-300 group-hover:scale-110"
@@ -98,7 +106,6 @@ export default function ChannelDeck({ ytChannels }: ChannelDeckProps) {
               </div>
               <h3 className="font-bold text-sm mb-1">{card.name}</h3>
               <p className="text-[10px] text-[#55556a]">{card.status}</p>
-              {/* Hover glow */}
               <div
                 className="absolute inset-0 rounded-2xl opacity-0 group-hover:opacity-100 transition-opacity duration-500 pointer-events-none"
                 style={{ boxShadow: `0 0 30px ${card.color}10, inset 0 0 30px ${card.color}05` }}
@@ -107,7 +114,7 @@ export default function ChannelDeck({ ytChannels }: ChannelDeckProps) {
           ))}
         </div>
 
-        {/* Channel cards */}
+        {/* Channel cards — link to YouTube channels */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
           {channels.map((channel, i) => (
             <motion.div
@@ -117,10 +124,14 @@ export default function ChannelDeck({ ytChannels }: ChannelDeckProps) {
               viewport={{ once: true }}
               transition={{ duration: 0.4, delay: i * 0.08 }}
             >
-              <Link href={`/channels/${channel.slug}`}>
+              <a
+                href={channelYouTubeUrls[channel.slug] || `/channels/${channel.slug}`}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <motion.div
                   whileHover={{ y: -6, scale: 1.01 }}
-                  className="group relative p-6 rounded-2xl glass-panel hover:border-white/10 transition-all duration-500 cursor-pointer h-full"
+                  className="group relative p-6 rounded-2xl glass-panel hover:border-[#D4A853]/15 transition-all duration-500 cursor-pointer h-full"
                 >
                   {/* Top accent line */}
                   <div
@@ -143,7 +154,7 @@ export default function ChannelDeck({ ytChannels }: ChannelDeckProps) {
                     </div>
                   </div>
 
-                  <p className="text-sm text-[#888898] leading-relaxed mb-4 line-clamp-2">
+                  <p className="text-sm text-[#9999aa] leading-relaxed mb-4 line-clamp-2">
                     {channel.tagline}
                   </p>
 
@@ -176,7 +187,7 @@ export default function ChannelDeck({ ytChannels }: ChannelDeckProps) {
 
                   {/* Arrow */}
                   <div className="absolute top-6 right-6 opacity-0 group-hover:opacity-100 transition-all group-hover:translate-x-1">
-                    <svg className="w-4 h-4 text-[#888898]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <svg className="w-4 h-4 text-[#D4A853]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
                     </svg>
                   </div>
@@ -187,7 +198,7 @@ export default function ChannelDeck({ ytChannels }: ChannelDeckProps) {
                     style={{ boxShadow: `0 0 40px ${channel.color}08, inset 0 0 40px ${channel.color}03` }}
                   />
                 </motion.div>
-              </Link>
+              </a>
             </motion.div>
           ))}
         </div>

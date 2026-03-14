@@ -1,23 +1,26 @@
 @import "tailwindcss";
 
 @theme {
-  --color-obsidian: #0a0a0f;
-  --color-graphite: #111118;
-  --color-carbon: #18181f;
-  --color-slate-dark: #1c1c24;
-  --color-slate-mid: #252530;
+  --color-obsidian: #060610;
+  --color-graphite: #0c0c18;
+  --color-carbon: #10101c;
+  --color-slate-dark: #151522;
+  --color-slate-mid: #1e1e30;
+  --color-royal-gold: #D4A853;
+  --color-bright-gold: #F0C850;
+  --color-warm-gold: #E5B94E;
+  --color-deep-gold: #8B7536;
+  --color-pale-gold: #F0D68A;
   --color-neon-violet: #8b5cf6;
-  --color-neon-purple: #a855f7;
   --color-icy-cyan: #06b6d4;
   --color-crimson: #ef4444;
   --color-ember: #f97316;
-  --color-neon-gold: #eab308;
-  --color-text-primary: #f0f0f5;
-  --color-text-secondary: #888898;
+  --color-text-primary: #f5f5f7;
+  --color-text-secondary: #9999aa;
   --color-text-dim: #55556a;
-  --color-border-subtle: rgba(255, 255, 255, 0.07);
-  --color-border-glow: rgba(139, 92, 246, 0.3);
-  --color-glass: rgba(28, 28, 36, 0.8);
+  --color-border-subtle: rgba(212, 168, 83, 0.08);
+  --color-border-glow: rgba(212, 168, 83, 0.3);
+  --color-glass: rgba(12, 12, 24, 0.85);
   --color-glass-light: rgba(255, 255, 255, 0.03);
 
   --font-display: 'Bebas Neue', sans-serif;
@@ -37,7 +40,7 @@
   }
 
   ::selection {
-    background: rgba(139, 92, 246, 0.4);
+    background: rgba(212, 168, 83, 0.4);
     color: white;
   }
 
@@ -55,7 +58,7 @@
   }
 
   ::-webkit-scrollbar-thumb:hover {
-    background: var(--color-neon-violet);
+    background: var(--color-royal-gold);
   }
 }
 
@@ -80,6 +83,16 @@
   100% { transform: translateX(-50%); }
 }
 
+@keyframes spin-slow {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@keyframes vortex-pulse {
+  0%, 100% { opacity: 0.15; transform: scale(1); }
+  50% { opacity: 0.25; transform: scale(1.05); }
+}
+
 .animate-marquee {
   animation: marquee 30s linear infinite;
 }
@@ -92,33 +105,37 @@
   animation: float 6s ease-in-out infinite;
 }
 
+.animate-spin-slow {
+  animation: spin-slow 30s linear infinite;
+}
+
 .text-gradient {
-  background: linear-gradient(135deg, #8b5cf6, #06b6d4);
+  background: linear-gradient(135deg, #F0C850, #D4A853, #B8962E);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
 .text-gradient-warm {
-  background: linear-gradient(135deg, #f97316, #ef4444);
+  background: linear-gradient(135deg, #F0C850, #FFFFFF);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
 .glass-panel {
-  background: rgba(28, 28, 36, 0.8);
+  background: rgba(12, 12, 24, 0.85);
   backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
-  border: 1px solid rgba(255, 255, 255, 0.07);
+  border: 1px solid rgba(212, 168, 83, 0.08);
 }
 
-.glow-violet {
-  box-shadow: 0 0 20px rgba(139, 92, 246, 0.15), 0 0 60px rgba(139, 92, 246, 0.05);
+.glow-gold {
+  box-shadow: 0 0 20px rgba(212, 168, 83, 0.12), 0 0 60px rgba(212, 168, 83, 0.04);
 }
 
-.glow-cyan {
-  box-shadow: 0 0 20px rgba(6, 182, 212, 0.15), 0 0 60px rgba(6, 182, 212, 0.05);
+.glow-white {
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.08), 0 0 60px rgba(255, 255, 255, 0.03);
 }
 
 .line-clamp-2 {
@@ -135,23 +152,26 @@
   overflow: hidden;
 }
 
-.logo-white {
-  filter: invert(1) brightness(2);
-  opacity: 0.9;
-}
-
-.logo-white:hover {
-  opacity: 1;
-  filter: invert(1) brightness(2) drop-shadow(0 0 12px rgba(139, 92, 246, 0.4));
-}
-
 @keyframes border-loop {
-  0% { border-color: rgba(139, 92, 246, 0.3); }
-  33% { border-color: rgba(6, 182, 212, 0.3); }
-  66% { border-color: rgba(168, 85, 247, 0.3); }
-  100% { border-color: rgba(139, 92, 246, 0.3); }
+  0% { border-color: rgba(212, 168, 83, 0.4); }
+  33% { border-color: rgba(240, 200, 80, 0.3); }
+  66% { border-color: rgba(255, 255, 255, 0.2); }
+  100% { border-color: rgba(212, 168, 83, 0.4); }
 }
 
 .animate-border-loop {
   animation: border-loop 4s ease-in-out infinite;
+}
+
+/* Vortex background styles */
+.vortex-ring {
+  border: 1px solid rgba(212, 168, 83, 0.06);
+  border-radius: 50%;
+  position: absolute;
+  animation: spin-slow 30s linear infinite;
+}
+
+.vortex-ring:nth-child(even) {
+  animation-direction: reverse;
+  border-color: rgba(255, 255, 255, 0.04);
 }

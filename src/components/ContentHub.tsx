@@ -34,7 +34,6 @@ export default function ContentHub({ allVideos, channelVideos, loading, channels
   const [sort, setSort] = useState('date');
   const [modalVideo, setModalVideo] = useState<YouTubeVideo | null>(null);
 
-  // Split into full videos and shorts
   const { fullVideos, shorts } = useMemo(() => {
     let vids = activeChannel === 'all' ? [...allVideos] : [...(channelVideos.get(activeChannel) || [])];
     if (search) {
@@ -47,14 +46,14 @@ export default function ContentHub({ allVideos, channelVideos, loading, channels
       return new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime();
     };
 
-    const full = vids.filter(v => !v.isShort).sort(sortFn);
-    const short = vids.filter(v => v.isShort).sort(sortFn);
+    const full = vids.filter(v => !v.isShort).sort(sortFn).slice(0, 20);
+    const short = vids.filter(v => v.isShort).sort(sortFn).slice(0, 20);
     return { fullVideos: full, shorts: short };
   }, [activeChannel, allVideos, channelVideos, search, sort]);
 
   const getChannelColor = (video: YouTubeVideo) => {
     const slug = getSlugFromChannelId(video.channelId);
-    return channelMeta.find(c => c.slug === slug)?.color || '#8b5cf6';
+    return channelMeta.find(c => c.slug === slug)?.color || '#D4A853';
   };
 
   const getChannelName = (video: YouTubeVideo) => {
@@ -68,20 +67,20 @@ export default function ContentHub({ allVideos, channelVideos, loading, channels
         <SectionHeader
           label="Content Hub"
           title="VIDEO VAULT"
-          subtitle="Browse, search, and watch across all Mythras channels. Full videos featured first, shorts below."
+          subtitle="Browse and watch across all Mythras channels. Top 20 full videos featured first, shorts below."
         />
 
         {/* Controls */}
         <div className="flex flex-col md:flex-row items-start md:items-center gap-4 mb-10">
-          <div className="flex gap-1.5 p-1 rounded-xl bg-[#111118] border border-white/5 overflow-x-auto max-w-full">
+          <div className="flex gap-1.5 p-1 rounded-xl bg-[#0c0c18] border border-[#D4A853]/10 overflow-x-auto max-w-full">
             {channelTabs.map(tab => (
               <button
                 key={tab.id}
                 onClick={() => setActiveChannel(tab.id)}
                 className={`px-3 md:px-4 py-2 rounded-lg text-xs font-semibold whitespace-nowrap transition-all ${
                   activeChannel === tab.id
-                    ? 'bg-[#8b5cf6] text-white shadow-lg shadow-[#8b5cf6]/20'
-                    : 'text-[#888898] hover:text-white hover:bg-white/5'
+                    ? 'bg-[#D4A853] text-[#060610] shadow-lg shadow-[#D4A853]/20'
+                    : 'text-[#9999aa] hover:text-white hover:bg-white/5'
                 }`}
               >
                 {tab.label}
@@ -98,13 +97,13 @@ export default function ContentHub({ allVideos, channelVideos, loading, channels
               placeholder="Search videos..."
               value={search}
               onChange={e => setSearch(e.target.value)}
-              className="w-full pl-10 pr-4 py-2.5 rounded-xl bg-[#111118] border border-white/5 text-sm text-white placeholder-[#55556a] focus:outline-none focus:border-[#8b5cf6]/30 transition-colors"
+              className="w-full pl-10 pr-4 py-2.5 rounded-xl bg-[#0c0c18] border border-[#D4A853]/10 text-sm text-white placeholder-[#55556a] focus:outline-none focus:border-[#D4A853]/30 transition-colors"
             />
           </div>
           <select
             value={sort}
             onChange={e => setSort(e.target.value)}
-            className="px-4 py-2.5 rounded-xl bg-[#111118] border border-white/5 text-sm text-[#888898] focus:outline-none focus:border-[#8b5cf6]/30 cursor-pointer"
+            className="px-4 py-2.5 rounded-xl bg-[#0c0c18] border border-[#D4A853]/10 text-sm text-[#9999aa] focus:outline-none focus:border-[#D4A853]/30 cursor-pointer"
           >
             {sortOptions.map(opt => (
               <option key={opt.id} value={opt.id}>{opt.label}</option>
@@ -117,22 +116,22 @@ export default function ContentHub({ allVideos, channelVideos, loading, channels
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
             {Array.from({ length: 8 }).map((_, i) => (
               <div key={i} className="rounded-xl glass-panel overflow-hidden animate-pulse">
-                <div className="aspect-video bg-[#1c1c24]" />
+                <div className="aspect-video bg-[#151522]" />
                 <div className="p-4 space-y-2">
-                  <div className="h-3 bg-[#1c1c24] rounded w-1/3" />
-                  <div className="h-4 bg-[#1c1c24] rounded w-full" />
-                  <div className="h-3 bg-[#1c1c24] rounded w-2/3" />
+                  <div className="h-3 bg-[#151522] rounded w-1/3" />
+                  <div className="h-4 bg-[#151522] rounded w-full" />
+                  <div className="h-3 bg-[#151522] rounded w-2/3" />
                 </div>
               </div>
             ))}
           </div>
         )}
 
-        {/* === FULL VIDEOS SECTION === */}
+        {/* FULL VIDEOS */}
         {!loading && fullVideos.length > 0 && (
           <div className="mb-16">
             <div className="flex items-center gap-3 mb-6">
-              <div className="w-1.5 h-6 rounded-full bg-[#8b5cf6]" />
+              <div className="w-1.5 h-6 rounded-full bg-[#D4A853]" />
               <h3 className="text-xl md:text-2xl font-bold tracking-tight" style={{ fontFamily: 'var(--font-display)' }}>
                 FULL VIDEOS
               </h3>
@@ -156,11 +155,11 @@ export default function ContentHub({ allVideos, channelVideos, loading, channels
           </div>
         )}
 
-        {/* === SHORTS SECTION === */}
+        {/* SHORTS */}
         {!loading && shorts.length > 0 && (
           <div>
             <div className="flex items-center gap-3 mb-6">
-              <div className="w-1.5 h-6 rounded-full bg-[#06b6d4]" />
+              <div className="w-1.5 h-6 rounded-full bg-white/40" />
               <h3 className="text-xl md:text-2xl font-bold tracking-tight" style={{ fontFamily: 'var(--font-display)' }}>
                 SHORTS &amp; CLIPS
               </h3>
@@ -229,12 +228,12 @@ export default function ContentHub({ allVideos, channelVideos, loading, channels
                 <div className="flex items-center gap-2 mb-2">
                   <span className="text-xs font-semibold" style={{ color: getChannelColor(modalVideo) }}>{getChannelName(modalVideo)}</span>
                   <span className="text-[#55556a]">•</span>
-                  <span className="text-xs text-[#888898]">{formatRelativeDate(modalVideo.publishedAt)}</span>
+                  <span className="text-xs text-[#9999aa]">{formatRelativeDate(modalVideo.publishedAt)}</span>
                   <span className="text-[#55556a]">•</span>
-                  <span className="text-xs text-[#888898]">{formatCount(modalVideo.viewCount)} views</span>
+                  <span className="text-xs text-[#9999aa]">{formatCount(modalVideo.viewCount)} views</span>
                 </div>
                 <h3 className="text-xl font-bold">{modalVideo.title}</h3>
-                <p className="text-sm text-[#888898] mt-3 line-clamp-3">{modalVideo.description}</p>
+                <p className="text-sm text-[#9999aa] mt-3 line-clamp-3">{modalVideo.description}</p>
               </div>
             </motion.div>
           </motion.div>
@@ -244,16 +243,10 @@ export default function ContentHub({ allVideos, channelVideos, loading, channels
   );
 }
 
-// Full video card — larger, more detail
 function VideoCard({
-  video,
-  index,
-  getChannelColor,
-  getChannelName,
-  onClick,
+  video, index, getChannelColor, getChannelName, onClick,
 }: {
-  video: YouTubeVideo;
-  index: number;
+  video: YouTubeVideo; index: number;
   getChannelColor: (v: YouTubeVideo) => string;
   getChannelName: (v: YouTubeVideo) => string;
   onClick: () => void;
@@ -268,8 +261,8 @@ function VideoCard({
       onClick={onClick}
       className="group cursor-pointer"
     >
-      <div className="rounded-xl glass-panel overflow-hidden hover:border-[#8b5cf6]/20 transition-all duration-300">
-        <div className="relative aspect-video bg-[#111118] overflow-hidden">
+      <div className="rounded-xl glass-panel overflow-hidden hover:border-[#D4A853]/20 transition-all duration-300">
+        <div className="relative aspect-video bg-[#0c0c18] overflow-hidden">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             src={video.thumbnail}
@@ -278,8 +271,8 @@ function VideoCard({
             loading="lazy"
           />
           <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
-            <div className="w-12 h-12 rounded-full bg-[#8b5cf6]/80 flex items-center justify-center backdrop-blur-sm">
-              <svg className="w-5 h-5 text-white ml-0.5" fill="currentColor" viewBox="0 0 24 24">
+            <div className="w-12 h-12 rounded-full bg-[#D4A853]/80 flex items-center justify-center backdrop-blur-sm">
+              <svg className="w-5 h-5 text-[#060610] ml-0.5" fill="currentColor" viewBox="0 0 24 24">
                 <path d="M8 5v14l11-7z" />
               </svg>
             </div>
@@ -290,7 +283,6 @@ function VideoCard({
           {video.isLive && (
             <div className="absolute top-2 left-2 px-2 py-0.5 rounded bg-red-500/90 text-[10px] font-bold text-white animate-pulse-glow">LIVE</div>
           )}
-          {/* Channel color accent line */}
           <div className="absolute bottom-0 left-0 right-0 h-[2px] opacity-0 group-hover:opacity-100 transition-opacity" style={{ backgroundColor: getChannelColor(video) }} />
         </div>
         <div className="p-4">
@@ -314,16 +306,10 @@ function VideoCard({
   );
 }
 
-// Short card — compact, portrait-feel
 function ShortCard({
-  video,
-  index,
-  getChannelColor,
-  getChannelName,
-  onClick,
+  video, index, getChannelColor, getChannelName, onClick,
 }: {
-  video: YouTubeVideo;
-  index: number;
+  video: YouTubeVideo; index: number;
   getChannelColor: (v: YouTubeVideo) => string;
   getChannelName: (v: YouTubeVideo) => string;
   onClick: () => void;
@@ -338,8 +324,8 @@ function ShortCard({
       onClick={onClick}
       className="group cursor-pointer"
     >
-      <div className="rounded-xl glass-panel overflow-hidden hover:border-[#06b6d4]/20 transition-all duration-300">
-        <div className="relative aspect-[9/16] bg-[#111118] overflow-hidden max-h-[200px]">
+      <div className="rounded-xl glass-panel overflow-hidden hover:border-white/10 transition-all duration-300">
+        <div className="relative aspect-[9/16] bg-[#0c0c18] overflow-hidden max-h-[200px]">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             src={video.thumbnail}
@@ -348,23 +334,22 @@ function ShortCard({
             loading="lazy"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />
-          <div className="absolute top-1.5 left-1.5 px-1.5 py-0.5 rounded bg-[#06b6d4]/90 text-[8px] font-bold text-white tracking-wider">
+          <div className="absolute top-1.5 left-1.5 px-1.5 py-0.5 rounded bg-[#D4A853]/90 text-[8px] font-bold text-[#060610] tracking-wider">
             SHORT
           </div>
           <div className="absolute bottom-1.5 right-1.5 px-1.5 py-0.5 rounded bg-black/70 text-[9px] font-mono text-white">
             {parseDuration(video.duration)}
           </div>
-          {/* Play on hover */}
           <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
-            <div className="w-8 h-8 rounded-full bg-[#06b6d4]/80 flex items-center justify-center">
-              <svg className="w-3 h-3 text-white ml-0.5" fill="currentColor" viewBox="0 0 24 24">
+            <div className="w-8 h-8 rounded-full bg-[#D4A853]/80 flex items-center justify-center">
+              <svg className="w-3 h-3 text-[#060610] ml-0.5" fill="currentColor" viewBox="0 0 24 24">
                 <path d="M8 5v14l11-7z" />
               </svg>
             </div>
           </div>
         </div>
         <div className="p-2.5">
-          <h4 className="text-[11px] font-semibold leading-snug line-clamp-2 group-hover:text-[#06b6d4] transition-colors">
+          <h4 className="text-[11px] font-semibold leading-snug line-clamp-2 group-hover:text-[#D4A853] transition-colors">
             {video.title}
           </h4>
           <div className="flex items-center gap-1 mt-1.5 text-[9px] text-[#55556a]">

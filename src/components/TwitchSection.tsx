@@ -24,7 +24,7 @@ export default function TwitchSection() {
           >
             <div className="rounded-2xl glass-panel overflow-hidden">
               {/* Stream embed placeholder */}
-              <div className="relative aspect-video bg-[#111118] flex items-center justify-center">
+              <div className="relative aspect-video bg-[#0c0c18] flex items-center justify-center">
                 <div className="text-center">
                   <div className="w-16 h-16 rounded-full bg-[#9146ff]/20 flex items-center justify-center mx-auto mb-4">
                     <svg className="w-8 h-8 text-[#9146ff]" viewBox="0 0 24 24" fill="currentColor">
@@ -35,7 +35,7 @@ export default function TwitchSection() {
                     <span className="relative flex h-2.5 w-2.5">
                       <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-[#888898]" />
                     </span>
-                    <span className="text-sm font-semibold text-[#888898]">CURRENTLY OFFLINE</span>
+                    <span className="text-sm font-semibold text-[#9999aa]">CURRENTLY OFFLINE</span>
                   </div>
                   <p className="text-xs text-[#55556a] mb-4">Twitch embed activates when live</p>
                   {/* Integration point: Replace with Twitch embed iframe */}
@@ -46,7 +46,7 @@ export default function TwitchSection() {
                 <div className="flex items-center justify-between">
                   <div>
                     <h3 className="font-bold text-base">3mythras3</h3>
-                    <p className="text-xs text-[#888898] mt-0.5">Variety gaming, TCG, and strategy content</p>
+                    <p className="text-xs text-[#9999aa] mt-0.5">Variety gaming, TCG, and strategy content</p>
                   </div>
                   <motion.a
                     href="https://www.twitch.tv/3mythras3"
@@ -106,7 +106,7 @@ export default function TwitchSection() {
             </div>
 
             <div className="rounded-2xl glass-panel p-5 text-center">
-              <p className="text-xs text-[#888898] mb-3">Follow on Twitch to get notified when Mythras goes live</p>
+              <p className="text-xs text-[#9999aa] mb-3">Follow on Twitch to get notified when Mythras goes live</p>
               <a
                 href="https://www.twitch.tv/3mythras3"
                 target="_blank"

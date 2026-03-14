@@ -31,12 +31,12 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-16 md:h-20">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-3 group">
-            <div className="relative w-10 h-10 md:w-12 md:h-12 rounded-full overflow-hidden border-2 border-white/20 group-hover:border-[#8b5cf6] transition-colors bg-transparent">
+            <div className="relative w-10 h-10 md:w-12 md:h-12 rounded-full overflow-hidden border-2 border-[#D4A853]/30 group-hover:border-[#D4A853] transition-colors bg-[#060610]">
               <Image
-                src="/images/mythras-logo.png"
+                src="/images/mythras-logo-new.png"
                 alt="Mythras"
                 fill
-                className="object-cover logo-white"
+                className="object-cover"
               />
             </div>
             <span
@@ -63,7 +63,7 @@ export default function Navbar() {
               href="https://discord.gg/mFg8mbxtTS"
               target="_blank"
               rel="noopener noreferrer"
-              className="relative px-5 py-2 rounded-lg font-semibold text-sm bg-[#8b5cf6] text-white hover:bg-[#7c3aed] transition-all hover:shadow-lg hover:shadow-[#8b5cf6]/25"
+              className="relative px-5 py-2 rounded-lg font-semibold text-sm bg-[#D4A853] text-[#060610] hover:bg-[#F0C850] transition-all hover:shadow-lg hover:shadow-[#D4A853]/25"
             >
               Join Discord
             </a>
@@ -98,11 +98,11 @@ export default function Navbar() {
             initial={{ opacity: 0, height: 0 }}
             animate={{ opacity: 1, height: 'auto' }}
             exit={{ opacity: 0, height: 0 }}
-            className="md:hidden glass-panel border-t border-white/5"
+            className="md:hidden glass-panel border-t border-[#D4A853]/10"
           >
             <div className="px-4 py-4 space-y-2">
               <MobileLink href="/" label="Home" onClick={() => setMobileOpen(false)} />
-              <div className="pt-2 pb-1 px-3 text-xs font-semibold text-[#888898] uppercase tracking-wider">Channels</div>
+              <div className="pt-2 pb-1 px-3 text-xs font-semibold text-[#D4A853]/60 uppercase tracking-wider">Channels</div>
               {channels.map(c => (
                 <MobileLink
                   key={c.slug}
@@ -111,7 +111,7 @@ export default function Navbar() {
                   onClick={() => setMobileOpen(false)}
                 />
               ))}
-              <div className="border-t border-white/5 pt-2 mt-2" />
+              <div className="border-t border-[#D4A853]/10 pt-2 mt-2" />
               <MobileLink href="/#content-hub" label="Videos" onClick={() => setMobileOpen(false)} />
               <MobileLink href="/#schedule" label="Schedule" onClick={() => setMobileOpen(false)} />
               <MobileLink href="/#community" label="Community" onClick={() => setMobileOpen(false)} />
@@ -130,7 +130,7 @@ function NavLink({ href, label }: { href: string; label: string }) {
   return (
     <Link
       href={href}
-      className="px-3 py-2 rounded-lg text-sm font-medium text-[#888898] hover:text-white hover:bg-white/5 transition-all"
+      className="px-3 py-2 rounded-lg text-sm font-medium text-[#9999aa] hover:text-white hover:bg-white/5 transition-all"
     >
       {label}
     </Link>
@@ -146,7 +146,7 @@ function NavDropdown({ label, items }: { label: string; items: { label: string; 
       onMouseEnter={() => setOpen(true)}
       onMouseLeave={() => setOpen(false)}
     >
-      <button className="px-3 py-2 rounded-lg text-sm font-medium text-[#888898] hover:text-white hover:bg-white/5 transition-all flex items-center gap-1">
+      <button className="px-3 py-2 rounded-lg text-sm font-medium text-[#9999aa] hover:text-white hover:bg-white/5 transition-all flex items-center gap-1">
         {label}
         <svg className={`w-3 h-3 transition-transform ${open ? 'rotate-180' : ''}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
@@ -165,7 +165,7 @@ function NavDropdown({ label, items }: { label: string; items: { label: string; 
               <Link
                 key={item.href}
                 href={item.href}
-                className="flex items-center gap-3 px-4 py-3 text-sm text-[#888898] hover:text-white hover:bg-white/5 transition-all"
+                className="flex items-center gap-3 px-4 py-3 text-sm text-[#9999aa] hover:text-white hover:bg-white/5 transition-all"
               >
                 <span className="text-lg">{item.icon}</span>
                 {item.label}
@@ -183,7 +183,7 @@ function MobileLink({ href, label, onClick }: { href: string; label: string; onC
     <Link
       href={href}
       onClick={onClick}
-      className="block px-3 py-2.5 rounded-lg text-sm font-medium text-[#888898] hover:text-white hover:bg-white/5 transition-all"
+      className="block px-3 py-2.5 rounded-lg text-sm font-medium text-[#9999aa] hover:text-white hover:bg-white/5 transition-all"
     >
       {label}
     </Link>
@@ -192,12 +192,12 @@ function MobileLink({ href, label, onClick }: { href: string; label: string; onC
 
 function LiveBadge() {
   return (
-    <div className="flex items-center gap-2 px-3 py-1.5 rounded-full bg-[#1c1c24] border border-white/5">
+    <div className="flex items-center gap-2 px-3 py-1.5 rounded-full bg-[#151522] border border-[#D4A853]/10">
       <span className="relative flex h-2.5 w-2.5">
         <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-500 opacity-75" />
         <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-red-500" />
       </span>
-      <span className="text-xs font-semibold text-[#888898]">OFFLINE</span>
+      <span className="text-xs font-semibold text-[#9999aa]">OFFLINE</span>
     </div>
   );
 }

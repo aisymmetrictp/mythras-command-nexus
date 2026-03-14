@@ -12,7 +12,7 @@ const platformColors: Record<string, string> = {
 export default function Schedule() {
   return (
     <section id="schedule" className="relative py-20 md:py-28">
-      <div className="absolute inset-0 bg-gradient-to-b from-transparent via-[#06b6d4]/[0.015] to-transparent" />
+      <div className="absolute inset-0 bg-gradient-to-b from-transparent via-[#D4A853]/[0.015] to-transparent" />
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6">
         <SectionHeader
           label="Schedule"
@@ -25,11 +25,11 @@ export default function Schedule() {
           {/* Timeline */}
           <div className="relative">
             {/* Vertical line */}
-            <div className="absolute left-4 md:left-1/2 top-0 bottom-0 w-px bg-gradient-to-b from-[#8b5cf6]/20 via-[#8b5cf6]/10 to-transparent" />
+            <div className="absolute left-4 md:left-1/2 top-0 bottom-0 w-px bg-gradient-to-b from-[#D4A853]/20 via-[#D4A853]/10 to-transparent" />
 
             {mockSchedule.map((item, i) => {
               const isLeft = i % 2 === 0;
-              const platformColor = platformColors[item.platform] || '#8b5cf6';
+              const platformColor = platformColors[item.platform] || '#D4A853';
 
               return (
                 <motion.div
@@ -43,7 +43,7 @@ export default function Schedule() {
                   } flex-row`}
                 >
                   {/* Dot */}
-                  <div className="absolute left-4 md:left-1/2 w-3 h-3 rounded-full -translate-x-1/2 z-10 border-2 border-[#0a0a0f]" style={{ backgroundColor: platformColor }} />
+                  <div className="absolute left-4 md:left-1/2 w-3 h-3 rounded-full -translate-x-1/2 z-10 border-2 border-[#060610]" style={{ backgroundColor: platformColor }} />
 
                   {/* Spacer for mobile */}
                   <div className="w-8 md:hidden shrink-0" />

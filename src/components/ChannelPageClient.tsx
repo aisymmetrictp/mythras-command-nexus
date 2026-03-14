@@ -41,9 +41,9 @@ export default function ChannelPageClient({ slug }: { slug: string }) {
         <main className="min-h-screen flex items-center justify-center pt-20">
           <div className="text-center">
             <h1 className="text-4xl font-bold mb-4" style={{ fontFamily: 'var(--font-display)' }}>Channel Not Found</h1>
-            <p className="text-[#888898] mb-6">This channel doesn&apos;t exist in the Mythras ecosystem.</p>
-            <Link href="/" className="px-6 py-3 rounded-xl bg-[#8b5cf6] text-white font-semibold hover:bg-[#7c3aed] transition-colors">
-              Back to Command Nexus
+            <p className="text-[#9999aa] mb-6">This channel doesn&apos;t exist in the Mythras ecosystem.</p>
+            <Link href="/" className="px-6 py-3 rounded-xl bg-[#D4A853] text-[#060610] font-semibold hover:bg-[#F0C850] transition-colors">
+              Back to The Multiverse
             </Link>
           </div>
         </main>
@@ -65,7 +65,7 @@ export default function ChannelPageClient({ slug }: { slug: string }) {
         {/* Channel Hero */}
         <section className="relative pt-28 pb-16 md:pt-36 md:pb-20 overflow-hidden">
           <div className="absolute inset-0">
-            <div className="absolute inset-0 bg-gradient-to-b from-[#0a0a0f] via-[#111118] to-[#0a0a0f]" />
+            <div className="absolute inset-0 bg-gradient-to-b from-[#060610] via-[#0c0c18] to-[#060610]" />
             <div className="absolute inset-0 opacity-20" style={{ background: `radial-gradient(ellipse at 50% 30%, ${color}20 0%, transparent 60%)` }} />
             <div className="absolute inset-0 opacity-[0.02]" style={{
               backgroundImage: 'linear-gradient(rgba(255,255,255,0.1) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.1) 1px, transparent 1px)',
@@ -106,7 +106,7 @@ export default function ChannelPageClient({ slug }: { slug: string }) {
                   <h1 className="text-3xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-3" style={{ fontFamily: 'var(--font-display)' }}>
                     {channelMeta.name.toUpperCase()}
                   </h1>
-                  <p className="text-[#888898] text-base md:text-lg max-w-2xl leading-relaxed mb-6">{channelMeta.description}</p>
+                  <p className="text-[#9999aa] text-base md:text-lg max-w-2xl leading-relaxed mb-6">{channelMeta.description}</p>
                   <div className="flex flex-wrap gap-6">
                     <Stat label="Subscribers" value={subs} color={color} />
                     <Stat label="Videos" value={vidCount} color={color} />
@@ -128,11 +128,11 @@ export default function ChannelPageClient({ slug }: { slug: string }) {
             />
 
             <div className="flex flex-col sm:flex-row items-start sm:items-center gap-4 mb-8">
-              <div className="flex gap-1.5 p-1 rounded-xl bg-[#111118] border border-white/5">
+              <div className="flex gap-1.5 p-1 rounded-xl bg-[#0c0c18] border border-white/5">
                 {tabs.map(tab => (
                   <button key={tab.id} onClick={() => setActiveTab(tab.id)}
                     className={`px-4 py-2 rounded-lg text-xs font-semibold whitespace-nowrap transition-all ${
-                      activeTab === tab.id ? 'text-white shadow-lg' : 'text-[#888898] hover:text-white hover:bg-white/5'
+                      activeTab === tab.id ? 'text-white shadow-lg' : 'text-[#9999aa] hover:text-white hover:bg-white/5'
                     }`}
                     style={activeTab === tab.id ? { backgroundColor: color } : undefined}>
                     {tab.label}
@@ -145,7 +145,7 @@ export default function ChannelPageClient({ slug }: { slug: string }) {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
                 </svg>
                 <input type="text" placeholder="Search this channel..." value={search} onChange={e => setSearch(e.target.value)}
-                  className="w-full pl-10 pr-4 py-2.5 rounded-xl bg-[#111118] border border-white/5 text-sm text-white placeholder-[#55556a] focus:outline-none transition-colors"
+                  className="w-full pl-10 pr-4 py-2.5 rounded-xl bg-[#0c0c18] border border-white/5 text-sm text-white placeholder-[#55556a] focus:outline-none transition-colors"
                   style={{ borderColor: search ? `${color}30` : undefined }} />
               </div>
             </div>
@@ -155,10 +155,10 @@ export default function ChannelPageClient({ slug }: { slug: string }) {
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
                 {Array.from({ length: 8 }).map((_, i) => (
                   <div key={i} className="rounded-xl glass-panel overflow-hidden animate-pulse">
-                    <div className="aspect-video bg-[#1c1c24]" />
+                    <div className="aspect-video bg-[#151522]" />
                     <div className="p-4 space-y-2">
-                      <div className="h-4 bg-[#1c1c24] rounded w-full" />
-                      <div className="h-3 bg-[#1c1c24] rounded w-2/3" />
+                      <div className="h-4 bg-[#151522] rounded w-full" />
+                      <div className="h-3 bg-[#151522] rounded w-2/3" />
                     </div>
                   </div>
                 ))}
@@ -176,7 +176,7 @@ export default function ChannelPageClient({ slug }: { slug: string }) {
                         exit={{ opacity: 0, scale: 0.95 }} transition={{ duration: 0.3, delay: Math.min(i * 0.03, 0.3) }}
                         onClick={() => setModalVideo(video)} className="group cursor-pointer">
                         <div className="rounded-xl glass-panel overflow-hidden hover:border-white/10 transition-all duration-300">
-                          <div className="relative aspect-video bg-[#111118] overflow-hidden">
+                          <div className="relative aspect-video bg-[#0c0c18] overflow-hidden">
                             {/* eslint-disable-next-line @next/next/no-img-element */}
                             <img src={video.thumbnail} alt={video.title}
                               className="absolute inset-0 w-full h-full object-cover opacity-60 group-hover:opacity-80 group-hover:scale-105 transition-all duration-500" loading="lazy" />
@@ -252,12 +252,12 @@ export default function ChannelPageClient({ slug }: { slug: string }) {
                 <div className="flex items-center gap-2 mb-2">
                   <span className="text-xs font-semibold" style={{ color }}>{channelMeta.name}</span>
                   <span className="text-[#55556a]">•</span>
-                  <span className="text-xs text-[#888898]">{formatRelativeDate(modalVideo.publishedAt)}</span>
+                  <span className="text-xs text-[#9999aa]">{formatRelativeDate(modalVideo.publishedAt)}</span>
                   <span className="text-[#55556a]">•</span>
-                  <span className="text-xs text-[#888898]">{formatCount(modalVideo.viewCount)} views</span>
+                  <span className="text-xs text-[#9999aa]">{formatCount(modalVideo.viewCount)} views</span>
                 </div>
                 <h3 className="text-xl font-bold">{modalVideo.title}</h3>
-                <p className="text-sm text-[#888898] mt-3 line-clamp-3">{modalVideo.description}</p>
+                <p className="text-sm text-[#9999aa] mt-3 line-clamp-3">{modalVideo.description}</p>
               </div>
             </motion.div>
           </motion.div>
