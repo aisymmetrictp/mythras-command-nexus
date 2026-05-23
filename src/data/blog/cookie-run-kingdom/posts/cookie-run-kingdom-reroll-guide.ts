@@ -1,7 +1,7 @@
 import type { BlogPost } from '../../blogTypes';
 
-export const rerollGuide2026: BlogPost = {
-  slug: 'reroll-guide-2026',
+export const crkRerollGuide: BlogPost = {
+  slug: 'cookie-run-kingdom-reroll-guide',
   game: 'cookie-run-kingdom',
   category: 'beginner-guides',
   topicCluster: 'reroll',
@@ -48,7 +48,7 @@ export const rerollGuide2026: BlogPost = {
 
 So if you're a brand new player (or an old one starting fresh), spending 20-30 minutes rerolling for the right Legendary genuinely changes the trajectory of your account. Here's exactly what to chase, how to reroll fast, and how to lock in once you hit.
 
-A quick note on timing: late May 2026 is genuinely one of the better windows of the year to reroll. The 5th Anniversary code is still live, the 2M-subscribers code is still live, and the active code pool is unusually fat (see the [May 2026 codes list](/blog/cookie-run-kingdom/codes-may-2026) for the full haul). That means each reroll attempt nets you more pulls than a typical month, which raises your odds per attempt.
+A quick note on timing: late May 2026 is genuinely one of the better windows of the year to reroll. The 5th Anniversary code is still live, the 2M-subscribers code is still live, and the active code pool is unusually fat (see the [May 2026 codes list](/blog/cookie-run-kingdom/cookie-run-kingdom-codes) for the full haul). That means each reroll attempt nets you more pulls than a typical month, which raises your odds per attempt.
 
 ## What rerolling actually means in CRK {#what-is-rerolling}
 
@@ -110,7 +110,7 @@ If your first 10-pull lands one of the top eight Legendaries on this list, **sto
 
 A note on **role coverage**: the list above is weighted toward DPS Legendaries because a strong damage carry is the single hardest piece to replace via farming. Healers and tanks like Millennial Tree and Aegis Hollyberry are also on the list because they enable the rest of your roster — but if you pull, say, Pure Vanilla (non-awakened) as your first Legendary, you've still got a usable healer for months while you work toward a DPS. Don't reroll a healer into oblivion chasing damage; healers age better than DPS in CRK.
 
-Also, the meta does shift. The current S+ tier reflects the **Timeline of Fate** patch as of May 2026. Six months from now, a few names on this list will probably slide and a few new Cookies will move up. Cross-reference with the [current Cookie tier list](/blog/cookie-run-kingdom/tier-list-may-2026) before committing to a reroll target if you're reading this much later than May.
+Also, the meta does shift. The current S+ tier reflects the **Timeline of Fate** patch as of May 2026. Six months from now, a few names on this list will probably slide and a few new Cookies will move up. Cross-reference with the [current Cookie tier list](/blog/cookie-run-kingdom/cookie-run-kingdom-tier-list) before committing to a reroll target if you're reading this much later than May.
 
 > **Tip:** Two from this list in one reroll is a stop-immediately, link-the-account result. That kind of account would normally take months to build.
 
@@ -123,7 +123,7 @@ The fastest CRK reroll method is the **guest account + clear data** loop. Each a
 1. **Install the game** but do NOT sign in with Google/Apple/DevPlay. Play as a guest.
 2. **Skip every cutscene** you legally can — tap through dialogue, use 2x speed on every battle, and auto-battle where possible.
 3. **Burn through the prologue** until you unlock the **Gacha** (the summon menu) and the **Mailbox**.
-4. **Redeem the active May 2026 codes** on the DevPlay coupon page using your Player ID. See the [codes list for May 2026](/blog/cookie-run-kingdom/codes-may-2026) — \`HAPPY5THANNIVERSARY\`, \`2MSUBSCRIBERSCRK\`, and \`KDHXCRK2026\` alone are massive.
+4. **Redeem the active May 2026 codes** on the DevPlay coupon page using your Player ID. See the [codes list for May 2026](/blog/cookie-run-kingdom/cookie-run-kingdom-codes) — \`HAPPY5THANNIVERSARY\`, \`2MSUBSCRIBERSCRK\`, and \`KDHXCRK2026\` alone are massive.
 5. **Claim everything** from the mailbox (codes + login + tutorial gifts).
 6. **Pull on the current rate-up Legendary banner**, not the standard banner. Always rate-up. Save your Cookie Cutters for the **Fateful** banner if it's up.
 7. **Check your result** against the table above.
@@ -147,7 +147,7 @@ The fastest CRK reroll method is the **guest account + clear data** loop. Each a
 The first hour after a successful reroll matters more than people think. Here's the checklist:
 
 1. **Link the account.** Settings → Account → link to Google/Apple/DevPlay. Do this *before* you do anything else. Losing the account to an uninstall is a disaster.
-2. **Claim every active code** from the [May 2026 codes list](/blog/cookie-run-kingdom/codes-may-2026) if you haven't already.
+2. **Claim every active code** from the [May 2026 codes list](/blog/cookie-run-kingdom/cookie-run-kingdom-codes) if you haven't already.
 3. **Reinvest Crystals** into more pulls on the same rate-up banner if any are left. More dupes = more Soulstones = faster 6-star growth.
 4. **Push the main story** to unlock as many game modes as possible — Pizza Castle Bears, Tropical Soda Islands, and the post-game zones gate huge resource drops.
 5. **Promote your headliner Legendary first.** Funnel Star Jellies and Skill Powder into your reroll target. Don't spread thin.
@@ -242,8 +242,8 @@ If you're unlucky through your cap, **lock in the best account you got** (even i
   ],
 
   internalLinks: [
-    { href: '/blog/cookie-run-kingdom/codes-may-2026', anchor: 'Active CRK codes for May 2026' },
-    { href: '/blog/cookie-run-kingdom/tier-list-may-2026', anchor: 'May 2026 Cookie tier list' },
+    { href: '/blog/cookie-run-kingdom/cookie-run-kingdom-codes', anchor: 'Active CRK codes for May 2026' },
+    { href: '/blog/cookie-run-kingdom/cookie-run-kingdom-tier-list', anchor: 'May 2026 Cookie tier list' },
     { href: '/blog/cookie-run-kingdom/timekeeper-toppings', anchor: 'Timekeeper Cookie deep dive' },
     { href: '/blog/cookie-run-kingdom/kingdom-arena-meta-team', anchor: 'Kingdom Arena meta team' },
     { href: '/blog/cookie-run-kingdom/cookiechat-affection-guide', anchor: 'CookieChat / Affection guide' },

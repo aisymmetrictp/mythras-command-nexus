@@ -8,12 +8,12 @@ Independent of new posts, these refresh on a fixed cadence:
 
 | Slug | Cadence | Owner action |
 |---|---|---|
-| `codes-may-2026` *(canonicalize to `cookie-run-kingdom-codes`)* | Every Monday | Verify active list, swap expired codes, bump `lastUpdated` |
-| `tier-list-may-2026` *(rename to `cookie-run-kingdom-tier-list` after first refresh)* | First Tuesday of each month | Re-rank with patch changes, bump `lastUpdated` |
+| `cookie-run-kingdom-codes` | Every Monday | Verify active list, swap expired codes, bump `lastUpdated` |
+| `cookie-run-kingdom-tier-list` | First Tuesday of each month | Re-rank with patch changes, bump `lastUpdated` |
 | `kingdom-arena-meta-team` | First Tuesday of each month | Adjust comp if meta shifted, bump `lastUpdated` |
 | `guild-battle-teams` | After every Devsisters Guild Battle boss change | Swap or add comps |
 
-> **Note on slugs**: Three launch posts shipped with month-suffixed slugs (`codes-may-2026`, `tier-list-may-2026`, `reroll-guide-2026`) because they were time-stamped to anchor the launch. After the first refresh, rename canonical slugs to drop the month — set up 301 redirects in `netlify.toml` to preserve link equity.
+> **Slug history (resolved 2026-05-23)**: These three posts originally shipped with month-suffixed slugs (`codes-may-2026`, `tier-list-may-2026`, `reroll-guide-2026`) and were renamed to the canonical non-dated slugs same-day. 301 redirects from the old paths live in `netlify.toml`.
 
 ---
 
@@ -21,12 +21,12 @@ Independent of new posts, these refresh on a fixed cadence:
 
 | Wk | Title | Slug | Category | Intent | Refresh |
 |---|---|---|---|---|---|
-| 1 | Cookie Run: Kingdom Codes (May 2026) | `codes-may-2026` | Events & Updates | Transactional | Weekly |
-| 2 | CRK Tier List May 2026 | `tier-list-may-2026` | Tier Lists | Informational | Monthly |
+| 1 | Cookie Run: Kingdom Codes (May 2026) | `cookie-run-kingdom-codes` | Events & Updates | Transactional | Weekly |
+| 2 | CRK Tier List May 2026 | `cookie-run-kingdom-tier-list` | Tier Lists | Informational | Monthly |
 | 3 | Timekeeper Cookie — Best Toppings | `timekeeper-toppings` | Cookie Guides | Informational | Quarterly |
 | 4 | Kingdom Arena Meta Team (May 2026) | `kingdom-arena-meta-team` | Team Builds | Informational | Monthly |
 | 5 | Guild Battle Teams (May 2026) | `guild-battle-teams` | Team Builds | Informational | Monthly |
-| 6 | CRK Reroll Guide (May 2026) | `reroll-guide-2026` | Beginner Guides | Informational | Monthly |
+| 6 | CRK Reroll Guide (May 2026) | `cookie-run-kingdom-reroll-guide` | Beginner Guides | Informational | Monthly |
 | 7 | CookieChat & Affection System Explained | `cookiechat-affection-guide` | Advanced Strategy | Informational | Quarterly |
 | 8 | Is the Timeline of Fate Update Worth It? | `timeline-of-fate-update-guide` | Events & Updates | Informational | Quarterly |
 
@@ -86,7 +86,7 @@ Independent of new posts, these refresh on a fixed cadence:
 | 25 | CRK Tier List October 2026 | *(refresh)* | cookie run kingdom tier list | Tier Lists | Monthly |
 | 26 | CRK Halloween Event Guide 2026 | `crk-halloween-2026` | crk halloween event 2026 | Events & Updates | Time-sensitive |
 | 27 | *(New Cookie deep dive)* | `<cookie>-toppings` | — | Cookie Guides | Evergreen-ish |
-| 28 | Reroll Guide — October Refresh | *(refresh reroll-guide-2026)* | cookie run kingdom reroll guide | Beginner Guides | Monthly refresh |
+| 28 | Reroll Guide — October Refresh | *(refresh cookie-run-kingdom-reroll-guide)* | cookie run kingdom reroll guide | Beginner Guides | Monthly refresh |
 
 ---
 

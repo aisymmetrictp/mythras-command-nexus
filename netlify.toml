@@ -7,3 +7,23 @@
   [headers.values]
     X-Frame-Options = "DENY"
     X-Content-Type-Options = "nosniff"
+
+# Canonical slug 301s — launch posts shipped with dated slugs;
+# permanent slugs are non-dated. Preserves any inbound links.
+[[redirects]]
+  from = "/blog/cookie-run-kingdom/codes-may-2026"
+  to = "/blog/cookie-run-kingdom/cookie-run-kingdom-codes"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/cookie-run-kingdom/tier-list-may-2026"
+  to = "/blog/cookie-run-kingdom/cookie-run-kingdom-tier-list"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/cookie-run-kingdom/reroll-guide-2026"
+  to = "/blog/cookie-run-kingdom/cookie-run-kingdom-reroll-guide"
+  status = 301
+  force = true

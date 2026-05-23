@@ -152,9 +152,9 @@ Not every account has the full five Legendaries. Here are the meaningful F2P swa
 | Dark Enchantress | Frost Queen | B+ | Mid-row DPS, no AoE clear, fight goes longer |
 | Venom Dough (alt mid) | [Pavlova](/gear-guide/pavlova-cookie) | A | Epic AoE damage, still anchors S+ in PvE; weaker in arena but free |
 
-The "core you cannot really replace" is **Dark Enchantress + Timekeeper**. If you have those two, the other three slots can flex F2P and you will still place mid-Diamond. If you are missing both, build the PvE alternate comp from our [tier list page](/blog/cookie-run-kingdom/tier-list-may-2026) and farm for them on the next banner rotation.
+The "core you cannot really replace" is **Dark Enchantress + Timekeeper**. If you have those two, the other three slots can flex F2P and you will still place mid-Diamond. If you are missing both, build the PvE alternate comp from our [tier list page](/blog/cookie-run-kingdom/cookie-run-kingdom-tier-list) and farm for them on the next banner rotation.
 
-For broader pull priorities and crystal saving strategy, see the [reroll guide](/blog/cookie-run-kingdom/reroll-guide-2026).
+For broader pull priorities and crystal saving strategy, see the [reroll guide](/blog/cookie-run-kingdom/cookie-run-kingdom-reroll-guide).
 
 ## How to counter this comp
 
@@ -177,8 +177,8 @@ For Guild Battle and other PvE modes where this exact comp does not apply, see t
 - [ ] Slot order matters — keep Timekeeper in the **mid row**, not the back
 - [ ] Practice the **turn 4 Sealed Hour cast timing** in low-stakes matches first
 - [ ] Equip CD-reduction treasures so your first DE rotation hits earlier
-- [ ] If F2P, prioritize the [reroll guide](/blog/cookie-run-kingdom/reroll-guide-2026) order
-- [ ] Cross-check the [May 2026 tier list](/blog/cookie-run-kingdom/tier-list-may-2026) before spending crystals
+- [ ] If F2P, prioritize the [reroll guide](/blog/cookie-run-kingdom/cookie-run-kingdom-reroll-guide) order
+- [ ] Cross-check the [May 2026 tier list](/blog/cookie-run-kingdom/cookie-run-kingdom-tier-list) before spending crystals
 - [ ] Re-evaluate this comp every patch — meta lifespan in CRK is roughly 6-10 weeks
 `,
 
@@ -229,8 +229,8 @@ For Guild Battle and other PvE modes where this exact comp does not apply, see t
     { href: '/gear-guide/venom-dough-cookie', anchor: 'Venom Dough Cookie' },
     { href: '/gear-guide/millennial-tree-cookie', anchor: 'Millennial Tree Cookie' },
     { href: '/blog/cookie-run-kingdom/timekeeper-toppings', anchor: 'Timekeeper toppings deep dive' },
-    { href: '/blog/cookie-run-kingdom/tier-list-may-2026', anchor: 'May 2026 tier list' },
-    { href: '/blog/cookie-run-kingdom/reroll-guide-2026', anchor: 'Reroll guide 2026' },
+    { href: '/blog/cookie-run-kingdom/cookie-run-kingdom-tier-list', anchor: 'May 2026 tier list' },
+    { href: '/blog/cookie-run-kingdom/cookie-run-kingdom-reroll-guide', anchor: 'Reroll guide 2026' },
     { href: '/blog/cookie-run-kingdom/guild-battle-teams', anchor: 'Guild Battle teams guide' },
   ],
 

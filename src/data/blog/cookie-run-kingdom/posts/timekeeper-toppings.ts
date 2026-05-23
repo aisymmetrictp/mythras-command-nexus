@@ -191,7 +191,7 @@ Honest take, no fence-sitting:
 
 > **One-line verdict:** Timekeeper is the most "must-pull" Legendary since Dark Enchantress in January. The arena meta is built around her now, not the other way around.
 
-For the broader May 2026 tier picture, cross-check with our [May 2026 tier list](/blog/cookie-run-kingdom/tier-list-may-2026) before you spend crystals.
+For the broader May 2026 tier picture, cross-check with our [May 2026 tier list](/blog/cookie-run-kingdom/cookie-run-kingdom-tier-list) before you spend crystals.
 
 ## Quick Action Checklist
 

@@ -231,7 +231,7 @@ A short list of the failure modes most players hit in their first month with Coo
     { href: '/gear-guide/hollyberry-cookie', anchor: 'Hollyberry Cookie build' },
     { href: '/blog/cookie-run-kingdom/timekeeper-toppings', anchor: 'Timekeeper Cookie build' },
     { href: '/blog/cookie-run-kingdom/timeline-of-fate-update-guide', anchor: 'Timeline of Fate update guide' },
-    { href: '/blog/cookie-run-kingdom/tier-list-may-2026', anchor: 'CRK tier list May 2026' },
+    { href: '/blog/cookie-run-kingdom/cookie-run-kingdom-tier-list', anchor: 'CRK tier list May 2026' },
   ],
 
   externalSources: [

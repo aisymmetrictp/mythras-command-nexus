@@ -1,7 +1,7 @@
 import type { BlogPost } from '../../blogTypes';
 
-export const tierListMay2026: BlogPost = {
-  slug: 'tier-list-may-2026',
+export const crkTierList: BlogPost = {
+  slug: 'cookie-run-kingdom-tier-list',
   game: 'cookie-run-kingdom',
   category: 'tier-lists',
   topicCluster: 'tier-list',
@@ -182,9 +182,9 @@ If you can only soulstone-chase one Cookie this month, pick by your weakest mode
 
 The trap most F2P players fall into right now is splitting soulstones across five Legendaries. With the 6-star growth system live, **one Cookie at 6-star outperforms two at 5-star** for almost every realistic encounter. Pick a lane and feed it.
 
-For a wider walkthrough of which Legendaries to chase from a fresh account, the [reroll guide](/blog/cookie-run-kingdom/reroll-guide-2026) covers banner timing.
+For a wider walkthrough of which Legendaries to chase from a fresh account, the [reroll guide](/blog/cookie-run-kingdom/cookie-run-kingdom-reroll-guide) covers banner timing.
 
-> **Tip:** Promo codes drop fairly often around major patches. Check the [latest CRK codes list](/blog/cookie-run-kingdom/codes-may-2026) before you spend real money on soulstones — there is almost always a free chunk available.
+> **Tip:** Promo codes drop fairly often around major patches. Check the [latest CRK codes list](/blog/cookie-run-kingdom/cookie-run-kingdom-codes) before you spend real money on soulstones — there is almost always a free chunk available.
 
 ## Quick Action Checklist {#checklist}
 
@@ -237,8 +237,8 @@ For a wider walkthrough of which Legendaries to chase from a fresh account, the 
   internalLinks: [
     { href: '/blog/cookie-run-kingdom/timekeeper-toppings', anchor: 'Timekeeper toppings build' },
     { href: '/blog/cookie-run-kingdom/kingdom-arena-meta-team', anchor: 'Kingdom Arena meta team' },
-    { href: '/blog/cookie-run-kingdom/reroll-guide-2026', anchor: 'reroll guide' },
-    { href: '/blog/cookie-run-kingdom/codes-may-2026', anchor: 'latest CRK codes list' },
+    { href: '/blog/cookie-run-kingdom/cookie-run-kingdom-reroll-guide', anchor: 'reroll guide' },
+    { href: '/blog/cookie-run-kingdom/cookie-run-kingdom-codes', anchor: 'latest CRK codes list' },
     { href: '/blog/cookie-run-kingdom/timekeeper-toppings', anchor: 'Timekeeper toppings' },
     { href: '/gear-guide', anchor: 'full cookie gear guide index' },
     { href: '/cake-tower', anchor: 'Cake Tower guide' },

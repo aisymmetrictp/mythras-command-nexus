@@ -196,7 +196,7 @@ Manual the opening 20 seconds and the final 20 seconds; the middle is fine on au
 - Open every fight with your buff/support skill, not your damage skill.
 - Track your damage per attempt in a guild sheet; the trend matters more than the single best run.
 - Don't waste your third attempt "retrying for a perfect run" — bank it on a boss your guild is short on.
-- If you just unlocked a new cookie, check the [tier list](/blog/cookie-run-kingdom/tier-list-may-2026) before slotting them into a Guild Battle comp.`,
+- If you just unlocked a new cookie, check the [tier list](/blog/cookie-run-kingdom/cookie-run-kingdom-tier-list) before slotting them into a Guild Battle comp.`,
 
   faq: [
     {
@@ -244,7 +244,7 @@ Manual the opening 20 seconds and the final 20 seconds; the middle is fine on au
     { href: '/gear-guide/menthol-cookie', anchor: 'Menthol Cookie build' },
     { href: '/gear-guide/hollyberry-cookie', anchor: 'Hollyberry Cookie build' },
     { href: '/blog/cookie-run-kingdom/timekeeper-toppings', anchor: 'Timekeeper Cookie build' },
-    { href: '/blog/cookie-run-kingdom/tier-list-may-2026', anchor: 'CRK tier list May 2026' },
+    { href: '/blog/cookie-run-kingdom/cookie-run-kingdom-tier-list', anchor: 'CRK tier list May 2026' },
     { href: '/blog/cookie-run-kingdom/kingdom-arena-meta-team', anchor: 'Kingdom Arena meta team guide' },
   ],
 

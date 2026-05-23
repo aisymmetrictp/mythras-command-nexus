@@ -79,7 +79,7 @@ The two debut Cookies are both meta-relevant, which is rarer than it sounds — 
 
 **Ash Salt Cookie** is more interesting than her rarity suggests. Her stacking corrosion debuff strips revive shields and amplifies incoming damage — which makes her a budget alternative to a Legendary anti-revive when you are still building one. She slots cleanly into the Ash-Bound Soul region and earns a permanent spot on at least one of your World Exploration teams.
 
-For the full ranking context, the [CRK May 2026 tier list](/blog/cookie-run-kingdom/tier-list-may-2026) sorts both new Cookies against the existing roster.
+For the full ranking context, the [CRK May 2026 tier list](/blog/cookie-run-kingdom/cookie-run-kingdom-tier-list) sorts both new Cookies against the existing roster.
 
 > **Tip:** Pull Timekeeper *before* you chase Ash Salt. Timekeeper changes your Arena ceiling. Ash Salt is a quality-of-life upgrade. If you only have pulls for one, the Legendary is the correct call.
 
@@ -142,10 +142,10 @@ Different accounts get different value out of this patch. Here is how to triage:
 
 | Stage | Account level | What matters most in v7.4 |
 | --- | --- | --- |
-| **Early game** | 1-60 | Skip Timekeeper banner. Build a core roster first. Use Ash Salt as your budget debuffer. See the [reroll guide](/blog/cookie-run-kingdom/reroll-guide-2026). |
+| **Early game** | 1-60 | Skip Timekeeper banner. Build a core roster first. Use Ash Salt as your budget debuffer. See the [reroll guide](/blog/cookie-run-kingdom/cookie-run-kingdom-reroll-guide). |
 | **Mid game** | 60-90 | Pull Timekeeper if you have a healer. Start one Legendary toward 6-star. Try Arcade Arena casually. |
 | **Endgame** | 90-100 | Timekeeper is mandatory for Arena. Push 6-star on your best Legendary. Clear Choco Cake Tower 50-55. Climb Rewound Glory before June 4. |
-| **Returning** | any | Run the catch-up event chain, then read the [tier list](/blog/cookie-run-kingdom/tier-list-may-2026) before re-investing soulstones. |
+| **Returning** | any | Run the catch-up event chain, then read the [tier list](/blog/cookie-run-kingdom/cookie-run-kingdom-tier-list) before re-investing soulstones. |
 
 > **Warning:** Do not panic-pull Timekeeper on a fresh account. Her kit is wasted without a built supporting cast. A new player landing Timekeeper from a reroll is *fine*, but spending real money to chase her at level 30 is a bad trade.
 
@@ -173,7 +173,7 @@ For the community deep-dive on the broader v7.4 systems, the [CookieChat affecti
 - Try at least one Arcade Arena match per week for the soulstone yield
 - Clear the Choco Cake Tower up to **tray 55** for the new reward bracket
 - Open the **Kingdom Affairs** hub daily — it makes dailies 5x faster
-- Re-read the [tier list](/blog/cookie-run-kingdom/tier-list-may-2026) in 2 weeks; the patch cadence shortened, so the meta will move`,
+- Re-read the [tier list](/blog/cookie-run-kingdom/cookie-run-kingdom-tier-list) in 2 weeks; the patch cadence shortened, so the meta will move`,
 
   faq: [
     {
@@ -214,8 +214,8 @@ For the community deep-dive on the broader v7.4 systems, the [CookieChat affecti
   ],
 
   internalLinks: [
-    { href: '/blog/cookie-run-kingdom/tier-list-may-2026', anchor: 'CRK May 2026 tier list' },
-    { href: '/blog/cookie-run-kingdom/reroll-guide-2026', anchor: 'reroll guide' },
+    { href: '/blog/cookie-run-kingdom/cookie-run-kingdom-tier-list', anchor: 'CRK May 2026 tier list' },
+    { href: '/blog/cookie-run-kingdom/cookie-run-kingdom-reroll-guide', anchor: 'reroll guide' },
     { href: '/blog/cookie-run-kingdom/timekeeper-toppings', anchor: 'Timekeeper toppings build' },
     { href: '/blog/cookie-run-kingdom/cookiechat-affection-guide', anchor: 'CookieChat affection guide' },
     { href: '/blog/cookie-run-kingdom/guild-battle-teams', anchor: 'guild battle teams reference' },

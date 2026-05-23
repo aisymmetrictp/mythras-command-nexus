@@ -159,7 +159,7 @@ If a post doesn't pass this bar, send it back.
 
 ## Adding a new post (workflow)
 
-1. Pick the slug. Kebab-case, evergreen-friendly. Avoid years in slugs unless time-sensitive (`codes-may-2026` is OK because codes rotate; `timekeeper-toppings` is better than `timekeeper-toppings-2026`).
+1. Pick the slug. Kebab-case, evergreen-friendly. **Never put dates in canonical slugs** — they make every refresh require a rename + 301. Use `cookie-run-kingdom-codes`, not `codes-may-2026`; `timekeeper-toppings`, not `timekeeper-toppings-2026`. Dates belong in the post title (which can update freely), not the URL.
 2. Create `src/data/blog/cookie-run-kingdom/posts/<slug>.ts` exporting a typed `BlogPost`.
 3. Add `import { yourExport } from './posts/<slug>'` and append to `CRK_POSTS` in `src/data/blog/cookie-run-kingdom/index.ts`.
 4. Add a `<url>` entry to `public/sitemap.xml` with appropriate `priority` and `changefreq`.

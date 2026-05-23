@@ -1,7 +1,7 @@
 import type { BlogPost } from '../../blogTypes';
 
-export const codesMay2026: BlogPost = {
-  slug: 'codes-may-2026',
+export const crkCodes: BlogPost = {
+  slug: 'cookie-run-kingdom-codes',
   game: 'cookie-run-kingdom',
   category: 'events-updates',
   topicCluster: 'codes',
@@ -132,7 +132,7 @@ A few common reasons a code fails on the DevPlay page even when it's "supposed" 
 - **Region mismatch.** Some collab codes (rare) are locked to a specific server. If you selected the wrong region on the coupon page, the redemption silently fails.
 - **Typos.** \`O\` vs \`0\`, \`I\` vs \`1\`, and stray spaces from pasting are the big three. Type codes by hand if a paste keeps failing.
 - **Case sensitivity.** Codes are uppercase. \`happysongkrancrk\` will not work — \`HAPPYSONGKRANCRK\` will.
-- **Account is brand new.** A handful of milestone codes require your account to be a few days old before they'll redeem. If you just rerolled (see the [reroll guide](/blog/cookie-run-kingdom/reroll-guide-2026)), come back tomorrow.
+- **Account is brand new.** A handful of milestone codes require your account to be a few days old before they'll redeem. If you just rerolled (see the [reroll guide](/blog/cookie-run-kingdom/cookie-run-kingdom-reroll-guide)), come back tomorrow.
 
 If the code is in the active table above, was typed correctly, and still fails — it's almost always "already redeemed" on that account. Try a different code from the list to confirm the page is functional.
 
@@ -211,8 +211,8 @@ A practical rule: spend Crystals within the week to free up mental overhead, but
 
   internalLinks: [
     { href: '/blog/cookie-run-kingdom/timeline-of-fate-update-guide', anchor: 'v7.4 Timeline of Fate patch overview' },
-    { href: '/blog/cookie-run-kingdom/reroll-guide-2026', anchor: 'CRK reroll guide for May 2026' },
-    { href: '/blog/cookie-run-kingdom/tier-list-may-2026', anchor: 'May 2026 Cookie tier list' },
+    { href: '/blog/cookie-run-kingdom/cookie-run-kingdom-reroll-guide', anchor: 'CRK reroll guide for May 2026' },
+    { href: '/blog/cookie-run-kingdom/cookie-run-kingdom-tier-list', anchor: 'May 2026 Cookie tier list' },
     { href: '/gear-guide', anchor: 'Cookie gear guide hub' },
     { href: '/blog/cookie-run-kingdom/kingdom-arena-meta-team', anchor: 'Kingdom Arena meta team' },
     { href: '/cake-tower', anchor: 'Cake Tower guide' },
