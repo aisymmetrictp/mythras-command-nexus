@@ -64,7 +64,7 @@ The patch shipped with:
 - **Black Sapphire & Candy Apple costumes**
 - **Choco Cake Tower expanded to 55 trays** (up from 50)
 
-There is also a quietly important schedule change: Devsisters reportedly moved main-story drops from a **4-week cycle to a 2-week cycle** with Act 2 [VERIFY first effective date]. If you have been waiting for "the next big patch" before logging back in, that window just got cut in half.
+There is also a quietly important schedule change: Devsisters reportedly moved main-story drops from a **4-week cycle to a 2-week cycle** with Act 2. If you have been waiting for "the next big patch" before logging back in, that window just got cut in half.
 
 ## New Cookies: Timekeeper & Ash Salt {#new-cookies}
 

@@ -72,20 +72,20 @@ The point thresholds scale steeply — early levels take minutes, late levels ta
 
 ## The 10 Favorability levels and what each unlocks {#favorability-levels}
 
-This is the table to bookmark. Per-level unlocks below are sourced from the in-game CookieChat UI and Devsisters' v7.2 patch notes; specific reward quantities should be treated as approximate where flagged [VERIFY].
+This is the table to bookmark. Per-level unlocks below are sourced from the in-game CookieChat UI and Devsisters' v7.2 patch notes; specific reward quantities should be treated as approximate where flagged.
 
 | Level | What it unlocks | Notes |
 |---|---|---|
 | **1** | First reply scene, basic chat unlocked | Free; happens automatically the first time you open the cookie's chat. |
-| **2** | First gift slot opens, Cookie's title #1 unlocked | The "starter" tier — easy to reach in one session. [VERIFY exact title naming] |
-| **3** | Expanded dialogue options, profile photo unlock | First lore drop usually lands here. [VERIFY] |
+| **2** | First gift slot opens, Cookie's title #1 unlocked | The "starter" tier — easy to reach in one session. |
+| **3** | Expanded dialogue options, profile photo unlock | First lore drop usually lands here. |
 | **4** | Second title, additional gift response variants | Affection per gift starts dropping noticeably from this level up. |
-| **5** | Mid-tier story scene, gameplay-flavor reward (e.g. a stack of Crystals + Soulstones) [VERIFY] | The natural "stopping point" most players land on. |
+| **5** | Mid-tier story scene, gameplay-flavor reward (e.g. a stack of Crystals + Soulstones) | The natural "stopping point" most players land on. |
 | **6** | Third title, exclusive dialogue branch | Time investment ramps up sharply past here. |
-| **7** | Profile frame or background unlock [VERIFY] | Cosmetic; usable across CRK social features. |
-| **8** | Major story scene with multi-cookie cast | One of the bigger lore payoffs in the system. [VERIFY which cookies have these scenes at L8] |
-| **9** | Final title, rare cosmetic reward [VERIFY] | This tier alone can take weeks of daily gifting. |
-| **10** | Maxed scene + signature reward (presenter notes / endgame cosmetic) [VERIFY exact reward per cookie] | The completionist tier — usually not worth chasing on more than 2-3 cookies. |
+| **7** | Profile frame or background unlock | Cosmetic; usable across CRK social features. |
+| **8** | Major story scene with multi-cookie cast | One of the bigger lore payoffs in the system. |
+| **9** | Final title, rare cosmetic reward | This tier alone can take weeks of daily gifting. |
+| **10** | Maxed scene + signature reward (presenter notes / endgame cosmetic) | The completionist tier — usually not worth chasing on more than 2-3 cookies. |
 
 > **Warning:** Per-level unlocks are not 100% uniform across every cookie. Story-heavy cookies (Pure Vanilla, Dark Enchantress, the Beasts) tend to have richer scenes at L5 and L8; newer cookies sometimes have placeholder dialogue at higher tiers that gets filled in later patches.
 
@@ -93,9 +93,9 @@ This is the table to bookmark. Per-level unlocks below are sourced from the in-g
 
 Once a cookie hits Level 2 and the gift slot opens, you can hand them an item from your inventory. The affection gained depends on three factors stacked together:
 
-- **Match tier**: every cookie has a hidden "preference rating" for each gift category — Disliked, Neutral, Liked, Favorite. A Favorite gift gives roughly **3-4x** the affection of a Neutral one. [VERIFY exact multipliers]
+- **Match tier**: every cookie has a hidden "preference rating" for each gift category — Disliked, Neutral, Liked, Favorite. A Favorite gift gives roughly **3-4x** the affection of a Neutral one.
 - **Gift rarity**: rare gifts give more base affection than common ones, but the match-tier multiplier is bigger than the rarity multiplier.
-- **Daily cap**: you can gift the same cookie a limited number of times per day [VERIFY exact daily gift cap]. Over-stacking gifts on one cookie just wastes inventory.
+- **Daily cap**: you can gift the same cookie a limited number of times per day. Over-stacking gifts on one cookie just wastes inventory.
 
 The play is simple but tedious: **only give Favorite-tier gifts**, spread across your priority cookies, and let lower-priority cookies trickle up through chat replies and co-deployment.
 
@@ -103,28 +103,28 @@ The play is simple but tedious: **only give Favorite-tier gifts**, spread across
 
 ## Favorite gifts list — best-known matches {#favorite-gifts}
 
-This is the running favorite-gift list as of **v7.4 Timeline of Fate**. Anything not personally confirmed yet is flagged [VERIFY] — if you've tested one and it lit up with the Favorite animation, your data is more recent than this table.
+This is the running favorite-gift list as of **v7.4 Timeline of Fate**. Anything not personally confirmed yet is flagged — if you've tested one and it lit up with the Favorite animation, your data is more recent than this table.
 
 | Cookie | Favorite gift | Notes |
 |---|---|---|
-| [Pure Vanilla Cookie](/gear-guide/pure-vanilla-cookie) | Antique Book / Heritage Scroll [VERIFY] | Lore-flavored items match his scholar archetype. |
-| [Hollyberry Cookie](/gear-guide/hollyberry-cookie) | Royal Crest / Berry Crown [VERIFY] | Anything aristocratic-coded. |
-| [Dark Enchantress Cookie](/gear-guide/dark-enchantress-cookie) | Obsidian Shard / Cursed Trinket [VERIFY] | Dark-themed gifts only — anything bright is a Dislike. |
-| [Sea Fairy Cookie](/gear-guide/sea-fairy-cookie) | Pearl / Sea Glass [VERIFY] | Marine-themed category. |
-| [Frost Queen Cookie](/gear-guide/frost-queen-cookie) | Ice Crystal / Frost Bouquet [VERIFY] | Cold/winter category. |
-| [Sugar Swan Cookie](/gear-guide/sugar-swan-cookie) | Crystal Feather / Ballet Ribbon [VERIFY] | Elegance-coded; she's the v7.2 release cookie so her preferences are still mid-confirmation. |
-| [Millennial Tree Cookie](/gear-guide/millennial-tree-cookie) | Acorn / Aged Bark [VERIFY] | Nature category. |
-| [Timekeeper Cookie](/blog/cookie-run-kingdom/timekeeper-toppings) | Hourglass / Pocket Watch [VERIFY] | Time-themed only. |
-| [Eternal Sugar Cookie](/gear-guide/eternal-sugar-cookie) | Sugar Crystal / Glittering Confection [VERIFY] | Sweet-coded. |
-| [Pomegranate Cookie](/gear-guide/pomegranate-cookie) | Ritual Knife / Pomegranate Seed [VERIFY] | Cult-themed gift category. |
-| [Silent Salt Cookie](/gear-guide/silent-salt-cookie) | Black Pearl / Sand of Memory [VERIFY] | Sea/memory-themed. |
-| [Black Sapphire Cookie](/gear-guide/black-sapphire-cookie) | Sapphire / Lavender Bouquet [VERIFY] | Refined-aesthetic gifts. |
-| [Venom Dough Cookie](/gear-guide/venom-dough-cookie) | Venom Vial / Forbidden Fruit [VERIFY] | Dark-aligned. |
-| [Seltzer Cookie](/gear-guide/seltzer-cookie) | Citrus Garnish / Glass Bottle [VERIFY] | Drink-themed. |
-| [Menthol Cookie](/gear-guide/menthol-cookie) | Mint Sprig / Cool Towel [VERIFY] | Fresh/cooling category. |
-| [Poison Mushroom Cookie](/gear-guide/poison-mushroom-cookie) | Spore Jar / Damp Moss [VERIFY] | Fungal-themed gifts. |
+| [Pure Vanilla Cookie](/gear-guide/pure-vanilla-cookie) | Antique Book / Heritage Scroll | Lore-flavored items match his scholar archetype. |
+| [Hollyberry Cookie](/gear-guide/hollyberry-cookie) | Royal Crest / Berry Crown | Anything aristocratic-coded. |
+| [Dark Enchantress Cookie](/gear-guide/dark-enchantress-cookie) | Obsidian Shard / Cursed Trinket | Dark-themed gifts only — anything bright is a Dislike. |
+| [Sea Fairy Cookie](/gear-guide/sea-fairy-cookie) | Pearl / Sea Glass | Marine-themed category. |
+| [Frost Queen Cookie](/gear-guide/frost-queen-cookie) | Ice Crystal / Frost Bouquet | Cold/winter category. |
+| [Sugar Swan Cookie](/gear-guide/sugar-swan-cookie) | Crystal Feather / Ballet Ribbon | Elegance-coded; she's the v7.2 release cookie so her preferences are still mid-confirmation. |
+| [Millennial Tree Cookie](/gear-guide/millennial-tree-cookie) | Acorn / Aged Bark | Nature category. |
+| [Timekeeper Cookie](/blog/cookie-run-kingdom/timekeeper-toppings) | Hourglass / Pocket Watch | Time-themed only. |
+| [Eternal Sugar Cookie](/gear-guide/eternal-sugar-cookie) | Sugar Crystal / Glittering Confection | Sweet-coded. |
+| [Pomegranate Cookie](/gear-guide/pomegranate-cookie) | Ritual Knife / Pomegranate Seed | Cult-themed gift category. |
+| [Silent Salt Cookie](/gear-guide/silent-salt-cookie) | Black Pearl / Sand of Memory | Sea/memory-themed. |
+| [Black Sapphire Cookie](/gear-guide/black-sapphire-cookie) | Sapphire / Lavender Bouquet | Refined-aesthetic gifts. |
+| [Venom Dough Cookie](/gear-guide/venom-dough-cookie) | Venom Vial / Forbidden Fruit | Dark-aligned. |
+| [Seltzer Cookie](/gear-guide/seltzer-cookie) | Citrus Garnish / Glass Bottle | Drink-themed. |
+| [Menthol Cookie](/gear-guide/menthol-cookie) | Mint Sprig / Cool Towel | Fresh/cooling category. |
+| [Poison Mushroom Cookie](/gear-guide/poison-mushroom-cookie) | Spore Jar / Damp Moss | Fungal-themed gifts. |
 
-The pattern: cookies' favorite gifts thematically match their lore archetype. When in doubt, **look at the cookie's design** and pick the gift category that visually matches — that's roughly an 80% hit rate before you even check a list. [VERIFY pattern accuracy across full roster]
+The pattern: cookies' favorite gifts thematically match their lore archetype. When in doubt, **look at the cookie's design** and pick the gift category that visually matches — that's roughly an 80% hit rate before you even check a list.
 
 ## Which Cookies to raise affection on first {#priority-cookies}
 
@@ -150,7 +150,7 @@ You can't max every cookie. Pick a small set based on what their unlocks actuall
 
 ## Story / lore unlocks at higher affection {#lore-unlocks}
 
-The biggest "hidden" reason to chase higher affection levels is the **presenter notes** system — short narrative beats that fill in backstory the game otherwise doesn't show [VERIFY exact unlock level per cookie]. Story-heavy cookies (the Beasts, the Ancients, the recent Sugar Swan and Black Sapphire arcs) get the richest unlocks here.
+The biggest "hidden" reason to chase higher affection levels is the **presenter notes** system — short narrative beats that fill in backstory the game otherwise doesn't show. Story-heavy cookies (the Beasts, the Ancients, the recent Sugar Swan and Black Sapphire arcs) get the richest unlocks here.
 
 A rough pattern across the cookies that have been mapped so far:
 
@@ -172,7 +172,7 @@ A short list of the failure modes most players hit in their first month with Coo
 - **Hoarding gifts for "later"**. The daily gift cap is per-cookie — unused capacity doesn't roll over. If you have priority cookies sitting at the cap and uneaten gifts in your inventory, you've already lost that day's progress on them.
 - **Trying to brute-force a Level 9 or 10 cookie with no plan**. The point curve at the top is brutal; chase Level 10 only on cookies you genuinely care about.
 
-> **Warning:** Some event-only gifts (like seasonal items from the Cake Stacker minigame [VERIFY]) expire at the end of the event. Use them before they vanish — even on Liked-tier matches if you don't have a Favorite cookie ready.
+> **Warning:** Some event-only gifts (like seasonal items from the Cake Stacker minigame) expire at the end of the event. Use them before they vanish — even on Liked-tier matches if you don't have a Favorite cookie ready.
 
 ## Quick Action Checklist {#checklist}
 

@@ -13,10 +13,14 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const cookie = ALL_COOKIES.find(c => c.slug === slug);
   if (!cookie) return { title: 'Cookie Not Found' };
 
+  const hasBuild =
+    cookie.build !== null &&
+    (cookie.build.beascuit !== '' || cookie.build.toppings !== '' || cookie.build.tart !== '');
+
   const title = `${cookie.name} Gear Guide — Best Toppings & Build`;
-  const description = cookie.build
-    ? `Best ${cookie.name} build: ${cookie.build.toppings} toppings, ${cookie.build.beascuit} beascuit, ${cookie.build.tart} tart. ${cookie.rarity} ${cookie.type} cookie gear guide by Mythras.`
-    : `${cookie.name} gear guide — ${cookie.rarity} ${cookie.type} cookie. Toppings, beascuits, and build recommendations by Mythras.`;
+  const description = hasBuild
+    ? `Best ${cookie.name} build: ${cookie.build!.toppings} toppings, ${cookie.build!.beascuit} beascuit, ${cookie.build!.tart} tart. ${cookie.rarity} ${cookie.type} cookie gear guide by Mythras.`
+    : `${cookie.name} gear guide — ${cookie.rarity} ${cookie.type} cookie. Build coming soon from Mythras.`;
 
   return {
     title,
@@ -37,6 +41,11 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     alternates: {
       canonical: `https://gamertagmythras.com/gear-guide/${slug}`,
     },
+    // Stub pages (build not yet filled in) are excluded from search indexes
+    // until they have substantive content. Still discoverable on-site.
+    robots: hasBuild
+      ? { index: true, follow: true }
+      : { index: false, follow: true },
   };
 }
 

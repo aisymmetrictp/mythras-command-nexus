@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { OrganizationSchema } from "@/components/StructuredData";
+import CookieConsent from "@/components/CookieConsent";
 import "./globals.css";
 
 const SITE_URL = "https://gamertagmythras.com";
@@ -90,6 +91,7 @@ export default function RootLayout({
           <textarea name="message" />
         </form>
         {children}
+        <CookieConsent />
       </body>
     </html>
   );

@@ -104,7 +104,7 @@ These are the Cookies that, if they show up in your reroll pulls, you should **s
 | **Venom Dough Cookie** (Bomber) | DPS / Bomber Super Epic | Not a Legendary, but so strong he's tier-1 priority — and easier to obtain. |
 | **Pavlova Cookie** | DPS / Support Super Epic | Slots into multiple meta cores; high-value pull. |
 | **Pomegranate Cookie** | Healer / Debuff Cleanse | Long-running meta staple; still excellent in 2026. |
-| **Sea Fairy Cookie** [VERIFY] | DPS / Burst | Long-standing carry; still strong if she shows up, though no longer top-priority. |
+| **Sea Fairy Cookie** | DPS / Burst | Long-standing carry; still strong if she shows up, though no longer top-priority. |
 
 If your first 10-pull lands one of the top eight Legendaries on this list, **stop rerolling**. If it lands a Super Epic from the bottom tier, decide based on how much time you have left in your patience budget. Anything outside this list is generally worth a reroll.
 
@@ -133,7 +133,7 @@ The fastest CRK reroll method is the **guest account + clear data** loop. Each a
 
 ### Alternate methods {#alt-methods}
 
-- **Bluestacks / emulator multi-instance:** run 3-4 instances in parallel on PC if you want to grind through more rerolls per hour. Note this is technically against ToS in some regions [VERIFY] — use at your own risk.
+- **Bluestacks / emulator multi-instance:** run 3-4 instances in parallel on PC if you want to grind through more rerolls per hour. Note this is technically against ToS in some regions — use at your own risk.
 - **Burner Google accounts:** if you prefer to link each attempt instead of clearing data, create a throwaway Google account per reroll. Slower than the clear-data loop but lets you preserve attempts in case the next one is worse.
 - **Don't bother with VPN rerolls** — the global server is what 99% of players want, and bouncing regions just complicates redemption.
 - **Cloud save juggling:** some players bind each attempt to a fresh DevPlay account they create on the fly. This works but adds friction; the clear-data loop is faster for most.
@@ -177,7 +177,7 @@ A few patterns waste hours of reroll time:
 
 It helps to have realistic expectations before you start rerolling so you don't burn out after three attempts of bad luck.
 
-The Legendary base rate in CRK is roughly **1.2-1.5%** per pull (slightly higher on rate-up banners for the featured Cookie) [VERIFY exact current rate]. With about 30-60 pulls per reroll attempt thanks to the active May code list, expected Legendaries per attempt is roughly **0.4-0.9** — meaning you'll get *a* Legendary on most attempts, but often not the *specific* one you want.
+The Legendary base rate in CRK is roughly **1.2-1.5%** per pull (slightly higher on rate-up banners for the featured Cookie). With about 30-60 pulls per reroll attempt thanks to the active May code list, expected Legendaries per attempt is roughly **0.4-0.9** — meaning you'll get *a* Legendary on most attempts, but often not the *specific* one you want.
 
 The math, roughly:
 

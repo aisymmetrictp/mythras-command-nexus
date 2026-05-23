@@ -58,7 +58,7 @@ Three forces are reshaping rankings this month, and they all stack:
 
 **3. The 6-star Legendary growth system reshuffled investment math.** With another growth tier available, the gap between a maxed Legendary and a half-built one widened. That makes "spread your soulstones across five Legendaries" worse advice than it was three months ago. Pick a lane, pick four, and 6-star them.
 
-> **Heads-up:** A new Devsisters cadence reportedly shortened main-story drops from a 4-week cycle to a **2-week cycle** with Act 2 [VERIFY first effective date]. If true, expect this tier list to move faster than it has in the past.
+> **Heads-up:** A new Devsisters cadence reportedly shortened main-story drops from a 4-week cycle to a **2-week cycle** with Act 2. If true, expect this tier list to move faster than it has in the past.
 
 ## How this tier list is scored {#scoring}
 

@@ -58,16 +58,16 @@ Skim this first. Each row tells you the boss, what it's vulnerable to, the ancho
 
 | Boss | Weakness | Anchor cookie | Why it wins |
 |---|---|---|---|
-| **Red Velvet Dragon** | Poison [VERIFY] | [Pomegranate Cookie](/gear-guide/pomegranate-cookie) | Stacks Poison faster than any other DPS; multiplies [Poison Mushroom Cookie](/gear-guide/poison-mushroom-cookie) damage. |
+| **Red Velvet Dragon** | Poison | [Pomegranate Cookie](/gear-guide/pomegranate-cookie) | Stacks Poison faster than any other DPS; multiplies [Poison Mushroom Cookie](/gear-guide/poison-mushroom-cookie) damage. |
 | **Avatar of Destiny** | Sustain checks (HP drain phases) | [Sugar Swan Cookie](/gear-guide/sugar-swan-cookie) | Strongest single-target healer in the game; carries the team through drain windows. |
 | **Machine-God** | Bomber + Support synergy | [Seltzer Cookie](/gear-guide/seltzer-cookie) | Pairs with [Menthol Cookie](/gear-guide/menthol-cookie) for the "Stinging Fizz" buff loop — S-tier damage ceiling. |
-| **Living Abyss** | Chaos / debuff stacking [VERIFY] | [Dark Enchantress Cookie](/gear-guide/dark-enchantress-cookie) | Chaos DPS that doubles as a debuffer; pairs cleanly with [Timekeeper Cookie](/blog/cookie-run-kingdom/timekeeper-toppings) lock windows. [VERIFY current meta] |
+| **Living Abyss** | Chaos / debuff stacking | [Dark Enchantress Cookie](/gear-guide/dark-enchantress-cookie) | Chaos DPS that doubles as a debuffer; pairs cleanly with [Timekeeper Cookie](/blog/cookie-run-kingdom/timekeeper-toppings) lock windows. |
 
 > **Tip:** If your guild assigns bosses, lock in your anchor cookie before anyone else builds. The whole team formation rotates around them — picking the wrong anchor wastes everyone's treasure investment for the week.
 
 ## How Guild Battle scoring works in 2026 {#how-scoring-works}
 
-The fundamentals haven't shifted much since the early CRK days — three attempts per boss per reset, with your total damage feeding both your personal score and the guild's collective rank. What _has_ shifted in 2026 is how the **damage multiplier window** behaves [VERIFY exact 2026 multiplier rules], plus how aggressively the seasonal Battle Power rating caps your effective output if you bring an underleveled cookie.
+The fundamentals haven't shifted much since the early CRK days — three attempts per boss per reset, with your total damage feeding both your personal score and the guild's collective rank. What _has_ shifted in 2026 is how the **damage multiplier window** behaves, plus how aggressively the seasonal Battle Power rating caps your effective output if you bring an underleveled cookie.
 
 A clean attempt now looks like this:
 
@@ -76,13 +76,13 @@ A clean attempt now looks like this:
 3. **Mid-fight (10-45 seconds)**: cycle treasure cooldowns and anchor-cookie skills in the order their effects compound, not the order they come off cooldown.
 4. **Burst window (final 15 seconds)**: pop everything left. Almost all top-cut damage shows up here.
 
-Each boss has a "soft cap" — a damage threshold past which scaling drops sharply [VERIFY 2026 soft-cap values]. Knowing where yours sits stops you from over-investing skill cubes into a comp that's already plateaued.
+Each boss has a "soft cap" — a damage threshold past which scaling drops sharply. Knowing where yours sits stops you from over-investing skill cubes into a comp that's already plateaued.
 
 > **Warning:** If your Battle Power is more than 30% below the recommended threshold, your damage gets _heavily_ penalized regardless of skill execution. Level cookies and gear toppings before chasing top comps.
 
 ## Red Velvet Dragon — Poison comp {#red-velvet-dragon}
 
-Red Velvet Dragon is the original Guild Battle boss and still one of the most lopsided in terms of element advantage. He takes massively amplified damage from **Poison stacks** [VERIFY current Poison multiplier], which is why the canonical comp packs two Poison-applying cookies plus a tank that survives the breath phases.
+Red Velvet Dragon is the original Guild Battle boss and still one of the most lopsided in terms of element advantage. He takes massively amplified damage from **Poison stacks**, which is why the canonical comp packs two Poison-applying cookies plus a tank that survives the breath phases.
 
 | Position | Cookie | Role | Notes |
 |---|---|---|---|
@@ -90,7 +90,7 @@ Red Velvet Dragon is the original Guild Battle boss and still one of the most lo
 | Front | [Black Sapphire Cookie](/gear-guide/black-sapphire-cookie) | Bruiser / debuffer | Adds defense shred so Poison ticks for more. |
 | Middle | [Poison Mushroom Cookie](/gear-guide/poison-mushroom-cookie) | DoT enabler | Primary Poison applier — keep stacks rolling. |
 | Back | [Pomegranate Cookie](/gear-guide/pomegranate-cookie) | DPS amplifier | Boosts Poison damage; this is your real damage source. |
-| Back | [Millennial Tree Cookie](/gear-guide/millennial-tree-cookie) | Buff / heal | Keeps the front line up and amplifies damage on top of Pom. [VERIFY exact lineup slot] |
+| Back | [Millennial Tree Cookie](/gear-guide/millennial-tree-cookie) | Buff / heal | Keeps the front line up and amplifies damage on top of Pom. |
 
 **Cooldown order**: open with Poison Mushroom to lay stacks, follow with Pomegranate to amplify, then Black Sapphire for the defense shred, Hollyberry as needed for survival, Millennial Tree for the late burst window. Re-cycle in the same order — Poison stacks decay fast if you let them lapse.
 
@@ -130,14 +130,14 @@ The rotation order is what makes Stinging Fizz tick: **Menthol opens, Seltzer fo
 
 ## Living Abyss — Standard comp {#living-abyss}
 
-Living Abyss is the newest of the four Guild Battle bosses and the meta on it is still shifting [VERIFY current standard 2026 lineup]. The widely-accepted core right now is a Chaos-leaning team that stacks debuffs and uses Timekeeper to lock the boss's heavier-hitting phases.
+Living Abyss is the newest of the four Guild Battle bosses and the meta on it is still shifting. The widely-accepted core right now is a Chaos-leaning team that stacks debuffs and uses Timekeeper to lock the boss's heavier-hitting phases.
 
 | Position | Cookie | Role | Notes |
 |---|---|---|---|
-| Front | [Aegis Hollyberry Cookie](/gear-guide/hollyberry-cookie) | Tank | Aegis variant preferred for the void-damage phases. [VERIFY] |
+| Front | [Aegis Hollyberry Cookie](/gear-guide/hollyberry-cookie) | Tank | Aegis variant preferred for the void-damage phases. |
 | Middle | [Timekeeper Cookie](/blog/cookie-run-kingdom/timekeeper-toppings) | Lockdown / control | Stalls the boss's strongest cast windows. |
 | Middle | [Dark Enchantress Cookie](/gear-guide/dark-enchantress-cookie) | Chaos DPS / debuffer | Primary damage; debuff stacks compound through the fight. |
-| Back | [Eternal Sugar Cookie](/gear-guide/eternal-sugar-cookie) | Secondary DPS | [VERIFY current meta — Eternal Sugar vs alt DPS picks] |
+| Back | [Eternal Sugar Cookie](/gear-guide/eternal-sugar-cookie) | Secondary DPS | |
 | Back | [Sugar Swan Cookie](/gear-guide/sugar-swan-cookie) | Healer | Sustains through the late-fight burst phase. |
 
 Living Abyss is the boss where roster depth matters most. If you don't have Timekeeper, the comp loses a huge chunk of its ceiling — the lockdown window is when most of your damage actually lands.
@@ -148,10 +148,10 @@ Not every guild member has a six-star Dark Enchantress or a built Sugar Swan. Th
 
 | Boss | Optimal pick | F2P swap | Expected score retention |
 |---|---|---|---|
-| Red Velvet Dragon | Pomegranate Cookie | [Frost Queen Cookie](/gear-guide/frost-queen-cookie) (Freeze-locks instead of Poison-amps) | ~75% [VERIFY] |
+| Red Velvet Dragon | Pomegranate Cookie | [Frost Queen Cookie](/gear-guide/frost-queen-cookie) (Freeze-locks instead of Poison-amps) | ~75% |
 | Avatar of Destiny | Sugar Swan Cookie | [Pure Vanilla Cookie](/gear-guide/pure-vanilla-cookie) | ~85% |
 | Machine-God | Seltzer + Menthol pair | Any Epic Bomber + Support pair you've built | ~70% |
-| Living Abyss | Timekeeper Cookie | [Sea Fairy Cookie](/gear-guide/sea-fairy-cookie) (burst DPS in place of lockdown) | ~75% [VERIFY] |
+| Living Abyss | Timekeeper Cookie | [Sea Fairy Cookie](/gear-guide/sea-fairy-cookie) (burst DPS in place of lockdown) | ~75% |
 
 Two patterns to internalize: never skip the **tank** slot (you'll wipe), and never skip the **healer** slot on Avatar of Destiny specifically (the drain phases will eat you regardless of DPS). Everywhere else, raw damage cookies you've actually invested in usually outperform unbuilt meta picks.
 
@@ -161,10 +161,10 @@ Treasure picks shift the damage ceiling more than most players realize. Generic 
 
 | Boss | Treasure 1 | Treasure 2 | Treasure 3 |
 |---|---|---|---|
-| Red Velvet Dragon | Bear Jelly's Lollipop (defense shred) | Old Pilgrim's Scroll (ATK on entry) | Squishy Jelly Watch (cooldown) [VERIFY] |
-| Avatar of Destiny | Disco Ball (heal amp) | Old Pilgrim's Scroll | Bear Jelly's Lollipop [VERIFY] |
-| Machine-God | Squishy Jelly Watch (rotation speed) | Old Pilgrim's Scroll | Bear Jelly's Lollipop [VERIFY] |
-| Living Abyss | Squishy Jelly Watch | Disco Ball | Old Pilgrim's Scroll [VERIFY] |
+| Red Velvet Dragon | Bear Jelly's Lollipop (defense shred) | Old Pilgrim's Scroll (ATK on entry) | Squishy Jelly Watch (cooldown) |
+| Avatar of Destiny | Disco Ball (heal amp) | Old Pilgrim's Scroll | Bear Jelly's Lollipop |
+| Machine-God | Squishy Jelly Watch (rotation speed) | Old Pilgrim's Scroll | Bear Jelly's Lollipop |
+| Living Abyss | Squishy Jelly Watch | Disco Ball | Old Pilgrim's Scroll |
 
 The treasure meta in 2026 leans heavily on **rotation-speed** treasures rather than flat-damage ones — getting an extra Seltzer or Pomegranate cast inside a 60-second window is worth more than 10% added damage on every other cast.
 

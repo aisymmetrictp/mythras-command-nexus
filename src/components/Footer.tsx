@@ -64,22 +64,30 @@ export default function Footer() {
           </div>
 
           <div>
-            <h4 className="text-sm font-bold mb-4 text-[#D4A853]">Quick Links</h4>
+            <h4 className="text-sm font-bold mb-4 text-[#D4A853]">Site</h4>
             <ul className="space-y-2.5">
-              <li><Link href="/#content-hub" className="text-sm text-[#9999aa] hover:text-white transition-colors">Video Vault</Link></li>
-              <li><Link href="/#schedule" className="text-sm text-[#9999aa] hover:text-white transition-colors">Stream Schedule</Link></li>
-              <li><Link href="/#community" className="text-sm text-[#9999aa] hover:text-white transition-colors">Community</Link></li>
-              <li><a href="https://discord.gg/mFg8mbxtTS" target="_blank" rel="noopener noreferrer" className="text-sm text-[#9999aa] hover:text-white transition-colors">Join Discord</a></li>
+              <li><Link href="/about" className="text-sm text-[#9999aa] hover:text-white transition-colors">About</Link></li>
+              <li><Link href="/blog" className="text-sm text-[#9999aa] hover:text-white transition-colors">Blog</Link></li>
+              <li><Link href="/gear-guide" className="text-sm text-[#9999aa] hover:text-white transition-colors">Gear Guide</Link></li>
+              <li><Link href="/cake-tower" className="text-sm text-[#9999aa] hover:text-white transition-colors">Cake Tower</Link></li>
+              <li><Link href="/contact" className="text-sm text-[#9999aa] hover:text-white transition-colors">Contact</Link></li>
             </ul>
           </div>
         </div>
 
         <div className="border-t border-[#D4A853]/10 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
-          <p className="text-xs text-[#55556a]">
-            &copy; {new Date().getFullYear()} Mythras. All rights reserved.
-          </p>
-          <p className="text-xs text-[#D4A853]/40">
-            Mythras // The Multiverse — Elite Gameplay. Live Energy. Full Ecosystem.
+          <div className="flex flex-col md:flex-row items-center gap-x-4 gap-y-2 text-xs text-[#55556a]">
+            <span>&copy; {new Date().getFullYear()} Mythras // The Multiverse.</span>
+            <div className="flex items-center gap-3">
+              <Link href="/privacy-policy" className="hover:text-[#D4A853] transition-colors">Privacy</Link>
+              <span className="text-[#333]">·</span>
+              <Link href="/terms" className="hover:text-[#D4A853] transition-colors">Terms</Link>
+              <span className="text-[#333]">·</span>
+              <Link href="/contact" className="hover:text-[#D4A853] transition-colors">Contact</Link>
+            </div>
+          </div>
+          <p className="text-xs text-[#D4A853]/40 text-center md:text-right">
+            Independent fan site. Not affiliated with Devsisters Corp.
           </p>
         </div>
       </div>

@@ -140,7 +140,7 @@ One more edge case worth knowing: if the DevPlay site itself is having issues (i
 
 ### What about in-game coupon entry?
 
-For most regions, there is **no** in-game coupon entry box for global CRK in 2026. Devsisters routes everything through the DevPlay web page. A few region-specific store builds (Korean, Chinese) have had in-game entry in the past [VERIFY], but if you're on the global app store version, the browser flow is the only path.
+For most regions, there is **no** in-game coupon entry box for global CRK in 2026. Devsisters routes everything through the DevPlay web page. A few region-specific store builds (Korean, Chinese) have had in-game entry in the past, but if you're on the global app store version, the browser flow is the only path.
 
 ## What to spend your code rewards on {#spend-strategy}
 

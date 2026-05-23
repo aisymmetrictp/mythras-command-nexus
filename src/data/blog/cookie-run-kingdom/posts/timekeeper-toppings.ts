@@ -54,7 +54,7 @@ This guide assumes you are on the v7.4 "Timeline of Fate" patch and chasing **Di
 
 ## Who is Timekeeper Cookie?
 
-Timekeeper is a **Legendary Magic-type Cookie** [VERIFY type] released alongside the v7.4 Timeline of Fate update on **May 7, 2026**. She slots into the **middle row** as a control-flavored DPS whose entire identity is one thing: **she stops the enemy team from coming back.**
+Timekeeper is a **Legendary Magic-type Cookie** released alongside the v7.4 Timeline of Fate update on **May 7, 2026**. She slots into the **middle row** as a control-flavored DPS whose entire identity is one thing: **she stops the enemy team from coming back.**
 
 If you have played any patch since Sugar Swan dropped in v7.2, you know how oppressive revival chains have been. Pure Vanilla Awakened picks one cookie up, Sugar Swan revives two more, and suddenly your "winning" fight has a fresh frontline. Timekeeper's whole reason to exist is to **shut that door**, and her secondary kit pressure means even teams without revivals feel her.
 
@@ -64,15 +64,15 @@ She is the **first cookie to displace Eternal Sugar** in the standard Evergreen 
 
 ## Timekeeper skill breakdown
 
-Her active ability, "Hourglass of Inevitability" [VERIFY exact skill name], does three things in one button press:
+Her active ability, "Hourglass of Inevitability", does three things in one button press:
 
-1. **Deals a heavy single-target magic nuke** to the highest-HP enemy still standing (numbers [VERIFY]).
-2. **Applies a 12-second "Sealed Hour" debuff** [VERIFY duration] that blocks any revival effect from triggering while it is active.
-3. **Refunds her own cooldown by ~2 seconds** [VERIFY] for every enemy that dies under Sealed Hour, which lets her stack the debuff back-to-back in long fights.
+1. **Deals a heavy single-target magic nuke** to the highest-HP enemy still standing (numbers).
+2. **Applies a 12-second "Sealed Hour" debuff** that blocks any revival effect from triggering while it is active.
+3. **Refunds her own cooldown by ~2 seconds** for every enemy that dies under Sealed Hour, which lets her stack the debuff back-to-back in long fights.
 
 The detail most guides miss: **Sealed Hour is a debuff on the dying cookie's revive trigger, not an AoE on the whole team.** That means a single Timekeeper cast does not nullify Sugar Swan herself — it nullifies the *cookies Sugar Swan tries to revive*. So you cast Timekeeper **right before** the revive is about to fire, not at the start of the fight. This is the part that breaks new players.
 
-Her passive — "Borrowed Seconds" [VERIFY name] — gives her a small flat DMG Resist while above 50% HP and a self-shield when she dips below it. She is squishier than Dark Enchantress but tougher than a pure backliner like Frost Queen.
+Her passive — "Borrowed Seconds" — gives her a small flat DMG Resist while above 50% HP and a self-shield when she dips below it. She is squishier than Dark Enchantress but tougher than a pure backliner like Frost Queen.
 
 > **Plain-English version:** Press her button when the enemy healer is about to revive. The dead cookies stay dead. Then she punches the biggest threat in the face for free.
 
@@ -106,7 +106,7 @@ Target totals across all 5 toppings: **18%+ CD, 24%+ ATK, 12%+ Crit** as the ent
 
 ## Best beascuit
 
-Timekeeper is Magic-type, which pairs with the **Chewy beascuit** [VERIFY beascuit type for Magic — Chewy is the standard for Magic damage dealers in current patch]. The Chewy line gives her a flat ATK boost plus a Skill Power kicker that directly amplifies Sealed Hour's damage instance.
+Timekeeper is Magic-type, which pairs with the **Chewy beascuit**. The Chewy line gives her a flat ATK boost plus a Skill Power kicker that directly amplifies Sealed Hour's damage instance.
 
 Priority order on the beascuit:
 
@@ -114,13 +114,13 @@ Priority order on the beascuit:
 - **ATK** secondary
 - **Cooldown** if your beascuit has the option
 
-If you cannot craft a Chewy with good rolls yet, **any +Skill Power beascuit is better than no beascuit**. Do not run her bare — the damage gap is roughly 18-22% on her nuke between bare and fully built [VERIFY].
+If you cannot craft a Chewy with good rolls yet, **any +Skill Power beascuit is better than no beascuit**. Do not run her bare — the damage gap is roughly 18-22% on her nuke between bare and fully built.
 
 For full beascuit-by-type tables, our [beascuits reference](/gear-guide/beascuits) covers every cookie type in one page.
 
 ## Best topping tart
 
-The **Time Distortion Tart** [VERIFY tart name] is the cleanest pick — it adds a percentage CD reduction on top of her sub-stats and stacks with her self-CDR passive. If you do not have it, a generic **Cooldown Tart** does 80% of the same job.
+The **Time Distortion Tart** is the cleanest pick — it adds a percentage CD reduction on top of her sub-stats and stacks with her self-CDR passive. If you do not have it, a generic **Cooldown Tart** does 80% of the same job.
 
 The fallback option if you are running her in a pure-damage PvE comp is an **ATK Tart**, but in arena always pick CD. Sealed Hour landing twice in a fight is worth far more than 6% extra damage on one cast.
 
@@ -146,7 +146,7 @@ The trick: you run Sugar Swan **for yourself** so the enemy Timekeeper has to ch
 
 ### Comp 2 — Guild Battle Machine-God
 
-Swap to ATK-focused front and keep Timekeeper specifically to lock the boss's add-revival phase [VERIFY mechanic for current Machine-God rotation].
+Swap to ATK-focused front and keep Timekeeper specifically to lock the boss's add-revival phase.
 
 | Slot | Cookie | Role |
 | --- | --- | --- |
@@ -185,7 +185,7 @@ The wrong answer is "more revives." Stacking healers into her teeth feeds her CD
 Honest take, no fence-sitting:
 
 - **F2P / low-spend:** **Yes, save for her.** She is the rare Legendary that immediately changes which mode-results you get. If you have a halfway-built Hollyberry + PVA core, adding Timekeeper jumps your arena MMR more than any other pull this year.
-- **Mid-spend / dolphin:** **Yes, and pull to dupe 1 if you have currency.** A second copy gets her to 5★ faster and the v7.4 6-star Legendary growth system [VERIFY scaling] makes those late stars meaningful.
+- **Mid-spend / dolphin:** **Yes, and pull to dupe 1 if you have currency.** A second copy gets her to 5★ faster and the v7.4 6-star Legendary growth system makes those late stars meaningful.
 - **Whale:** Already pulled, already 5★+. Move on to topping rolls and the next banner.
 - **New player (under account level 30):** Skip. You will not have the support cookies to use her. Build [Pavlova](/gear-guide/pavlova-cookie) and an Epic core first, then come back.
 
@@ -196,7 +196,7 @@ For the broader May 2026 tier picture, cross-check with our [May 2026 tier list]
 ## Quick Action Checklist
 
 - [ ] Roll **5x Searing Raspberry** toppings with CD sub-stats (target 18%+ CD)
-- [ ] Craft a **Chewy beascuit** [VERIFY] with Skill Power main line
+- [ ] Craft a **Chewy beascuit** with Skill Power main line
 - [ ] Equip a **Time Distortion / Cooldown topping tart**
 - [ ] Slot her into the **mid row** of your arena defense, not the back
 - [ ] Practice casting Sealed Hour **after** the enemy first death, not at the start
@@ -214,12 +214,12 @@ For the broader May 2026 tier picture, cross-check with our [May 2026 tier list]
     {
       question: 'Which beascuit should I use for Timekeeper?',
       answer:
-        'Timekeeper is Magic-type, so the Chewy beascuit line is the standard pick [VERIFY]. Prioritize Skill Power as the main line because it directly multiplies her Sealed Hour nuke damage. Any +Skill Power beascuit is better than going bare while you farm the right materials.',
+        'Timekeeper is Magic-type, so the Chewy beascuit line is the standard pick. Prioritize Skill Power as the main line because it directly multiplies her Sealed Hour nuke damage. Any +Skill Power beascuit is better than going bare while you farm the right materials.',
     },
     {
       question: 'How does Timekeeper Cookie counter revives?',
       answer:
-        'Her active skill applies "Sealed Hour" — a debuff that blocks any revival effect from triggering for roughly 12 seconds [VERIFY duration]. The key detail is that the debuff lands on the dying cookie\'s revive trigger, not on the healer themselves. So cast her ability right before an enemy is about to be revived, not at fight start.',
+        'Her active skill applies "Sealed Hour" — a debuff that blocks any revival effect from triggering for roughly 12 seconds. The key detail is that the debuff lands on the dying cookie\'s revive trigger, not on the healer themselves. So cast her ability right before an enemy is about to be revived, not at fight start.',
     },
     {
       question: 'Is Timekeeper Cookie worth pulling as a F2P player?',

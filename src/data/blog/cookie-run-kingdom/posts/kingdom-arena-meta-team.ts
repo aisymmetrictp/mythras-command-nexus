@@ -69,7 +69,7 @@ That is the lineup. Every part of it is doing two jobs at once, which is what se
 
 There are three real synergies stacked here, not five. Get these three and you understand the comp:
 
-1. **Hollyberry + Pure Vanilla rally.** "Warmth of Compassion" [VERIFY exact rally name and proc condition] triggers off the front-row pairing and gives the whole team a sustained ATK + DMG Resist buff for the first ~15 seconds of the fight. That window is the whole game in arena.
+1. **Hollyberry + Pure Vanilla rally.** "Warmth of Compassion" triggers off the front-row pairing and gives the whole team a sustained ATK + DMG Resist buff for the first ~15 seconds of the fight. That window is the whole game in arena.
 2. **Dark Enchantress + Timekeeper damage stack.** DE handles AoE pressure; Timekeeper handles the one cookie DE cannot kill (usually the enemy tank or backline healer). They cover each other's weaknesses without competing for kills.
 3. **Sugar Swan + Timekeeper mirror lock.** Your Swan threatens to revive your team, which forces enemy Timekeeper to spend Sealed Hour on your revival instead of nuking DE. That tempo trade is the win condition.
 
@@ -86,7 +86,7 @@ If your fight has not snowballed by turn 5, you mis-timed Sealed Hour. Reset and
 
 ## Per-slot deep dive: Aegis Hollyberry (front)
 
-**Build:** 5x Solid Almond (DMG Resist) toppings with HP sub-stats. Tank beascuit [VERIFY type]. Standard tank treasure on her dedicated slot — see the [Hollyberry gear page](/gear-guide/hollyberry-cookie) for the exact roll targets.
+**Build:** 5x Solid Almond (DMG Resist) toppings with HP sub-stats. Tank beascuit. Standard tank treasure on her dedicated slot — see the [Hollyberry gear page](/gear-guide/hollyberry-cookie) for the exact roll targets.
 
 She is here for two reasons. First, she has the highest effective health pool in front-row Legendaries after her Awakened upgrade in v6.5. Second, her rally trigger with Pure Vanilla is the keystone buff for the whole comp. You cannot replace her with a generic tank — the rally is cookie-specific.
 
@@ -107,11 +107,11 @@ If you have [Venom Dough](/gear-guide/venom-dough-cookie) and need to swap out o
 | Mid 1 | Dark Enchantress |
 | Mid 2 | Venom Dough |
 
-Venom Dough is the **first Super Epic Bomber** [VERIFY] and his burst window aligns with DE's third skill. The two of them together delete enemy backline faster than the standard comp, but you lose Sealed Hour, so use this only against teams without revivals.
+Venom Dough is the **first Super Epic Bomber** and his burst window aligns with DE's third skill. The two of them together delete enemy backline faster than the standard comp, but you lose Sealed Hour, so use this only against teams without revivals.
 
 ## Per-slot deep dive: Timekeeper (anti-revive lock)
 
-**Build:** 5x Searing Raspberry with **CD-heavy sub-stats** (18%+ CD across all five), Chewy beascuit [VERIFY] with Skill Power, Time Distortion / CD tart.
+**Build:** 5x Searing Raspberry with **CD-heavy sub-stats** (18%+ CD across all five), Chewy beascuit with Skill Power, Time Distortion / CD tart.
 
 For the full breakdown on her individual build, see [Timekeeper toppings deep dive](/blog/cookie-run-kingdom/timekeeper-toppings). The relevant point here is that **she is the entire reason this comp exists.** Without her, you are running 2024's PVA-Hollyberry-DE comp with no answer to Sugar Swan revivals — which is exactly the comp this one beats.
 
@@ -132,9 +132,9 @@ That second job is why you do not swap her for a non-Legendary healer at high MM
 
 Treasures are a smaller deal than toppings, but the right three free up about 5-8% effective stats:
 
-- **Old Pilgrim's Scroll** [VERIFY name] — starting cooldown reduction. Helps Timekeeper land Sealed Hour earlier.
-- **Squishy Jelly Watch** [VERIFY name] — extra healing on low-HP cookies. Stacks with Sugar Swan + PVA.
-- **Bookseller's Monocle** [VERIFY name] — first-skill damage boost. Pumps DE's opening burst.
+- **Old Pilgrim's Scroll** — starting cooldown reduction. Helps Timekeeper land Sealed Hour earlier.
+- **Squishy Jelly Watch** — extra healing on low-HP cookies. Stacks with Sugar Swan + PVA.
+- **Bookseller's Monocle** — first-skill damage boost. Pumps DE's opening burst.
 
 If you have other comp-specific treasures (like one of the new v7.4 Timeline-themed treasures), prioritize anti-revive scaling first, then CD reduction, then raw damage.
 
