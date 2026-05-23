@@ -7,6 +7,7 @@ import Footer from '@/components/Footer';
 import ParticleField from '@/components/ParticleField';
 import {
   getCookieBySlug,
+  getCookieDescription,
   ALL_COOKIES,
   RARITY_COLORS,
   TYPE_ICONS,
@@ -139,6 +140,22 @@ export default function CookieGearGuideClient({ slug }: { slug: string }) {
                 </div>
               </div>
             </motion.div>
+
+            {/* About this Cookie — prose description */}
+            <motion.section
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.4, delay: 0.1 }}
+              className="mb-8 rounded-xl border border-[#D4A853]/15 bg-[#0c0c18]/60 backdrop-blur-sm p-6 md:p-7"
+            >
+              <div className="flex items-center gap-2 mb-3">
+                <span className="text-[#D4A853] text-xs font-semibold tracking-[0.2em] uppercase">About this Cookie</span>
+                <div className="h-px flex-1 bg-gradient-to-r from-[#D4A853]/30 to-transparent" />
+              </div>
+              <p className="text-[#c8c8d4] text-sm md:text-base leading-relaxed">
+                {getCookieDescription(cookie)}
+              </p>
+            </motion.section>
 
             {/* Build Section */}
             {cookie.build ? (

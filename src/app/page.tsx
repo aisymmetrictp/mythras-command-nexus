@@ -3,6 +3,7 @@
 import { useYouTubeData } from '@/lib/useYouTubeData';
 import Navbar from '@/components/Navbar';
 import Hero from '@/components/Hero';
+import WhatIsMythras from '@/components/WhatIsMythras';
 import FeaturedContent from '@/components/FeaturedContent';
 import ChannelDeck from '@/components/ChannelDeck';
 import ContentHub from '@/components/ContentHub';
@@ -42,6 +43,7 @@ export default function Home() {
         <Navbar />
         <main>
           <Hero />
+          <WhatIsMythras />
           <FeaturedContent allVideos={ytData.allVideos} loading={ytData.loading} channels={ytData.channels} />
           <ChannelDeck ytChannels={ytData.channels} />
           <ContentHub

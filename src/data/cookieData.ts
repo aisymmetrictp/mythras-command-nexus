@@ -619,3 +619,52 @@ export const GEAR_TIPS = {
     'Always connect your Tart to toppings for the 6-piece set bonus.',
   ],
 };
+
+// Templated prose blurb stitched from cookie identity + role + investment + build context.
+// Used on /gear-guide/[slug] pages to add substantive per-page content beyond the build cards.
+const TYPE_ROLE_BLURBS: Record<CookieType, string> = {
+  Charge: 'Charge Cookies sit in the front line, soaking aggro and disrupting enemy backlines.',
+  Magic: 'Magic Cookies deal high single-target or area magic damage from the middle line.',
+  Ranged: 'Ranged Cookies pump consistent physical damage from the back without taking aggro.',
+  Ambush: 'Ambush Cookies dive enemy backlines for burst damage and assassination plays.',
+  Defense: 'Defense Cookies anchor the front line with high HP and crowd-control survival.',
+  Healing: 'Healing Cookies keep your team alive through sustain checks — non-negotiable in long fights.',
+  Support: 'Support Cookies enable the rest of the team with buffs, debuffs, and resource cycling.',
+  Bomber: 'Bomber Cookies deliver area damage spikes that wipe waves and reset boss rotations.',
+  BTS: 'BTS Cookies are collab specials — flavor-forward and fun, but rarely meta-defining.',
+};
+
+const RARITY_INVESTMENT_BLURBS: Record<CookieRarity, string> = {
+  Beast: "Beast Cookies are the game's rarest tier and reward focused soulstone investment — typically late-game pulls only.",
+  Ancient: 'Ancients anchor most top-tier comps. Worth chasing once your core Legendary roster is settled.',
+  Legendary: "Legendaries are the meta backbone — top-priority pulls if you're optimizing for Arena, Guild Battle, or Beast-Yeast.",
+  Dragon: 'Dragon Cookies release as limited-event banners — pull during the window or wait months for a possible return.',
+  'Super Epic': 'Super Epics are mid-investment picks — strong enough to slot into top comps without the crystal cost of a Legendary.',
+  Epic: 'Epics are F2P-friendly and cover most early-to-mid-game roles; the best Epics punch well above their tier.',
+  Rare: 'Rare Cookies fill out your bench during early progression — useful at low levels, generally benched as you climb.',
+  Common: 'Common Cookies are progression staples — useful early, but expect to bench them as your roster grows.',
+  Special: 'Special Cookies are typically event or collab releases with mechanics outside the standard rarity tiers.',
+};
+
+function rarityArticle(rarity: CookieRarity): string {
+  // "an Epic", "an Ancient", "a Legendary", "a Beast", "a Super Epic", etc.
+  const startsWithVowel = /^[aeiou]/i.test(rarity);
+  return startsWithVowel ? 'an' : 'a';
+}
+
+export function getCookieDescription(cookie: CookieData): string {
+  const article = rarityArticle(cookie.rarity);
+
+  const sentence1 = `${cookie.name} is ${article} ${cookie.rarity} Cookie in Cookie Run: Kingdom, built around the ${cookie.type} archetype.`;
+  const sentence2 = TYPE_ROLE_BLURBS[cookie.type];
+  const sentence3 = RARITY_INVESTMENT_BLURBS[cookie.rarity];
+
+  const hasFullBuild =
+    !!cookie.build && cookie.build.beascuit !== '' && cookie.build.toppings !== '';
+
+  const sentence4 = hasFullBuild
+    ? `The current Mythras-tested loadout runs ${cookie.build!.toppings}, with a ${cookie.build!.beascuit} beascuit and a ${cookie.build!.tart} tart for ${cookie.build!.tartStat}.`
+    : `Our full ${cookie.name} loadout is still in testing — check back as the build evolves.`;
+
+  return [sentence1, sentence2, sentence3, sentence4].join(' ');
+}
