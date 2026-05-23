@@ -5,6 +5,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import Link from 'next/link';
 import Image from 'next/image';
 import { channels } from '@/data/mockData';
+import { ACTIVE_GAMES } from '@/data/blog/games';
 
 const channelYouTubeUrls: Record<string, string> = {
   cookierun: 'https://www.youtube.com/channel/UCGp83Usm4riRWlAYa9F2diQ',
@@ -60,6 +61,7 @@ export default function Navbar() {
             <NavLink href="/" label="Home" />
             <NavDropdown label="Channels" items={channels.map(c => ({ label: c.name, href: channelYouTubeUrls[c.slug] || `/channels/${c.slug}`, icon: c.icon, external: !!channelYouTubeUrls[c.slug] }))} />
             <KnowledgeHubDropdown />
+            <BlogDropdown />
             <NavLink href="/#content-hub" label="Videos" />
             <NavLink href="/#schedule" label="Schedule" />
             <NavLink href="/#community" label="Community" />
@@ -129,6 +131,17 @@ export default function Navbar() {
                 <MobileLink href="/cake-tower" label="🏰 Cake Tower Guide" onClick={() => setMobileOpen(false)} />
               </div>
               <div className="border-t border-[#D4A853]/10 pt-2 mt-2" />
+              <div className="pt-2 pb-1 px-3 text-xs font-semibold text-[#D4A853]/60 uppercase tracking-wider">Blog</div>
+              <MobileLink href="/blog" label="📰 All Articles" onClick={() => setMobileOpen(false)} />
+              {ACTIVE_GAMES.map(game => (
+                <MobileLink
+                  key={game.slug}
+                  href={`/blog/${game.slug}`}
+                  label={`${game.icon} ${game.name}`}
+                  onClick={() => setMobileOpen(false)}
+                />
+              ))}
+              <div className="border-t border-[#D4A853]/10 pt-2 mt-2" />
               <MobileLink href="/#content-hub" label="Videos" onClick={() => setMobileOpen(false)} />
               <MobileLink href="/#schedule" label="Schedule" onClick={() => setMobileOpen(false)} />
               <MobileLink href="/#community" label="Community" onClick={() => setMobileOpen(false)} />
@@ -189,6 +202,63 @@ function KnowledgeHubDropdown() {
                 <div className="font-medium">Cake Tower Guide</div>
                 <div className="text-[10px] text-[#666] mt-0.5">Choco &amp; Strawberry Towers</div>
               </div>
+            </Link>
+          </motion.div>
+        )}
+      </AnimatePresence>
+    </div>
+  );
+}
+
+function BlogDropdown() {
+  const [open, setOpen] = useState(false);
+
+  return (
+    <div
+      className="relative"
+      onMouseEnter={() => setOpen(true)}
+      onMouseLeave={() => setOpen(false)}
+    >
+      <Link
+        href="/blog"
+        className="px-3 py-2 rounded-lg text-sm font-medium text-[#9999aa] hover:text-white hover:bg-white/5 transition-all flex items-center gap-1"
+      >
+        Blog
+        <svg className={`w-3 h-3 transition-transform ${open ? 'rotate-180' : ''}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+        </svg>
+      </Link>
+      <AnimatePresence>
+        {open && (
+          <motion.div
+            initial={{ opacity: 0, y: 8, scale: 0.95 }}
+            animate={{ opacity: 1, y: 0, scale: 1 }}
+            exit={{ opacity: 0, y: 8, scale: 0.95 }}
+            transition={{ duration: 0.15 }}
+            className="absolute top-full left-0 mt-1 w-64 glass-panel rounded-xl overflow-hidden shadow-2xl shadow-black/40"
+          >
+            <div className="px-4 pt-3 pb-1.5">
+              <span className="text-[10px] font-bold tracking-[0.15em] uppercase text-[#D4A853]/50">Browse by Game</span>
+            </div>
+            {ACTIVE_GAMES.map(game => (
+              <Link
+                key={game.slug}
+                href={`/blog/${game.slug}`}
+                className="flex items-center gap-3 px-4 py-3 text-sm text-[#9999aa] hover:text-white hover:bg-white/5 transition-all"
+              >
+                <span className="text-lg">{game.icon}</span>
+                <div>
+                  <div className="font-medium">{game.name}</div>
+                  <div className="text-[10px] text-[#666] mt-0.5">Guides, tier lists &amp; meta</div>
+                </div>
+              </Link>
+            ))}
+            <Link
+              href="/blog"
+              className="flex items-center justify-between px-4 py-2.5 text-xs text-[#D4A853] hover:bg-white/5 transition-all border-t border-[#D4A853]/10"
+            >
+              <span className="font-semibold tracking-wider uppercase">All Articles</span>
+              <span aria-hidden>→</span>
             </Link>
           </motion.div>
         )}
