@@ -6,6 +6,14 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { channels } from '@/data/mockData';
 
+const channelYouTubeUrls: Record<string, string> = {
+  cookierun: 'https://www.youtube.com/channel/UCGp83Usm4riRWlAYa9F2diQ',
+  gamertag: 'https://www.youtube.com/channel/UCZwCXcKKgjxNDSe9mY1_TWQ',
+  'mythras-gaming': 'https://www.youtube.com/channel/UC-tDHOeoDgUaXxIkQBFffAg',
+  pokemon: 'https://www.youtube.com/channel/UCwI4EHyFi-z8Nrxh4ckr47Q',
+  lorcana: 'https://www.youtube.com/channel/UCfvLejQsZnBEtQsn5h0SD3Q',
+};
+
 export default function Navbar() {
   const [scrolled, setScrolled] = useState(false);
   const [mobileOpen, setMobileOpen] = useState(false);
@@ -50,7 +58,8 @@ export default function Navbar() {
           {/* Desktop Nav */}
           <div className="hidden md:flex items-center gap-1">
             <NavLink href="/" label="Home" />
-            <NavDropdown label="Channels" items={channels.map(c => ({ label: c.name, href: `/channels/${c.slug}`, icon: c.icon }))} />
+            <NavDropdown label="Channels" items={channels.map(c => ({ label: c.name, href: channelYouTubeUrls[c.slug] || `/channels/${c.slug}`, icon: c.icon, external: !!channelYouTubeUrls[c.slug] }))} />
+            <KnowledgeHubDropdown />
             <NavLink href="/#content-hub" label="Videos" />
             <NavLink href="/#schedule" label="Schedule" />
             <NavLink href="/#community" label="Community" />
@@ -106,11 +115,19 @@ export default function Navbar() {
               {channels.map(c => (
                 <MobileLink
                   key={c.slug}
-                  href={`/channels/${c.slug}`}
+                  href={channelYouTubeUrls[c.slug] || `/channels/${c.slug}`}
                   label={`${c.icon} ${c.name}`}
                   onClick={() => setMobileOpen(false)}
+                  external={!!channelYouTubeUrls[c.slug]}
                 />
               ))}
+              <div className="border-t border-[#D4A853]/10 pt-2 mt-2" />
+              <div className="pt-2 pb-1 px-3 text-xs font-semibold text-[#D4A853]/60 uppercase tracking-wider">Knowledge Hub</div>
+              <div className="pl-2">
+                <div className="px-3 py-1.5 text-xs font-medium text-[#9999aa]/50 uppercase tracking-wider">CookieRun: Kingdom</div>
+                <MobileLink href="/gear-guide" label="🍪 Gear Guide Loadouts" onClick={() => setMobileOpen(false)} />
+                <MobileLink href="/cake-tower" label="🏰 Cake Tower Guide" onClick={() => setMobileOpen(false)} />
+              </div>
               <div className="border-t border-[#D4A853]/10 pt-2 mt-2" />
               <MobileLink href="/#content-hub" label="Videos" onClick={() => setMobileOpen(false)} />
               <MobileLink href="/#schedule" label="Schedule" onClick={() => setMobileOpen(false)} />
@@ -126,6 +143,60 @@ export default function Navbar() {
   );
 }
 
+function KnowledgeHubDropdown() {
+  const [open, setOpen] = useState(false);
+
+  return (
+    <div
+      className="relative"
+      onMouseEnter={() => setOpen(true)}
+      onMouseLeave={() => setOpen(false)}
+    >
+      <button className="px-3 py-2 rounded-lg text-sm font-medium text-[#9999aa] hover:text-white hover:bg-white/5 transition-all flex items-center gap-1">
+        Knowledge Hub
+        <svg className={`w-3 h-3 transition-transform ${open ? 'rotate-180' : ''}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+        </svg>
+      </button>
+      <AnimatePresence>
+        {open && (
+          <motion.div
+            initial={{ opacity: 0, y: 8, scale: 0.95 }}
+            animate={{ opacity: 1, y: 0, scale: 1 }}
+            exit={{ opacity: 0, y: 8, scale: 0.95 }}
+            transition={{ duration: 0.15 }}
+            className="absolute top-full left-0 mt-1 w-64 glass-panel rounded-xl overflow-hidden shadow-2xl shadow-black/40"
+          >
+            <div className="px-4 pt-3 pb-1.5">
+              <span className="text-[10px] font-bold tracking-[0.15em] uppercase text-[#D4A853]/50">CookieRun: Kingdom</span>
+            </div>
+            <Link
+              href="/gear-guide"
+              className="flex items-center gap-3 px-4 py-3 text-sm text-[#9999aa] hover:text-white hover:bg-white/5 transition-all"
+            >
+              <span className="text-lg">🍪</span>
+              <div>
+                <div className="font-medium">Gear Guide Loadouts</div>
+                <div className="text-[10px] text-[#666] mt-0.5">Beascuits, Toppings &amp; Tarts</div>
+              </div>
+            </Link>
+            <Link
+              href="/cake-tower"
+              className="flex items-center gap-3 px-4 py-3 text-sm text-[#9999aa] hover:text-white hover:bg-white/5 transition-all"
+            >
+              <span className="text-lg">🏰</span>
+              <div>
+                <div className="font-medium">Cake Tower Guide</div>
+                <div className="text-[10px] text-[#666] mt-0.5">Choco &amp; Strawberry Towers</div>
+              </div>
+            </Link>
+          </motion.div>
+        )}
+      </AnimatePresence>
+    </div>
+  );
+}
+
 function NavLink({ href, label }: { href: string; label: string }) {
   return (
     <Link
@@ -137,7 +208,7 @@ function NavLink({ href, label }: { href: string; label: string }) {
   );
 }
 
-function NavDropdown({ label, items }: { label: string; items: { label: string; href: string; icon: string }[] }) {
+function NavDropdown({ label, items }: { label: string; items: { label: string; href: string; icon: string; external?: boolean }[] }) {
   const [open, setOpen] = useState(false);
 
   return (
@@ -161,16 +232,29 @@ function NavDropdown({ label, items }: { label: string; items: { label: string; 
             transition={{ duration: 0.15 }}
             className="absolute top-full left-0 mt-1 w-56 glass-panel rounded-xl overflow-hidden shadow-2xl shadow-black/40"
           >
-            {items.map(item => (
-              <Link
-                key={item.href}
-                href={item.href}
-                className="flex items-center gap-3 px-4 py-3 text-sm text-[#9999aa] hover:text-white hover:bg-white/5 transition-all"
-              >
-                <span className="text-lg">{item.icon}</span>
-                {item.label}
-              </Link>
-            ))}
+            {items.map(item =>
+              item.external ? (
+                <a
+                  key={item.href}
+                  href={item.href}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center gap-3 px-4 py-3 text-sm text-[#9999aa] hover:text-white hover:bg-white/5 transition-all"
+                >
+                  <span className="text-lg">{item.icon}</span>
+                  {item.label}
+                </a>
+              ) : (
+                <Link
+                  key={item.href}
+                  href={item.href}
+                  className="flex items-center gap-3 px-4 py-3 text-sm text-[#9999aa] hover:text-white hover:bg-white/5 transition-all"
+                >
+                  <span className="text-lg">{item.icon}</span>
+                  {item.label}
+                </Link>
+              )
+            )}
           </motion.div>
         )}
       </AnimatePresence>
@@ -178,7 +262,20 @@ function NavDropdown({ label, items }: { label: string; items: { label: string; 
   );
 }
 
-function MobileLink({ href, label, onClick }: { href: string; label: string; onClick: () => void }) {
+function MobileLink({ href, label, onClick, external }: { href: string; label: string; onClick: () => void; external?: boolean }) {
+  if (external) {
+    return (
+      <a
+        href={href}
+        target="_blank"
+        rel="noopener noreferrer"
+        onClick={onClick}
+        className="block px-3 py-2.5 rounded-lg text-sm font-medium text-[#9999aa] hover:text-white hover:bg-white/5 transition-all"
+      >
+        {label}
+      </a>
+    );
+  }
   return (
     <Link
       href={href}

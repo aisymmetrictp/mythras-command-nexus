@@ -10,6 +10,7 @@ import TwitchSection from '@/components/TwitchSection';
 import SocialFeed from '@/components/SocialFeed';
 import DiscordCTA from '@/components/DiscordCTA';
 import Schedule from '@/components/Schedule';
+import ContactForm from '@/components/ContactForm';
 import Footer from '@/components/Footer';
 import ParticleField from '@/components/ParticleField';
 
@@ -53,6 +54,7 @@ export default function Home() {
           <Schedule />
           <SocialFeed allVideos={ytData.allVideos} />
           <DiscordCTA />
+          <ContactForm />
         </main>
         <Footer />
       </div>
