@@ -62,6 +62,13 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        {/* Google AdSense — site-wide script so reviewers + auto-ads see it on every page */}
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4585749746768234"
+          crossOrigin="anonymous"
+        />
+        {/* Google Analytics 4 */}
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-0NF282ERV6" />
         <script
           dangerouslySetInnerHTML={{
