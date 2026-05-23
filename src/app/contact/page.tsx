@@ -95,6 +95,56 @@ export default function ContactPage() {
             </div>
           </section>
 
+          <section className="max-w-3xl mx-auto px-4 sm:px-6 mb-12">
+            <div className="rounded-2xl border border-[#D4A853]/15 bg-[#0c0c18]/60 p-6 md:p-8">
+              <h2 className="text-2xl md:text-3xl font-bold text-white mb-5" style={{ fontFamily: 'var(--font-display)' }}>
+                What to write to us about
+              </h2>
+              <p className="text-[#c8c8d4] leading-relaxed mb-5">
+                We read every message that comes through this page. Here&apos;s the rough triage so you get a
+                useful reply faster — and so your message lands in the channel that&apos;ll actually solve it.
+              </p>
+              <div className="space-y-5 text-[#c8c8d4] leading-relaxed">
+                <div>
+                  <strong className="text-white">Build questions, tier disagreements, team-comp help.</strong>{' '}
+                  Jump into the Discord. The whole community plus the Mythras team hangs out there, and
+                  you&apos;ll often get a response within minutes from someone who&apos;s already faced the exact
+                  comp you&apos;re stuck on. The pinned threads cover the most common Cookie Run: Kingdom
+                  questions.
+                </div>
+                <div>
+                  <strong className="text-white">Content corrections, factual fixes, &ldquo;your guide is out
+                  of date.&rdquo;</strong> Email is best. Include the URL of the post, the section that&apos;s
+                  wrong, and what the current in-game state actually is — screenshots help. We update affected
+                  posts and bump the <em>Last updated</em> stamp the same day when we can.
+                </div>
+                <div>
+                  <strong className="text-white">Business, press, partnership, brand collabs.</strong> Email{' '}
+                  <a href="mailto:gamertagmythras@gmail.com" className="text-[#D4A853] hover:text-[#F0C850] underline decoration-[#D4A853]/30">
+                    gamertagmythras@gmail.com
+                  </a>{' '}
+                  with &ldquo;BUSINESS&rdquo; in the subject line. We reply to legitimate inquiries within a few
+                  business days. We do not accept paid placements in gear guides or blog tier lists — those
+                  rankings stay editorially independent.
+                </div>
+                <div>
+                  <strong className="text-white">Privacy or data requests</strong> (data deletion, marketing
+                  opt-out, GDPR / CCPA rights). Email is the right channel. We route those to the same inbox
+                  and reply within 30 days as required by law. See the{' '}
+                  <Link href="/privacy-policy" className="text-[#D4A853] hover:text-[#F0C850] underline decoration-[#D4A853]/30">
+                    Privacy Policy
+                  </Link>{' '}
+                  for what we collect and how to opt out.
+                </div>
+                <div>
+                  <strong className="text-white">Bug reports or broken pages.</strong> Either the form below or
+                  Discord works. Include the URL, the device and browser you&apos;re on, and what you expected
+                  versus what actually happened.
+                </div>
+              </div>
+            </div>
+          </section>
+
           <section className="max-w-3xl mx-auto px-4 sm:px-6 mb-16">
             <div className="rounded-2xl border border-[#D4A853]/15 bg-[#0c0c18]/60 p-6 md:p-8">
               <h2 className="text-2xl md:text-3xl font-bold text-white mb-2" style={{ fontFamily: 'var(--font-display)' }}>
