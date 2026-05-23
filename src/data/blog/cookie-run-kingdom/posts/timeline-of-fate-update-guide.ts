@@ -221,7 +221,7 @@ For the community deep-dive on the broader v7.4 systems, the [CookieChat affecti
     { href: '/blog/cookie-run-kingdom/guild-battle-teams', anchor: 'guild battle teams reference' },
     { href: '/gear-guide', anchor: 'gear guide index' },
     { href: '/gear-guide/toppings', anchor: 'toppings reference' },
-    { href: '/gear-guide/timekeeper-cookie', anchor: 'Timekeeper build page' },
+    { href: '/blog/cookie-run-kingdom/timekeeper-toppings', anchor: 'Timekeeper build page' },
   ],
 
   externalSources: [

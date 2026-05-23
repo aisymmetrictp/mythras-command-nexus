@@ -189,7 +189,7 @@ For a wider walkthrough of which Legendaries to chase from a fresh account, the 
 ## Quick Action Checklist {#checklist}
 
 - Pull or chase **Timekeeper Cookie** if you do not have her — Arena ceiling depends on it.
-- If you have her: lock in the [Timekeeper toppings build](/gear-guide/timekeeper-cookie) and slot her in your Arena defense first, attack second.
+- If you have her: lock in the [Timekeeper toppings build](/blog/cookie-run-kingdom/timekeeper-toppings) and slot her in your Arena defense first, attack second.
 - Confirm **Sugar Swan** has her toppings on — she is your insurance vs Timekeeper mirrors.
 - Move **Eternal Sugar** out of your Evergreen Arena slot. Park her in Cake Tower or Guild Battle.
 - Pick one Legendary and push it to 6-star before spreading soulstones to a third Cookie.
@@ -239,7 +239,7 @@ For a wider walkthrough of which Legendaries to chase from a fresh account, the 
     { href: '/blog/cookie-run-kingdom/kingdom-arena-meta-team', anchor: 'Kingdom Arena meta team' },
     { href: '/blog/cookie-run-kingdom/reroll-guide-2026', anchor: 'reroll guide' },
     { href: '/blog/cookie-run-kingdom/codes-may-2026', anchor: 'latest CRK codes list' },
-    { href: '/gear-guide/timekeeper-cookie', anchor: 'Timekeeper toppings' },
+    { href: '/blog/cookie-run-kingdom/timekeeper-toppings', anchor: 'Timekeeper toppings' },
     { href: '/gear-guide', anchor: 'full cookie gear guide index' },
     { href: '/cake-tower', anchor: 'Cake Tower guide' },
   ],

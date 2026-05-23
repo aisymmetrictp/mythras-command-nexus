@@ -27,7 +27,7 @@ export const codesMay2026: BlogPost = {
     'how to redeem crk codes',
   ],
 
-  schemaType: 'Article',
+  schemaType: 'BlogPosting',
   updateFrequency: 'weekly',
   evergreen: false,
   readingTimeMin: 6,

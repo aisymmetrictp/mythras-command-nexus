@@ -26,7 +26,7 @@ export const cookiechatAffectionGuide: BlogPost = {
     'how to raise affection cookie run kingdom',
   ],
 
-  schemaType: 'Article',
+  schemaType: 'BlogPosting',
   updateFrequency: 'quarterly',
   evergreen: true,
   readingTimeMin: 10,
@@ -114,7 +114,7 @@ This is the running favorite-gift list as of **v7.4 Timeline of Fate**. Anything
 | [Frost Queen Cookie](/gear-guide/frost-queen-cookie) | Ice Crystal / Frost Bouquet [VERIFY] | Cold/winter category. |
 | [Sugar Swan Cookie](/gear-guide/sugar-swan-cookie) | Crystal Feather / Ballet Ribbon [VERIFY] | Elegance-coded; she's the v7.2 release cookie so her preferences are still mid-confirmation. |
 | [Millennial Tree Cookie](/gear-guide/millennial-tree-cookie) | Acorn / Aged Bark [VERIFY] | Nature category. |
-| [Timekeeper Cookie](/gear-guide/timekeeper-cookie) | Hourglass / Pocket Watch [VERIFY] | Time-themed only. |
+| [Timekeeper Cookie](/blog/cookie-run-kingdom/timekeeper-toppings) | Hourglass / Pocket Watch [VERIFY] | Time-themed only. |
 | [Eternal Sugar Cookie](/gear-guide/eternal-sugar-cookie) | Sugar Crystal / Glittering Confection [VERIFY] | Sweet-coded. |
 | [Pomegranate Cookie](/gear-guide/pomegranate-cookie) | Ritual Knife / Pomegranate Seed [VERIFY] | Cult-themed gift category. |
 | [Silent Salt Cookie](/gear-guide/silent-salt-cookie) | Black Pearl / Sand of Memory [VERIFY] | Sea/memory-themed. |
@@ -133,7 +133,7 @@ You can't max every cookie. Pick a small set based on what their unlocks actuall
 **Priority tier (raise to Level 5+ first)**:
 
 - **Your Guild Battle anchors** — Sugar Swan, Pomegranate, Seltzer, Dark Enchantress. Their L5 dialogue often hints at gameplay synergies you might have missed, and L5 rewards usually include Soulstones for that exact cookie.
-- **Your Arena defense leaders** — usually [Hollyberry](/gear-guide/hollyberry-cookie), [Pure Vanilla](/gear-guide/pure-vanilla-cookie), or [Timekeeper](/gear-guide/timekeeper-cookie). High-affection cookies sometimes drop profile cosmetics that flex on the Arena ladder.
+- **Your Arena defense leaders** — usually [Hollyberry](/gear-guide/hollyberry-cookie), [Pure Vanilla](/gear-guide/pure-vanilla-cookie), or [Timekeeper](/blog/cookie-run-kingdom/timekeeper-toppings). High-affection cookies sometimes drop profile cosmetics that flex on the Arena ladder.
 - **Story/lore favorites** — whichever cookies you actually enjoy the writing of. Affection is a long grind; pick cookies you _want_ to read more dialogue from.
 
 **Secondary tier (Level 2-3 minimum)**:
@@ -229,7 +229,7 @@ A short list of the failure modes most players hit in their first month with Coo
     { href: '/gear-guide/pure-vanilla-cookie', anchor: 'Pure Vanilla Cookie build' },
     { href: '/gear-guide/dark-enchantress-cookie', anchor: 'Dark Enchantress Cookie build' },
     { href: '/gear-guide/hollyberry-cookie', anchor: 'Hollyberry Cookie build' },
-    { href: '/gear-guide/timekeeper-cookie', anchor: 'Timekeeper Cookie build' },
+    { href: '/blog/cookie-run-kingdom/timekeeper-toppings', anchor: 'Timekeeper Cookie build' },
     { href: '/blog/cookie-run-kingdom/timeline-of-fate-update-guide', anchor: 'Timeline of Fate update guide' },
     { href: '/blog/cookie-run-kingdom/tier-list-may-2026', anchor: 'CRK tier list May 2026' },
   ],

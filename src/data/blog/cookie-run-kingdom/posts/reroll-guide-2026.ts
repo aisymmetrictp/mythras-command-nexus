@@ -26,7 +26,7 @@ export const rerollGuide2026: BlogPost = {
     'cookie run kingdom new player guide',
   ],
 
-  schemaType: 'Article',
+  schemaType: 'BlogPosting',
   updateFrequency: 'monthly',
   evergreen: true,
   readingTimeMin: 9,

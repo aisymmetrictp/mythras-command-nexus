@@ -139,7 +139,7 @@ This is the comp displacing Eternal Sugar lineups across Diamond+ in May 2026.
 | Front | [Aegis Hollyberry](/gear-guide/hollyberry-cookie) | Tank + rally |
 | Front | [Pure Vanilla Awakened](/gear-guide/pure-vanilla-cookie) | Healer + Warmth of Compassion rally |
 | Mid | [Dark Enchantress](/gear-guide/dark-enchantress-cookie) | Anchor DPS |
-| Mid | [Timekeeper](/gear-guide/timekeeper-cookie) | Anti-revive + nuke |
+| Mid | [Timekeeper](/blog/cookie-run-kingdom/timekeeper-toppings) | Anti-revive + nuke |
 | Rear | [Sugar Swan](/gear-guide/sugar-swan-cookie) | Healer / mirror anti-comp |
 
 The trick: you run Sugar Swan **for yourself** so the enemy Timekeeper has to choose between sealing your revive or nuking Dark Enchantress. That choice paralysis is why this comp wins coin flips.
@@ -153,7 +153,7 @@ Swap to ATK-focused front and keep Timekeeper specifically to lock the boss's ad
 | Front | [Hollyberry](/gear-guide/hollyberry-cookie) | Frontline DMG Resist |
 | Front | [Venom Dough](/gear-guide/venom-dough-cookie) | Bomber burst |
 | Mid | [Dark Enchantress](/gear-guide/dark-enchantress-cookie) | Sustained DPS |
-| Mid | [Timekeeper](/gear-guide/timekeeper-cookie) | Add-phase lock |
+| Mid | [Timekeeper](/blog/cookie-run-kingdom/timekeeper-toppings) | Add-phase lock |
 | Rear | [Pure Vanilla Awakened](/gear-guide/pure-vanilla-cookie) | Heal + buff |
 
 ### Comp 3 — Cake Tower / PvE push
@@ -165,7 +165,7 @@ For floor pushing on the [Cake Tower](/cake-tower), the priority is sustained da
 | Front | [Hollyberry](/gear-guide/hollyberry-cookie) | Tank |
 | Front | [Millennial Tree](/gear-guide/millennial-tree-cookie) | Front-line support |
 | Mid | [Pavlova](/gear-guide/pavlova-cookie) | AoE damage |
-| Mid | [Timekeeper](/gear-guide/timekeeper-cookie) | Single-target nuke for elites |
+| Mid | [Timekeeper](/blog/cookie-run-kingdom/timekeeper-toppings) | Single-target nuke for elites |
 | Rear | [Pure Vanilla Awakened](/gear-guide/pure-vanilla-cookie) | Heal |
 
 Pavlova handles waves; Timekeeper handles the named elites that revive at low HP.
@@ -244,7 +244,7 @@ For the broader May 2026 tier picture, cross-check with our [May 2026 tier list]
   ],
 
   internalLinks: [
-    { href: '/gear-guide/timekeeper-cookie', anchor: 'Timekeeper Cookie gear page' },
+    { href: '/blog/cookie-run-kingdom/timekeeper-toppings', anchor: 'Timekeeper Cookie gear page' },
     { href: '/gear-guide/dark-enchantress-cookie', anchor: 'Dark Enchantress Cookie' },
     { href: '/gear-guide/sugar-swan-cookie', anchor: 'Sugar Swan Cookie' },
     { href: '/gear-guide/hollyberry-cookie', anchor: 'Aegis Hollyberry Cookie' },

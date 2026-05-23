@@ -28,7 +28,7 @@ export const guildBattleTeams: BlogPost = {
     'best guild battle teams',
   ],
 
-  schemaType: 'Article',
+  schemaType: 'BlogPosting',
   updateFrequency: 'monthly',
   evergreen: false,
   readingTimeMin: 12,
@@ -61,7 +61,7 @@ Skim this first. Each row tells you the boss, what it's vulnerable to, the ancho
 | **Red Velvet Dragon** | Poison [VERIFY] | [Pomegranate Cookie](/gear-guide/pomegranate-cookie) | Stacks Poison faster than any other DPS; multiplies [Poison Mushroom Cookie](/gear-guide/poison-mushroom-cookie) damage. |
 | **Avatar of Destiny** | Sustain checks (HP drain phases) | [Sugar Swan Cookie](/gear-guide/sugar-swan-cookie) | Strongest single-target healer in the game; carries the team through drain windows. |
 | **Machine-God** | Bomber + Support synergy | [Seltzer Cookie](/gear-guide/seltzer-cookie) | Pairs with [Menthol Cookie](/gear-guide/menthol-cookie) for the "Stinging Fizz" buff loop — S-tier damage ceiling. |
-| **Living Abyss** | Chaos / debuff stacking [VERIFY] | [Dark Enchantress Cookie](/gear-guide/dark-enchantress-cookie) | Chaos DPS that doubles as a debuffer; pairs cleanly with [Timekeeper Cookie](/gear-guide/timekeeper-cookie) lock windows. [VERIFY current meta] |
+| **Living Abyss** | Chaos / debuff stacking [VERIFY] | [Dark Enchantress Cookie](/gear-guide/dark-enchantress-cookie) | Chaos DPS that doubles as a debuffer; pairs cleanly with [Timekeeper Cookie](/blog/cookie-run-kingdom/timekeeper-toppings) lock windows. [VERIFY current meta] |
 
 > **Tip:** If your guild assigns bosses, lock in your anchor cookie before anyone else builds. The whole team formation rotates around them — picking the wrong anchor wastes everyone's treasure investment for the week.
 
@@ -135,7 +135,7 @@ Living Abyss is the newest of the four Guild Battle bosses and the meta on it is
 | Position | Cookie | Role | Notes |
 |---|---|---|---|
 | Front | [Aegis Hollyberry Cookie](/gear-guide/hollyberry-cookie) | Tank | Aegis variant preferred for the void-damage phases. [VERIFY] |
-| Middle | [Timekeeper Cookie](/gear-guide/timekeeper-cookie) | Lockdown / control | Stalls the boss's strongest cast windows. |
+| Middle | [Timekeeper Cookie](/blog/cookie-run-kingdom/timekeeper-toppings) | Lockdown / control | Stalls the boss's strongest cast windows. |
 | Middle | [Dark Enchantress Cookie](/gear-guide/dark-enchantress-cookie) | Chaos DPS / debuffer | Primary damage; debuff stacks compound through the fight. |
 | Back | [Eternal Sugar Cookie](/gear-guide/eternal-sugar-cookie) | Secondary DPS | [VERIFY current meta — Eternal Sugar vs alt DPS picks] |
 | Back | [Sugar Swan Cookie](/gear-guide/sugar-swan-cookie) | Healer | Sustains through the late-fight burst phase. |
@@ -243,7 +243,7 @@ Manual the opening 20 seconds and the final 20 seconds; the middle is fine on au
     { href: '/gear-guide/seltzer-cookie', anchor: 'Seltzer Cookie build' },
     { href: '/gear-guide/menthol-cookie', anchor: 'Menthol Cookie build' },
     { href: '/gear-guide/hollyberry-cookie', anchor: 'Hollyberry Cookie build' },
-    { href: '/gear-guide/timekeeper-cookie', anchor: 'Timekeeper Cookie build' },
+    { href: '/blog/cookie-run-kingdom/timekeeper-toppings', anchor: 'Timekeeper Cookie build' },
     { href: '/blog/cookie-run-kingdom/tier-list-may-2026', anchor: 'CRK tier list May 2026' },
     { href: '/blog/cookie-run-kingdom/kingdom-arena-meta-team', anchor: 'Kingdom Arena meta team guide' },
   ],

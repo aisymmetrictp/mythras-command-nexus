@@ -58,7 +58,7 @@ This is the comp the v7.4 "Timeline of Fate" patch built. If you have not yet re
 | Front 1 | [Aegis Hollyberry](/gear-guide/hollyberry-cookie) | Tank / rally anchor | Highest survivability frontline + pairs with PVA |
 | Front 2 | [Pure Vanilla Awakened](/gear-guide/pure-vanilla-cookie) | Healer + buff rally | Warmth of Compassion combo with Hollyberry |
 | Mid 1 | [Dark Enchantress](/gear-guide/dark-enchantress-cookie) | Anchor DPS | S+ damage anchor, melts the enemy mid-row |
-| Mid 2 | [Timekeeper](/gear-guide/timekeeper-cookie) | Anti-revive nuke | Locks Sealed Hour on enemy revive triggers |
+| Mid 2 | [Timekeeper](/blog/cookie-run-kingdom/timekeeper-toppings) | Anti-revive nuke | Locks Sealed Hour on enemy revive triggers |
 | Rear | [Sugar Swan](/gear-guide/sugar-swan-cookie) | Healer + revive | Mirror revival, forces enemy Timekeeper into a choice |
 
 That is the lineup. Every part of it is doing two jobs at once, which is what separates a meta comp from "five strong cookies in a row."
@@ -224,7 +224,7 @@ For Guild Battle and other PvE modes where this exact comp does not apply, see t
     { href: '/gear-guide/hollyberry-cookie', anchor: 'Aegis Hollyberry Cookie' },
     { href: '/gear-guide/pure-vanilla-cookie', anchor: 'Pure Vanilla Cookie' },
     { href: '/gear-guide/dark-enchantress-cookie', anchor: 'Dark Enchantress Cookie' },
-    { href: '/gear-guide/timekeeper-cookie', anchor: 'Timekeeper Cookie' },
+    { href: '/blog/cookie-run-kingdom/timekeeper-toppings', anchor: 'Timekeeper Cookie' },
     { href: '/gear-guide/sugar-swan-cookie', anchor: 'Sugar Swan Cookie' },
     { href: '/gear-guide/venom-dough-cookie', anchor: 'Venom Dough Cookie' },
     { href: '/gear-guide/millennial-tree-cookie', anchor: 'Millennial Tree Cookie' },
