@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { OrganizationSchema } from "@/components/StructuredData";
 import CookieConsent from "@/components/CookieConsent";
+import ChatWidget from "@/components/assistant/ChatWidget";
 import "./globals.css";
 
 const SITE_URL = "https://gamertagmythras.com";
@@ -99,6 +100,7 @@ export default function RootLayout({
         </form>
         {children}
         <CookieConsent />
+        <ChatWidget />
       </body>
     </html>
   );
