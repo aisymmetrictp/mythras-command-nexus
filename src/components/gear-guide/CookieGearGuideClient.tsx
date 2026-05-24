@@ -8,6 +8,11 @@ import ParticleField from '@/components/ParticleField';
 import {
   getCookieBySlug,
   getCookieDescription,
+  getCookieRoleDetail,
+  getCookieModes,
+  getCookieSynergyText,
+  getCookieBuildNotes,
+  getCookieInvestment,
   ALL_COOKIES,
   RARITY_COLORS,
   TYPE_ICONS,
@@ -157,6 +162,82 @@ export default function CookieGearGuideClient({ slug }: { slug: string }) {
               </p>
             </motion.section>
 
+            {/* In-Game Role — extended type-archetype context */}
+            <motion.section
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.4, delay: 0.12 }}
+              className="mb-8 rounded-xl border border-white/5 bg-[#0c0c18]/60 backdrop-blur-sm p-6 md:p-7"
+            >
+              <div className="flex items-center gap-2 mb-3">
+                <span className="text-[#D4A853] text-xs font-semibold tracking-[0.2em] uppercase">In-Game Role · {cookie.type}</span>
+                <div className="h-px flex-1 bg-gradient-to-r from-[#D4A853]/30 to-transparent" />
+              </div>
+              <p className="text-[#c8c8d4] text-sm md:text-base leading-relaxed">
+                {getCookieRoleDetail(cookie)}
+              </p>
+            </motion.section>
+
+            {/* Best Game Modes — fit ratings by mode */}
+            <motion.section
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.4, delay: 0.14 }}
+              className="mb-8 rounded-xl border border-white/5 bg-[#0c0c18]/60 backdrop-blur-sm p-6 md:p-7"
+            >
+              <div className="flex items-center gap-2 mb-4">
+                <span className="text-[#D4A853] text-xs font-semibold tracking-[0.2em] uppercase">Best Game Modes</span>
+                <div className="h-px flex-1 bg-gradient-to-r from-[#D4A853]/30 to-transparent" />
+              </div>
+              <div className="overflow-x-auto">
+                <table className="w-full text-sm">
+                  <thead>
+                    <tr className="text-left text-[10px] uppercase tracking-wider text-[#D4A853]/70 border-b border-[#D4A853]/15">
+                      <th className="py-2 pr-3">Mode</th>
+                      <th className="py-2 pr-3 w-16">Fit</th>
+                      <th className="py-2">Why</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {getCookieModes(cookie).map((m, i) => (
+                      <tr key={i} className="border-b border-white/5 last:border-0">
+                        <td className="py-2.5 pr-3 text-white font-medium">{m.mode}</td>
+                        <td className="py-2.5 pr-3">
+                          <span className={`inline-block px-2 py-0.5 rounded text-[11px] font-bold tracking-wider ${
+                            m.rating === 'S' ? 'bg-[#D4A853]/15 text-[#F0C850] border border-[#D4A853]/30' :
+                            m.rating === 'A' ? 'bg-emerald-500/10 text-emerald-300 border border-emerald-500/20' :
+                            m.rating === 'B' ? 'bg-blue-500/10 text-blue-300 border border-blue-500/20' :
+                            m.rating === 'C' ? 'bg-orange-500/10 text-orange-300 border border-orange-500/20' :
+                            'bg-red-500/10 text-red-300 border border-red-500/20'
+                          }`}>{m.rating}</span>
+                        </td>
+                        <td className="py-2.5 text-[#c8c8d4]">{m.note}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+              <p className="text-[10px] text-[#666] mt-3 italic">
+                Mode fit ratings are based on the cookie&apos;s archetype, not their specific kit. A {cookie.rarity} {cookie.type} that&apos;s S-rated for a mode may still need build investment to actually clear top-tier content there.
+              </p>
+            </motion.section>
+
+            {/* Team Synergies */}
+            <motion.section
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.4, delay: 0.16 }}
+              className="mb-8 rounded-xl border border-white/5 bg-[#0c0c18]/60 backdrop-blur-sm p-6 md:p-7"
+            >
+              <div className="flex items-center gap-2 mb-3">
+                <span className="text-[#D4A853] text-xs font-semibold tracking-[0.2em] uppercase">Team Synergies</span>
+                <div className="h-px flex-1 bg-gradient-to-r from-[#D4A853]/30 to-transparent" />
+              </div>
+              <p className="text-[#c8c8d4] text-sm md:text-base leading-relaxed">
+                {getCookieSynergyText(cookie)}
+              </p>
+            </motion.section>
+
             {/* Build Section */}
             {cookie.build ? (
               <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.1 }}>
@@ -198,6 +279,16 @@ export default function CookieGearGuideClient({ slug }: { slug: string }) {
                     ))}
                   </div>
                 </div>
+
+                {/* Build Strategy Notes — why this loadout works */}
+                {getCookieBuildNotes(cookie) && (
+                  <div className="rounded-xl border border-[#D4A853]/15 bg-[#0c0c18]/60 p-6 mb-8">
+                    <h3 className="text-[#D4A853] text-xs font-bold tracking-[0.15em] uppercase mb-3">Why This Build</h3>
+                    <p className="text-[#c8c8d4] text-sm md:text-base leading-relaxed">
+                      {getCookieBuildNotes(cookie)}
+                    </p>
+                  </div>
+                )}
 
                 {/* Video Embed */}
                 {cookie.youtubeVideoUrl && (
@@ -295,6 +386,33 @@ export default function CookieGearGuideClient({ slug }: { slug: string }) {
                 </p>
               </motion.div>
             )}
+
+            {/* Investment & Pull Priority — applies to all cookies, build or not */}
+            <motion.section
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.4, delay: 0.2 }}
+              className="mb-10 rounded-xl border border-[#D4A853]/15 bg-[#0c0c18]/60 backdrop-blur-sm p-6 md:p-7"
+            >
+              <div className="flex items-center gap-2 mb-5">
+                <span className="text-[#D4A853] text-xs font-semibold tracking-[0.2em] uppercase">Investment &amp; Pull Priority</span>
+                <div className="h-px flex-1 bg-gradient-to-r from-[#D4A853]/30 to-transparent" />
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+                <div className="rounded-lg bg-[#060610]/60 border border-white/5 p-4">
+                  <div className="text-[#D4A853] text-[10px] font-bold tracking-[0.15em] uppercase mb-2">F2P Outlook</div>
+                  <p className="text-[#c8c8d4] text-sm leading-relaxed">{getCookieInvestment(cookie).f2p}</p>
+                </div>
+                <div className="rounded-lg bg-[#060610]/60 border border-white/5 p-4">
+                  <div className="text-[#D4A853] text-[10px] font-bold tracking-[0.15em] uppercase mb-2">Investment Priority</div>
+                  <p className="text-[#c8c8d4] text-sm leading-relaxed">{getCookieInvestment(cookie).priority}</p>
+                </div>
+                <div className="rounded-lg bg-[#060610]/60 border border-white/5 p-4">
+                  <div className="text-[#D4A853] text-[10px] font-bold tracking-[0.15em] uppercase mb-2">Magic Candy</div>
+                  <p className="text-[#c8c8d4] text-sm leading-relaxed">{getCookieInvestment(cookie).magicCandy}</p>
+                </div>
+              </div>
+            </motion.section>
 
             {/* Related Cookies */}
             {related.length > 0 && (

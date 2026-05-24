@@ -664,7 +664,211 @@ export function getCookieDescription(cookie: CookieData): string {
 
   const sentence4 = hasFullBuild
     ? `The current Mythras-tested loadout runs ${cookie.build!.toppings}, with a ${cookie.build!.beascuit} beascuit and a ${cookie.build!.tart} tart for ${cookie.build!.tartStat}.`
-    : `Our full ${cookie.name} loadout is still in testing — check back as the build evolves.`;
+    : `Our full ${cookie.name} loadout is still in testing. Check back as the build evolves.`;
 
   return [sentence1, sentence2, sentence3, sentence4].join(' ');
+}
+
+// ============================================================
+// Extended per-cookie page content (added 2026-05-24 for AdSense
+// content-density + reader value. All helpers below are pure
+// template functions over the existing CookieData shape.)
+// ============================================================
+
+const TYPE_ROLE_DETAIL: Record<CookieType, string> = {
+  Charge: 'Charge Cookies are your front-line workhorses. They take the first hits, pull aggro off your fragile DPS and healers, and usually carry a crowd-control or self-buff skill that swings the opening exchange. In Cookie Run: Kingdom you almost always run at least one Charge in any team that needs to survive past the first 20 seconds. The best Charge Cookies bring a secondary disruption tool. A stun, a damage reflect, a buff strip. That is how they earn their slot beyond just being a wall.',
+  Magic: 'Magic Cookies sit one row back from the front and threaten the enemy backline without absorbing chip damage. Their skills usually drop a large single-target nuke or a wide AoE that the rest of the team builds toward. Magic is the workhorse damage type for Arena and Cake Tower in 2026. Most top comps run at least one Magic DPS, and the best ones anchor the whole formation. They live or die by their cooldown uptime, so build them for skill cycling first and raw scaling second.',
+  Ranged: 'Ranged Cookies pump consistent physical damage from the back row. They rarely take aggro, which means they keep firing through the whole fight while front-line cookies trade blows. Their skills tend to be either sustained DPS auto-attack amplifiers or a positional disruption like a knockback or pull. Ranged is reliable but rarely flashy. They win long fights, not short ones. Pair them with a sustain backline and they are the engine that grinds bosses down.',
+  Ambush: 'Ambush Cookies dive the enemy backline and either delete a key target or apply a critical debuff that breaks the enemy comp. They sit middle or back row in your formation and trigger their skill early to leap forward. In PvP, Ambush is the answer to enemy healers and Magic DPS sitting safely in the back. Out of position they die fast. Built right, they win matches by themselves.',
+  Defense: 'Defense Cookies are the tankiest tier of front-liners. Higher HP, more damage resistance, and skills that scale with the damage they soak. They are the answer to long fights with sustained chip damage. Guild Battle, Cake Tower late floors, prolonged Beast-Yeast clears. Pair a Defense Cookie with a single healer and they hold the line indefinitely. The investment cost is real, but the survivability return is worth it for any account building toward late-game content.',
+  Healing: 'Healing Cookies keep your team alive through sustain checks. Any fight that lasts past 30 seconds usually requires at least one healer slot. The best Healing Cookies bring secondary tools on top of raw heals. Revives, cleanses, buff windows. Heal throughput is non-negotiable in Guild Battle, Cake Tower, and most Beast-Yeast bosses. Build them for cooldown reduction first so their heals cycle on every available window.',
+  Support: 'Support Cookies enable the rest of your team. Buffs, debuffs, cooldown acceleration, resource cycling. None of which shows up on a damage chart, all of which decides whether your damage dealers do their job. Support is where the meta gets won and lost in Arena. The best Supports shift fights without ever landing a kill themselves. They are usually the last slot people fill and the first slot the meta breaks open.',
+  Bomber: 'Bomber Cookies deliver area damage spikes that wipe enemy waves or reset boss rotations. Their value is binary. They either land their bomb in the right window and swing the fight, or they whiff and contribute nothing. Built correctly, the best Bombers are the highest single-skill damage in the game. Built wrong, they are dead weight. The skill ceiling for using a Bomber is higher than any other archetype, but the payoff is worth learning.',
+  BTS: 'BTS Cookies are collab specials with unique mechanics tied to their music-themed identity. They tend to be flavor-forward rather than meta-defining. Worth pulling if you collect collabs or are a fan of the BTS member they represent. Generally skippable for purely competitive play. Their kits are functional in PvE story content and event modes but rarely show up in serious Arena or Guild Battle comps.',
+};
+
+type ModeFit = { mode: string; rating: 'S' | 'A' | 'B' | 'C' | 'Skip'; note: string };
+
+const TYPE_MODES: Record<CookieType, ModeFit[]> = {
+  Charge: [
+    { mode: 'PvE Story', rating: 'A', note: 'Reliable frontline for the whole story campaign.' },
+    { mode: 'Kingdom Arena', rating: 'S', note: 'Top tanks are slot 1 of every meta comp.' },
+    { mode: 'Guild Battle', rating: 'A', note: 'Required against sustain bosses; less critical for burst bosses.' },
+    { mode: 'Cake Tower', rating: 'A', note: 'Late floors punish glass cannons. Tanks earn their slot.' },
+    { mode: 'Beast-Yeast', rating: 'A', note: 'Tank survivability matters for the harder zones.' },
+  ],
+  Magic: [
+    { mode: 'PvE Story', rating: 'S', note: 'Highest single-target damage scales through the whole campaign.' },
+    { mode: 'Kingdom Arena', rating: 'S', note: 'Top Magic DPS anchor the meta comp.' },
+    { mode: 'Guild Battle', rating: 'A', note: 'Burst bosses love a Magic DPS in the middle line.' },
+    { mode: 'Cake Tower', rating: 'A', note: 'High-tier picks clear floors that auto-modes cannot.' },
+    { mode: 'Beast-Yeast', rating: 'A', note: 'Strong against the high-HP bosses in the deeper zones.' },
+  ],
+  Ranged: [
+    { mode: 'PvE Story', rating: 'A', note: 'Consistent damage carries you through long stages.' },
+    { mode: 'Kingdom Arena', rating: 'B', note: 'Outpaced by Magic burst in current meta but still viable.' },
+    { mode: 'Guild Battle', rating: 'S', note: 'Sustained DPS shines in 90-second boss windows.' },
+    { mode: 'Cake Tower', rating: 'A', note: 'Long fights favor consistent throughput.' },
+    { mode: 'Beast-Yeast', rating: 'A', note: 'Reliable for the slower attrition encounters.' },
+  ],
+  Ambush: [
+    { mode: 'PvE Story', rating: 'B', note: 'Niche. Backline diving matters less against scripted enemies.' },
+    { mode: 'Kingdom Arena', rating: 'S', note: 'Answer to enemy healers and Magic DPS. Comp-defining.' },
+    { mode: 'Guild Battle', rating: 'B', note: 'Bosses do not have a backline to dive.' },
+    { mode: 'Cake Tower', rating: 'B', note: 'Squishier than tanks; loses to chip damage on late floors.' },
+    { mode: 'Beast-Yeast', rating: 'A', note: 'Strong for snipping priority targets in mob waves.' },
+  ],
+  Defense: [
+    { mode: 'PvE Story', rating: 'A', note: 'Pair with a healer and breeze through stages.' },
+    { mode: 'Kingdom Arena', rating: 'A', note: 'Solid alternative to a Charge tank when the meta swings.' },
+    { mode: 'Guild Battle', rating: 'S', note: 'Sustain bosses melt tanks. Defense is the answer.' },
+    { mode: 'Cake Tower', rating: 'S', note: 'Late floors are entirely a sustain check.' },
+    { mode: 'Beast-Yeast', rating: 'A', note: 'High HP keeps the fight stable for your DPS.' },
+  ],
+  Healing: [
+    { mode: 'PvE Story', rating: 'A', note: 'Most stages can be brute-forced without a healer, but it helps.' },
+    { mode: 'Kingdom Arena', rating: 'S', note: 'Sugar Swan and Pure Vanilla are auto-include slots.' },
+    { mode: 'Guild Battle', rating: 'S', note: 'No healer, no clear past mid-tier bosses.' },
+    { mode: 'Cake Tower', rating: 'S', note: 'Always run at least one healer past floor 25.' },
+    { mode: 'Beast-Yeast', rating: 'A', note: 'Solid pick for the longer Beast Raid encounters.' },
+  ],
+  Support: [
+    { mode: 'PvE Story', rating: 'B', note: 'Helpful but not required. DPS-first teams clear faster.' },
+    { mode: 'Kingdom Arena', rating: 'S', note: 'Top supports decide matches. Millennial Tree is meta-defining.' },
+    { mode: 'Guild Battle', rating: 'S', note: 'Buff cycling and resource generation are score multipliers.' },
+    { mode: 'Cake Tower', rating: 'A', note: 'Useful for cooldown cycling on late floors.' },
+    { mode: 'Beast-Yeast', rating: 'A', note: 'Debuff support shines against high-HP bosses.' },
+  ],
+  Bomber: [
+    { mode: 'PvE Story', rating: 'A', note: 'Wave-clear is fast. Bombers wipe trash mobs in one cast.' },
+    { mode: 'Kingdom Arena', rating: 'A', note: 'High-skill burst can swing matches. Timing-sensitive.' },
+    { mode: 'Guild Battle', rating: 'S', note: 'Top Bombers post the highest single-attempt damage.' },
+    { mode: 'Cake Tower', rating: 'A', note: 'Good for spike floors with packed enemies.' },
+    { mode: 'Beast-Yeast', rating: 'A', note: 'AoE clears the mob waves in the deeper zones.' },
+  ],
+  BTS: [
+    { mode: 'PvE Story', rating: 'B', note: 'Functional but rarely meta-relevant.' },
+    { mode: 'Kingdom Arena', rating: 'C', note: 'Niche picks; outclassed by standard cookies in their role.' },
+    { mode: 'Guild Battle', rating: 'C', note: 'Rare to see in serious guild rosters.' },
+    { mode: 'Cake Tower', rating: 'C', note: 'Survivability and damage trail meta cookies.' },
+    { mode: 'Beast-Yeast', rating: 'C', note: 'Pass unless you have no alternative.' },
+  ],
+};
+
+export function getCookieModes(cookie: CookieData): ModeFit[] {
+  return TYPE_MODES[cookie.type] || [];
+}
+
+const TYPE_SYNERGY_BLURBS: Record<CookieType, string> = {
+  Charge: 'Charge Cookies pair best with Healing Cookies behind them (Sugar Swan, Pure Vanilla) and Magic or Ranged DPS in the middle line. Avoid running two Charges unless one is a pure tank and the other a disruptive bruiser. The standard rally pairing of Aegis Hollyberry plus Pure Vanilla is still S-tier in 2026.',
+  Magic: 'Magic Cookies pair best with Charge tanks in front and Healing or Support Cookies in the back. Dark Enchantress plus Venom Dough is the current go-to damage core. Timekeeper plus Sugar Swan covers the anti-revive lane. Avoid stacking two Magic DPS in one team unless your front line is built like a wall.',
+  Ranged: 'Ranged Cookies want a tank up front to keep them safe and a Support behind them to extend their damage windows. They pair cleanly with Bombers who eat the spike windows so the Ranged keeps grinding through the rest of the fight. Avoid running them as your only damage source against fast-burst comps.',
+  Ambush: 'Ambush Cookies pair with Charge tanks who hold aggro long enough for the Ambush to land their dive. Healing in the back keeps the team alive while the Ambush is out of position. Avoid pairing two Ambushes in the same team unless you are specifically building a glass-cannon dive comp for niche matchups.',
+  Defense: 'Defense Cookies pair with healers who can sustain the chip damage they soak, plus a Support that buffs their reflected or scaling damage. Pure Vanilla plus a tanky Defense Cookie is the cleanest survival core. Two-defense formations work for Guild Battle sustain bosses but fall behind in Arena.',
+  Healing: 'Healing Cookies pair with the rest of your roster. The question is not who they synergize with, but who survives without them. Run at least one healer in any team built for fights past 30 seconds. Pair with a tank in front, a DPS in the middle, and a Support if you have the slot.',
+  Support: 'Support Cookies amplify whoever your team is built around. Buff supports pair with DPS (Millennial Tree boosts ATK). Debuff supports pair with burst damage (Ash Salt strips revive for Timekeeper). Cooldown supports pair with skill-reliant cookies (Seltzer plus Menthol cycle the Stinging Fizz combo).',
+  Bomber: 'Bomber Cookies pair with Supports who set up their burst window (cooldown reducers, defense shredders) and tanks who keep them safe through the long animation. Pair with a healer to recover between bomb cycles. Avoid running two Bombers unless you are specifically stacking burst windows on the same target.',
+  BTS: 'BTS Cookies pair flavor-first. Their music-themed kits sometimes synergize with each other in event modes. Outside of niche event teams, treat them as filler picks behind your meta core.',
+};
+
+export function getCookieSynergyText(cookie: CookieData): string {
+  return TYPE_SYNERGY_BLURBS[cookie.type];
+}
+
+type InvestmentDetail = { f2p: string; priority: string; magicCandy: string };
+
+const RARITY_INVESTMENT_DETAIL: Record<CookieRarity, InvestmentDetail> = {
+  Beast: {
+    f2p: 'Beast Cookies are extremely hard to F2P. Expect 3-6 months of dedicated soulstone farming through the Beast Raid system plus event currency. Even patient accounts usually get one Beast per 6 months without spending.',
+    priority: 'Maximum investment priority once you can get them. Beast Cookies define the meta they release into, and the gap between built and unbuilt is enormous.',
+    magicCandy: 'Magic Candy is a must on any Beast Cookie. Without it, they are usable but not transformative. Plan the resource cost into your roadmap before pulling.',
+  },
+  Ancient: {
+    f2p: 'Ancient Cookies are story-rewarded over time. Awakened forms take significantly longer (6+ months F2P). Older Ancients are essentially free if you have been playing since 2024.',
+    priority: 'High priority for any team building toward Master+ Arena. Awakened forms are S-tier picks that scale into every late-game mode.',
+    magicCandy: 'Magic Candy on Ancients is a huge power spike. Prioritize after your main Magic DPS and main healer.',
+  },
+  Legendary: {
+    f2p: 'Legendaries require focused crystal saving. Expect 1-3 months per Legendary F2P with disciplined banner pulling and event participation. Pity counts carry over inside banner windows.',
+    priority: 'Top priority for the meta picks. Pick the role gap on your roster and chase the Legendary that fills it. Do not spread soulstones across too many Legendaries at once.',
+    magicCandy: 'Magic Candy on Legendaries is meta-defining. The top 3 Legendaries on your roster deserve full Magic Candy investment before any second-tier picks.',
+  },
+  Dragon: {
+    f2p: 'Dragon Cookies release in limited-event banner windows. If you miss the window, expect 6-12 months before a return. F2P obtainable but requires saving aggressively before the window opens.',
+    priority: 'Pull during the window or skip. Dragons are powerful but their banners are unforgiving for late-deciders.',
+    magicCandy: 'Magic Candy where possible. Dragons scale well with the upgrade but are not as gated by it as Beasts.',
+  },
+  'Super Epic': {
+    f2p: 'Super Epics are F2P-friendly through Bell of Glory exchanges, Fountain pulls, and event currency. Expect 2-4 months per Super Epic at a steady pace.',
+    priority: 'Strong mid-investment picks. Build the meta-relevant ones (Venom Dough, Pom-pom Dough) without breaking your Legendary budget.',
+    magicCandy: 'Magic Candy is impactful but lower priority than your Legendaries. Build after the core roster is set.',
+  },
+  Epic: {
+    f2p: 'Epics are the most F2P-friendly tier. Story drops, Magic Lab production, event grinding all yield them. Most Epics are fully obtainable in 2-6 weeks.',
+    priority: 'Build the meta-relevant Epics (Pavlova, Seltzer, Menthol, Ash Salt) for their roles. Skip the rest unless you collect.',
+    magicCandy: 'Magic Candy on the right Epics is one of the best F2P resource conversions in the game. Worth it for the meta picks.',
+  },
+  Rare: {
+    f2p: 'Trivial to obtain through story drops and basic gacha.',
+    priority: 'Low investment priority. Useful early progression filler. Bench as you climb past Champion in Arena.',
+    magicCandy: 'Skip Magic Candy on Rares unless you specifically need one for an event-restricted team.',
+  },
+  Common: {
+    f2p: 'Trivial to obtain. You already have them.',
+    priority: 'Lowest priority. Progression staples that get benched by Master+ Arena.',
+    magicCandy: 'Skip Magic Candy on Commons.',
+  },
+  Special: {
+    f2p: 'Varies by event. Some Special Cookies are time-limited collab releases; others are permanent rotations through specific game modes.',
+    priority: 'Niche. Build the meta-relevant ones (Marshmallow Bunny, certain collab supports) and skip the rest.',
+    magicCandy: 'Specials rarely have Magic Candy paths. Verify availability before planning investment.',
+  },
+};
+
+export function getCookieInvestment(cookie: CookieData): InvestmentDetail {
+  return RARITY_INVESTMENT_DETAIL[cookie.rarity];
+}
+
+const TOPPING_ARCHETYPE_BLURBS: Record<string, string> = {
+  raspberry: 'This is a Searing Raspberry burst build. Five Raspberries max ATK at the cost of survivability. The assumption is the cookie either kills before they take a return hit, or sits behind a tank that does the soaking. Sub-stat priority is Cooldown first so the burst skill cycles more often, then ATK Speed for chip damage between cooldowns, then ATK for raw scaling.',
+  chocolate: 'This is a Swift Chocolate cooldown build. Five Chocolates push skill cooldown down, which is everything for cookies whose value lives in their active skill. Debuffers, supports, anti-revive. Sub-stat priority is CD first, then DMG Resist for survivability, then ATK to keep auto-attacks relevant between casts.',
+  almond: 'This is a Solid Almond tank build. Five Almonds maximize damage resistance, which is the right call for any cookie expected to soak chip damage through a whole fight. Sub-stat priority is DMG Resist first (which stacks multiplicatively with the base topping), then HP, then Cooldown to keep defensive skills cycling.',
+  watermelon: 'This is a Healing Watermelon build, prioritizing HP and survivability for healers and bruisers. Sub-stat priority leans HP and Cooldown so heal abilities cycle on every available window.',
+  apple: 'This is a Hard Apple build, slanting defensive stats with periodic damage windows. Useful for hybrid frontliners that need to survive and contribute damage.',
+  blueberry: 'This is a Hearty Blueberry build, pushing HP scaling for sustain-tank roles. Sub-stat priority is HP first, then DMG Resist.',
+  walnut: 'This is a Bouncy Caramel Walnut build, focused on debuff resist for cookies frequently targeted by CC. Sub-stat priority is Debuff Resist first, then defensive stats, then ATK.',
+  peanut: 'This is an Ancient Root Peanut build (or similar Peanut variant), focused on team-wide buffs and ally HP scaling. Used on support and front-line buffer Cookies.',
+  truthful: 'This is a Truthful Raspberry build, the Awakened Ancient topping line. Higher base stats than standard Raspberry with the same burst-DPS profile. Reserved for Ancient-tier Cookies that can use them.',
+  destined: 'This is a Destined topping build (the Elemental Awakened topping line). Provides elemental damage amplification on top of standard topping stats. Used on elemental-attuned Cookies for the extra type-damage scaling.',
+  silent: 'This is a Silent Raspberry build (Beast topping variant). Higher base scaling than standard Raspberry, reserved for Beast Cookies that need maximum ATK output.',
+  indolent: 'This is an Indolent Chocolate build (Beast topping variant). Maximum cooldown reduction for Beast-tier Cookies whose value is in their skill cycles.',
+  sea: 'This is a Sea Salt Chocolate build (Awakened Ancient topping line). Elite cooldown reduction with bonus elemental damage. Reserved for Ancient-tier Cookies built for skill cycling.',
+};
+
+function getPrimaryToppingArchetype(toppingsStr: string): string {
+  const lower = toppingsStr.toLowerCase();
+  if (lower.includes('truthful')) return 'truthful';
+  if (lower.includes('silent')) return 'silent';
+  if (lower.includes('indolent')) return 'indolent';
+  if (lower.includes('destined')) return 'destined';
+  if (lower.includes('sea salt')) return 'sea';
+  if (lower.includes('raspberry')) return 'raspberry';
+  if (lower.includes('chocolate')) return 'chocolate';
+  if (lower.includes('almond')) return 'almond';
+  if (lower.includes('watermelon')) return 'watermelon';
+  if (lower.includes('apple')) return 'apple';
+  if (lower.includes('blueberry')) return 'blueberry';
+  if (lower.includes('walnut')) return 'walnut';
+  if (lower.includes('peanut')) return 'peanut';
+  return 'raspberry';
+}
+
+export function getCookieBuildNotes(cookie: CookieData): string | null {
+  if (!cookie.build || !cookie.build.toppings) return null;
+  const archetype = getPrimaryToppingArchetype(cookie.build.toppings);
+  return TOPPING_ARCHETYPE_BLURBS[archetype] || TOPPING_ARCHETYPE_BLURBS.raspberry;
+}
+
+export function getCookieRoleDetail(cookie: CookieData): string {
+  return TYPE_ROLE_DETAIL[cookie.type];
 }
