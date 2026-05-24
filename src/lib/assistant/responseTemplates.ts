@@ -34,14 +34,28 @@ function answerOpener(): string {
   return openers[Math.floor(Math.random() * openers.length)];
 }
 
+function escapeRegex(s: string): string {
+  return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
 function detectCookieMention(msg: string): ContentIndexItem | undefined {
-  // Try to match cookie name substrings. Prefer the longest match.
+  // Use word-boundary matching so short names ("dark", "milk", "knight",
+  // "angel", "wizard") don't false-positive on unrelated English.
+  // Full names get a relaxed match (they end in " Cookie" which is rarely
+  // ambiguous), short names get a strict \b boundary check.
   const candidates = ALL_COOKIES
-    .map(c => ({ name: c.name.toLowerCase(), short: c.name.replace(/ Cookie$/i, '').toLowerCase(), slug: c.slug }))
-    .filter(c => msg.includes(c.name) || msg.includes(c.short));
+    .map(c => {
+      const name = c.name.toLowerCase();
+      const short = c.name.replace(/ Cookie$/i, '').toLowerCase();
+      const fullMatch = msg.includes(name);
+      const shortBoundary = new RegExp(`\\b${escapeRegex(short)}\\b`, 'i');
+      const shortMatch = !fullMatch && shortBoundary.test(msg);
+      return { name, short, slug: c.slug, hit: fullMatch || shortMatch, scoreLen: fullMatch ? name.length : short.length };
+    })
+    .filter(c => c.hit);
   if (candidates.length === 0) return undefined;
-  // Pick the longest match (so "dark enchantress cookie" beats "dark").
-  candidates.sort((a, b) => b.name.length - a.name.length);
+  // Prefer the longest match (so "dark enchantress cookie" beats "dark").
+  candidates.sort((a, b) => b.scoreLen - a.scoreLen);
   const best = candidates[0];
   return getContentIndex().find(i => i.id === `cookie:${best.slug}`);
 }

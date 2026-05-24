@@ -222,7 +222,7 @@ export default function ChatWidget({ embed }: Props) {
       <button
         onClick={() => setOpen(true)}
         aria-label="Open Mythras assistant"
-        className={`fixed bottom-5 right-5 z-[90] w-14 h-14 rounded-full bg-[#D4A853] text-[#060610] shadow-lg shadow-black/40 hover:bg-[#F0C850] hover:shadow-xl hover:shadow-[#D4A853]/30 transition-all flex items-center justify-center group ${open ? 'opacity-0 pointer-events-none scale-90' : 'opacity-100'}`}
+        className={`fixed bottom-5 right-5 z-[110] w-14 h-14 rounded-full bg-[#D4A853] text-[#060610] shadow-lg shadow-black/40 hover:bg-[#F0C850] hover:shadow-xl hover:shadow-[#D4A853]/30 transition-all flex items-center justify-center group ${open ? 'opacity-0 pointer-events-none scale-90' : 'opacity-100'}`}
       >
         <svg className="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
           <path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z" />
@@ -238,7 +238,7 @@ export default function ChatWidget({ embed }: Props) {
             animate={{ opacity: 1, y: 0, scale: 1 }}
             exit={{ opacity: 0, y: 20, scale: 0.96 }}
             transition={{ duration: 0.18, ease: 'easeOut' }}
-            className="fixed z-[91] flex flex-col bg-[#060610]/95 backdrop-blur-md border border-[#D4A853]/20 shadow-2xl shadow-black/50 inset-x-3 bottom-3 top-16 sm:inset-auto sm:bottom-5 sm:right-5 sm:top-auto sm:w-[400px] sm:h-[640px] sm:max-h-[calc(100vh-2.5rem)] sm:rounded-2xl rounded-2xl overflow-hidden"
+            className="fixed z-[111] flex flex-col bg-[#060610]/95 backdrop-blur-md border border-[#D4A853]/20 shadow-2xl shadow-black/50 inset-x-3 bottom-3 top-16 sm:inset-auto sm:bottom-5 sm:right-5 sm:top-auto sm:w-[400px] sm:h-[640px] sm:max-h-[calc(100vh-2.5rem)] sm:rounded-2xl rounded-2xl overflow-hidden"
             role="dialog"
             aria-modal="false"
             aria-label="Mythras assistant"
