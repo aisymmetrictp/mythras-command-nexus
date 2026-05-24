@@ -34,7 +34,7 @@ export const crkTreasuresGuide: BlogPost = {
     { id: 'how-upgrading-works', label: 'How upgrading works', level: 3 },
     { id: 'the-8-priority-treasures-every-player-should-build', label: 'The 8 priority treasures every player should build', level: 2 },
     { id: 'top-treasures-by-game-mode', label: 'Top treasures by game mode', level: 2 },
-    { id: 'upgrade-priority-for-f2p', label: 'Upgrade priority for F2P (what to max first)', level: 2 },
+    { id: 'upgrade-priority-for-f2p-what-to-max-first', label: 'Upgrade priority for F2P (what to max first)', level: 2 },
     { id: 'common-treasure-mistakes-that-stall-progression', label: 'Common treasure mistakes that stall progression', level: 2 },
     { id: 'how-treasures-interact-with-your-team-comp', label: 'How treasures interact with your team comp', level: 2 },
     { id: 'quick-action-checklist', label: 'Quick Action Checklist', level: 2 },

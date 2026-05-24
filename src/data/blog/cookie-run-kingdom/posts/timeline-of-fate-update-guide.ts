@@ -34,23 +34,22 @@ export const timelineOfFateUpdateGuide: BlogPost = {
   readingTimeMin: 10,
 
   toc: [
-    { id: 'what-is-it', label: 'What is the Timeline of Fate update?', level: 2 },
-    { id: 'new-cookies', label: 'New Cookies: Timekeeper & Ash Salt', level: 2 },
-    { id: 'six-star', label: 'The 6-Star Legendary growth system, explained', level: 2 },
-    { id: 'arcade-arena', label: 'Arcade Arena & the Rewound Glory season', level: 2 },
-    { id: 'unstable-timeline', label: 'Unstable Timeline & Timeline Reconstruction', level: 2 },
-    { id: 'ash-bound', label: 'Ash-Bound Soul region & Kingdom Affairs hub', level: 2 },
-    { id: 'patch-priority', label: 'Patch priority by player level', level: 2 },
-    { id: 'verdict', label: 'Is it worth your time? — honest verdict', level: 2 },
-    { id: 'checklist', label: 'Quick Action Checklist', level: 2 },
+    { id: 'what-is-the-timeline-of-fate-update', label: 'What is the Timeline of Fate update?', level: 2 },
+    { id: 'new-cookies-timekeeper-ash-salt', label: 'New Cookies: Timekeeper & Ash Salt', level: 2 },
+    { id: 'the-6-star-legendary-growth-system-explained', label: 'The 6-Star Legendary growth system, explained', level: 2 },
+    { id: 'arcade-arena-the-rewound-glory-season', label: 'Arcade Arena & the Rewound Glory season', level: 2 },
+    { id: 'unstable-timeline-timeline-reconstruction', label: 'Unstable Timeline & Timeline Reconstruction', level: 2 },
+    { id: 'ash-bound-soul-region-kingdom-affairs-hub', label: 'Ash-Bound Soul region & Kingdom Affairs hub', level: 2 },
+    { id: 'patch-priority-by-player-level', label: 'Patch priority by player level', level: 2 },
+    { id: 'is-it-worth-your-time-honest-verdict', label: 'Is it worth your time? — honest verdict', level: 2 },
+    { id: 'quick-action-checklist', label: 'Quick Action Checklist', level: 2 },
   ],
 
   content: `Timeline of Fate Act 2 went live on **May 7, 2026** as Cookie Run: Kingdom v7.4 — and it is the biggest single update since the v7.0 fifth-anniversary patch. Two new Cookies, a brand-new growth ceiling for Legendaries, a fresh PvP mode with rotating seasons, a region that rewards aggressive play, and a story-pacing change that affects every player on the roster.
 
 If you have been off the game since the anniversary, you have a *lot* to catch up on. If you are a daily player, you probably already feel the meta moving. Either way, here is the breakdown — feature by feature, with an honest verdict at the end on whether you should clear your weekend or check back in a month.
 
-## What is the Timeline of Fate update? {#what-is-it}
-
+## What is the Timeline of Fate update?
 Timeline of Fate is the **second act of the 5th-anniversary story arc** that began with v7.0 in January 2026. Act 1 set up the time-fracture conflict; Act 2 is where the timeline literally starts breaking apart and the new mechanics — Unstable Timeline, Timeline Reconstruction, the Ash-Bound Soul region — exist to dramatize that.
 
 The patch shipped with:
@@ -66,8 +65,7 @@ The patch shipped with:
 
 There is also a quietly important schedule change: Devsisters reportedly moved main-story drops from a **4-week cycle to a 2-week cycle** with Act 2. If you have been waiting for "the next big patch" before logging back in, that window just got cut in half.
 
-## New Cookies: Timekeeper & Ash Salt {#new-cookies}
-
+## New Cookies: Timekeeper & Ash Salt
 The two debut Cookies are both meta-relevant, which is rarer than it sounds — most patches ship one keeper and one filler.
 
 | Cookie | Rarity | Role | Why she matters |
@@ -83,8 +81,7 @@ For the full ranking context, the [CRK May 2026 tier list](/blog/cookie-run-king
 
 > **Tip:** Pull Timekeeper *before* you chase Ash Salt. Timekeeper changes your Arena ceiling. Ash Salt is a quality-of-life upgrade. If you only have pulls for one, the Legendary is the correct call.
 
-## The 6-Star Legendary growth system, explained {#six-star}
-
+## The 6-Star Legendary growth system, explained
 This is the change with the longest-tail impact. Before v7.4, the maximum Legendary growth tier was 5-star. With Act 2, that ceiling moved to 6-star — and the gap between a 5-star and 6-star Legendary is genuinely large, not cosmetic.
 
 Practically, that means:
@@ -100,8 +97,7 @@ The 6-star jump is not a simple stat bump either. It unlocks a tier-specific pas
 
 A frequent question: "Can I un-invest if I picked wrong?" Effectively no. Soulstones spent are spent. Pick your 6-star target with the next 6-12 months of play in mind, not just the current patch.
 
-## Arcade Arena & the Rewound Glory season {#arcade-arena}
-
+## Arcade Arena & the Rewound Glory season
 Arcade Arena is a parallel PvP mode to Kingdom Arena, built around **4 rotating seasons** that change the rules and meta picks. The current season is **"Rewound Glory"**, running through **2026-06-04**.
 
 What it changes:
@@ -114,8 +110,7 @@ The strategic point: Arcade Arena is a *low-risk* way to play with team comps yo
 
 > **Tip:** Even if you skip the seasonal climb, log in once a week to clear the daily Arcade Arena reward — the soulstones are non-trivial and accumulate quickly.
 
-## Unstable Timeline & Timeline Reconstruction mechanics {#unstable-timeline}
-
+## Unstable Timeline & Timeline Reconstruction
 These are the two new combat/world systems tied to the Act 2 story. They show up in main-story stages, the Ash-Bound Soul region, and select event content.
 
 **Unstable Timeline** introduces stage-level modifiers that change mid-fight — enemy resistances flip, friendly buffs cycle, or skill cooldowns shift on a timer. The practical impact: teams that depend on a single damage window struggle more than balanced teams. Bring at least one Cookie with reliable sustained DPS (Dark Enchantress, Pure Vanilla) and one with on-demand burst (Venom Dough, Timekeeper) rather than two of the same archetype.
@@ -124,8 +119,7 @@ These are the two new combat/world systems tied to the Act 2 story. They show up
 
 The story content uses both mechanics aggressively. If you have been struggling with the new main story, the answer is usually "build a more balanced team" before it is "level up more."
 
-## Ash-Bound Soul region & Kingdom Affairs hub {#ash-bound}
-
+## Ash-Bound Soul region & Kingdom Affairs hub
 **Ash-Bound Soul** is the new exploration zone, themed around ash, decay, and aggressive enemy AI. Bosses here favor stripping revive shields and stacking debuffs, which is why Ash Salt and Timekeeper both shine. Standard exploration rewards: new toppings, region-locked materials, and Cookie unlock requirements for upcoming side stories.
 
 **Kingdom Affairs** is the new consolidated daily-task hub. It pulls your dailies, weekly missions, event progress, and pending claim rewards into one screen. If you have skipped dailies in the past because the menu hunt was annoying, Kingdom Affairs single-handedly fixes that complaint.
@@ -136,8 +130,7 @@ The Ash-Bound region is also where the v7.4 storyline pays off most of its emoti
 
 Kingdom Affairs deserves one more note: it tracks weekly mission progress across all game modes in one place, which means you can finally see at a glance whether you have skipped a high-value reward. Most returning players discover, on their first Kingdom Affairs open, that they have a backlog of unclaimed crystals worth a 10-pull or two.
 
-## Patch priority by player level {#patch-priority}
-
+## Patch priority by player level
 Different accounts get different value out of this patch. Here is how to triage:
 
 | Stage | Account level | What matters most in v7.4 |
@@ -149,8 +142,7 @@ Different accounts get different value out of this patch. Here is how to triage:
 
 > **Warning:** Do not panic-pull Timekeeper on a fresh account. Her kit is wasted without a built supporting cast. A new player landing Timekeeper from a reroll is *fine*, but spending real money to chase her at level 30 is a bad trade.
 
-## Is it worth your time? — honest verdict {#verdict}
-
+## Is it worth your time? — honest verdict
 Short answer: **yes, for almost everyone.**
 
 Long answer:
@@ -164,8 +156,7 @@ The honest weakness of the patch: **Unstable Timeline modifiers can feel punishi
 
 For the community deep-dive on the broader v7.4 systems, the [CookieChat affection guide](/blog/cookie-run-kingdom/cookiechat-affection-guide) covers the v7.2 system Timeline of Fate builds on, and the [guild battle teams reference](/blog/cookie-run-kingdom/guild-battle-teams) shows where the new Cookies slot into PvE endgame.
 
-## Quick Action Checklist {#checklist}
-
+## Quick Action Checklist
 - Log in once before **June 4, 2026** to bank the Rewound Glory Arcade Arena rewards
 - Decide your one **6-star Legendary target** before spending another soulstone
 - Pull Timekeeper if you play Arena and have a healer built

@@ -33,14 +33,14 @@ export const crkCodes: BlogPost = {
   readingTimeMin: 6,
 
   toc: [
-    { id: 'active-codes', label: 'Active CRK codes (May 2026)', level: 2 },
-    { id: 'how-to-redeem', label: 'How to redeem CRK codes', level: 2 },
-    { id: 'player-id', label: 'Finding your Player ID', level: 3 },
-    { id: 'expired-codes', label: 'Recently expired codes', level: 2 },
-    { id: 'where-codes-drop', label: 'Where new CRK codes drop', level: 2 },
-    { id: 'why-codes-fail', label: 'Why codes sometimes don\'t work', level: 2 },
-    { id: 'spend-strategy', label: 'What to spend your code rewards on', level: 2 },
-    { id: 'checklist', label: 'Quick Action Checklist', level: 2 },
+    { id: 'active-crk-codes-may-2026', label: 'Active CRK codes (May 2026)', level: 2 },
+    { id: 'how-to-redeem-crk-codes', label: 'How to redeem CRK codes', level: 2 },
+    { id: 'finding-your-player-id', label: 'Finding your Player ID', level: 3 },
+    { id: 'recently-expired-codes', label: 'Recently expired codes', level: 2 },
+    { id: 'where-new-crk-codes-drop', label: 'Where new CRK codes drop', level: 2 },
+    { id: 'why-codes-sometimes-dont-work', label: 'Why codes sometimes don\'t work', level: 2 },
+    { id: 'what-to-spend-your-code-rewards-on', label: 'What to spend your code rewards on', level: 2 },
+    { id: 'quick-action-checklist', label: 'Quick Action Checklist', level: 2 },
   ],
 
   content: `Nine codes, roughly 18,500 Crystals, 10,000+ Rainbow Cubes, a stack of Fateful Cookie Cutters and a Butter Amber are sitting on Devsisters' coupon page right now — and most players miss at least half of them because the codes never appear in-game. This is the running list for **May 2026**, freshly checked against the official DevPlay portal, with redemption steps and the recently-expired ones flagged so you don't waste a tap.
@@ -49,8 +49,7 @@ If you just landed in **v7.4 Timeline of Fate** (live since 2026-05-07), stackin
 
 This page is updated weekly. If you bookmark it once and check back every Monday, you'll catch most new codes within a day or two of release, which matters because Devsisters has shifted to a faster expiry cadence in 2026 — codes that once lived for two months now sometimes expire inside three weeks.
 
-## Active Cookie Run: Kingdom codes (May 2026) {#active-codes}
-
+## Active CRK codes (May 2026)
 Every code below has been verified as redeemable on the global DevPlay coupon page as of **2026-05-23**. Some are anniversary leftovers, some are convention drops, and a few are subscriber milestones from CRK content creators — all stack onto your account regardless of source.
 
 | Code | Reward | Notes |
@@ -71,8 +70,7 @@ Total haul if you grab everything: roughly **18,000+ Crystals**, **10,000+ Rainb
 
 To put that in context: 18,000 Crystals is roughly **60 single pulls** or **6 ten-pulls** on the current banner — enough to plausibly hit a rate-up Legendary if you're chasing one. 10 Fateful Cookie Cutters is a guaranteed swing at the Fateful banner if it's active during your session. And the 100 Radiant Beascuit Dough plus Butter Amber are the exact crafting mats needed for high-end Beascuit pieces, which is the gear bottleneck for most mid-game accounts.
 
-## How to redeem CRK codes {#how-to-redeem}
-
+## How to redeem CRK codes
 Codes do not redeem inside the game itself on global — Devsisters routes redemption through their **DevPlay coupon site** in a browser. The flow takes about 30 seconds per code once you've grabbed your Player ID.
 
 1. Open the in-game **Settings** menu, then tap **Customer Service** (the headset icon).
@@ -84,8 +82,7 @@ Codes do not redeem inside the game itself on global — Devsisters routes redem
 7. Hit **Use Coupon**. Rewards land in your in-game mailbox within a minute or two.
 8. Open the game, tap the **mailbox** (top-left of the lobby), and claim.
 
-### Finding your Player ID {#player-id}
-
+### Finding your Player ID
 If Settings is showing you a name instead of an ID, look for the small numeric string under your nickname — it usually starts with letters then numbers (for example, a 9-12 character mixed string). On some regions it's labeled **User Code** instead of Player ID. That is the value you paste into the coupon page.
 
 A useful habit: paste your Player ID into a note-taking app on your phone the first time you grab it. You will redeem dozens of codes over the life of your account, and tapping the same saved note is faster than digging through Settings every time. Just keep that note private — see the warning below about not sharing your ID publicly.
@@ -94,8 +91,7 @@ If you have multiple CRK accounts (one main, one alt), each has its own Player I
 
 > **Warning:** Never share your Player ID with random "free Crystals" sites or Discord DMs. The official DevPlay page is the only one that issues rewards. Anything else is fishing for your account.
 
-## Recently expired codes {#expired-codes}
-
+## Recently expired codes
 If you came here because a code "isn't working," there's a good chance it already expired. These were live earlier in 2026 and are now dead — the DevPlay page will return an "expired" or "invalid" error if you try them:
 
 | Code | Status | When it died |
@@ -109,8 +105,7 @@ If you redeemed any of these earlier, you keep the rewards — expiry only block
 
 A common question: "is there a way to redeem expired codes?" No. There's no grace period, no email-Devsisters workaround, no archived-code page. Once a code is dead, it's dead. The only consolation is that Devsisters typically replaces big expiring codes with new ones inside a week or two, so the well rarely runs dry for long.
 
-## Where new CRK codes drop {#where-codes-drop}
-
+## Where new CRK codes drop
 Devsisters does not have a regular code schedule. Codes show up in bursts around specific moments:
 
 - **Official Devsisters livestreams** — most major codes drop live during the broadcast and stay valid for 2-4 weeks. The 6-star growth system reveal stream dropped three codes in fifteen minutes.
@@ -123,8 +118,7 @@ Devsisters does not have a regular code schedule. Codes show up in bursts around
 
 This page is updated weekly, so if you bookmark it you'll catch new codes without hunting through Reddit threads.
 
-## Why codes sometimes don't work {#why-codes-fail}
-
+## Why codes sometimes don't work
 A few common reasons a code fails on the DevPlay page even when it's "supposed" to work:
 
 - **It's already expired.** Check the expired table above — Devsisters rarely announces expiry dates in advance.
@@ -142,8 +136,7 @@ One more edge case worth knowing: if the DevPlay site itself is having issues (i
 
 For most regions, there is **no** in-game coupon entry box for global CRK in 2026. Devsisters routes everything through the DevPlay web page. A few region-specific store builds (Korean, Chinese) have had in-game entry in the past, but if you're on the global app store version, the browser flow is the only path.
 
-## What to spend your code rewards on {#spend-strategy}
-
+## What to spend your code rewards on
 Once the mail hits and you've claimed everything, the temptation is to dump it all on the first banner you see. Resist. Here's the rough priority order for spending fresh code rewards in May 2026:
 
 | Currency | Best use right now |
@@ -160,8 +153,7 @@ Once the mail hits and you've claimed everything, the temptation is to dump it a
 
 A practical rule: spend Crystals within the week to free up mental overhead, but **always hold Fateful Cookie Cutters, Butter Amber, and Soulstone of Fate chests** for a use you've already thought through. Those three are the resources that distinguish a top-tier roster from a mid one.
 
-## Quick Action Checklist {#checklist}
-
+## Quick Action Checklist
 - Grab your **Player ID** from in-game Settings → Customer Service.
 - Open the **DevPlay coupon page** in a browser.
 - Redeem \`HAPPY5THANNIVERSARY\` and \`2MSUBSCRIBERSCRK\` first — biggest value.

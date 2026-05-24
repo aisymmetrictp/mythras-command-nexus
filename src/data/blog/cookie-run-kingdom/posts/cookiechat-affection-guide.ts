@@ -33,22 +33,21 @@ export const cookiechatAffectionGuide: BlogPost = {
 
   toc: [
     { id: 'what-is-cookiechat', label: 'What is CookieChat?', level: 2 },
-    { id: 'how-affection-works', label: 'How the Affection / Favorability system works', level: 2 },
-    { id: 'favorability-levels', label: 'The 10 Favorability levels and what each unlocks', level: 2 },
-    { id: 'gift-mechanic', label: 'The gift mechanic — how to maximize affection per gift', level: 2 },
-    { id: 'favorite-gifts', label: 'Favorite gifts list — best-known matches', level: 2 },
-    { id: 'priority-cookies', label: 'Which Cookies to raise affection on first', level: 2 },
-    { id: 'lore-unlocks', label: 'Story / lore unlocks at higher affection', level: 2 },
-    { id: 'common-mistakes', label: 'Common mistakes that waste gifts', level: 2 },
-    { id: 'checklist', label: 'Quick Action Checklist', level: 2 },
+    { id: 'how-the-affection-favorability-system-works', label: 'How the Affection / Favorability system works', level: 2 },
+    { id: 'the-10-favorability-levels-and-what-each-unlocks', label: 'The 10 Favorability levels and what each unlocks', level: 2 },
+    { id: 'the-gift-mechanic-how-to-maximize-affection-per-gift', label: 'The gift mechanic — how to maximize affection per gift', level: 2 },
+    { id: 'favorite-gifts-list-best-known-matches', label: 'Favorite gifts list — best-known matches', level: 2 },
+    { id: 'which-cookies-to-raise-affection-on-first', label: 'Which Cookies to raise affection on first', level: 2 },
+    { id: 'story-lore-unlocks-at-higher-affection', label: 'Story / lore unlocks at higher affection', level: 2 },
+    { id: 'common-mistakes-that-waste-gifts', label: 'Common mistakes that waste gifts', level: 2 },
+    { id: 'quick-action-checklist', label: 'Quick Action Checklist', level: 2 },
   ],
 
   content: `CookieChat is the system most CRK players underuse the most — and the one that quietly rewards consistency more than any other feature in the game. Shipped in **v7.2 (2026-03-11)** alongside the Cake Stacker minigame and Sugar Swan's release, the Affection system gives every cookie in your roster a 10-level favorability track with permanent unlocks at each tier. Titles, story scenes, presenter-notes lore, gameplay buffs — all gated behind talking to your cookies and feeding them their favorite gifts.
 
 The catch: gifting wrong is roughly **3x slower** than gifting right. This is the guide that fixes that, with the full favorability table, the favorite-gift list (annotated with what's confirmed vs still unverified), and the priority order for which cookies you should level affection on first.
 
-## What is CookieChat? {#what-is-cookiechat}
-
+## What is CookieChat?
 CookieChat is an in-game messenger UI that turns your roster into a contact list. Every cookie you own has a chat window where they:
 
 - Send you scripted **messages** based on in-game events (you cleared a stage with them, you upgraded their building, the season changed).
@@ -60,8 +59,7 @@ The system is layered on top of existing features rather than replacing them —
 
 > **Tip:** Open CookieChat once per daily login. New messages are time-gated and the older ones expire, so a week of skipping it means a week of missed micro-rewards (Crystals, Soulstones, and gift items).
 
-## How the Affection / Favorability system works {#how-affection-works}
-
+## How the Affection / Favorability system works
 Each cookie has an **Affection meter** (also called Favorability in some menus) that fills as you interact with them. The meter has **10 distinct levels**, with each level requiring more affection points than the last. You raise affection through three main actions:
 
 1. **Gifting** — by far the largest single contributor. The right gift can raise an entire level on its own at low tiers.
@@ -70,8 +68,7 @@ Each cookie has an **Affection meter** (also called Favorability in some menus) 
 
 The point thresholds scale steeply — early levels take minutes, late levels take weeks of consistent gifting. Most rosters cap out at Level 5-7 on their main cookies and Level 1-2 across the rest.
 
-## The 10 Favorability levels and what each unlocks {#favorability-levels}
-
+## The 10 Favorability levels and what each unlocks
 This is the table to bookmark. Per-level unlocks below are sourced from the in-game CookieChat UI and Devsisters' v7.2 patch notes; specific reward quantities should be treated as approximate where flagged.
 
 | Level | What it unlocks | Notes |
@@ -89,8 +86,7 @@ This is the table to bookmark. Per-level unlocks below are sourced from the in-g
 
 > **Warning:** Per-level unlocks are not 100% uniform across every cookie. Story-heavy cookies (Pure Vanilla, Dark Enchantress, the Beasts) tend to have richer scenes at L5 and L8; newer cookies sometimes have placeholder dialogue at higher tiers that gets filled in later patches.
 
-## The gift mechanic — how to maximize affection per gift {#gift-mechanic}
-
+## The gift mechanic — how to maximize affection per gift
 Once a cookie hits Level 2 and the gift slot opens, you can hand them an item from your inventory. The affection gained depends on three factors stacked together:
 
 - **Match tier**: every cookie has a hidden "preference rating" for each gift category — Disliked, Neutral, Liked, Favorite. A Favorite gift gives roughly **3-4x** the affection of a Neutral one.
@@ -101,8 +97,7 @@ The play is simple but tedious: **only give Favorite-tier gifts**, spread across
 
 > **Tip:** If you don't know a cookie's Favorite gift, give them a single Liked gift and watch their reaction line. The game telegraphs preference strongly — a Favorite gift triggers a unique animation and a heart-burst, a Liked one is more muted, a Neutral one is generic.
 
-## Favorite gifts list — best-known matches {#favorite-gifts}
-
+## Favorite gifts list — best-known matches
 This is the running favorite-gift list as of **v7.4 Timeline of Fate**. Anything not personally confirmed yet is flagged — if you've tested one and it lit up with the Favorite animation, your data is more recent than this table.
 
 | Cookie | Favorite gift | Notes |
@@ -126,8 +121,7 @@ This is the running favorite-gift list as of **v7.4 Timeline of Fate**. Anything
 
 The pattern: cookies' favorite gifts thematically match their lore archetype. When in doubt, **look at the cookie's design** and pick the gift category that visually matches — that's roughly an 80% hit rate before you even check a list.
 
-## Which Cookies to raise affection on first {#priority-cookies}
-
+## Which Cookies to raise affection on first
 You can't max every cookie. Pick a small set based on what their unlocks actually give you.
 
 **Priority tier (raise to Level 5+ first)**:
@@ -148,8 +142,7 @@ You can't max every cookie. Pick a small set based on what their unlocks actuall
 
 > **Tip:** Track your top 5 affection cookies on a sticky note or the game's pinned-cookies UI. Splitting daily gifts across more than 5 cookies dilutes your progress to a crawl.
 
-## Story / lore unlocks at higher affection {#lore-unlocks}
-
+## Story / lore unlocks at higher affection
 The biggest "hidden" reason to chase higher affection levels is the **presenter notes** system — short narrative beats that fill in backstory the game otherwise doesn't show. Story-heavy cookies (the Beasts, the Ancients, the recent Sugar Swan and Black Sapphire arcs) get the richest unlocks here.
 
 A rough pattern across the cookies that have been mapped so far:
@@ -161,8 +154,7 @@ A rough pattern across the cookies that have been mapped so far:
 
 If you care about the writing, Level 5 is the realistic stopping point for most of your roster, with 2-3 cookies pushed to 8 or 10 for the headline stuff.
 
-## Common mistakes that waste gifts {#common-mistakes}
-
+## Common mistakes that waste gifts
 A short list of the failure modes most players hit in their first month with CookieChat:
 
 - **Gifting Common-rarity items to favorites instead of saving rare ones**. Match tier matters more than rarity — but rarity stacks _on top_ of match tier, so dropping a rare Favorite gift on a priority cookie is a multiplicative win.
@@ -174,8 +166,7 @@ A short list of the failure modes most players hit in their first month with Coo
 
 > **Warning:** Some event-only gifts (like seasonal items from the Cake Stacker minigame) expire at the end of the event. Use them before they vanish — even on Liked-tier matches if you don't have a Favorite cookie ready.
 
-## Quick Action Checklist {#checklist}
-
+## Quick Action Checklist
 - Open CookieChat **once per daily login** and reply to every new message.
 - Pick your **3-5 priority cookies** (Guild Battle anchors + lore favorites) and focus gifts there.
 - Match gifts to themes — **anything that fits the cookie's design archetype** is usually their Favorite.

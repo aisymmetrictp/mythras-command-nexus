@@ -34,26 +34,25 @@ export const guildBattleTeams: BlogPost = {
   readingTimeMin: 12,
 
   toc: [
-    { id: 'cheat-sheet', label: 'Boss-team cheat sheet', level: 2 },
-    { id: 'how-scoring-works', label: 'How Guild Battle scoring works in 2026', level: 2 },
-    { id: 'red-velvet-dragon', label: 'Red Velvet Dragon — Poison comp', level: 2 },
-    { id: 'avatar-of-destiny', label: 'Avatar of Destiny — Sustain comp', level: 2 },
-    { id: 'machine-god', label: 'Machine-God — Stinging Fizz comp', level: 2 },
-    { id: 'living-abyss', label: 'Living Abyss — Standard comp', level: 2 },
-    { id: 'f2p-swaps', label: 'F2P-friendly swaps for each boss', level: 2 },
-    { id: 'treasures', label: 'Treasures by boss', level: 2 },
-    { id: 'maximize-damage', label: 'How to maximize damage per attempt', level: 2 },
-    { id: 'warm-up', label: 'Warm-up rotations', level: 3 },
+    { id: 'boss-team-cheat-sheet', label: 'Boss-team cheat sheet', level: 2 },
+    { id: 'how-guild-battle-scoring-works-in-2026', label: 'How Guild Battle scoring works in 2026', level: 2 },
+    { id: 'red-velvet-dragon-poison-comp', label: 'Red Velvet Dragon — Poison comp', level: 2 },
+    { id: 'avatar-of-destiny-sustain-comp', label: 'Avatar of Destiny — Sustain comp', level: 2 },
+    { id: 'machine-god-stinging-fizz-comp', label: 'Machine-God — Stinging Fizz comp', level: 2 },
+    { id: 'living-abyss-standard-comp', label: 'Living Abyss — Standard comp', level: 2 },
+    { id: 'f2p-friendly-swaps-for-each-boss', label: 'F2P-friendly swaps for each boss', level: 2 },
+    { id: 'treasures-by-boss', label: 'Treasures by boss', level: 2 },
+    { id: 'how-to-maximize-damage-per-attempt', label: 'How to maximize damage per attempt', level: 2 },
+    { id: 'warm-up-rotations', label: 'Warm-up rotations', level: 3 },
     { id: 'manual-vs-auto', label: 'Manual vs auto', level: 3 },
-    { id: 'checklist', label: 'Quick Action Checklist', level: 2 },
+    { id: 'quick-action-checklist', label: 'Quick Action Checklist', level: 2 },
   ],
 
   content: `Three attempts per boss, four bosses, one weekly leaderboard — and the gap between a top-cut guild and a mid-tier one usually comes down to whether you brought the right anchor cookie. Guild Battle in **v7.4 Timeline of Fate** rewards specialization harder than ever: bringing a generic "good team" into Red Velvet Dragon when you should be stacking Poison is the difference between 30B damage and 80B+ on the same roster.
 
 This is the cheat sheet — comps, treasures, cooldown order, and the F2P swaps that still clear S-tier scores — for every Guild Battle boss in CRK as of **May 2026**. If you're not sure which cookie to pull next, this guide will tell you which boss they unlock and how much they'll lift your score.
 
-## Boss-team cheat sheet {#cheat-sheet}
-
+## Boss-team cheat sheet
 Skim this first. Each row tells you the boss, what it's vulnerable to, the anchor cookie that defines the comp, and why that pick is non-negotiable.
 
 | Boss | Weakness | Anchor cookie | Why it wins |
@@ -65,8 +64,7 @@ Skim this first. Each row tells you the boss, what it's vulnerable to, the ancho
 
 > **Tip:** If your guild assigns bosses, lock in your anchor cookie before anyone else builds. The whole team formation rotates around them — picking the wrong anchor wastes everyone's treasure investment for the week.
 
-## How Guild Battle scoring works in 2026 {#how-scoring-works}
-
+## How Guild Battle scoring works in 2026
 The fundamentals haven't shifted much since the early CRK days — three attempts per boss per reset, with your total damage feeding both your personal score and the guild's collective rank. What _has_ shifted in 2026 is how the **damage multiplier window** behaves, plus how aggressively the seasonal Battle Power rating caps your effective output if you bring an underleveled cookie.
 
 A clean attempt now looks like this:
@@ -80,8 +78,7 @@ Each boss has a "soft cap" — a damage threshold past which scaling drops sharp
 
 > **Warning:** If your Battle Power is more than 30% below the recommended threshold, your damage gets _heavily_ penalized regardless of skill execution. Level cookies and gear toppings before chasing top comps.
 
-## Red Velvet Dragon — Poison comp {#red-velvet-dragon}
-
+## Red Velvet Dragon — Poison comp
 Red Velvet Dragon is the original Guild Battle boss and still one of the most lopsided in terms of element advantage. He takes massively amplified damage from **Poison stacks**, which is why the canonical comp packs two Poison-applying cookies plus a tank that survives the breath phases.
 
 | Position | Cookie | Role | Notes |
@@ -96,8 +93,7 @@ Red Velvet Dragon is the original Guild Battle boss and still one of the most lo
 
 > **Tip:** If your Pomegranate Cookie is below 6-star, lean harder on Poison Mushroom's uptime instead of trying to burst with Pom. The DoT floor on Red Velvet Dragon is more forgiving than the burst ceiling.
 
-## Avatar of Destiny — Sustain comp {#avatar-of-destiny}
-
+## Avatar of Destiny — Sustain comp
 Avatar of Destiny is the Guild Battle's sustain check — repeated HP-drain windows that wipe under-healed teams in seconds. The comp is structured around keeping a single front-line tank alive through the worst windows while two DPS cookies pump damage uninterrupted.
 
 | Position | Cookie | Role | Notes |
@@ -112,8 +108,7 @@ The trick on Avatar of Destiny is that Sugar Swan and Millennial Tree's heals **
 
 > **Tip:** [Pure Vanilla Cookie](/gear-guide/pure-vanilla-cookie) is a hard substitute in for the Sugar Swan slot if you don't have her, but his shield is reactive rather than proactive — expect a 10-15% score drop on the same roster.
 
-## Machine-God — Stinging Fizz comp {#machine-god}
-
+## Machine-God — Stinging Fizz comp
 The "Stinging Fizz" comp is the highest-ceiling team in Guild Battle right now and the cleanest example of why pair synergy matters more than raw rarity. **Seltzer Cookie** (Epic Bomber, released in v6.8) and **Menthol Cookie** (Epic Support) buff each other on every skill rotation, producing a damage loop that out-scores Legendary-only teams against Machine-God.
 
 | Position | Cookie | Role | Notes |
@@ -128,8 +123,7 @@ The rotation order is what makes Stinging Fizz tick: **Menthol opens, Seltzer fo
 
 > **Warning:** Stinging Fizz is finicky on auto. Manual the first 20 seconds at minimum to land the opening Menthol → Seltzer → buff loop; you can let auto coast the back half if you need to. Expect a 20-30% score gap between manual and full-auto on the same comp.
 
-## Living Abyss — Standard comp {#living-abyss}
-
+## Living Abyss — Standard comp
 Living Abyss is the newest of the four Guild Battle bosses and the meta on it is still shifting. The widely-accepted core right now is a Chaos-leaning team that stacks debuffs and uses Timekeeper to lock the boss's heavier-hitting phases.
 
 | Position | Cookie | Role | Notes |
@@ -142,8 +136,7 @@ Living Abyss is the newest of the four Guild Battle bosses and the meta on it is
 
 Living Abyss is the boss where roster depth matters most. If you don't have Timekeeper, the comp loses a huge chunk of its ceiling — the lockdown window is when most of your damage actually lands.
 
-## F2P-friendly swaps for each boss {#f2p-swaps}
-
+## F2P-friendly swaps for each boss
 Not every guild member has a six-star Dark Enchantress or a built Sugar Swan. These swaps maintain roughly 70-85% of the optimal score on the same boss with significantly easier-to-obtain cookies.
 
 | Boss | Optimal pick | F2P swap | Expected score retention |
@@ -155,8 +148,7 @@ Not every guild member has a six-star Dark Enchantress or a built Sugar Swan. Th
 
 Two patterns to internalize: never skip the **tank** slot (you'll wipe), and never skip the **healer** slot on Avatar of Destiny specifically (the drain phases will eat you regardless of DPS). Everywhere else, raw damage cookies you've actually invested in usually outperform unbuilt meta picks.
 
-## Treasures by boss {#treasures}
-
+## Treasures by boss
 Treasure picks shift the damage ceiling more than most players realize. Generic "always pack" treasures like Old Pilgrim's Scroll work everywhere; the boss-specific picks below are where you squeeze out extra percentage points.
 
 | Boss | Treasure 1 | Treasure 2 | Treasure 3 |
@@ -168,16 +160,13 @@ Treasure picks shift the damage ceiling more than most players realize. Generic 
 
 The treasure meta in 2026 leans heavily on **rotation-speed** treasures rather than flat-damage ones — getting an extra Seltzer or Pomegranate cast inside a 60-second window is worth more than 10% added damage on every other cast.
 
-## How to maximize damage per attempt {#maximize-damage}
-
+## How to maximize damage per attempt
 Three attempts is not many. Burning one to "learn the boss" is fine on the first week of a season; doing it every week is leaving 15-20% of your score on the table.
 
-### Warm-up rotations {#warm-up}
-
+### Warm-up rotations
 Most cookies have a buff effect on their first skill cast that decays over time. Casting your buff/support skills in the first 5 seconds — even if no damage skills come off cooldown for another 8 — frontloads multiplier value for the entire rest of the attempt. Specifically: open with Menthol, Millennial Tree, or Pure Vanilla before your damage cookies, never after.
 
-### Manual vs auto {#manual-vs-auto}
-
+### Manual vs auto
 Auto-battle in 2026 is meaningfully better than it was in 2024, but it still misses two things consistently:
 
 - **Pair synergies**: Stinging Fizz, Menthol → Seltzer, and Pomegranate → Poison Mushroom all need a specific cast order that auto sometimes inverts.
@@ -187,8 +176,7 @@ Manual the opening 20 seconds and the final 20 seconds; the middle is fine on au
 
 > **Tip:** Record one of your attempts with screen capture and rewatch it. Spotting one mis-timed skill is usually worth more than a week of treasure grinding.
 
-## Quick Action Checklist {#checklist}
-
+## Quick Action Checklist
 - Assign anchor cookies in your guild **before** the weekly reset — Pomegranate, Sugar Swan, Seltzer, Dark Enchantress.
 - Build at least one tank (preferably **Hollyberry**) and one universal buffer (**Millennial Tree** or **Pure Vanilla**).
 - Lock treasures per boss — don't reuse one loadout across all four.

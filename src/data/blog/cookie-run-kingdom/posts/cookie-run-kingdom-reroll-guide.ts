@@ -32,16 +32,16 @@ export const crkRerollGuide: BlogPost = {
   readingTimeMin: 9,
 
   toc: [
-    { id: 'what-is-rerolling', label: 'What rerolling actually means in CRK', level: 2 },
-    { id: 'should-you-reroll', label: 'Should you reroll? — honest take', level: 2 },
-    { id: 'best-starting-cookies', label: 'The 12 best starting Cookies to roll for', level: 2 },
-    { id: 'how-to-reroll-fast', label: 'How to reroll fast — step-by-step', level: 2 },
-    { id: 'guest-method', label: 'Guest account method (recommended)', level: 3 },
-    { id: 'alt-methods', label: 'Alternate methods', level: 3 },
-    { id: 'after-reroll', label: 'What to do after you land a good account', level: 2 },
-    { id: 'common-mistakes', label: 'Common reroll mistakes', level: 2 },
-    { id: 'odds', label: 'Realistic odds — what to expect', level: 2 },
-    { id: 'takeaways', label: 'Practical Takeaways', level: 2 },
+    { id: 'what-rerolling-actually-means-in-crk', label: 'What rerolling actually means in CRK', level: 2 },
+    { id: 'should-you-reroll-honest-take', label: 'Should you reroll? — honest take', level: 2 },
+    { id: 'the-12-best-starting-cookies-to-roll-for', label: 'The 12 best starting Cookies to roll for', level: 2 },
+    { id: 'how-to-reroll-fast-step-by-step', label: 'How to reroll fast — step-by-step', level: 2 },
+    { id: 'guest-account-method-recommended', label: 'Guest account method (recommended)', level: 3 },
+    { id: 'alternate-methods', label: 'Alternate methods', level: 3 },
+    { id: 'what-to-do-after-you-land-a-good-account', label: 'What to do after you land a good account', level: 2 },
+    { id: 'common-reroll-mistakes', label: 'Common reroll mistakes', level: 2 },
+    { id: 'realistic-odds-what-to-expect', label: 'Realistic odds — what to expect', level: 2 },
+    { id: 'practical-takeaways', label: 'Practical Takeaways', level: 2 },
   ],
 
   content: `Rerolling in **Cookie Run: Kingdom** in 2026 is more valuable than at any point since launch. The v7.4 Timeline of Fate update added a **6-star Legendary growth system**, which means the Legendary you start with isn't just your day-one carry — it's the account you'll be promoting, awakening, and slotting into Cake Tower and Arena teams six months from now. A bad pull at the start used to fade in importance once your roster grew. Now it follows you.
@@ -50,8 +50,7 @@ So if you're a brand new player (or an old one starting fresh), spending 20-30 m
 
 A quick note on timing: late May 2026 is genuinely one of the better windows of the year to reroll. The 5th Anniversary code is still live, the 2M-subscribers code is still live, and the active code pool is unusually fat (see the [May 2026 codes list](/blog/cookie-run-kingdom/cookie-run-kingdom-codes) for the full haul). That means each reroll attempt nets you more pulls than a typical month, which raises your odds per attempt.
 
-## What rerolling actually means in CRK {#what-is-rerolling}
-
+## What rerolling actually means in CRK
 **Rerolling** is the practice of starting a new Cookie Run: Kingdom save, burning through the first hour or two of content to claim your free summon currency (Crystals from story progression, mailbox gifts, and the active code list), pulling on the **rate-up Legendary banner**, and — if you don't get what you want — wiping the save and starting over.
 
 Most gachas have a reroll meta. CRK's is especially worthwhile right now because:
@@ -63,8 +62,7 @@ Most gachas have a reroll meta. CRK's is especially worthwhile right now because
 
 > **Tip:** "Rerolling" specifically means restarting the game from scratch. Don't confuse it with re-pulling on the same account — that just spends your existing Crystals.
 
-## Should you reroll? — honest take {#should-you-reroll}
-
+## Should you reroll? — honest take
 The honest answer: **yes, if you're brand new and haven't linked your account to a Google/Apple/DevPlay login yet.** Once you link, you can't easily reset.
 
 You should reroll if:
@@ -87,8 +85,7 @@ The honest tradeoff: each reroll attempt is 20-30 minutes of mostly-skippable tu
 
 A useful frame: think of reroll attempts as a budget, not a streak. Decide upfront — say, **ten attempts** — and stop when you hit your cap whether or not you got the dream Cookie. CRK is a long game, and the difference between "the perfect account" and "a perfectly fine account" is usually one or two months of farming, not the entire trajectory of your save. The trap is sinking 15+ attempts because you're sure the next one will hit, when in reality the marginal value of attempt #16 is the same as attempt #6 — but you're four extra hours in.
 
-## The 12 best starting Cookies to roll for {#best-starting-cookies}
-
+## The 12 best starting Cookies to roll for
 These are the Cookies that, if they show up in your reroll pulls, you should **stop rerolling immediately and lock in the account**. The list weights the current S+ tier (Timeline of Fate meta) plus a few Super Epics that are so strong they're effectively account-defining for a beginner.
 
 | Cookie | Role | Why you stop rerolling |
@@ -114,12 +111,10 @@ Also, the meta does shift. The current S+ tier reflects the **Timeline of Fate**
 
 > **Tip:** Two from this list in one reroll is a stop-immediately, link-the-account result. That kind of account would normally take months to build.
 
-## How to reroll fast — step-by-step {#how-to-reroll-fast}
-
+## How to reroll fast — step-by-step
 The fastest CRK reroll method is the **guest account + clear data** loop. Each attempt should take 20-30 minutes once you have the rhythm.
 
-### Guest account method (recommended) {#guest-method}
-
+### Guest account method (recommended)
 1. **Install the game** but do NOT sign in with Google/Apple/DevPlay. Play as a guest.
 2. **Skip every cutscene** you legally can — tap through dialogue, use 2x speed on every battle, and auto-battle where possible.
 3. **Burn through the prologue** until you unlock the **Gacha** (the summon menu) and the **Mailbox**.
@@ -131,8 +126,7 @@ The fastest CRK reroll method is the **guest account + clear data** loop. Each a
 9. If you don't hit: on Android, go to **Settings → Apps → Cookie Run: Kingdom → Storage → Clear Data**. On iOS, **delete and reinstall** the app.
 10. Repeat.
 
-### Alternate methods {#alt-methods}
-
+### Alternate methods
 - **Bluestacks / emulator multi-instance:** run 3-4 instances in parallel on PC if you want to grind through more rerolls per hour. Note this is technically against ToS in some regions — use at your own risk.
 - **Burner Google accounts:** if you prefer to link each attempt instead of clearing data, create a throwaway Google account per reroll. Slower than the clear-data loop but lets you preserve attempts in case the next one is worse.
 - **Don't bother with VPN rerolls** — the global server is what 99% of players want, and bouncing regions just complicates redemption.
@@ -142,8 +136,7 @@ The fastest CRK reroll method is the **guest account + clear data** loop. Each a
 
 > **Tip:** Always pull on the **rate-up banner**, not the general Legendary banner. Rate-up boosts a specific Cookie's odds significantly, and that's the whole point of the pull window.
 
-## What to do after you land a good account {#after-reroll}
-
+## What to do after you land a good account
 The first hour after a successful reroll matters more than people think. Here's the checklist:
 
 1. **Link the account.** Settings → Account → link to Google/Apple/DevPlay. Do this *before* you do anything else. Losing the account to an uninstall is a disaster.
@@ -158,8 +151,7 @@ The first hour after a successful reroll matters more than people think. Here's 
 
 > **Warning:** Resist the urge to roll on every banner that pops up. Crystal economy in CRK is brutal — save for rate-up banners that match your roster gap, not impulse pulls.
 
-## Common reroll mistakes {#common-mistakes}
-
+## Common reroll mistakes
 A few patterns waste hours of reroll time:
 
 - **Pulling on the standard banner.** Always rate-up. Standard pulls bleed Crystals with no targeting.
@@ -173,8 +165,7 @@ A few patterns waste hours of reroll time:
 - **Mistaking an Epic for a Legendary.** The summon animation for Epics and Legendaries is similar — Legendaries have a distinctive cinematic intro and a gold-and-rainbow particle burst. If you're not sure what you pulled, check the Cookie's rarity tag in your roster screen before deciding whether to reroll.
 - **Ignoring the rate-up Cookie itself.** A few times a year the rate-up *is* a top-tier Legendary like Dark Enchantress or Silent Salt. In those windows, your reroll odds are dramatically better, and you should burn through more attempts than usual because the expected value per attempt is genuinely higher.
 
-## Realistic odds: what should you actually expect? {#odds}
-
+## Realistic odds — what to expect
 It helps to have realistic expectations before you start rerolling so you don't burn out after three attempts of bad luck.
 
 The Legendary base rate in CRK is roughly **1.2-1.5%** per pull (slightly higher on rate-up banners for the featured Cookie). With about 30-60 pulls per reroll attempt thanks to the active May code list, expected Legendaries per attempt is roughly **0.4-0.9** — meaning you'll get *a* Legendary on most attempts, but often not the *specific* one you want.
@@ -192,8 +183,7 @@ This is why setting a 10-attempt cap matters: after 10 attempts of chasing a spe
 
 If you're unlucky through your cap, **lock in the best account you got** (even if it's a B-tier Legendary) and start playing. Roster depth is gained through daily play, not infinite rerolls.
 
-## Practical Takeaways {#takeaways}
-
+## Practical Takeaways
 - Reroll only if you're brand new and haven't linked your account yet.
 - Target Dark Enchantress, Timekeeper, Sugar Swan, Millennial Tree, Aegis Hollyberry, Silent Salt, Awakened Pure Vanilla, or Eternal Sugar.
 - Redeem every active May 2026 code on each reroll attempt — that's the difference between 30 pulls and 60.

@@ -33,17 +33,17 @@ export const kingdomArenaMetaTeam: BlogPost = {
   readingTimeMin: 10,
 
   toc: [
-    { id: 'meta-comp-at-a-glance', label: 'The May 2026 Kingdom Arena meta comp at a glance', level: 2 },
-    { id: 'why-this-comp-works', label: 'Why this comp works — synergy breakdown', level: 2 },
-    { id: 'turn-flow', label: 'Turn 1 to turn 5 flow', level: 3 },
-    { id: 'aegis-hollyberry', label: 'Per-slot deep dive: Aegis Hollyberry (front)', level: 2 },
-    { id: 'dark-enchantress', label: 'Per-slot deep dive: Dark Enchantress (DPS)', level: 2 },
-    { id: 'venom-dough-pair', label: 'Pairing Dark Enchantress with Venom Dough', level: 3 },
-    { id: 'timekeeper-lock', label: 'Per-slot deep dive: Timekeeper (anti-revive lock)', level: 2 },
-    { id: 'sugar-swan', label: 'Per-slot deep dive: Sugar Swan (healer)', level: 2 },
-    { id: 'treasures', label: 'Treasures for this comp', level: 2 },
+    { id: 'the-may-2026-kingdom-arena-meta-comp-at-a-glance', label: 'The May 2026 Kingdom Arena meta comp at a glance', level: 2 },
+    { id: 'why-this-comp-works-synergy-breakdown', label: 'Why this comp works — synergy breakdown', level: 2 },
+    { id: 'turn-1-to-turn-5-flow', label: 'Turn 1 to turn 5 flow', level: 3 },
+    { id: 'per-slot-deep-dive-aegis-hollyberry-front', label: 'Per-slot deep dive: Aegis Hollyberry (front)', level: 2 },
+    { id: 'per-slot-deep-dive-dark-enchantress-dps', label: 'Per-slot deep dive: Dark Enchantress (DPS)', level: 2 },
+    { id: 'pairing-dark-enchantress-with-venom-dough', label: 'Pairing Dark Enchantress with Venom Dough', level: 3 },
+    { id: 'per-slot-deep-dive-timekeeper-anti-revive-lock', label: 'Per-slot deep dive: Timekeeper (anti-revive lock)', level: 2 },
+    { id: 'per-slot-deep-dive-sugar-swan-healer', label: 'Per-slot deep dive: Sugar Swan (healer)', level: 2 },
+    { id: 'treasures-for-this-comp', label: 'Treasures for this comp', level: 2 },
     { id: 'f2p-substitutions', label: 'F2P substitutions', level: 2 },
-    { id: 'how-to-counter', label: 'How to counter this comp', level: 2 },
+    { id: 'how-to-counter-this-comp', label: 'How to counter this comp', level: 2 },
     { id: 'quick-action-checklist', label: 'Quick Action Checklist', level: 2 },
   ],
 
@@ -92,7 +92,7 @@ She is here for two reasons. First, she has the highest effective health pool in
 
 > **Tank reminder:** Hollyberry takes the longest to actually build because Solid Almond toppings have the worst roll rates. Start farming her toppings before you pull anyone else on this list.
 
-## Per-slot deep dive: Dark Enchantress (DPS) — pair with Venom Dough
+## Per-slot deep dive: Dark Enchantress (DPS)
 
 **Build:** 5x Searing Raspberry, Skill Power-focused beascuit, ATK or Crit topping tart.
 

@@ -33,23 +33,22 @@ export const crkTierList: BlogPost = {
   readingTimeMin: 11,
 
   toc: [
-    { id: 'meta-shift', label: 'What shifted in the May 2026 meta', level: 2 },
-    { id: 'scoring', label: 'How this tier list is scored', level: 2 },
-    { id: 's-plus', label: 'S+ tier — auto-include Cookies', level: 2 },
-    { id: 'pve-table', label: 'PvE tier list table', level: 2 },
-    { id: 'pvp-table', label: 'Arena / PvP tier list table', level: 2 },
-    { id: 'guild-table', label: 'Guild Battle tier list table', level: 2 },
-    { id: 'risers-fallers', label: 'Notable risers and fallers this month', level: 2 },
-    { id: 'f2p-priority', label: 'F2P investment priority', level: 2 },
-    { id: 'checklist', label: 'Quick Action Checklist', level: 2 },
+    { id: 'what-shifted-in-the-may-2026-meta', label: 'What shifted in the May 2026 meta', level: 2 },
+    { id: 'how-this-tier-list-is-scored', label: 'How this tier list is scored', level: 2 },
+    { id: 's-tier-auto-include-cookies', label: 'S+ tier — auto-include Cookies', level: 2 },
+    { id: 'pve-tier-list-table', label: 'PvE tier list table', level: 2 },
+    { id: 'arena-pvp-tier-list-table', label: 'Arena / PvP tier list table', level: 2 },
+    { id: 'guild-battle-tier-list-table', label: 'Guild Battle tier list table', level: 2 },
+    { id: 'notable-risers-and-fallers-this-month', label: 'Notable risers and fallers this month', level: 2 },
+    { id: 'f2p-investment-priority', label: 'F2P investment priority', level: 2 },
+    { id: 'quick-action-checklist', label: 'Quick Action Checklist', level: 2 },
   ],
 
   content: `Timekeeper Cookie did not just join the Arena meta — she **deleted** one of its pillars. Since the Timeline of Fate Act 2 patch (v7.4) went live on May 7, anyone parking Eternal Sugar in the Evergreen Tree slot is leaking matches they could be winning, and any World Exploration team without an aggressive debuffer is doing 30% more work than it needs to.
 
 This is the May 2026 CRK tier list, scored against the actual v7.4 meta — Arcade Arena's "Rewound Glory" season, the 6-star Legendary growth ceiling, and the Choco Cake Tower expansion to 55 trays. No filler. No "every Cookie is viable!" nonsense. If a name is on the list, you should know exactly where to slot it and what it replaces.
 
-## What shifted in the May 2026 meta {#meta-shift}
-
+## What shifted in the May 2026 meta
 Three forces are reshaping rankings this month, and they all stack:
 
 **1. Timekeeper Cookie raised the revive-counter ceiling.** Anti-revive used to be Silent Salt's lane. Timekeeper does it harder, faster, and from a Magic damage profile that the current Arena defense rosters were not built to answer. Her presence means any team that leans on Sugar Swan or Pure Vanilla revivals has to either bring its own anti-revive insurance or eat the loss.
@@ -60,8 +59,7 @@ Three forces are reshaping rankings this month, and they all stack:
 
 > **Heads-up:** A new Devsisters cadence reportedly shortened main-story drops from a 4-week cycle to a **2-week cycle** with Act 2. If true, expect this tier list to move faster than it has in the past.
 
-## How this tier list is scored {#scoring}
-
+## How this tier list is scored
 Every Cookie is scored across four axes, then averaged into a tier per game mode:
 
 | Axis | Weight | What it measures |
@@ -77,8 +75,7 @@ Two other things worth saying about the methodology before the tables start. Fir
 
 One more meta note: the 6-star Legendary growth system means every tier is now bimodal. A 6-star S-tier Cookie outperforms a 5-star S+ Cookie in most encounters that are not strict hard-counters. The tiers below describe **ceiling potential** assuming both Cookies are equally built. If your roster is uneven, prioritize finishing what you have started over chasing the slightly-higher-tier name.
 
-## S+ tier — auto-include Cookies {#s-plus}
-
+## S+ tier — auto-include Cookies
 These five are the rosters that decide matches. If you have them, build them. If you do not, the F2P priority list further down tells you which one to chase first.
 
 - **Timekeeper Cookie** — anti-revive Magic Legendary, v7.4. Replaces Eternal Sugar in Evergreen Arena defense. See the [Timekeeper toppings build](/blog/cookie-run-kingdom/timekeeper-toppings) for the exact set most top-100 Arena players are running.
@@ -89,8 +86,7 @@ These five are the rosters that decide matches. If you have them, build them. If
 
 > **Tip:** You do not need all five to compete. A focused investment into Timekeeper + Sugar Swan + any two of the other three will outperform a spread roster every time.
 
-## PvE tier list table {#pve-table}
-
+## PvE tier list table
 Scored for Story, Tower of Star Resonance, World Exploration, and general boss clears. Roles are abbreviated as **DPS / Ranged / Bomber / Support / Healer / Tank / Ambush**.
 
 | Tier | Cookie | Role | Notes |
@@ -117,8 +113,7 @@ A common F2P question this month: "If I do not have any of the S+ Cookies, can I
 
 The role you are most likely to be missing on a half-built account is **dedicated Healer**. Without one, Cake Tower trays 35+ become brutal. Sugar Swan is the dream pick, but a built Epic Healer (Cotton Candy, Cherry Blossom) will get you to tray 45 in a pinch.
 
-## Arena / PvP tier list table {#pvp-table}
-
+## Arena / PvP tier list table
 Scored for Kingdom Arena ladder play and Arcade Arena's Rewound Glory season (running through 2026-06-04). Initiative, CC, and revive interaction matter more here than raw DPS.
 
 | Tier | Cookie | Why she ranks here |
@@ -143,8 +138,7 @@ Two specific Arena patterns worth calling out. The first is the **Timekeeper mir
 
 Arena defense building, separately, is its own game. The current defensive meta favors a Hollyberry / Pure Vanilla front, a Sugar Swan revive backbone, and one DPS pick (Dark Enchantress preferred, Timekeeper as the anti-revive variant). Avoid stacking two healers on defense — modern attackers will burn through one healer's revives in the first skill cycle and the second healer ends up dead weight.
 
-## Guild Battle tier list table {#guild-table}
-
+## Guild Battle tier list table
 Boss matters more than raw tier here, so the table is sorted by current rotation.
 
 | Boss | S+ picks | S picks | Notes |
@@ -156,8 +150,7 @@ Boss matters more than raw tier here, so the table is sorted by current rotation
 
 > **Warning:** Do not invest into Seltzer + Menthol *just* for Machine-God if you do not already have them. The pair is S-tier inside one Guild Battle and B-tier everywhere else. Build for breadth, then chase niche picks.
 
-## Notable risers and fallers this month {#risers-fallers}
-
+## Notable risers and fallers this month
 **Risers:**
 
 - **Timekeeper Cookie** — debut directly into S+. Almost never happens. The combination of anti-revive plus Magic damage was a coverage gap nobody had filled.
@@ -170,8 +163,7 @@ Boss matters more than raw tier here, so the table is sorted by current rotation
 - **Old Legendaries lingering in B/C tiers** — Frost Queen, Sea Fairy, Affogato, and similar pre-v6 Legendaries continue to slip. If you are still soulstone-feeding any of them ahead of an S-tier option, stop.
 - **Most non-Awakened versions of Awakened Cookies** — the Awakening gap is now wide enough that the base versions are essentially placeholders until you can Awaken them.
 
-## F2P investment priority {#f2p-priority}
-
+## F2P investment priority
 If you can only soulstone-chase one Cookie this month, pick by your weakest mode:
 
 1. **Bad Arena rank?** → Timekeeper Cookie. She is the single biggest ladder gain available.
@@ -186,8 +178,7 @@ For a wider walkthrough of which Legendaries to chase from a fresh account, the 
 
 > **Tip:** Promo codes drop fairly often around major patches. Check the [latest CRK codes list](/blog/cookie-run-kingdom/cookie-run-kingdom-codes) before you spend real money on soulstones — there is almost always a free chunk available.
 
-## Quick Action Checklist {#checklist}
-
+## Quick Action Checklist
 - Pull or chase **Timekeeper Cookie** if you do not have her — Arena ceiling depends on it.
 - If you have her: lock in the [Timekeeper toppings build](/blog/cookie-run-kingdom/timekeeper-toppings) and slot her in your Arena defense first, attack second.
 - Confirm **Sugar Swan** has her toppings on — she is your insurance vs Timekeeper mirrors.
