@@ -11,6 +11,10 @@ import { ashSaltCookieToppings } from './posts/ash-salt-cookie-toppings';
 import { crkTreasuresGuide } from './posts/cookie-run-kingdom-treasures-guide';
 import { bestF2pArenaTeam } from './posts/best-f2p-arena-team';
 import { decadentChocoTowerWalkthrough } from './posts/decadent-choco-tower-walkthrough';
+import { crkBeastYeastGuide } from './posts/crk-beast-yeast-guide';
+import { pureVanillaAwakenedToppings } from './posts/pure-vanilla-awakened-toppings';
+import { beastCookiesRankedWorthPulling } from './posts/beast-cookies-ranked-worth-pulling';
+import { crkBeginnerMistakesToAvoid } from './posts/crk-beginner-mistakes-to-avoid';
 
 export const CRK_POSTS: BlogPost[] = [
   crkCodes,
@@ -25,4 +29,8 @@ export const CRK_POSTS: BlogPost[] = [
   crkTreasuresGuide,
   bestF2pArenaTeam,
   decadentChocoTowerWalkthrough,
+  crkBeastYeastGuide,
+  pureVanillaAwakenedToppings,
+  beastCookiesRankedWorthPulling,
+  crkBeginnerMistakesToAvoid,
 ];
