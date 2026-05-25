@@ -1,7 +1,14 @@
 export type BlogCategorySlug =
+  // Cookie Run: Kingdom specific
   | 'cookie-guides'
   | 'team-builds'
   | 'events-updates'
+  // Magic: The Gathering specific
+  | 'deck-guides'
+  | 'card-guides'
+  | 'format-guides'
+  | 'set-releases'
+  // Game-agnostic
   | 'beginner-guides'
   | 'advanced-strategy'
   | 'tier-lists';

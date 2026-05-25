@@ -11,6 +11,16 @@ export const GAMES: Game[] = [
     accentColor: '#D4A853',
     active: true,
   },
+  {
+    slug: 'magic-the-gathering',
+    name: 'Magic: The Gathering',
+    shortName: 'MTG',
+    description:
+      'Wizards of the Coast\'s flagship TCG. Commander, Standard, Modern, Pioneer, Pauper, and Limited coverage — deck guides, card evaluations, set reviews, and format primers.',
+    icon: '🧙',
+    accentColor: '#D4A853',
+    active: true,
+  },
 ];
 
 export function getGameBySlug(slug: string): Game | undefined {

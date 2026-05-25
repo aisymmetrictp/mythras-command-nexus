@@ -12,7 +12,12 @@
 const fs = require('fs');
 const path = require('path');
 
-const POSTS_DIR = path.join(__dirname, '..', 'src', 'data', 'blog', 'cookie-run-kingdom', 'posts');
+const BLOG_ROOT = path.join(__dirname, '..', 'src', 'data', 'blog');
+// Scan every game folder's posts/ subdirectory.
+const POSTS_DIRS = fs.readdirSync(BLOG_ROOT, { withFileTypes: true })
+  .filter(d => d.isDirectory())
+  .map(d => path.join(BLOG_ROOT, d.name, 'posts'))
+  .filter(p => fs.existsSync(p));
 
 function slugify(text) {
   return text
@@ -109,24 +114,28 @@ function verifyPost(filePath) {
   return { fileName, tocCount: toc.length, headingCount: headings.length, anchorMarkerCount, issues };
 }
 
-const files = fs.readdirSync(POSTS_DIR).filter(f => f.endsWith('.ts')).sort();
 let totalIssues = 0;
 let totalAnchorMarkers = 0;
 const summary = [];
-for (const file of files) {
-  const result = verifyPost(path.join(POSTS_DIR, file));
-  console.log(`\n=== ${result.fileName} ===`);
-  console.log(`  TOC entries: ${result.tocCount} | Headings (H2/H3): ${result.headingCount} | Anchor-markers: ${result.anchorMarkerCount}`);
-  if (result.issues.length === 0) {
-    console.log('  PASS — all TOC entries match headings, no anchor-marker leaks.');
-  } else {
-    totalIssues += result.issues.length;
-    for (const issue of result.issues) {
-      console.log(`  ISSUE: ${issue}`);
+for (const postsDir of POSTS_DIRS) {
+  const game = path.basename(path.dirname(postsDir));
+  const files = fs.readdirSync(postsDir).filter(f => f.endsWith('.ts')).sort();
+  console.log(`\n### Game: ${game} (${files.length} posts) ###`);
+  for (const file of files) {
+    const result = verifyPost(path.join(postsDir, file));
+    console.log(`\n=== ${game}/${result.fileName} ===`);
+    console.log(`  TOC entries: ${result.tocCount} | Headings (H2/H3): ${result.headingCount} | Anchor-markers: ${result.anchorMarkerCount}`);
+    if (result.issues.length === 0) {
+      console.log('  PASS — all TOC entries match headings, no anchor-marker leaks.');
+    } else {
+      totalIssues += result.issues.length;
+      for (const issue of result.issues) {
+        console.log(`  ISSUE: ${issue}`);
+      }
     }
+    totalAnchorMarkers += result.anchorMarkerCount;
+    summary.push(result);
   }
-  totalAnchorMarkers += result.anchorMarkerCount;
-  summary.push(result);
 }
 console.log(`\n========`);
 console.log(`Total issues: ${totalIssues}`);

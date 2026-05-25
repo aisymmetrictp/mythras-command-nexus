@@ -1,7 +1,8 @@
 import type { BlogPost, BlogPostListItem } from './blogTypes';
 import { CRK_POSTS } from './cookie-run-kingdom';
+import { MTG_POSTS } from './magic-the-gathering';
 
-export const ALL_POSTS: BlogPost[] = [...CRK_POSTS].sort(
+export const ALL_POSTS: BlogPost[] = [...CRK_POSTS, ...MTG_POSTS].sort(
   (a, b) => new Date(b.publishDate).getTime() - new Date(a.publishDate).getTime()
 );
 

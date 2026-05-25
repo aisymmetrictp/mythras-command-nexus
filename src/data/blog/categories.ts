@@ -37,6 +37,31 @@ export const BLOG_CATEGORIES: BlogCategory[] = [
     description: 'Overall, PvE, PvP, Guild Battle, rarity-specific, refreshed monthly.',
     icon: '🏆',
   },
+  // Magic: The Gathering specific
+  {
+    slug: 'deck-guides',
+    name: 'Deck Guides',
+    description: 'Commander deck techs, Standard / Modern / Pioneer / Pauper builds, sideboards, mana bases.',
+    icon: '🃏',
+  },
+  {
+    slug: 'card-guides',
+    name: 'Card Guides',
+    description: 'Best cards by color, format staples, new-set standouts, budget alternatives.',
+    icon: '🎴',
+  },
+  {
+    slug: 'format-guides',
+    name: 'Format Guides',
+    description: 'Commander / Standard / Modern / Pioneer / Pauper / Limited primers.',
+    icon: '📚',
+  },
+  {
+    slug: 'set-releases',
+    name: 'Set Releases',
+    description: 'New set previews, mechanics breakdowns, precon reviews, draft archetypes.',
+    icon: '✨',
+  },
 ];
 
 export function getCategoryBySlug(slug: string): BlogCategory | undefined {
