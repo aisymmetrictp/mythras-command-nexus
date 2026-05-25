@@ -5,14 +5,29 @@ import { BLOG_CATEGORIES } from '@/data/blog/categories';
 import BlogCard from '@/components/blog/BlogCard';
 import { WebPageSchema, BreadcrumbSchema } from '@/components/StructuredData';
 
+// Build the "Latest Articles" feed by interleaving top posts from each active game,
+// so no single game's date cluster shoulders the others off the visible slice.
+function buildInterleavedRecent(perGameLimit = 3): typeof ALL_POSTS {
+  const perGame = ACTIVE_GAMES.map(g =>
+    ALL_POSTS.filter(p => p.game === g.slug).slice(0, perGameLimit)
+  );
+  const out: typeof ALL_POSTS = [];
+  for (let i = 0; i < perGameLimit; i++) {
+    for (const game of perGame) {
+      if (game[i]) out.push(game[i]);
+    }
+  }
+  return out;
+}
+
 export default function BlogIndexPage() {
-  const recent = ALL_POSTS.slice(0, 6);
+  const recent = buildInterleavedRecent(3);
 
   return (
     <>
       <WebPageSchema
-        name="Mythras Blog — Cookie Run Kingdom Guides & Meta"
-        description="Patch-fresh CRK guides, tier lists, and team builds from Mythras."
+        name="Mythras Blog — Cookie Run Kingdom & Magic: The Gathering Guides"
+        description="Patch-fresh CRK and MTG guides, tier lists, deck techs, and meta analysis from Mythras."
         url="https://gamertagmythras.com/blog"
       />
       <BreadcrumbSchema
