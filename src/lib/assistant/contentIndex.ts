@@ -174,6 +174,43 @@ const STATIC_PAGE_ITEMS: ContentIndexItem[] = [
     keywords: ['contact', 'email', 'support', 'feedback', 'discord'],
     priority: 0.3,
   },
+  // MTG-specific top-level pages
+  {
+    id: 'page:mtg-blog',
+    title: 'Magic: The Gathering Blog',
+    href: '/blog/magic-the-gathering',
+    category: 'page',
+    summary: 'Magic: The Gathering guides, color staples, Standard meta, Pro Tour coverage, and set tier lists.',
+    keywords: ['mtg blog', 'magic the gathering blog', 'mtg guides', 'commander guides', 'standard meta', 'mtg deck guides'],
+    priority: 0.9,
+  },
+  {
+    id: 'page:glossary-crk',
+    title: 'Cookie Run: Kingdom Glossary',
+    href: '/glossary/cookie-run-kingdom',
+    category: 'page',
+    summary: 'Every CRK term defined — rarities, types, gear, currencies, modes, and systems.',
+    keywords: ['crk glossary', 'cookie run kingdom glossary', 'what is beascuit', 'what is topping', 'cookie run terms', 'crk dictionary'],
+    priority: 0.75,
+  },
+  {
+    id: 'page:glossary-mtg',
+    title: 'Magic: The Gathering Glossary',
+    href: '/glossary/magic-the-gathering',
+    category: 'page',
+    summary: 'Every MTG term defined — formats, card types, mechanics, archetypes, Commander.',
+    keywords: ['mtg glossary', 'magic the gathering glossary', 'what is commander', 'what is standard', 'what is edh', 'mtg terms', 'mtg dictionary'],
+    priority: 0.75,
+  },
+  {
+    id: 'page:assistant',
+    title: 'Mythras Assistant',
+    href: '/assistant',
+    category: 'page',
+    summary: 'Chat assistant powered by site content. Ask about CRK or MTG and get guide recommendations.',
+    keywords: ['assistant', 'chat', 'ask', 'mythras assistant', 'help'],
+    priority: 0.5,
+  },
 ];
 
 function makeChannelItems(): ContentIndexItem[] {

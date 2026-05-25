@@ -9,10 +9,10 @@ import { ALL_COOKIES } from '@/data/cookieData';
 
 export interface Intent {
   name: string;
-  /** Matches against the lowercased user message. */
-  match: (msg: string) => boolean;
+  /** Matches against the lowercased user message; optional path for context-aware routing. */
+  match: (msg: string, path?: string) => boolean;
   /** Produces the AssistantResponse for the matched message. */
-  build: (msg: string) => AssistantResponse;
+  build: (msg: string, path?: string) => AssistantResponse;
 }
 
 function containsAny(msg: string, terms: string[]): boolean {
@@ -25,7 +25,6 @@ function joinLinks(links: RecommendedLink[]): string {
 }
 
 function answerOpener(): string {
-  // Small rotating set of openers so the assistant doesn't sound robotic.
   const openers = [
     "Here's what I found in our content for that.",
     "Based on what's on Mythras right now, these guides look closest.",
@@ -34,15 +33,21 @@ function answerOpener(): string {
   return openers[Math.floor(Math.random() * openers.length)];
 }
 
-function escapeRegex(s: string): string {
-  return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+function pathGame(path?: string): 'crk' | 'mtg' | undefined {
+  if (!path) return undefined;
+  if (path.includes('/magic-the-gathering') || path.includes('/mtg')) return 'mtg';
+  if (
+    path.includes('/cookie-run-kingdom') ||
+    path.startsWith('/gear-guide') ||
+    path.startsWith('/cake-tower')
+  ) return 'crk';
+  return undefined;
 }
 
 function detectCookieMention(msg: string): ContentIndexItem | undefined {
-  // Use word-boundary matching so short names ("dark", "milk", "knight",
-  // "angel", "wizard") don't false-positive on unrelated English.
-  // Full names get a relaxed match (they end in " Cookie" which is rarely
-  // ambiguous), short names get a strict \b boundary check.
+  function escapeRegex(s: string): string {
+    return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
   const candidates = ALL_COOKIES
     .map(c => {
       const name = c.name.toLowerCase();
@@ -54,18 +59,17 @@ function detectCookieMention(msg: string): ContentIndexItem | undefined {
     })
     .filter(c => c.hit);
   if (candidates.length === 0) return undefined;
-  // Prefer the longest match (so "dark enchantress cookie" beats "dark").
   candidates.sort((a, b) => b.scoreLen - a.scoreLen);
-  const best = candidates[0];
-  return getContentIndex().find(i => i.id === `cookie:${best.slug}`);
+  return getContentIndex().find(i => i.id === `cookie:${candidates[0].slug}`);
 }
 
-// ---------- Intent builders ----------
+// ===================== CRK INTENTS =====================
 
 function intentCodes(): Intent {
   return {
     name: 'codes',
-    match: msg => containsAny(msg, ['code', 'codes', 'redeem', 'free crystal', 'coupon', 'free reward']),
+    match: msg => containsAny(msg, ['crk code', 'cookie run code', 'cookie run kingdom code', 'redeem code crk', 'free crystal', 'coupon'])
+      || (containsAny(msg, ['code', 'codes', 'redeem']) && !containsAny(msg, ['mtg', 'magic', 'standard'])),
     build: () => {
       const links = findByKeywords(['cookie run kingdom codes', 'crk codes', 'redeem']).map(toRecommendedLink);
       return {
@@ -79,16 +83,20 @@ function intentCodes(): Intent {
   };
 }
 
-function intentTierList(): Intent {
+function intentCrkTierList(): Intent {
   return {
-    name: 'tier-list',
-    match: msg => containsAny(msg, ['tier list', 'tier', 'best cookies', 'meta cookies', 'top cookies', 'who is the best']),
+    name: 'crk-tier-list',
+    match: (msg, path) => {
+      const game = pathGame(path);
+      const generic = containsAny(msg, ['tier list', 'best cookies', 'meta cookies', 'top cookies', 'who is the best cookie']);
+      return generic && game !== 'mtg';
+    },
     build: () => {
-      const links = findByKeywords(['tier list', 'meta', 'best cookies', 'investment priority']).map(toRecommendedLink);
+      const links = findByKeywords(['cookie run kingdom tier list', 'crk meta', 'best cookies']).map(toRecommendedLink);
       return {
-        answer: `${answerOpener()} The May 2026 tier list ranks every Cookie for PvE, Arena, and Guild Battle after the Timeline of Fate patch. The S+ picks anchor the current meta — Dark Enchantress, Timekeeper, Sugar Swan, Millennial Tree, Aegis Hollyberry.\n\n${joinLinks(links)}`,
+        answer: `${answerOpener()} The May 2026 CRK tier list ranks every Cookie for PvE, Arena, and Guild Battle after the Timeline of Fate patch. The S+ picks anchor the current meta — Dark Enchantress, Timekeeper, Sugar Swan, Millennial Tree, Aegis Hollyberry.\n\n${joinLinks(links)}`,
         recommendedLinks: links,
-        matchedTopics: ['tier-lists', 'meta'],
+        matchedTopics: ['tier-lists', 'crk-meta'],
         confidence: 0.9,
         source: 'local',
       };
@@ -99,7 +107,8 @@ function intentTierList(): Intent {
 function intentArenaTeam(): Intent {
   return {
     name: 'arena-team',
-    match: msg => containsAny(msg, ['arena', 'pvp', 'kingdom arena', 'arena team', 'arena comp', 'defense team']),
+    match: msg => containsAny(msg, ['kingdom arena', 'arena team', 'arena comp', 'pvp team cookie', 'arena defense cookie']) ||
+      (msg.includes('arena') && (msg.includes('cookie') || msg.includes('crk'))),
     build: msg => {
       const isF2P = containsAny(msg, ['f2p', 'free to play', 'no legendary', 'budget', 'cheap']);
       const queries = isF2P
@@ -107,8 +116,8 @@ function intentArenaTeam(): Intent {
         : ['kingdom arena meta team', 'arena meta', 'timekeeper', 'dark enchantress'];
       const links = findByKeywords(queries).map(toRecommendedLink);
       const angle = isF2P
-        ? "We have an F2P arena comp that clears Diamond without a single Legendary pull — Hollyberry + Pavlova + Pure Vanilla + Ash Salt + Black Sapphire."
-        : "The current meta arena comp runs Aegis Hollyberry + Pure Vanilla + Dark Enchantress + Timekeeper + Sugar Swan. The full breakdown covers per-slot reasoning, treasures, and F2P swaps.";
+        ? "We have an F2P CRK arena comp that clears Diamond without a single Legendary pull — Hollyberry + Pavlova + Pure Vanilla + Ash Salt + Black Sapphire."
+        : "The current CRK meta arena comp runs Aegis Hollyberry + Pure Vanilla + Dark Enchantress + Timekeeper + Sugar Swan. The full breakdown covers per-slot reasoning, treasures, and F2P swaps.";
       return {
         answer: `${answerOpener()} ${angle}\n\n${joinLinks(links)}`,
         recommendedLinks: links,
@@ -123,7 +132,7 @@ function intentArenaTeam(): Intent {
 function intentGuildBattle(): Intent {
   return {
     name: 'guild-battle',
-    match: msg => containsAny(msg, ['guild battle', 'gb', 'red velvet dragon', 'avatar of destiny', 'machine god', 'machine-god', 'living abyss', 'boss']),
+    match: msg => containsAny(msg, ['guild battle', 'red velvet dragon', 'avatar of destiny', 'machine god', 'machine-god', 'living abyss', 'crk boss']),
     build: () => {
       const links = findByKeywords(['guild battle', 'guild battle teams', 'red velvet dragon', 'machine god']).map(toRecommendedLink);
       return {
@@ -137,17 +146,21 @@ function intentGuildBattle(): Intent {
   };
 }
 
-function intentBeginner(): Intent {
+function intentCrkBeginner(): Intent {
   return {
-    name: 'beginner',
-    match: msg => containsAny(msg, ['beginner', 'new player', 'just started', 'starter', 'reroll', 'first cookie', 'where do i start', 'getting started']),
+    name: 'crk-beginner',
+    match: (msg, path) => {
+      const game = pathGame(path);
+      const generic = containsAny(msg, ['beginner', 'new player', 'just started', 'starter', 'reroll', 'where do i start', 'getting started']);
+      return generic && game !== 'mtg';
+    },
     build: () => {
       const links = findByKeywords(['reroll', 'beginner', 'starting cookies', 'progression']).map(toRecommendedLink);
       return {
-        answer: `${answerOpener()} For new accounts in 2026, rerolling for one of the S+ Legendaries (Dark Enchantress, Timekeeper, Sugar Swan, Millennial Tree, Aegis Hollyberry) is genuinely worth 25 minutes. Once you've locked in your account, claim every active code from the codes list — that alone is roughly 18,000 Crystals on a fresh save.\n\n${joinLinks(links)}`,
+        answer: `${answerOpener()} For new CRK accounts in 2026, rerolling for one of the S+ Legendaries (Dark Enchantress, Timekeeper, Sugar Swan, Millennial Tree, Aegis Hollyberry) is genuinely worth 25 minutes. Once you've locked in your account, claim every active code from the codes list — that alone is roughly 18,000 Crystals on a fresh save.\n\n${joinLinks(links)}`,
         recommendedLinks: links,
         matchedTopics: ['beginner-guides', 'reroll'],
-        confidence: 0.92,
+        confidence: 0.9,
         source: 'local',
       };
     },
@@ -157,7 +170,7 @@ function intentBeginner(): Intent {
 function intentToppings(): Intent {
   return {
     name: 'toppings',
-    match: msg => containsAny(msg, ['topping', 'toppings', 'substat', 'searing raspberry', 'swift chocolate', 'solid almond']),
+    match: msg => containsAny(msg, ['topping', 'toppings', 'searing raspberry', 'swift chocolate', 'solid almond', 'substat']),
     build: msg => {
       const cookieMention = detectCookieMention(msg);
       if (cookieMention) {
@@ -201,7 +214,7 @@ function intentBeascuits(): Intent {
 function intentCakeTower(): Intent {
   return {
     name: 'cake-tower',
-    match: msg => containsAny(msg, ['cake tower', 'decadent choco', 'endless strawberry', 'tower']),
+    match: msg => containsAny(msg, ['cake tower', 'decadent choco', 'endless strawberry']) || (msg.includes('tower') && msg.includes('crk')),
     build: () => {
       const links = findByKeywords(['cake tower', 'decadent choco', 'endless strawberry']).map(toRecommendedLink);
       return {
@@ -218,7 +231,7 @@ function intentCakeTower(): Intent {
 function intentCookieChat(): Intent {
   return {
     name: 'cookiechat',
-    match: msg => containsAny(msg, ['cookiechat', 'cookie chat', 'affection', 'favorability', 'gift', 'favorite gift']),
+    match: msg => containsAny(msg, ['cookiechat', 'cookie chat', 'affection', 'favorability', 'favorite gift']),
     build: () => {
       const links = findByKeywords(['cookiechat', 'affection', 'favorite gift']).map(toRecommendedLink);
       return {
@@ -234,10 +247,11 @@ function intentCookieChat(): Intent {
 
 function intentTreasures(): Intent {
   return {
-    name: 'treasures',
-    match: msg => containsAny(msg, ['treasure', 'treasures', 'squishy jelly watch', 'old pilgrim']),
+    name: 'crk-treasures',
+    match: msg => containsAny(msg, ['squishy jelly watch', 'old pilgrim']) ||
+      (msg.includes('treasure') && !msg.includes('mtg') && !msg.includes('magic')),
     build: () => {
-      const links = findByKeywords(['treasures', 'treasure guide']).map(toRecommendedLink);
+      const links = findByKeywords(['treasures', 'crk treasures']).map(toRecommendedLink);
       return {
         answer: `${answerOpener()} Treasures are the second-biggest damage multiplier after Cookies themselves. The 8-treasure priority list covers what to build first, which treasures swap per game mode, and the F2P upgrade order (Squishy Jelly Watch first, always).\n\n${joinLinks(links)}`,
         recommendedLinks: links,
@@ -249,14 +263,14 @@ function intentTreasures(): Intent {
   };
 }
 
-function intentPatchUpdate(): Intent {
+function intentCrkPatchUpdate(): Intent {
   return {
-    name: 'patch-update',
-    match: msg => containsAny(msg, ['timeline of fate', 'v7.4', '7.4', 'latest update', 'new update', 'patch', 'what changed', 'ash salt', 'timekeeper release']),
+    name: 'crk-patch-update',
+    match: msg => containsAny(msg, ['timeline of fate', 'v7.4', 'crk update', 'ash salt', 'timekeeper release', 'cookie run kingdom update']),
     build: () => {
-      const links = findByKeywords(['timeline of fate', 'patch', 'update', 'timekeeper']).map(toRecommendedLink);
+      const links = findByKeywords(['timeline of fate', 'crk patch', 'timekeeper']).map(toRecommendedLink);
       return {
-        answer: `${answerOpener()} The Timeline of Fate update (v7.4, 2026-05-07) added Timekeeper Cookie (Legendary anti-revive), Ash Salt (Epic debuffer), the 6-Star Legendary growth system, Arcade Arena seasons, and bumped Choco Cake Tower to 55 trays. Big patch — the breakdown explains what actually matters for your account level.\n\n${joinLinks(links)}`,
+        answer: `${answerOpener()} The Timeline of Fate update (v7.4, 2026-05-07) added Timekeeper Cookie (Legendary anti-revive), Ash Salt (Epic debuffer), the 6-Star Legendary growth system, Arcade Arena seasons, and bumped Choco Cake Tower to 55 trays.\n\n${joinLinks(links)}`,
         recommendedLinks: links,
         matchedTopics: ['events-updates', 'patch-overview'],
         confidence: 0.9,
@@ -290,14 +304,204 @@ function intentSpecificCookie(): Intent {
   };
 }
 
+// ===================== MTG INTENTS =====================
+
+const MTG_COLORS = ['white', 'blue', 'black', 'red', 'green'] as const;
+type MtgColor = typeof MTG_COLORS[number];
+
+function intentMtgColorCards(): Intent {
+  return {
+    name: 'mtg-color-cards',
+    match: msg => MTG_COLORS.some(c => new RegExp(`\\b(best|top|good)\\s+${c}\\s+(cards?|commander|deck|removal|counterspells?|wheels?|burn|ramp|tutors?|staples?)\\b`, 'i').test(msg)
+      || new RegExp(`\\b${c}\\s+(commander|edh|staples?)\\b`, 'i').test(msg)
+      || new RegExp(`\\bbest\\s+${c}\\b`, 'i').test(msg)),
+    build: msg => {
+      const color = MTG_COLORS.find(c => new RegExp(`\\b${c}\\b`, 'i').test(msg))!;
+      const slug = `best-${color}-cards-magic-the-gathering`;
+      const item = getContentIndex().find(i => i.id === `blog:${slug}`);
+      if (!item) {
+        return buildSearchFallback(msg);
+      }
+      return {
+        answer: `${answerOpener()} The full ${color}-color staples writeup (Commander + Standard) covers removal, card draw, ramp/utility, creatures, and budget alternatives. Each entry calls out format legality where it matters (e.g. Fierce Guardianship is Commander-only).\n\n- **[${item.title}](${item.href})** — ${item.summary}`,
+        recommendedLinks: [{ title: item.title, href: item.href, summary: item.summary, score: 0.95 }],
+        matchedTopics: ['mtg', 'card-guides', `mtg-${color}`],
+        confidence: 0.92,
+        source: 'local',
+      };
+    },
+  };
+}
+
+function intentMtgStandardMeta(): Intent {
+  return {
+    name: 'mtg-standard-meta',
+    match: msg => containsAny(msg, ['standard meta', 'standard deck', 'best standard', 'post-ban', 'post ban', 'cori-steel', 'cori steel', 'standard tier list', 'standard 2026', 'mtg standard'])
+      || (msg.includes('standard') && containsAny(msg, ['mtg', 'magic the gathering', 'meta', 'ban'])),
+    build: () => {
+      const links = findByKeywords(['standard post ban', 'standard meta', 'cori-steel', 'selesnya landfall']).map(toRecommendedLink);
+      return {
+        answer: `${answerOpener()} The May 18 2026 Standard ban wave hit 10 cards in one shot — biggest swing since Affinity. Izzet Prowess is dead, Selesnya Landfall (the Pro Tour Strixhaven winner) is the new benchmark, and Mono-Green Landfall surged. Our breakdown covers what survived, what to brew, and which sideboard slots are suddenly free.\n\n${joinLinks(links)}`,
+        recommendedLinks: links,
+        matchedTopics: ['mtg', 'format-guides', 'standard'],
+        confidence: 0.93,
+        source: 'local',
+      };
+    },
+  };
+}
+
+function intentMtgProTour(): Intent {
+  return {
+    name: 'mtg-pro-tour',
+    match: msg => containsAny(msg, ['pro tour', 'selesnya landfall', 'nathan steuer', 'landfall deck', 'pro tour deck', 'tournament winner mtg']),
+    build: () => {
+      const links = findByKeywords(['selesnya landfall', 'pro tour strixhaven', 'nathan steuer']).map(toRecommendedLink);
+      return {
+        answer: `${answerOpener()} Nathan Steuer took Pro Tour Strixhaven with Selesnya Landfall in a meta where 49% of the field was on Izzet shells. The deck guide covers the core engine, sideboarding plan, why landfall beat the Izzet wall, and how to tune it for paper Standard now that the bans wiped the field.\n\n${joinLinks(links)}`,
+        recommendedLinks: links,
+        matchedTopics: ['mtg', 'deck-guides', 'pro-tour'],
+        confidence: 0.93,
+        source: 'local',
+      };
+    },
+  };
+}
+
+function intentMtgSet(): Intent {
+  return {
+    name: 'mtg-set',
+    match: msg => containsAny(msg, ['secrets of strixhaven', 'strixhaven', 'new mtg set', 'latest mtg set', 'ssh tier list', 'best strixhaven', 'flow state'])
+      || (msg.includes('set') && containsAny(msg, ['mtg', 'magic the gathering', 'tier list', 'review'])),
+    build: () => {
+      const links = findByKeywords(['secrets of strixhaven', 'strixhaven', 'set tier list']).map(toRecommendedLink);
+      return {
+        answer: `${answerOpener()} Secrets of Strixhaven (April 24, 2026) shipped 270+ cards but only ~20 actually matter for Standard. The tier list calls out the real S-tier picks (Flow State is the uncommon that defines half the format), which mythics flopped, and how the May 18 bans reshaped the answer.\n\n${joinLinks(links)}`,
+        recommendedLinks: links,
+        matchedTopics: ['mtg', 'set-releases', 'strixhaven'],
+        confidence: 0.92,
+        source: 'local',
+      };
+    },
+  };
+}
+
+function intentMtgCommander(): Intent {
+  return {
+    name: 'mtg-commander',
+    match: msg => containsAny(msg, ['commander format', 'edh format', 'commander deck', 'edh deck', 'best commander', 'commander brackets', 'game changers', 'bracket system']),
+    build: () => {
+      const links = findByKeywords(['commander', 'edh', 'bracket system']).map(toRecommendedLink);
+      const glossary = getContentIndex().find(i => i.id === 'page:glossary-mtg');
+      const allLinks = glossary
+        ? [{ title: glossary.title, href: glossary.href, summary: glossary.summary, score: 0.9 }, ...links]
+        : links;
+      return {
+        answer: `${answerOpener()} Commander (EDH) is MTG's largest format. As of 2025 the Commander Rules Committee was replaced by the **Commander Format Panel** under WotC, and the new **Bracket System (1-5)** plus the **Game Changers list** are the official way to gauge deck power. Our color guides cover the eternal Commander staples; the MTG glossary defines Bracket System, Game Changers, Partner, Companion, and more.\n\n${joinLinks(allLinks)}`,
+        recommendedLinks: allLinks,
+        matchedTopics: ['mtg', 'format-guides', 'commander'],
+        confidence: 0.88,
+        source: 'local',
+      };
+    },
+  };
+}
+
+function intentMtgFormat(): Intent {
+  return {
+    name: 'mtg-format',
+    match: msg => containsAny(msg, ['what is modern', 'modern format', 'what is pioneer', 'pioneer format', 'what is pauper', 'pauper format', 'what is limited', 'limited format', 'draft format', 'sealed format', 'what is standard'])
+      || (msg.includes('mtg') && containsAny(msg, ['modern', 'pioneer', 'pauper', 'limited', 'draft', 'sealed'])),
+    build: () => {
+      const glossary = getContentIndex().find(i => i.id === 'page:glossary-mtg');
+      const mtgBlog = getContentIndex().find(i => i.id === 'page:mtg-blog');
+      const links: RecommendedLink[] = [];
+      if (glossary) links.push({ title: glossary.title, href: glossary.href, summary: glossary.summary, score: 0.95 });
+      if (mtgBlog) links.push({ title: mtgBlog.title, href: mtgBlog.href, summary: mtgBlog.summary, score: 0.85 });
+      return {
+        answer: `${answerOpener()} Every MTG format has its own legality rules, ban list, and power level. The MTG glossary defines Standard, Modern, Pioneer, Pauper, Commander, Legacy, Vintage, Limited, Draft, and Sealed in one place. For Standard specifically, see the current meta post.\n\n${joinLinks(links)}`,
+        recommendedLinks: links,
+        matchedTopics: ['mtg', 'format-guides'],
+        confidence: 0.85,
+        source: 'local',
+      };
+    },
+  };
+}
+
+function intentMtgBans(): Intent {
+  return {
+    name: 'mtg-bans',
+    match: msg => containsAny(msg, ['banned cards', 'ban list', 'banned and restricted', 'recent bans', 'cori-steel ban'])
+      || (msg.includes('ban') && containsAny(msg, ['mtg', 'magic the gathering', 'standard', 'modern', 'pioneer', 'pauper'])),
+    build: () => {
+      const links = findByKeywords(['standard post ban', 'ban', 'banned']).map(toRecommendedLink);
+      return {
+        answer: `${answerOpener()} The most recent B&R was **May 18, 2026** — 10 Standard bans (Abuelo's Awakening, Cori-Steel Cutter, Heartfire Hero, Hopeless Nightmare, Monstrous Rage, Proft's Eidetic Memory, Screaming Nemesis, This Town Ain't Big Enough, Up the Beanstalk, Vivi Ornitier), plus Cori-Steel Cutter in Pioneer and Modern moves (Phlage banned, Violent Outburst and Umezawa's Jitte unbanned). [Verify current with Wizards' official list.]\n\n${joinLinks(links)}`,
+        recommendedLinks: links,
+        matchedTopics: ['mtg', 'events-updates', 'ban-list'],
+        confidence: 0.9,
+        source: 'local',
+      };
+    },
+  };
+}
+
+// ===================== SHARED / META INTENTS =====================
+
+function intentGlossary(): Intent {
+  return {
+    name: 'glossary',
+    match: msg => /^what\s+(is|are|does)\s+/i.test(msg) || /^define\s+/i.test(msg) || msg.includes('what does') || msg.includes('what means'),
+    build: (msg, path) => {
+      const game = pathGame(path);
+      const mtgTerms = ['commander', 'edh', 'standard', 'modern', 'pioneer', 'pauper', 'mulligan', 'sideboard', 'planeswalker', 'counterspell', 'mill', 'reanimator', 'aggro', 'midrange', 'tempo', 'ramp', 'tutor', 'wheel', 'board wipe', 'lifelink', 'deathtouch', 'flash', 'haste', 'trample', 'ward', 'hexproof', 'cantrip', 'stack', 'etb', 'foil', 'reserved list', 'universes beyond'];
+      const crkTerms = ['cookie', 'beascuit', 'topping', 'tart', 'soulstone', 'crystal', 'magic candy', 'awakened', 'beast', 'legendary', 'ancient', 'charge', 'magic', 'ambush', 'defense', 'healing', 'support', 'bomber', 'arena', 'guild battle', 'cake tower', 'beast-yeast', 'cookiechat', 'affection', 'treasure'];
+
+      const matchesMtg = mtgTerms.some(t => msg.includes(t));
+      const matchesCrk = crkTerms.some(t => msg.includes(t));
+      const preferMtg = game === 'mtg' || (matchesMtg && !matchesCrk);
+      const preferCrk = game === 'crk' || (matchesCrk && !matchesMtg);
+
+      const glossaryMtg = getContentIndex().find(i => i.id === 'page:glossary-mtg')!;
+      const glossaryCrk = getContentIndex().find(i => i.id === 'page:glossary-crk')!;
+
+      const links: RecommendedLink[] = preferMtg
+        ? [{ title: glossaryMtg.title, href: glossaryMtg.href, summary: glossaryMtg.summary, score: 0.95 }]
+        : preferCrk
+        ? [{ title: glossaryCrk.title, href: glossaryCrk.href, summary: glossaryCrk.summary, score: 0.95 }]
+        : [
+            { title: glossaryMtg.title, href: glossaryMtg.href, summary: glossaryMtg.summary, score: 0.85 },
+            { title: glossaryCrk.title, href: glossaryCrk.href, summary: glossaryCrk.summary, score: 0.85 },
+          ];
+
+      const fallback = searchContent(msg.replace(/^(what\s+(is|are|does)\s+|define\s+|what\s+means\s+)/i, ''), 3).map(toRecommendedLink);
+      const allLinks = [...links, ...fallback].slice(0, 4);
+
+      return {
+        answer: `${answerOpener()} Our glossary pages define every major term in plain English with cross-links to the relevant guides. If your question is more specific, the search below probably caught it.\n\n${joinLinks(allLinks)}`,
+        recommendedLinks: allLinks,
+        matchedTopics: ['glossary', preferMtg ? 'mtg' : preferCrk ? 'crk' : 'both'],
+        confidence: 0.85,
+        source: 'local',
+      };
+    },
+  };
+}
+
 function intentWhatToRead(): Intent {
   return {
     name: 'what-to-read',
-    match: msg => containsAny(msg, ['what should i read', 'what next', 'recommend', 'suggest', 'show me guides', 'latest']),
-    build: () => {
-      const links = topInCategory('blog', 5).map(toRecommendedLink);
+    match: msg => containsAny(msg, ['what should i read', 'what next', 'recommend', 'suggest a guide', 'show me guides', 'latest']),
+    build: (_msg, path) => {
+      const game = pathGame(path);
+      const all = topInCategory('blog', 6);
+      const filtered = game
+        ? all.filter(r => (game === 'crk' ? r.item.id.includes('cookie-run-kingdom') : r.item.id.includes('magic-the-gathering') || r.item.href.includes('/magic-the-gathering/')))
+        : all;
+      const links = (filtered.length > 0 ? filtered : all).slice(0, 5).map(toRecommendedLink);
       return {
-        answer: `${answerOpener()} These are the most recent guides on the blog, freshest first.\n\n${joinLinks(links)}`,
+        answer: `${answerOpener()} ${game === 'mtg' ? 'Latest MTG guides on the blog' : game === 'crk' ? 'Latest Cookie Run: Kingdom guides on the blog' : 'Latest guides across both games'}, freshest first.\n\n${joinLinks(links)}`,
         recommendedLinks: links,
         matchedTopics: ['blog', 'navigation'],
         confidence: 0.85,
@@ -308,23 +512,34 @@ function intentWhatToRead(): Intent {
 }
 
 const INTENTS: Intent[] = [
+  // MTG first when message has unambiguous MTG signal — these matchers are narrow.
+  intentMtgColorCards(),
+  intentMtgProTour(),
+  intentMtgSet(),
+  intentMtgStandardMeta(),
+  intentMtgBans(),
+  intentMtgCommander(),
+  intentMtgFormat(),
+  // CRK
   intentCodes(),
-  intentTierList(),
+  intentCrkTierList(),
   intentArenaTeam(),
   intentGuildBattle(),
-  intentBeginner(),
+  intentCrkBeginner(),
   intentToppings(),
   intentBeascuits(),
   intentCakeTower(),
   intentCookieChat(),
   intentTreasures(),
-  intentPatchUpdate(),
+  intentCrkPatchUpdate(),
   intentSpecificCookie(),
+  // Shared
+  intentGlossary(),
   intentWhatToRead(),
 ];
 
-export function matchIntent(msg: string): Intent | undefined {
-  return INTENTS.find(i => i.match(msg));
+export function matchIntent(msg: string, path?: string): Intent | undefined {
+  return INTENTS.find(i => i.match(msg, path));
 }
 
 // ---------- Fallback responses ----------
@@ -336,7 +551,7 @@ export function buildSearchFallback(message: string): AssistantResponse {
   return {
     answer: high
       ? `${answerOpener()} I'm not 100% sure I caught your exact question, but these guides look like a strong match.\n\n${joinLinks(links)}`
-      : `I don't have a perfect match for that on the site yet, but these are the closest guides I can point you at:\n\n${joinLinks(links)}\n\nIf this isn't what you're after, try asking about Cookies by name, team comps (Arena / Guild Battle), or systems (toppings, beascuits, Cake Tower).`,
+      : `I don't have a perfect match for that on the site yet, but these are the closest guides I can point you at:\n\n${joinLinks(links)}\n\nIf this isn't what you're after, try asking about a specific Cookie (CRK) or color/format (MTG), or browse the glossaries.`,
     recommendedLinks: links,
     matchedTopics: ['search'],
     confidence: high ? 0.6 : 0.35,
@@ -347,10 +562,11 @@ export function buildSearchFallback(message: string): AssistantResponse {
 export function buildMissingContent(_message: string): AssistantResponse {
   const links = topInCategory('blog', 3).map(toRecommendedLink);
   return {
-    answer: `I don't have content on that yet. I won't guess at current patch details, codes, or release info that aren't on the site — but here's where to browse for what we do have:\n\n- **[Mythras Blog](/blog)** — every published guide, fresh-first\n- **[Gear Guide](/gear-guide)** — builds for 167+ Cookies\n- **[Cake Tower](/cake-tower)** — tower strategy and comps\n\n${links.length > 0 ? '**Latest:**\n' + joinLinks(links) : ''}`,
+    answer: `I don't have content on that yet. I won't guess at current patch details, codes, card prices, ban statuses, or release info that aren't on the site — but here's where to browse for what we do have:\n\n- **[Mythras Blog](/blog)** — every published guide across CRK and MTG, fresh-first\n- **[CRK Gear Guide](/gear-guide)** — builds for 167+ Cookies\n- **[CRK Glossary](/glossary/cookie-run-kingdom)** and **[MTG Glossary](/glossary/magic-the-gathering)** — term definitions\n\n${links.length > 0 ? '**Latest:**\n' + joinLinks(links) : ''}`,
     recommendedLinks: [
-      { title: 'Mythras Blog', href: '/blog', summary: 'All published guides, freshest first.', score: 0.5 },
-      { title: 'Gear Guide', href: '/gear-guide', summary: 'Build guides for 167+ Cookies.', score: 0.5 },
+      { title: 'Mythras Blog', href: '/blog', summary: 'All published guides across CRK and MTG.', score: 0.5 },
+      { title: 'CRK Gear Guide', href: '/gear-guide', summary: 'Build guides for 167+ Cookies.', score: 0.5 },
+      { title: 'MTG Blog Hub', href: '/blog/magic-the-gathering', summary: 'All MTG guides, freshest first.', score: 0.5 },
       ...links,
     ],
     matchedTopics: ['missing-content'],
@@ -361,7 +577,7 @@ export function buildMissingContent(_message: string): AssistantResponse {
 
 export function buildGreeting(): AssistantResponse {
   return {
-    answer: `Hey! I'm the Mythras assistant. I answer from what's actually on the site — Cookie Run: Kingdom guides, builds, team comps, tier lists, codes. Ask me anything, or try one of the suggested prompts below.`,
+    answer: `Hey! I'm the Mythras assistant. I answer from what's actually on the site — **Cookie Run: Kingdom** guides (builds, team comps, tier lists, codes) and **Magic: The Gathering** guides (color staples, Standard meta, Pro Tour decks, set tier lists). Ask me anything, or try one of the suggested prompts below.`,
     recommendedLinks: [],
     matchedTopics: ['greeting'],
     confidence: 1,

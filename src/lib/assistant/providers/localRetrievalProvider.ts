@@ -32,9 +32,9 @@ export const localRetrievalProvider: AssistantProvider = {
     }
 
     const lower = raw.toLowerCase();
-    const intent = matchIntent(lower);
+    const intent = matchIntent(lower, req.currentPath);
     if (intent) {
-      const res = intent.build(lower);
+      const res = intent.build(lower, req.currentPath);
       // Tag with the matched intent name for transparency / future analytics.
       res.matchedTopics = Array.from(new Set([...res.matchedTopics, intent.name]));
       return res;

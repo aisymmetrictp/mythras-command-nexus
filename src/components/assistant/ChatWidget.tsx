@@ -44,6 +44,15 @@ function saveHistory(history: ChatMessageType[]) {
 
 export default function ChatWidget({ embed }: Props) {
   const pathname = usePathname();
+
+  // Game context lets SuggestedPrompts show CRK / MTG / mixed starter prompts
+  // based on the page the user opened the widget on.
+  const gameContext: 'crk' | 'mtg' | 'mixed' =
+    pathname?.includes('/magic-the-gathering') ? 'mtg' :
+    (pathname?.includes('/cookie-run-kingdom') ||
+      pathname?.startsWith('/gear-guide') ||
+      pathname?.startsWith('/cake-tower')) ? 'crk' :
+    'mixed';
   const [open, setOpen] = useState(false);
   const [messages, setMessages] = useState<ChatMessageType[]>([]);
   const [input, setInput] = useState('');
@@ -167,12 +176,14 @@ export default function ChatWidget({ embed }: Props) {
           <div className="space-y-5">
             <div className="rounded-xl border border-[#D4A853]/15 bg-[#0c0c18]/60 p-4 text-sm text-[#c8c8d4] leading-relaxed">
               <p>
-                Hey! I answer from what&apos;s actually on Mythras — Cookie Run: Kingdom guides, builds, team
-                comps, tier lists, codes. I won&apos;t invent patch details or codes that aren&apos;t in our
-                content, so if I don&apos;t know I&apos;ll point you at the closest guide.
+                Hey! I answer from what&apos;s actually on Mythras — <strong className="text-white">Cookie Run: Kingdom</strong> guides
+                (builds, team comps, tier lists, codes) and <strong className="text-white">Magic: The Gathering</strong> guides
+                (color staples, Standard meta, Pro Tour decks, set tier lists). I won&apos;t invent patch details,
+                codes, card prices, or release info that aren&apos;t in our content. If I don&apos;t know I&apos;ll
+                point you at the closest guide.
               </p>
             </div>
-            <SuggestedPrompts onPick={p => handleSubmit(p)} />
+            <SuggestedPrompts onPick={p => handleSubmit(p)} gameContext={gameContext} />
           </div>
         ) : (
           messages.map(m => <ChatMessage key={m.id} message={m} />)
@@ -202,7 +213,11 @@ export default function ChatWidget({ embed }: Props) {
           disabled={thinking}
         />
         <div className="text-[10px] text-[#666] text-center mt-2">
-          Tip: ask by Cookie name, mode (Arena, Guild Battle, Cake Tower), or system (toppings, beascuits, codes).
+          {gameContext === 'mtg'
+            ? 'Tip: ask by color, format (Commander, Standard, Modern), set name, or deck archetype.'
+            : gameContext === 'crk'
+            ? 'Tip: ask by Cookie name, mode (Arena, Guild Battle, Cake Tower), or system (toppings, beascuits, codes).'
+            : 'Tip: ask about CRK (Cookies, builds, modes) or MTG (colors, formats, decks, sets).'}
         </div>
       </div>
     </>
