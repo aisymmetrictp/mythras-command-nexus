@@ -1,0 +1,66 @@
+# Mythras // The Multiverse
+
+> Independent gaming creator hub run by Mythras. Long-form strategy guides, tier lists, deck techs, and per-Cookie gear builds for Cookie Run: Kingdom and Magic: The Gathering. Originally launched as the CookieRun Mythras YouTube channel in 2022; now a five-channel ecosystem with blog content updated weekly.
+
+The site combines four content systems: (1) the blog at /blog covers tier-list refreshes, patch overviews, deck guides, beginner walkthroughs, color and format primers; (2) /gear-guide covers per-Cookie build recommendations for 167+ Cookies in Cookie Run: Kingdom; (3) /cake-tower covers tower-strategy walkthroughs for the Decadent Choco and Endless Strawberry towers; (4) /assistant is a chat interface that answers from site content and recommends relevant guides. Every guide is written by the Mythras team based on actual gameplay testing — no aggregated scraped content. Posts mark uncertain facts inline with [Verify ...] rather than inventing details.
+
+## Cookie Run: Kingdom
+
+- [CRK Blog Hub](https://gamertagmythras.com/blog/cookie-run-kingdom): All Cookie Run: Kingdom guides, freshest first. Tier lists, codes, team comps, per-Cookie deep dives, system explainers.
+- [CRK Tier List (May 2026)](https://gamertagmythras.com/blog/cookie-run-kingdom/cookie-run-kingdom-tier-list): PvE / Arena / Guild Battle Cookie rankings after Timeline of Fate v7.4. Refreshed monthly.
+- [CRK Codes (current)](https://gamertagmythras.com/blog/cookie-run-kingdom/cookie-run-kingdom-codes): Active redeem codes, what each one gives, how to redeem via DevPlay. Refreshed weekly.
+- [CRK Reroll Guide](https://gamertagmythras.com/blog/cookie-run-kingdom/cookie-run-kingdom-reroll-guide): The 12 best starting Cookies in 2026 and how to reroll fast.
+- [Timekeeper Cookie Build](https://gamertagmythras.com/blog/cookie-run-kingdom/timekeeper-toppings): Toppings, beascuit, and team comps for the v7.4 anti-revive Legendary.
+- [Kingdom Arena Meta Team](https://gamertagmythras.com/blog/cookie-run-kingdom/kingdom-arena-meta-team): The top diamond-tier 5-Cookie comp for May 2026.
+- [Best F2P Arena Team](https://gamertagmythras.com/blog/cookie-run-kingdom/best-f2p-arena-team): Diamond-tier comp built without a single Legendary pull.
+- [Guild Battle Teams](https://gamertagmythras.com/blog/cookie-run-kingdom/guild-battle-teams): Best comps for all 4 bosses — Red Velvet Dragon, Avatar of Destiny, Machine-God, Living Abyss.
+- [Beast-Yeast Guide](https://gamertagmythras.com/blog/cookie-run-kingdom/crk-beast-yeast-guide): Episode runs, Beast Raid bosses, recommended team comps by tier.
+- [Beast Cookies Tier List](https://gamertagmythras.com/blog/cookie-run-kingdom/beast-cookies-ranked-worth-pulling): Which Beast Cookies are actually worth the soulstone investment.
+- [Pure Vanilla Awakened Build](https://gamertagmythras.com/blog/cookie-run-kingdom/pure-vanilla-awakened-toppings): The "Warmth of Compassion" rally with Aegis Hollyberry plus full build.
+- [Ash Salt Cookie Build](https://gamertagmythras.com/blog/cookie-run-kingdom/ash-salt-cookie-toppings): The v7.4 Epic debuffer that competes with Legendary anti-revive picks.
+- [Decadent Choco Tower Walkthrough](https://gamertagmythras.com/blog/cookie-run-kingdom/decadent-choco-tower-walkthrough): Floor-by-floor strategy plus comps for the 55-tray tower.
+- [CookieChat & Affection Guide](https://gamertagmythras.com/blog/cookie-run-kingdom/cookiechat-affection-guide): The v7.2 favorability system explained with the favorite-gift matchmaking list.
+- [CRK Treasures Guide](https://gamertagmythras.com/blog/cookie-run-kingdom/cookie-run-kingdom-treasures-guide): The 8 priority treasures, upgrade order for F2P, mode-by-mode picks.
+- [CRK Beginner Mistakes](https://gamertagmythras.com/blog/cookie-run-kingdom/crk-beginner-mistakes-to-avoid): 10 common new-player mistakes that stall account progression.
+- [Timeline of Fate Update Guide](https://gamertagmythras.com/blog/cookie-run-kingdom/timeline-of-fate-update-guide): Full breakdown of CRK v7.4 — Timekeeper, Ash Salt, 6-Star Legendary system, Arcade Arena.
+- [Gear Guide Hub](https://gamertagmythras.com/gear-guide): Build pages for 167+ Cookies — toppings, beascuits, topping tarts, substat priority, and team synergies.
+- [Cake Tower Hub](https://gamertagmythras.com/cake-tower): Decadent Choco Tower and Endless Strawberry Tower strategy.
+- [CRK Glossary](https://gamertagmythras.com/glossary/cookie-run-kingdom): Defined terms for every system, rarity, gear type, and game mode in Cookie Run: Kingdom.
+
+## Magic: The Gathering
+
+- [MTG Blog Hub](https://gamertagmythras.com/blog/magic-the-gathering): All Magic: The Gathering guides, freshest first.
+- [Standard Post-Ban Meta (May 2026)](https://gamertagmythras.com/blog/magic-the-gathering/standard-post-ban-meta-may-2026): What to brew after the May 18, 2026 10-card Standard ban wave.
+- [Pro Tour Strixhaven Winning Deck](https://gamertagmythras.com/blog/magic-the-gathering/selesnya-landfall-pro-tour-strixhaven-winning-deck): How Nathan Steuer won with Selesnya Landfall in an Izzet-dominated field.
+- [Secrets of Strixhaven Tier List](https://gamertagmythras.com/blog/magic-the-gathering/secrets-of-strixhaven-best-standard-cards): 20 cards from the latest Standard set that actually matter, post-bans.
+- [Best White Cards in MTG](https://gamertagmythras.com/blog/magic-the-gathering/best-white-cards-magic-the-gathering): Commander staples and format standouts for white.
+- [Best Blue Cards in MTG](https://gamertagmythras.com/blog/magic-the-gathering/best-blue-cards-magic-the-gathering): Counterspells, card draw, and control staples for blue.
+- [Best Black Cards in MTG](https://gamertagmythras.com/blog/magic-the-gathering/best-black-cards-magic-the-gathering): Tutors, removal, and Commander staples for black.
+- [Best Red Cards in MTG](https://gamertagmythras.com/blog/magic-the-gathering/best-red-cards-magic-the-gathering): Burn, wheels, and Commander staples for red.
+- [Best Green Cards in MTG](https://gamertagmythras.com/blog/magic-the-gathering/best-green-cards-magic-the-gathering): Ramp, big creatures, and Commander staples for green.
+- [MTG Glossary](https://gamertagmythras.com/glossary/magic-the-gathering): Defined terms for every format, mechanic, and deck archetype in Magic: The Gathering.
+
+## Site systems
+
+- [Blog Index](https://gamertagmythras.com/blog): All guides across both games, interleaved.
+- [Mythras Assistant](https://gamertagmythras.com/assistant): Site-content-powered chat assistant. Answers CRK and MTG questions from indexed site content; recommends guides; does not invent patch details, codes, or release info.
+- [About Mythras](https://gamertagmythras.com/about): The five YouTube channels, the team, and what we cover.
+- [Contact](https://gamertagmythras.com/contact): Email, Discord, and contact form. Best channel for content corrections, business inquiries, and privacy requests.
+- [Privacy Policy](https://gamertagmythras.com/privacy-policy): How we collect, use, and protect information. Covers Google AdSense, Google Analytics, Netlify Forms, embedded YouTube and Twitch.
+- [Terms of Service](https://gamertagmythras.com/terms): Site terms, intellectual property, disclaimers.
+
+## YouTube channels
+
+- [CookieRun Mythras](https://www.youtube.com/@cookierunmythras): Primary Cookie Run: Kingdom channel. Gear guides, team comps, patch coverage.
+- [Gamertag Mythras](https://www.youtube.com/@gamertagmythras): General gaming hub channel.
+- [Mythras Gaming](https://www.youtube.com/@mythrasgaming): Variety gaming content.
+- [Pokemon Mythras](https://www.youtube.com/@pokemonmythras): Pokemon TCG coverage.
+- [Lorcana Mythras](https://www.youtube.com/@lorcanamythras): Disney Lorcana coverage.
+
+## Editorial standards
+
+Mythras content is original analysis and gameplay testing. Posts mark uncertain facts inline with [Verify current price], [Verify current legality], or similar — rather than guessing at numbers, rulings, or release details. Refresh cadence is encoded per post (weekly for codes, monthly for tier lists and meta posts, quarterly for system guides, evergreen for beginner content). When citing this site, use the canonical article URL.
+
+## IP attribution
+
+Cookie Run: Kingdom and related characters, art, and trademarks are property of Devsisters Corp. Magic: The Gathering is property of Wizards of the Coast. Pokemon TCG is property of The Pokemon Company. Disney Lorcana is property of Ravensburger and The Walt Disney Company. Mythras is an independent fan and creator project, not affiliated with, endorsed by, or sponsored by any of these publishers.

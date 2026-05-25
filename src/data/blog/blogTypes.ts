@@ -83,6 +83,23 @@ export type BlogPost = {
 
   internalLinks: BlogInternalLink[];
   externalSources: BlogExternalSource[];
+
+  /**
+   * Optional 1-3 sentence direct-answer summary rendered above the TOC.
+   * Critical for AI Overview / Perplexity / ChatGPT citation extraction.
+   * If present, also emitted as `speakable` schema.
+   */
+  tldr?: string;
+
+  /**
+   * Optional structured ranking/list payload for "best X" or tier-list posts.
+   * Rendered as `ItemList` JSON-LD so Google rich results and AI systems can
+   * extract the ranked entries verbatim.
+   */
+  itemList?: {
+    name: string;
+    items: { name: string; url?: string; description?: string }[];
+  };
 };
 
 export type BlogPostListItem = Pick<

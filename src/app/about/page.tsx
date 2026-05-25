@@ -5,7 +5,7 @@ import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import ParticleField from '@/components/ParticleField';
 import { channels } from '@/data/mockData';
-import { BreadcrumbSchema, WebPageSchema } from '@/components/StructuredData';
+import { BreadcrumbSchema, WebPageSchema, PersonSchema } from '@/components/StructuredData';
 
 export const metadata: Metadata = {
   title: 'About Mythras',
@@ -37,6 +37,9 @@ export default function AboutPage() {
         description="The team, mission, and channels behind gamertagmythras.com."
         url="https://gamertagmythras.com/about"
       />
+      {/* /about is the canonical Person page — re-emit the Person entity
+          here as the primary subject so E-E-A-T signals concentrate at this URL. */}
+      <PersonSchema />
       <BreadcrumbSchema
         items={[
           { name: 'Home', url: 'https://gamertagmythras.com/' },

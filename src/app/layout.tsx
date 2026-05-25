@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { OrganizationSchema } from "@/components/StructuredData";
+import { OrganizationSchema, PersonSchema } from "@/components/StructuredData";
 import CookieConsent from "@/components/CookieConsent";
 import ChatWidget from "@/components/assistant/ChatWidget";
 import "./globals.css";
@@ -90,6 +90,7 @@ export default function RootLayout({
       </head>
       <body className="antialiased">
         <OrganizationSchema />
+        <PersonSchema />
         {/* Hidden form for Netlify build-time form detection */}
         <form name="contact" data-netlify="true" netlify-honeypot="bot-field" hidden>
           <input name="bot-field" />

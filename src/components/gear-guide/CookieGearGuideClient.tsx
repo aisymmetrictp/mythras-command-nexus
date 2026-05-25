@@ -21,6 +21,7 @@ import {
   RARITY_ORDER,
 } from '@/data/cookieData';
 import { AdInFeed } from '@/components/AdUnit';
+import { BreadcrumbSchema, MYTHRAS_ORG_ID } from '@/components/StructuredData';
 
 function BuildCard({ label, icon, title, subtitle, accent }: { label: string; icon: string; title: string; subtitle: string; accent?: boolean }) {
   return (
@@ -80,6 +81,40 @@ export default function CookieGearGuideClient({ slug }: { slug: string }) {
         }} />
         <ParticleField />
       </div>
+      {/* Cookie entity schema — adds structured data for all 167 cookie pages */}
+      <BreadcrumbSchema
+        items={[
+          { name: 'Home', url: 'https://gamertagmythras.com/' },
+          { name: 'Gear Guide', url: 'https://gamertagmythras.com/gear-guide' },
+          { name: cookie.name, url: `https://gamertagmythras.com/gear-guide/${cookie.slug}` },
+        ]}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            '@context': 'https://schema.org',
+            '@type': 'WebPage',
+            '@id': `https://gamertagmythras.com/gear-guide/${cookie.slug}`,
+            name: `${cookie.name} Gear Guide — Best Toppings & Build`,
+            url: `https://gamertagmythras.com/gear-guide/${cookie.slug}`,
+            inLanguage: 'en-US',
+            isPartOf: { '@id': MYTHRAS_ORG_ID },
+            about: {
+              '@type': 'Thing',
+              name: cookie.name,
+              alternateName: cookie.name.replace(/ Cookie$/, ''),
+              description: `${cookie.rarity} ${cookie.type} Cookie in Cookie Run: Kingdom${cookie.build && cookie.build.toppings ? `. Recommended build runs ${cookie.build.toppings} toppings with a ${cookie.build.beascuit} beascuit and ${cookie.build.tart} tart.` : '.'}`,
+              ...(cookie.imageUrl && { image: cookie.imageUrl.startsWith('http') ? cookie.imageUrl : `https://gamertagmythras.com${cookie.imageUrl}` }),
+              isPartOf: {
+                '@type': 'VideoGame',
+                name: 'Cookie Run: Kingdom',
+                publisher: { '@type': 'Organization', name: 'Devsisters Corp.' },
+              },
+            },
+          }),
+        }}
+      />
       <div className="relative z-10">
         <Navbar />
         <main className="pt-24 pb-20">
@@ -109,7 +144,7 @@ export default function CookieGearGuideClient({ slug }: { slug: string }) {
                       <div className="absolute inset-0 rounded-2xl opacity-40 blur-xl" style={{ background: colors.bg }} />
                       <div className="relative w-full h-full rounded-2xl border-2 overflow-hidden bg-[#0c0c18]/80 backdrop-blur-sm"
                         style={{ borderColor: colors.border }}>
-                        <img src={cookie.imageUrl} alt={cookie.name} className="w-full h-full object-cover" loading="eager" />
+                        <img src={cookie.imageUrl} alt={`${cookie.name} — ${cookie.rarity} ${cookie.type} cookie in Cookie Run: Kingdom`} className="w-full h-full object-cover" loading="eager" />
                       </div>
                       <div className="absolute -bottom-1 -right-1 w-8 h-8 rounded-full flex items-center justify-center text-lg"
                         style={{ background: colors.bg, border: `2px solid ${colors.border}` }}>

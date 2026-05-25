@@ -29,11 +29,20 @@ export default function BlogMarkdown({ content }: Props) {
       <ReactMarkdown
         remarkPlugins={[remarkGfm]}
         components={{
-          h1: ({ children }) => (
-            <h1 className="text-3xl md:text-4xl font-bold text-white mt-12 mb-6 tracking-tight" style={{ fontFamily: 'var(--font-display)' }}>
-              {children}
-            </h1>
-          ),
+          // SEO safety: every page already renders an h1 from BlogPostBody header.
+          // Demote any `#` in markdown body to h2 so we never emit two h1s on a page.
+          h1: ({ children }) => {
+            const id = slugify(extractText(children));
+            return (
+              <h2
+                id={id}
+                className="text-2xl md:text-3xl font-bold text-white mt-12 mb-4 pb-2 border-b border-[#D4A853]/15 scroll-mt-24"
+                style={{ fontFamily: 'var(--font-display)' }}
+              >
+                {children}
+              </h2>
+            );
+          },
           h2: ({ children }) => {
             const id = slugify(extractText(children));
             return (

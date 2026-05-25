@@ -6,7 +6,7 @@ import BlogMarkdown from './BlogMarkdown';
 import BlogTOC from './BlogTOC';
 import BlogFAQ from './BlogFAQ';
 import BlogCard from './BlogCard';
-import { BreadcrumbSchema, FAQSchema } from '@/components/StructuredData';
+import { BreadcrumbSchema, FAQSchema, ItemListSchema, MYTHRAS_PERSON_ID, MYTHRAS_ORG_ID } from '@/components/StructuredData';
 
 type Props = { post: BlogPost; related: BlogPost[] };
 
@@ -23,24 +23,32 @@ export default function BlogPostBody({ post, related }: Props) {
   const category = getCategoryBySlug(post.category);
   const url = `https://gamertagmythras.com/blog/${post.game}/${post.slug}`;
 
-  const blogPostingJsonLd = {
+  const blogPostingJsonLd: Record<string, unknown> = {
     '@context': 'https://schema.org',
     '@type': 'BlogPosting',
     headline: post.title,
     description: post.metaDescription,
     datePublished: post.publishDate,
     dateModified: post.lastUpdated,
-    author: { '@type': 'Organization', name: 'Mythras // The Multiverse' },
-    publisher: {
-      '@type': 'Organization',
-      name: 'Mythras // The Multiverse',
-      logo: { '@type': 'ImageObject', url: 'https://gamertagmythras.com/images/mythras-logo-new.png' },
-    },
+    // Author is the human creator (Person), publisher is the Organization.
+    // Cross-references via @id so the entity graph compounds across pages.
+    author: { '@id': MYTHRAS_PERSON_ID },
+    publisher: { '@id': MYTHRAS_ORG_ID },
     mainEntityOfPage: { '@type': 'WebPage', '@id': url },
     keywords: [post.primaryKeyword, ...post.secondaryKeywords].join(', '),
     articleSection: category?.name ?? 'Blog',
     wordCount: post.content.split(/\s+/).length,
+    inLanguage: 'en-US',
+    isAccessibleForFree: true,
   };
+
+  // Speakable schema for voice assistants — points at the TL;DR selector if present.
+  if (post.tldr) {
+    blogPostingJsonLd.speakable = {
+      '@type': 'SpeakableSpecification',
+      cssSelector: ['#blog-tldr', 'h1'],
+    };
+  }
 
   return (
     <article className="relative">
@@ -59,6 +67,18 @@ export default function BlogPostBody({ post, related }: Props) {
       {post.faq.length > 0 && (
         <FAQSchema faqs={post.faq.map(f => ({ question: f.question, answer: f.answer }))} />
       )}
+      {(() => {
+        const il = post.itemList;
+        if (!il) return null;
+        return (
+          <ItemListSchema
+            name={il.name}
+            description={post.metaDescription}
+            url={url}
+            items={il.items}
+          />
+        );
+      })()}
 
       <header className="max-w-3xl mx-auto px-4 sm:px-6 pt-28 md:pt-32 pb-8">
         <div className="flex flex-wrap items-center gap-3 text-xs text-[#9999aa] mb-5">
@@ -97,6 +117,21 @@ export default function BlogPostBody({ post, related }: Props) {
       </header>
 
       <div className="max-w-3xl mx-auto px-4 sm:px-6">
+        {post.tldr && (
+          <aside
+            id="blog-tldr"
+            className="my-8 rounded-xl border border-[#D4A853]/30 bg-[#D4A853]/[0.06] p-5 md:p-6"
+            aria-label="TL;DR — quick answer"
+          >
+            <div className="flex items-center gap-2 mb-2">
+              <span className="text-[#D4A853] text-[10px] font-bold tracking-[0.2em] uppercase">TL;DR</span>
+              <div className="h-px flex-1 bg-gradient-to-r from-[#D4A853]/40 to-transparent" />
+            </div>
+            <p className="text-[#f0f0f5] text-base md:text-lg leading-relaxed font-medium">
+              {post.tldr}
+            </p>
+          </aside>
+        )}
         <BlogTOC toc={post.toc} />
         <BlogMarkdown content={post.content} />
         <BlogFAQ faqs={post.faq} />

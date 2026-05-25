@@ -205,6 +205,18 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://gamertagmythras.com/glossary/cookie-run-kingdom</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://gamertagmythras.com/glossary/magic-the-gathering</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://gamertagmythras.com/cake-tower</loc>
     <lastmod>2026-03-23</lastmod>
     <changefreq>weekly</changefreq>
