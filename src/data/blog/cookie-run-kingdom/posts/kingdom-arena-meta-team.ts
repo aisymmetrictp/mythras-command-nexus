@@ -252,4 +252,15 @@ For Guild Battle and other PvE modes where this exact comp does not apply, see t
       title: 'Cookie Run Official Site',
     },
   ],
+  tldr: "The dominant Diamond+ Kingdom Arena comp in May 2026 is Aegis Hollyberry (front tank), Pure Vanilla Awakened (front healer and rally), Dark Enchantress (mid DPS), Timekeeper (mid anti-revive lock), and Sugar Swan (rear revive insurance). The unswappable core is Dark Enchantress + Timekeeper — the other three slots flex F2P. Cast Sealed Hour on turn 4, right after the first enemy death, not at fight start.",
+  itemList: {
+    name: 'Kingdom Arena Meta Team (May 2026)',
+    items: [
+      { name: 'Aegis Hollyberry Cookie — Front Tank', url: '/gear-guide/hollyberry-cookie', description: 'Highest survivability frontline. Triggers the Warmth of Compassion rally with Pure Vanilla.' },
+      { name: 'Pure Vanilla Cookie (Awakened) — Front Healer', url: '/gear-guide/pure-vanilla-cookie', description: 'Rally trigger and ATK + DMG Resist buff for the first ~15 seconds of the fight.' },
+      { name: 'Dark Enchantress Cookie — Mid DPS', url: '/gear-guide/dark-enchantress-cookie', description: 'S+ damage anchor. Melts the enemy mid-row on her third skill cycle.' },
+      { name: 'Timekeeper Cookie — Mid Anti-Revive', url: '/blog/cookie-run-kingdom/timekeeper-toppings', description: 'Sealed Hour locks enemy revive triggers. Cast after the first enemy death.' },
+      { name: 'Sugar Swan Cookie — Rear Healer', url: '/gear-guide/sugar-swan-cookie', description: 'Double-revive Legendary healer. Forces enemy Timekeeper to spend Sealed Hour on your team instead of DE.' },
+    ],
+  },
 };

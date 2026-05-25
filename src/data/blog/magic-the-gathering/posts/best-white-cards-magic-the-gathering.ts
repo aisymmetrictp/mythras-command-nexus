@@ -233,4 +233,20 @@ Use this list as a deckbuilding starting point for any white-inclusive Commander
       title: 'Star City Games — strategy articles archive',
     },
   ],
+  tldr: "White is no longer the weakest Commander color. Esper Sentinel taxes opponents into drawing you cards, Smothering Tithe prints treasures off every draw, and Farewell ends games on the spot. Run Swords to Plowshares, Esper Sentinel, Smothering Tithe, Sun Titan, Teferi's Protection, and Farewell as the white core. Build the rest of the deck around archetype.",
+  itemList: {
+    name: 'Best White Cards in MTG (2026)',
+    items: [
+      { name: 'Swords to Plowshares', description: 'One-mana exile-any-creature. The benchmark removal spell of all time.' },
+      { name: 'Esper Sentinel', description: 'One-mana 1/1 that taxes opponent spells into cards for you.' },
+      { name: "Teferi's Protection", description: 'Three-mana instant. Your life total cannot change, your permanents phase out, you have protection from everything until your next turn.' },
+      { name: 'Smothering Tithe', description: 'Treasure factory off every opponent draw. Ramp, fixing, flood insurance in one card.' },
+      { name: 'Farewell', description: 'Six-mana modal wipe that exiles artifacts, creatures, enchantments, and graveyards. Format-warping.' },
+      { name: 'Sun Titan', description: 'Six-mana value engine that recurs any permanent of mana value 3 or less from your graveyard.' },
+      { name: 'Path to Exile', description: 'One-mana exile a creature. The cEDH-leaning backup to Swords.' },
+      { name: 'Generous Gift', description: 'Three-mana destroy any permanent. The only white answer to lands and planeswalkers at instant speed.' },
+      { name: "Akroma's Will", description: "Five-mana team-wide indestructible double strike protection. The closest white has to a one-card win condition." },
+      { name: 'Anointed Procession', description: 'Four-mana enchantment that doubles every token you make.' },
+    ],
+  },
 };

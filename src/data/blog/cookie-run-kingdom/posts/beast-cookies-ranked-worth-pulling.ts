@@ -270,4 +270,15 @@ If you cannot check at least five boxes, you are pulling on vibes. Save the gems
       title: 'Devsisters — developer site',
     },
   ],
+  tldr: "Silent Salt is the only Beast Cookie that is a must-pull as of May 2026 — her anti-revive mechanic is binary and cannot be power-crept. Eternal Sugar is still S-tier but slipping as Timekeeper-aligned Cookies crowd her time-manipulation niche. Mystic Flour is PvE-only. Burning Spice and Shadow Milk are skips for most rosters. Never half-pull a Beast banner — go in with 60,000+ crystals or wait.",
+  itemList: {
+    name: 'Beast Cookies Tier Ranking (May 2026)',
+    items: [
+      { name: 'Silent Salt Cookie — S+ (Must-Pull)', url: '/gear-guide/silent-salt-cookie', description: 'Ambush Beast added in v6.9. Anti-revive debuff field makes her the only auto-pull Beast in the roster.' },
+      { name: 'Eternal Sugar Cookie — S (Strong Pull)', url: '/gear-guide/eternal-sugar-cookie', description: 'Magic Beast from v6.4. Massive AoE damage and turn-order disruption. Slipping as time-manipulation niche gets crowded.' },
+      { name: 'Mystic Flour Cookie — A (Conditional)', url: '/gear-guide/mystic-flour-cookie', description: 'Magic Beast. PvE single-target burst workhorse. A for Cake Tower mains, B for Arena mains.' },
+      { name: 'Burning Spice Cookie — B+ (Skip Unless Fan)', url: '/gear-guide/burning-spice-cookie', description: 'Charge Beast. Strong DoT field but caught up by modern Charge Cookies with better utility.' },
+      { name: 'Shadow Milk Cookie — B (Skip for Most)', url: '/gear-guide/shadow-milk-cookie', description: 'Ambush Beast built around illusion clones and confusion debuffs. Niche outside one Guild Battle cheese comp.' },
+    ],
+  },
 };

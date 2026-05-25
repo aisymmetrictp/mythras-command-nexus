@@ -225,4 +225,20 @@ If you cannot tick five of those, the deck is going to run out of gas before it 
       title: 'Draftsim — best red cards reference',
     },
   ],
+  tldr: "Red has the best one-mana spell in MTG history (Lightning Bolt), the best draw-7 ever printed (Wheel of Fortune), and the most format-warping value engine in Commander (Underworld Breach). Dockside Extortionist was banned in Commander on September 23, 2024, so remove it from any pre-ban deck lists you read. Build red around removal, wheels, and one explosive ritual or treasure engine.",
+  itemList: {
+    name: 'Best Red Cards in MTG (2026)',
+    items: [
+      { name: 'Lightning Bolt', description: 'One-mana instant, three damage to any target. The benchmark for removal since Alpha.' },
+      { name: 'Ragavan, Nimble Pilferer', description: 'One-mana 2/1 that steals Treasures and casts off the top of opponent decks on hit.' },
+      { name: 'Underworld Breach', description: 'One-mana enchantment. Recast instants and sorceries from your graveyard by exiling 3 other cards.' },
+      { name: 'Wheel of Fortune', description: 'Three-mana sorcery. Each player discards their hand and draws seven. Reserved List.' },
+      { name: "Jeska's Will", description: 'Three-mana modal ritual + draw burst. One of the most efficient three-mana red spells ever printed.' },
+      { name: 'Chaos Warp', description: "Three-mana shuffle target permanent into its owner's library. Red's only true answer to enchantments." },
+      { name: 'Birgi, God of Storytelling', description: 'Three-mana 3/3. Adds R whenever you cast a spell. Powers ritual chains and wheel decks.' },
+      { name: 'Sword of Feast and Famine', description: 'Three-mana equipment giving protection from black and green plus untap-all-lands trigger.' },
+      { name: 'Price of Progress', description: 'Two-mana instant. Damage to each player equal to twice their nonbasic land count. Mono-red staple.' },
+      { name: 'Lightning Greaves', description: 'Zero-cost equip, haste and shroud. The most-played equipment in Commander.' },
+    ],
+  },
 };

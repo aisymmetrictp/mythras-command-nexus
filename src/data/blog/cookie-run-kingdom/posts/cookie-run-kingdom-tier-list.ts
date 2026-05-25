@@ -253,4 +253,15 @@ For a wider walkthrough of which Legendaries to chase from a fresh account, the 
       title: 'Devsisters — official patch notes',
     },
   ],
+  tldr: "After the May 7 Timeline of Fate v7.4 patch, Timekeeper Cookie deleted Eternal Sugar's Evergreen Arena slot and Ash Salt pushed Epic debuffers into S-tier rotation. The May 2026 S+ tier is Timekeeper, Dark Enchantress, Sugar Swan, Aegis Hollyberry, and Pure Vanilla Awakened. With the 6-star Legendary growth ceiling live, focused investment beats spread investment — pick one Legendary, push her to 6-star, then start the next.",
+  itemList: {
+    name: 'S+ Tier Cookies — Cookie Run: Kingdom May 2026',
+    items: [
+      { name: 'Timekeeper Cookie', description: 'Anti-revive Magic Legendary added in v7.4. Replaces Eternal Sugar in Evergreen Arena defense.' },
+      { name: 'Dark Enchantress Cookie', description: 'S+ DPS anchor since v7.0. Strongest sustained damage window in the game when paired with Venom Dough.' },
+      { name: 'Sugar Swan Cookie', description: 'The only Healer that can revive 2 allies. Mandatory in any team that expects to face Timekeeper or Silent Salt.' },
+      { name: 'Aegis Hollyberry Cookie', description: 'Awakened tank. Triggers the Warmth of Compassion rally with Pure Vanilla — the best front-line combo in PvE.' },
+      { name: 'Pure Vanilla Cookie (Awakened)', description: 'Perennial S+ since v6.5. Anchors both Arena and Guild Battle tempo cycles.' },
+    ],
+  },
 };

@@ -254,4 +254,14 @@ Manual the opening 20 seconds and the final 20 seconds; the middle is fine on au
       title: 'Play Cookie Run — official portal',
     },
   ],
+  tldr: "Guild Battle in CRK is decided by which anchor Cookie you bring to each boss. Red Velvet Dragon wants Pomegranate plus Poison Mushroom for stacked Poison damage. Avatar of Destiny wants Sugar Swan as the sustain anchor. Machine-God wants the Seltzer plus Menthol Stinging Fizz combo. Living Abyss wants Timekeeper plus Dark Enchantress. Manual the opening and closing 20 seconds of every attempt; auto the middle.",
+  itemList: {
+    name: 'Best Guild Battle Anchor Cookies by Boss (May 2026)',
+    items: [
+      { name: 'Red Velvet Dragon — Pomegranate Cookie', url: '/gear-guide/pomegranate-cookie', description: 'Stacks Poison faster than any other DPS and multiplies Poison Mushroom Cookie damage. Boss is weak to Poison.' },
+      { name: 'Avatar of Destiny — Sugar Swan Cookie', url: '/gear-guide/sugar-swan-cookie', description: 'Strongest single-target healer in the game. Carries the team through HP-drain windows.' },
+      { name: 'Machine-God — Seltzer + Menthol Pair', url: '/gear-guide/seltzer-cookie', description: 'The Stinging Fizz buff loop. Two Epic Cookies that out-score Legendary-only teams against Machine-God.' },
+      { name: 'Living Abyss — Dark Enchantress Cookie', url: '/gear-guide/dark-enchantress-cookie', description: 'Chaos DPS that doubles as a debuffer. Pairs cleanly with Timekeeper lockdown windows.' },
+    ],
+  },
 };

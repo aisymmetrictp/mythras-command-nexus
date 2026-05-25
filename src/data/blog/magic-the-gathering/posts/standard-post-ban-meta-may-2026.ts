@@ -185,5 +185,21 @@ If you want a refresher on what each color is bringing to the table, we have a [
     { url: 'https://www.mtggoldfish.com/metagame/standard', title: 'MTGGoldfish — Standard Metagame' },
     { url: 'https://mtgdecks.net/Standard', title: 'mtgdecks.net — Standard Decklists' },
     { url: 'https://magic.gg/news', title: 'magic.gg — Tournament Coverage and Pro Tour Results' }
-  ]
+  ],
+  tldr: "The May 18, 2026 Standard ban wave hit 10 cards in one swing — the largest since Affinity in 2005. Izzet Prowess is dead, Mono-Red is gutted, and Azorius Omniscience lost its engine. Selesnya Landfall is the new tier 1 (the Pro Tour Strixhaven winner) with Mono-Green Landfall and 4/5C Control behind it. Sheoldred, Sunfall, and Cut Down all just got way better. Next B&R is June 30, 2026.",
+  itemList: {
+    name: 'Standard Ban List — May 18, 2026',
+    items: [
+      { name: 'Cori-Steel Cutter', description: 'Izzet Prowess. Undercosted threat that defined the top deck. Also Pioneer-banned the same day.' },
+      { name: 'Heartfire Hero', description: 'Mono-Red Aggro. One-mana 1/1 that pushed Mono-Red over the line into tier 0.' },
+      { name: 'Monstrous Rage', description: 'Mono-Red and Prowess. Universal one-mana pump that fueled every aggressive deck.' },
+      { name: 'Hopeless Nightmare', description: 'Mono-Black Discard. Made early discard too easy and too cheap.' },
+      { name: "Proft's Eidetic Memory", description: 'Izzet Prowess. Card-draw engine that turned Prowess into a value deck.' },
+      { name: 'Up the Beanstalk', description: '5C Beanstalk Control. Card-draw stapled to a cheap enchantment that snowballed control mirrors.' },
+      { name: "This Town Ain't Big Enough", description: 'Multiple decks. Cheap bounce-with-upside that warped tempo math.' },
+      { name: 'Screaming Nemesis', description: 'Mono-Red. Closed games too fast against fair decks.' },
+      { name: 'Vivi Ornitier', description: 'Mono-Red and Prowess. Recurring two-mana threat with too much reach.' },
+      { name: "Abuelo's Awakening", description: 'Azorius Omniscience. The only payoff that made Omniscience castable in Standard.' },
+    ],
+  },
 };

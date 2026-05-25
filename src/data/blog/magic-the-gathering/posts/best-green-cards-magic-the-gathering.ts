@@ -212,5 +212,21 @@ If you have all of these, your deck has a functional mana curve, a way to refill
     { url: 'https://scryfall.com/search?q=c%3Ag', title: 'Scryfall — Green Card Database' },
     { url: 'https://www.mtggoldfish.com/format-staples/commander/full/green', title: 'MTGGoldfish — Commander Green Staples' },
     { url: 'https://magic.wizards.com/en/news/announcements', title: 'Wizards of the Coast — Banned & Restricted Announcements' }
-  ]
+  ],
+  tldr: "Green is the only color in MTG that can put a 16/16 trampler on the battlefield on turn 5 without doing anything clever. Run at least 8 mana dorks or two-mana ramp spells, 4 three-mana ramp spells, one land-matters payoff (Exploration, Burgeoning, or Azusa), Sylvan Library, Eternal Witness, and one game-ending finisher like Craterhoof Behemoth. Build the ramp, then build the threat.",
+  itemList: {
+    name: 'Best Green Cards in MTG (2026)',
+    items: [
+      { name: 'Llanowar Elves', description: 'One-mana 1/1 that taps for green mana. The platonic one-drop ramp creature.' },
+      { name: 'Sakura-Tribe Elder', description: 'Two-mana 1/1 sacrifice to fetch a basic land. The most reliable two-mana ramp creature ever printed.' },
+      { name: 'Cultivate', description: 'Three-mana sorcery. Two basics, one tapped into play and one to hand. Always run alongside Kodama’s Reach.' },
+      { name: 'Three Visits', description: 'Two-mana Forest tutor that comes in untapped. A turn faster than Rampant Growth.' },
+      { name: 'Exploration', description: 'One-mana enchantment. Play an extra land each turn. The mono-green land-matters anchor.' },
+      { name: 'Sylvan Library', description: 'Two-mana draw-three engine that taxes life when you keep extras. In Commander you have 40 life to spend.' },
+      { name: 'Eternal Witness', description: 'Three-mana 2/1 that returns any card from your graveyard to your hand. Universal value glue.' },
+      { name: 'Craterhoof Behemoth', description: 'Eight-mana 5/5 haste. Team gains trample and +X/+X equal to creature count. The Commander game-ender.' },
+      { name: 'Avenger of Zendikar', description: 'Seven-mana 5/5 that makes a 0/1 Plant for each land you control, with landfall growth riders.' },
+      { name: 'Beast Within', description: 'Three-mana instant. Destroy any permanent, opponent gets a 3/3. Most flexible green removal spell.' },
+    ],
+  },
 };

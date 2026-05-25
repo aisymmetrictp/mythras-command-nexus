@@ -238,4 +238,20 @@ Apply this list when sleeving up a blue or blue-inclusive Commander deck. Adjust
       title: 'Star City Games — strategy articles archive',
     },
   ],
+  tldr: "Blue is still the strongest color in MTG in 2026. Five of the top 25 most-played Commander cards across all colors are blue. The non-negotiable core is Counterspell, Force of Will, Rhystic Study, Mystic Remora, and Cyclonic Rift. Skip any blue card that costs five or more mana and does not draw cards or win the game on the spot.",
+  itemList: {
+    name: 'Best Blue Cards in MTG (2026)',
+    items: [
+      { name: 'Counterspell', description: 'Two-mana hard counter. The floor and ceiling for blue interaction since Alpha.' },
+      { name: 'Force of Will', description: 'Free counterspell at the cost of 1 life and exiling a blue card. The cEDH defensive standard.' },
+      { name: 'Rhystic Study', description: 'Three-mana enchantment. Draw a card every opponent cast unless they pay 1.' },
+      { name: 'Mystic Remora', description: 'One-mana enchantment that draws cards off opponent non-creature spells. Best turn-1 play blue has.' },
+      { name: 'Cyclonic Rift', description: 'Six-mana overload bounces every nonland permanent your opponents control. The format-warping six-drop.' },
+      { name: 'Mana Drain', description: 'Counter and bank the spell’s mana cost for your next turn. The most powerful counterspell ever printed.' },
+      { name: 'Force of Negation', description: 'Free counterspell on opponents’ turns against non-creature spells. The budget Force of Will.' },
+      { name: 'Brainstorm', description: 'One-mana draw 3 put 2 back. The most-played card in Legacy when paired with a shuffle effect.' },
+      { name: 'Consecrated Sphinx', description: 'Six-mana 4/6 flyer that doubles every draw on opponents’ turns. Closes games on its own.' },
+      { name: "An Offer You Can't Refuse", description: 'One-mana counter target instant or sorcery, opponent gets two Treasures. The best one-mana counter printed in years.' },
+    ],
+  },
 };

@@ -222,4 +222,20 @@ If you cannot tick at least five of those, your deck is leaning on color flavor 
       title: 'Star City Games — strategy articles archive',
     },
   ],
+  tldr: "Black pays a cost for power and the cost is usually life. Demonic Tutor finds any card. Necropotence draws everything. Sheoldred punishes opponents for breathing. Every black deck wants at least two tutors, six to eight removal spells, and one dedicated card-draw engine. Black survived the May 2026 ban wave largely intact and is one of the format's post-ban winners.",
+  itemList: {
+    name: 'Best Black Cards in MTG (2026)',
+    items: [
+      { name: 'Demonic Tutor', description: 'Two-mana sorcery. Find any card in your deck and put it into your hand. The benchmark tutor.' },
+      { name: 'Vampiric Tutor', description: 'One-mana instant tutor to top of library at the cost of 2 life. The cEDH gold standard.' },
+      { name: 'Sheoldred, the Apocalypse', description: 'Four-mana 4/5 deathtouch. Drawing a card makes opponents lose 2 and you gain 2.' },
+      { name: 'Necropotence', description: 'BBB enchantment. Skip your draw step, pay 1 life to put a card from the top of your library into your hand at end of turn.' },
+      { name: 'Toxic Deluge', description: 'Three-mana pay-X-life board wipe that kills indestructible and hexproof creatures.' },
+      { name: 'Reanimate', description: 'One-mana return any creature from any graveyard. Cost equals its mana value in life.' },
+      { name: "Bolas's Citadel", description: 'Six-mana artifact. Cast spells from the top of your library by paying life equal to mana value.' },
+      { name: 'Damnation', description: 'Four-mana destroy all creatures with no regeneration. The black Wrath of God.' },
+      { name: 'Cut Down', description: 'One-mana destroy a creature with total mana value 3 or less. Premium early-game removal.' },
+      { name: 'Deadly Rollick', description: 'Free exile-creature spell when you control your commander. cEDH staple, exile clause is gold.' },
+    ],
+  },
 };
