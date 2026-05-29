@@ -46,6 +46,8 @@ export default async function GameBlogHubPage({ params }: { params: Promise<{ ga
     excerpt: p.excerpt,
     publishDate: p.publishDate,
     readingTimeMin: p.readingTimeMin,
+    heroImage: p.heroImage,
+    heroImageAlt: p.heroImageAlt,
     tags: p.tags,
   }));
 
