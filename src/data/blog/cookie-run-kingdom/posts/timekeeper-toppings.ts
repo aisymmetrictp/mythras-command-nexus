@@ -14,6 +14,19 @@ export const timekeeperToppings: BlogPost = {
   featuredImagePrompt:
     'A glowing magical Cookie Run: Kingdom character standing on a clock face, hourglass spilling violet sand, surrounded by frozen revival glyphs — dark purple and gold palette, mobile-game key art, dramatic rim lighting.',
 
+  heroImage: '/images/blog/cookie-run-kingdom/timekeeper-toppings/timekeeper-cookie.webp',
+  heroImageAlt:
+    'Timekeeper Cookie, the v7.4 anti-revive Legendary Magic Cookie whose Sealed Hour skill locks enemy revives.',
+  imageSources: [
+    {
+      src: '/images/blog/cookie-run-kingdom/timekeeper-toppings/timekeeper-cookie.webp',
+      sourceUrl: 'https://cookierunkingdom.fandom.com/wiki/Timekeeper_Cookie',
+      license: 'Fandom CC-BY-SA',
+    },
+    { src: '/images/cookies/dark-enchantress-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/silent-salt-cookie.png', sourceUrl: 'owned-asset' },
+  ],
+
   publishDate: '2026-05-23T00:00:00.000Z',
   lastUpdated: '2026-05-23T00:00:00.000Z',
 
@@ -54,6 +67,8 @@ This guide assumes you are on the v7.4 "Timeline of Fate" patch and chasing **Di
 
 ## Who is Timekeeper Cookie?
 
+![Timekeeper Cookie official standing render, the v7.4 anti-revive Legendary Magic Cookie](/images/blog/cookie-run-kingdom/timekeeper-toppings/timekeeper-cookie.webp)
+
 Timekeeper is a **Legendary Magic-type Cookie** released alongside the v7.4 Timeline of Fate update on **May 7, 2026**. She slots into the **middle row** as a control-flavored DPS whose entire identity is one thing: **she stops the enemy team from coming back.**
 
 If you have played any patch since Sugar Swan dropped in v7.2, you know how oppressive revival chains have been. Pure Vanilla Awakened picks one cookie up, Sugar Swan revives two more, and suddenly your "winning" fight has a fresh frontline. Timekeeper's whole reason to exist is to **shut that door**, and her secondary kit pressure means even teams without revivals feel her.
@@ -77,6 +92,8 @@ Her passive — "Borrowed Seconds" — gives her a small flat DMG Resist while a
 > **Plain-English version:** Press her button when the enemy healer is about to revive. The dead cookies stay dead. Then she punches the biggest threat in the face for free.
 
 ## Best toppings build
+
+![Dark Enchantress Cookie render, the S+ DPS anchor Timekeeper pairs with in the arena damage core](/images/cookies/dark-enchantress-cookie.png)
 
 The default and correct build is **5x Searing Raspberry (ATK)**. She is a damage dealer first and a debuffer second, and her skill damage scales hard off ATK. Do not overthink this.
 
@@ -171,6 +188,8 @@ For floor pushing on the [Cake Tower](/cake-tower), the priority is sustained da
 Pavlova handles waves; Timekeeper handles the named elites that revive at low HP.
 
 ## How to counter Timekeeper if you face her
+
+![Silent Salt Cookie render, the budget anti-revive ambush pick used to burst Timekeeper before her cast](/images/cookies/silent-salt-cookie.png)
 
 If you are reading this guide because you keep losing to her, three things actually work:
 

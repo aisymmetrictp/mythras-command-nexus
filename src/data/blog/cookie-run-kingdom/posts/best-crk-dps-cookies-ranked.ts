@@ -9,6 +9,19 @@ export const bestCrkDpsCookiesRanked: BlogPost = {
   metaDescription: 'The best CRK DPS cookies ranked for May 2026. S+ through A tier across Arena, PvE, and Guild Battle, plus F2P investment priority and build pointers.',
   excerpt: 'Dark Enchantress still rules the damage chart, but the gap behind her has shifted. Here is the full CRK DPS tier list for May 2026, ranked across Arena, PvE, and Guild Battle, with build pointers and a F2P priority order.',
   featuredImagePrompt: 'Dark Enchantress Cookie unleashing a swirling purple magic explosion in a shattered cathedral arena, Timekeeper Cookie glowing gold beside her, dramatic rim lighting, Cookie Run: Kingdom art style, high contrast, splash-art composition',
+  heroImage: '/images/cookies/dark-enchantress-cookie.png',
+  heroImageAlt: 'Dark Enchantress Cookie, the S+ Magic DPS who has held the #1 damage slot in CRK since v7.0.',
+  imageSources: [
+    { src: '/images/cookies/dark-enchantress-cookie.png', sourceUrl: 'owned-asset' },
+    {
+      src: '/images/blog/cookie-run-kingdom/best-crk-dps-cookies-ranked/timekeeper-cookie.webp',
+      sourceUrl: 'https://cookierunkingdom.fandom.com/wiki/Timekeeper_Cookie',
+      license: 'Fandom CC-BY-SA',
+    },
+    { src: '/images/cookies/venom-dough-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/eternal-sugar-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/pavlova-cookie.png', sourceUrl: 'owned-asset' },
+  ],
   publishDate: '2026-05-28T00:00:00.000Z',
   lastUpdated: '2026-05-28T00:00:00.000Z',
   primaryKeyword: 'best crk dps cookies',
@@ -76,6 +89,8 @@ Notice a pattern. Every cookie on this list deals Magic damage. That's not an ac
 
 ## Dark Enchantress Cookie — S+ tier
 
+![Dark Enchantress Cookie, the S+ Magic nuker whose DEF-shred turns her into a team-wide damage amplifier.](/images/cookies/dark-enchantress-cookie.png)
+
 Still the queen. Dark Enchantress fires a massive single-target nuke followed by AoE shadow tendrils, and with Magic Candy online she layers a DEF-shred debuff that makes everything behind her hit harder too. Her ceiling for total damage in a Guild Boss run is the highest in the game when she survives to cast twice.
 
 Why she ranks #1: the damage is the headline, but the real edge is timing. Her skill animation gets her cast off fast enough to land before most Arena defenses can lock her down, and the DEF reduction turns her into a damage amplifier for the rest of your team. She's a DPS and a buff bot in one slot.
@@ -88,6 +103,8 @@ Why she ranks #1: the damage is the headline, but the real edge is timing. Her s
 
 ## Timekeeper Cookie — S+ tier
 
+![Timekeeper Cookie, the S+ Magic burst DPS whose cooldown pressure wins close Arena exchanges.](/images/blog/cookie-run-kingdom/best-crk-dps-cookies-ranked/timekeeper-cookie.webp)
+
 The closest thing to a true co-leader of the damage meta. Timekeeper deals heavy Magic burst on a faster, more reliable cadence than DEC, and her kit messes with enemy cooldowns, which is brutal in Arena where one delayed skill loses the round. [VERIFY] exact cooldown-manipulation values against the current patch.
 
 Why she ranks S+: consistency. Where DEC has the higher ceiling, Timekeeper has the higher floor. She gets her damage out in matchups where DEC gets shut down, and the cooldown pressure she applies wins exchanges that look even on paper. In the current Arena, running both is the strongest double-DPS magic core.
@@ -98,6 +115,8 @@ Why she ranks S+: consistency. Where DEC has the higher ceiling, Timekeeper has 
 
 ## Venom Dough Cookie — S tier
 
+![Venom Dough Cookie, the S-tier poison DoT specialist who posts obscene total damage in long Guild Boss fights.](/images/cookies/venom-dough-cookie.png)
+
 The DoT specialist. Venom Dough stacks poison that ramps over time and ignores a chunk of the target's effective bulk, which makes her a monster against high-HP Guild Bosses and tanky PvE walls. Her damage isn't flashy in the first two seconds; it's the total at the end of a long fight that's obscene.
 
 Why she's S and not S+: the ramp. In Arena, fights end fast, and a DoT cookie often doesn't get the runway her damage needs. She's a PvE and Guild powerhouse that's merely fine in PvP. Build details and gear sit on her [gear guide page](/gear-guide/venom-dough-cookie).
@@ -106,6 +125,8 @@ Why she's S and not S+: the ramp. In Arena, fights end fast, and a DoT cookie of
 
 ## Eternal Sugar Cookie — S tier
 
+![Eternal Sugar Cookie, the S-tier self-sustaining Magic DPS that never has a dead game.](/images/cookies/eternal-sugar-cookie.png)
+
 Eternal Sugar trades some raw ceiling for incredible reliability. She scales her own ATK as the fight goes, has built-in survivability that keeps her on the board, and her Magic damage stays relevant in both Arena and PvE. She's the cookie you bring when you want a DPS that won't whiff.
 
 Why she's S: she almost never has a dead game. The self-sustain means she survives the opening burst that deletes DEC, so even in bad matchups she contributes. She just doesn't post the peak numbers the S+ pair do when everything goes right.
@@ -113,6 +134,8 @@ Why she's S: she almost never has a dead game. The self-sustain means she surviv
 **One weakness:** her ramp-up means a slow start. In a pure burst race she's behind on the first exchange, and against teams built to end fast that first exchange is the whole fight.
 
 ## The A-tier DPS bench
+
+![Pavlova Cookie, the best non-Legendary DPS and the F2P value pick that bridges you into the magic meta.](/images/cookies/pavlova-cookie.png)
 
 The bench is genuinely good right now, which is great news for F2P players who don't have the S+ pair yet.
 

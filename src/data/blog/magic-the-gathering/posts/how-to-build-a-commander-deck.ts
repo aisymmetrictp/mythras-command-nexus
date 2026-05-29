@@ -9,6 +9,30 @@ export const howToBuildACommanderDeck: BlogPost = {
   metaDescription: 'Learn how to build a Commander deck with the 10/10/10 template: 37 lands, 10 ramp, 10 card draw, 10 removal. A simple skeleton for a winning EDH deck.',
   excerpt: 'Most bad Commander decks fail on category balance, not card choice. Here is the 10/10/10 skeleton that fixes ramp, draw, removal, and lands in one move.',
   featuredImagePrompt: 'A clean overhead flat-lay of a Magic: The Gathering Commander deck spread into labeled stacks on a dark wood table, one stack of lands, one of mana rocks, one of card-draw spells, one of removal, with a foil commander card propped upright in the center under warm lamp light, shallow depth of field, no text overlays',
+  heroImage: '/images/blog/magic-the-gathering/how-to-build-a-commander-deck/sol-ring.jpg',
+  heroImageAlt: 'Sol Ring, the two-mana artifact that taps for two colorless and is the cornerstone ramp piece in Commander.',
+  imageSources: [
+    {
+      src: '/images/blog/magic-the-gathering/how-to-build-a-commander-deck/sol-ring.jpg',
+      sourceUrl: 'https://scryfall.com/card/soc/128/sol-ring',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/how-to-build-a-commander-deck/cultivate.jpg',
+      sourceUrl: 'https://scryfall.com/card/soc/265/cultivate',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/how-to-build-a-commander-deck/rhystic-study.jpg',
+      sourceUrl: 'https://scryfall.com/card/j22/114/rhystic-study',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/how-to-build-a-commander-deck/swords-to-plowshares.jpg',
+      sourceUrl: 'https://scryfall.com/card/soc/179/swords-to-plowshares',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+  ],
   publishDate: '2026-05-28T00:00:00.000Z',
   lastUpdated: '2026-05-28T00:00:00.000Z',
   primaryKeyword: 'how to build a commander deck',
@@ -42,6 +66,8 @@ export const howToBuildACommanderDeck: BlogPost = {
 You can fix all of that before you ever argue about which sweeper is best. The fix is category balance, and the easiest way to get it is a template.
 
 ## The 10/10/10 template
+
+![Cultivate, a green sorcery that fetches two basic lands, the classic Cultivate-style ramp spell that lets you trim lands.](/images/blog/magic-the-gathering/how-to-build-a-commander-deck/cultivate.jpg)
 
 Here's the skeleton. A reliable 100-card Commander deck is roughly 37 lands, 10 ramp pieces, 10 card-draw pieces, 10 removal and interaction spells, and about 3 board wipes. That accounts for 70 cards. Your commander takes one slot. That leaves around 29 to 30 cards for your actual theme: the synergy, the wincons, the protection, the fun.
 
@@ -83,6 +109,8 @@ Pick the one that matches your commander and call it the primary plan. A seconda
 
 ## Step 3 — 10 ramp pieces
 
+![Sol Ring, the two-mana colorless artifact that taps for two, an auto-include ramp piece in nearly every Commander deck.](/images/blog/magic-the-gathering/how-to-build-a-commander-deck/sol-ring.jpg)
+
 Ramp gets you ahead of the curve and, just as importantly, helps you recover after a board wipe nukes your stuff. Ten pieces is the floor for a deck that wants to do anything ambitious.
 
 Ramp comes in a few flavors:
@@ -95,6 +123,8 @@ Ramp comes in a few flavors:
 Cheap vs premium: the budget version of ramp is mostly Signets, Talismans, and common green spells, and it costs almost nothing. The premium upgrades are fast mana like Mana Crypt or Jeweled Lotus, which run into real money and aren't necessary for a casual table. Sol Ring and Arcane Signet alone are worth their slots in any color.
 
 ## Step 4 — 10 card-draw pieces
+
+![Rhystic Study, a blue enchantment that draws a card whenever an opponent casts a spell unless they pay one, a top draw engine.](/images/blog/magic-the-gathering/how-to-build-a-commander-deck/rhystic-study.jpg)
 
 This is the category that separates decks that grind out wins from decks that fizzle. You want repeatable card advantage, not one-shot cantrips. Aim for ten, and weight it toward engines that draw across multiple turns.
 
@@ -112,6 +142,8 @@ By color, your reliable options look like this:
 Rhystic Study is the poster child for a reason: it draws a card nearly every turn at a four-player table because nobody wants to pay the one extra mana. Phyrexian Arena draws an extra card every upkeep for one life. Those are engines. A single Divination is fine filler, but if your whole draw package is one-shot spells, you'll run dry. Budget builds lean on Night's Whisper, Read the Bones, and Harmonize, all of which are cheap and excellent. The premium end is mostly the same cards in foil, honestly. Good card draw is one of the most affordable categories in the game.
 
 ## Step 5 — 10 removal and interaction
+
+![Swords to Plowshares, a one-mana white instant that exiles any creature, the most efficient catch-all removal in Commander.](/images/blog/magic-the-gathering/how-to-build-a-commander-deck/swords-to-plowshares.jpg)
 
 You need answers, and you need them to cover different problems. Split this slot roughly into 8 single-target removal spells plus 2 to 3 board wipes (which live in their own line on the skeleton).
 

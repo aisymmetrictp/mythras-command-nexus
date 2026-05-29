@@ -9,6 +9,14 @@ export const crkToppingsGuide: BlogPost = {
   metaDescription: 'The complete CRK toppings guide for 2026: every topping type, sub-stat thresholds, best sets per role, farming routes, and exactly when to stop rerolling.',
   excerpt: 'Most players lose more power to bad sub-stats than to missing the right Cookies. Here is every topping type, the sub-stat thresholds that matter, the best set for each role, and the reroll math that tells you when "good enough" actually wins.',
   featuredImagePrompt: 'A clean Cookie Run: Kingdom topping inventory screen mockup, six glossy candy-style topping icons (red raspberry, brown chocolate, almond, apple jelly, peanut, walnut) arranged in a hexagon on a warm pastel kitchen-counter background, soft bokeh, mobile-game UI flourishes, bright and inviting',
+  heroImage: '/images/gear/toppings/raspberry.png',
+  heroImageAlt: 'Searing Raspberry topping icon, the ATK topping every Cookie Run: Kingdom DPS build is stacked five-deep with.',
+  imageSources: [
+    { src: '/images/gear/toppings/raspberry.png', sourceUrl: 'owned-asset' },
+    { src: '/images/gear/toppings/chocolate.png', sourceUrl: 'owned-asset' },
+    { src: '/images/gear/toppings/almond.png', sourceUrl: 'owned-asset' },
+    { src: '/images/gear/toppings/apple-jelly.png', sourceUrl: 'owned-asset' },
+  ],
   publishDate: '2026-05-28T00:00:00.000Z',
   lastUpdated: '2026-05-28T00:00:00.000Z',
   primaryKeyword: 'crk toppings guide',
@@ -52,6 +60,8 @@ So "having toppings" and "having good toppings" are different sports. The first 
 
 ## Every topping type explained
 
+![Solid Almond topping icon, the DMG Resist topping that anchors every Cookie Run: Kingdom tank set.](/images/gear/toppings/almond.png)
+
 Each topping type locks in one main stat. Your job is to match the main stat to what the Cookie needs, then worry about sub-stats after. Here's the full lineup.
 
 | Topping | Main Stat | Who Wants It |
@@ -87,6 +97,8 @@ The reason sub-stats are "the real power" is that they compound. A five-topping 
 
 ## The 5-topping vs hybrid debate
 
+![Juicy Apple Jelly topping icon, the cooldown-and-crit topping that tempts hybrid Cookie Run: Kingdom builds.](/images/gear/toppings/apple-jelly.png)
+
 The default advice is to run five of one type. Five Searing Raspberries on your DPS, five Solid Almonds on your tank. That gives you the cleanest main-stat stacking and, in many cases, a set bonus on top. For pure damage dealers this is almost always correct. Five Raspberries, no debate.
 
 Hybrids are when you mix two types, usually a 3+2 split. People assume hybrids are a beginner crutch, the thing you run before you've farmed enough. Sometimes that's true. But there are real builds where a split is correct.
@@ -96,6 +108,8 @@ The clean case is a tank or support who needs two things at once. A frontliner w
 Rule of thumb: DPS goes mono. Tanks and supports get to make the case for a split, and the burden of proof is on them.
 
 ## Best topping set per role
+
+![Swift Chocolate topping icon, the Cooldown topping healers and supports run five of in Cookie Run: Kingdom.](/images/gear/toppings/chocolate.png)
 
 Here's the cheat sheet. Match the role, slam the set, then grind sub-stats toward the priority.
 

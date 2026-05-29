@@ -14,6 +14,24 @@ export const kingdomArenaMetaTeam: BlogPost = {
   featuredImagePrompt:
     'Cookie Run: Kingdom Kingdom Arena scene with five cookies arranged in formation — heavy armored front tank, glowing healer in white, dark sorceress with purple flames, hooded time-mage, and angelic swan healer in back row — dramatic arena lighting, banner-style key art.',
 
+  heroImage: '/images/blog/cookie-run-kingdom/timekeeper-toppings/timekeeper-cookie.webp',
+  heroImageAlt:
+    'Timekeeper Cookie, the anti-revive Legendary that anchors the dominant May 2026 Kingdom Arena meta team.',
+  imageSources: [
+    {
+      src: '/images/blog/cookie-run-kingdom/timekeeper-toppings/timekeeper-cookie.webp',
+      sourceUrl: 'https://cookierunkingdom.fandom.com/wiki/Timekeeper_Cookie',
+      license: 'Fandom CC-BY-SA',
+    },
+    {
+      src: '/images/blog/cookie-run-kingdom/kingdom-arena-meta-team/sugar-swan-cookie.webp',
+      sourceUrl: 'https://cookierunkingdom.fandom.com/wiki/Sugar_Swan_Cookie',
+      license: 'Fandom CC-BY-SA',
+    },
+    { src: '/images/cookies/hollyberry-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/dark-enchantress-cookie.png', sourceUrl: 'owned-asset' },
+  ],
+
   publishDate: '2026-05-23T00:00:00.000Z',
   lastUpdated: '2026-05-23T00:00:00.000Z',
 
@@ -86,6 +104,8 @@ If your fight has not snowballed by turn 5, you mis-timed Sealed Hour. Reset and
 
 ## Per-slot deep dive: Aegis Hollyberry (front)
 
+![Hollyberry Cookie render, the Awakened tank that anchors the front row and triggers the Warmth of Compassion rally](/images/cookies/hollyberry-cookie.png)
+
 **Build:** 5x Solid Almond (DMG Resist) toppings with HP sub-stats. Tank beascuit. Standard tank treasure on her dedicated slot — see the [Hollyberry gear page](/gear-guide/hollyberry-cookie) for the exact roll targets.
 
 She is here for two reasons. First, she has the highest effective health pool in front-row Legendaries after her Awakened upgrade in v6.5. Second, her rally trigger with Pure Vanilla is the keystone buff for the whole comp. You cannot replace her with a generic tank — the rally is cookie-specific.
@@ -93,6 +113,8 @@ She is here for two reasons. First, she has the highest effective health pool in
 > **Tank reminder:** Hollyberry takes the longest to actually build because Solid Almond toppings have the worst roll rates. Start farming her toppings before you pull anyone else on this list.
 
 ## Per-slot deep dive: Dark Enchantress (DPS)
+
+![Dark Enchantress Cookie render, the S+ damage anchor this arena comp is built around](/images/cookies/dark-enchantress-cookie.png)
 
 **Build:** 5x Searing Raspberry, Skill Power-focused beascuit, ATK or Crit topping tart.
 
@@ -111,6 +133,8 @@ Venom Dough is the **first Super Epic Bomber** and his burst window aligns with 
 
 ## Per-slot deep dive: Timekeeper (anti-revive lock)
 
+![Timekeeper Cookie render, the mid-row anti-revive lock that is the reason this comp exists](/images/blog/cookie-run-kingdom/timekeeper-toppings/timekeeper-cookie.webp)
+
 **Build:** 5x Searing Raspberry with **CD-heavy sub-stats** (18%+ CD across all five), Chewy beascuit with Skill Power, Time Distortion / CD tart.
 
 For the full breakdown on her individual build, see [Timekeeper toppings deep dive](/blog/cookie-run-kingdom/timekeeper-toppings). The relevant point here is that **she is the entire reason this comp exists.** Without her, you are running 2024's PVA-Hollyberry-DE comp with no answer to Sugar Swan revivals — which is exactly the comp this one beats.
@@ -118,6 +142,8 @@ For the full breakdown on her individual build, see [Timekeeper toppings deep di
 The key habit to learn: do not cast her at fight start. Wait until **after** the enemy first death so Sealed Hour catches the revive attempt mid-cast.
 
 ## Per-slot deep dive: Sugar Swan (healer)
+
+![Sugar Swan Cookie render, the double-revive Legendary healer that forces enemy Timekeeper into a choice](/images/blog/cookie-run-kingdom/kingdom-arena-meta-team/sugar-swan-cookie.webp)
 
 **Build:** Cooldown toppings (Swift Chocolate) with HP sub-stats, Healer beascuit, HP or CD tart.
 

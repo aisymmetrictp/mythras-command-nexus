@@ -9,6 +9,30 @@ export const mtgDeckArchetypesExplained: BlogPost = {
   metaDescription: 'Aggro, midrange, control, and combo are the four pillars every MTG deck is built on. Learn the gameplans, the curves, and which one fits how you play.',
   excerpt: 'Every Magic deck ever built is a variation on four ideas. Here is what aggro, midrange, control, and combo actually do, when each one wins, and how to find the archetype that matches the way you like to play.',
   featuredImagePrompt: 'Four stylized Magic: The Gathering decks laid out on a dark wooden table under dramatic lighting, each pile color-coded, aggressive red, balanced green, defensive blue-white, and a glowing combo pair of cards mid-spark, fantasy art style, high detail',
+  heroImage: '/images/blog/magic-the-gathering/mtg-deck-archetypes-explained/monastery-swiftspear.jpg',
+  heroImageAlt: 'Monastery Swiftspear, a one-mana red prowess creature and a defining threat of the aggro archetype.',
+  imageSources: [
+    {
+      src: '/images/blog/magic-the-gathering/mtg-deck-archetypes-explained/monastery-swiftspear.jpg',
+      sourceUrl: 'https://scryfall.com/card/bro/144/monastery-swiftspear',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/mtg-deck-archetypes-explained/supreme-verdict.jpg',
+      sourceUrl: 'https://scryfall.com/card/clu/211/supreme-verdict',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/mtg-deck-archetypes-explained/splinter-twin.jpg',
+      sourceUrl: 'https://scryfall.com/card/mm2/129/splinter-twin',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/mtg-deck-archetypes-explained/delver-of-secrets.jpg',
+      sourceUrl: 'https://scryfall.com/card/inr/60/delver-of-secrets-insectile-aberration',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+  ],
   publishDate: '2026-05-28T00:00:00.000Z',
   lastUpdated: '2026-05-28T00:00:00.000Z',
   primaryKeyword: 'mtg deck archetypes',
@@ -52,6 +76,8 @@ The other reason this matters is sideboarding and matchups, which we'll get to. 
 
 ## Aggro — race to zero
 
+![Monastery Swiftspear, a one-mana red creature with haste and prowess that grows when you cast a spell.](/images/blog/magic-the-gathering/mtg-deck-archetypes-explained/monastery-swiftspear.jpg)
+
 Aggro is the simplest plan in Magic and the hardest to play perfectly. Curve out, attack, win before the opponent stabilizes. You are a clock, and the whole deck is built to tick faster than the other guy can answer it.
 
 **The gameplan:** Deploy cheap, efficient threats every turn and point them at the opponent's face. Burn spells finish the job when creatures stall. You usually want the game decided by turn five or six. If it goes past turn eight, you've probably lost.
@@ -84,6 +110,8 @@ Midrange is the most flexible archetype and, honestly, the one most decks defaul
 
 ## Control — win the long game
 
+![Supreme Verdict, an uncounterable Azorius board wipe that destroys all creatures, a staple control sweeper.](/images/blog/magic-the-gathering/mtg-deck-archetypes-explained/supreme-verdict.jpg)
+
 Control is the archetype people love to hate and hate to play against. The plan is simple to state and brutal to execute: say no to everything, then win when the opponent has nothing left.
 
 **The gameplan:** Counter the threats you can, kill the ones you can't, sweep the board when it gets out of hand, and refill your hand while the opponent runs dry. You win with one or two finishers that close the game out over a few turns once you've taken total control.
@@ -102,6 +130,8 @@ Control is the archetype people love to hate and hate to play against. The plan 
 
 ## Combo — win out of nowhere
 
+![Splinter Twin, the blue-red aura that made infinite hasty copies and was banned for warping Modern combo.](/images/blog/magic-the-gathering/mtg-deck-archetypes-explained/splinter-twin.jpg)
+
 Combo is the archetype that scares people, and it should. A combo deck doesn't beat you in combat or grind you out. It assembles a specific set of cards and wins the game on the spot, often from a board state where you thought you were fine.
 
 **The gameplan:** Find your pieces, protect them, and execute. Most combos are two or three cards that do something broken together, infinite damage, infinite mana into a draw spell, an instant board-clear-plus-win. The rest of the deck is dedicated to digging for those pieces and stopping the opponent from interfering.
@@ -117,6 +147,8 @@ Combo is the archetype that scares people, and it should. A combo deck doesn't b
 **Real example:** Splinter Twin is the cautionary tale every veteran cites, a deck so dominant in Modern that Wizards banned it to open the format back up. Modern Storm and Commander's Thoracle lines are the spiritual heirs.
 
 ## Tempo and the in-between archetypes
+
+![Delver of Secrets, a one-mana blue creature that flips into a 3/2 flying Insectile Aberration, the tempo archetype's mascot.](/images/blog/magic-the-gathering/mtg-deck-archetypes-explained/delver-of-secrets.jpg)
 
 The four pillars are clean, but real decks blur the lines, and the most famous blur is tempo.
 

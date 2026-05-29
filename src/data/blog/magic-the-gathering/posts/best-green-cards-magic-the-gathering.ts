@@ -9,6 +9,30 @@ export const bestGreenCardsMtg: BlogPost = {
   metaDescription: "The best green cards in MTG for 2026: ramp dorks, Cultivate-style spells, land-matters payoffs, Craterhoof finishers, and what survived post-ban Standard.",
   excerpt: "Green is the only color that can plop a 16/16 trampler on turn 5 in Commander without doing anything clever. Here are the staples that make it happen.",
   featuredImagePrompt: "A glowing emerald forest at dusk with massive ancient trees, golden mana symbols floating between them, a primal beast silhouette emerging from the canopy, painterly fantasy MTG art style, deep greens and gold highlights",
+  heroImage: '/images/blog/magic-the-gathering/best-green-cards-magic-the-gathering/craterhoof-behemoth.jpg',
+  heroImageAlt: 'Craterhoof Behemoth, the eight-mana green 5/5 that gives your team trample and a massive power boost.',
+  imageSources: [
+    {
+      src: '/images/blog/magic-the-gathering/best-green-cards-magic-the-gathering/craterhoof-behemoth.jpg',
+      sourceUrl: 'https://scryfall.com/card/tdm/138/craterhoof-behemoth',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/best-green-cards-magic-the-gathering/llanowar-elves.jpg',
+      sourceUrl: 'https://scryfall.com/card/fdn/227/llanowar-elves',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/best-green-cards-magic-the-gathering/cultivate.jpg',
+      sourceUrl: 'https://scryfall.com/card/soc/265/cultivate',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/best-green-cards-magic-the-gathering/eternal-witness.jpg',
+      sourceUrl: 'https://scryfall.com/card/cmm/286/eternal-witness',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+  ],
   publishDate: '2026-05-24T00:00:00.000Z',
   lastUpdated: '2026-05-24T00:00:00.000Z',
   primaryKeyword: 'best green cards mtg',
@@ -58,6 +82,8 @@ Prices and legality move. Anything price-sensitive here is marked **[Verify curr
 
 The platonic ideal of a green card is a 1/1 that taps for green mana on turn one. That is the entire color in five words.
 
+![Llanowar Elves, the one-mana green 1/1 that taps for green mana, the platonic turn-one ramp creature.](/images/blog/magic-the-gathering/best-green-cards-magic-the-gathering/llanowar-elves.jpg)
+
 **Llanowar Elves** is the original and still the answer. One green mana, tap for one green mana. It accelerates you a full turn ahead of every non-green deck at the table. Almost every green Commander list runs at least four one-drop dorks across Llanowar Elves and its functional copies. **Elvish Mystic** is the most common reprint of the same effect, and **Fyndhorn Elves** rounds out the set if you want eight one-mana dorks. There is no reason to be precious about it. You want this effect on turn one and you want backup copies if the first one gets removed.
 
 **Sakura-Tribe Elder** is the slightly different one. It costs two mana, comes down as a 1/1 chump blocker, and then you sacrifice it on your next turn to put a basic land into play tapped. The math says it is a worse Rampant Growth that also blocks. The math is correct and it does not matter, because Sakura-Tribe Elder is the most reliable two-mana ramp creature ever printed. It survives most board wipes by sacrificing in response. It blocks an early attacker for free. It puts a real land into play, which means it ramps you through Blood Moon and similar effects.
@@ -71,6 +97,8 @@ A note on mana-dork durability. They die to almost anything. That is fine. Green
 ## Best ramp spells
 
 If creatures die, spells do not. Green ramp spells are how you stabilize your mana base against board wipes and targeted removal.
+
+![Cultivate, the three-mana green sorcery that fetches two basic lands, one into play tapped and one to hand.](/images/blog/magic-the-gathering/best-green-cards-magic-the-gathering/cultivate.jpg)
 
 **Cultivate** is the standard. Three mana, search for two basic lands, one comes into play tapped, one goes to your hand. **Kodama's Reach** is functionally identical and you should run both. There is no reason to pick between them when you can play eight copies of the effect. Most green decks should be running both unless you have a specific reason not to.
 
@@ -105,6 +133,8 @@ These three are the Mono-Green ramp engine. You do not need all three in the sam
 ## Best card-draw and value
 
 Green's old reputation was that it did not draw cards. That stopped being true around 2010 and the color has only gotten better since.
+
+![Eternal Witness, the three-mana green 2/1 that returns any card from your graveyard to your hand on entry.](/images/blog/magic-the-gathering/best-green-cards-magic-the-gathering/eternal-witness.jpg)
 
 **Sylvan Library** is the original engine. Two mana, enchantment, "at the beginning of your draw step, you may draw two additional cards. At the beginning of your end step, if you drew cards this way, put two of the cards drawn this turn on top of your library or pay 4 life per card." Effectively, you draw three cards a turn and pay four life for the third if you want it. In Commander where life totals start at 40, that is a steal. **[Verify current price]** on the original but reprints exist.
 

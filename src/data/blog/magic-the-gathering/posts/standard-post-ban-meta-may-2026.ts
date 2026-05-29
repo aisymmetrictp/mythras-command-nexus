@@ -9,6 +9,30 @@ export const standardPostBanMetaMay2026: BlogPost = {
   metaDescription: "MTG Standard after the May 18, 2026 ban wave: all 10 banned cards, the new tier 1 decks, three brewing directions, and which cards just got way better.",
   excerpt: "Ten cards banned in a single swing. Izzet Prowess is dead, Mono-Red is gutted, and Azorius Omniscience lost its engine. Here is what is actually playable now.",
   featuredImagePrompt: "A dark storm cloud passing over a fractured Magic the Gathering card frame, ten red X marks scattered across spell scrolls, dramatic lighting, fantasy painterly style, navy blue and crimson palette",
+  heroImage: '/images/blog/magic-the-gathering/standard-post-ban-meta-may-2026/cori-steel-cutter.jpg',
+  heroImageAlt: 'Cori-Steel Cutter, the Izzet Prowess artifact that headlined the May 18, 2026 Standard ban wave.',
+  imageSources: [
+    {
+      src: '/images/blog/magic-the-gathering/standard-post-ban-meta-may-2026/cori-steel-cutter.jpg',
+      sourceUrl: 'https://scryfall.com/card/tdm/103/cori-steel-cutter',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/standard-post-ban-meta-may-2026/scute-swarm.jpg',
+      sourceUrl: 'https://scryfall.com/card/dsc/197/scute-swarm',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/standard-post-ban-meta-may-2026/sunfall.jpg',
+      sourceUrl: 'https://scryfall.com/card/mom/40/sunfall',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/standard-post-ban-meta-may-2026/sheoldred-the-apocalypse.jpg',
+      sourceUrl: 'https://scryfall.com/card/dmu/107/sheoldred-the-apocalypse',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+  ],
   publishDate: '2026-05-24T00:00:00.000Z',
   lastUpdated: '2026-05-24T00:00:00.000Z',
   primaryKeyword: 'standard post ban meta may 2026',
@@ -39,6 +63,8 @@ export const standardPostBanMetaMay2026: BlogPost = {
 This is the cleanup article. The 10 cards, why each one got hit, what survived the wipe, and three directions to brew toward for the next month before the June 30 B&R update.
 
 ## The 10 bans at a glance
+
+![Cori-Steel Cutter, the cheap Izzet artifact banned in Standard and Pioneer on May 18, 2026.](/images/blog/magic-the-gathering/standard-post-ban-meta-may-2026/cori-steel-cutter.jpg)
 
 Here is the full list with the deck each card was anchoring.
 
@@ -71,6 +97,8 @@ The Abuelo's Awakening ban is the most interesting one. Azorius Omniscience was 
 
 ## What survived and is now tier 1
 
+![Scute Swarm, the self-copying green landfall insect that anchors the surviving tier 1 Selesnya and Mono-Green Landfall decks.](/images/blog/magic-the-gathering/standard-post-ban-meta-may-2026/scute-swarm.jpg)
+
 Three decks survived the wipe intact and are now defining the format.
 
 **Selesnya Landfall** is the top deck and the Pro Tour Strixhaven winner. Nathan Steuer took it down playing Selesnya Landfall in a mirror final against Christoffer Larsen the weekend before the bans, and the deck did not lose a single card. Now it is the deck to beat. The plan is the same as it always was. Ramp into landfall payoffs, drop a Scute Swarm or a Felidar Retreat, win on turn five or six. Our [Pro Tour winning Selesnya Landfall deck guide](/blog/magic-the-gathering/selesnya-landfall-pro-tour-strixhaven-winning-deck) has the full 75 and sideboard breakdown.
@@ -93,11 +121,15 @@ You have about six weeks until the next B&R window on June 30. That is enough ti
 
 **Direction 2: Find a new aggro shell.** Mono-Red is gutted but not dead. Heartfire Hero is gone, Monstrous Rage is gone, but Slickshot Show-Off is still legal and the burn package still works. A leaner Mono-Red list with Lightning Strike, Play with Fire, and the surviving one-drops is probably tier 2 but underexplored. If you are a Mono-Red main, this is the time to figure out what the new shell looks like.
 
+![Sunfall, the white Exile-all-creatures board wipe that makes an Incubator token, still the best sweeper in Standard.](/images/blog/magic-the-gathering/standard-post-ban-meta-may-2026/sunfall.jpg)
+
 **Direction 3: Build a real control deck.** Up the Beanstalk is gone, which means the cheap card-draw engine that defined 5C Beanstalk is out. But Memory Deluge is still legal, Sunfall is still legal, and the removal suite is deeper than it has been in years. Jeskai or Esper Control is a real direction if you have the patience to play 40-minute matches.
 
 > Week one of any post-ban Standard is the most volatile period in the format. Brewers overcorrect, decklists are unrefined, and the best players win because they pick the most-resilient shell, not the most-broken one.
 
 ## Cards that just got way better
+
+![Sheoldred, the Apocalypse, the black Phyrexian Praetor that punishes card draw and is now the format's best four-drop.](/images/blog/magic-the-gathering/standard-post-ban-meta-may-2026/sheoldred-the-apocalypse.jpg)
 
 When 10 cards leave a format, the cards that survived and were previously held down get a massive boost.
 

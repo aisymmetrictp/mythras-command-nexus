@@ -9,6 +9,14 @@ export const pureVanillaAwakenedToppings: BlogPost = {
   metaDescription: 'Best Pure Vanilla Cookie Awakened toppings, beascuit, tart, and team comps. The Warmth of Compassion rally still defines arena and guild battle meta.',
   excerpt: 'Awakened Pure Vanilla has been S+ for over a year. Here is the build, the rally, and the comps that keep her on top of the Cookie Run: Kingdom ladder in 2026.',
   featuredImagePrompt: 'Pure Vanilla Cookie in her Awakened form, glowing white and gold robes, standing in front of the Vanilla Kingdom castle, soft radiant light, anime style, cinematic lighting, hero pose',
+  heroImage: '/images/cookies/pure-vanilla-cookie.png',
+  heroImageAlt: 'Pure Vanilla Cookie, the S+ Awakened Ancient healer who anchors arena, Guild Battle, and Cake Tower comps in CRK.',
+  imageSources: [
+    { src: '/images/cookies/pure-vanilla-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/gear/toppings/raspberry.png', sourceUrl: 'owned-asset' },
+    { src: '/images/gear/beascuits/sweet.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/hollyberry-cookie.png', sourceUrl: 'owned-asset' },
+  ],
   publishDate: '2026-05-24T00:00:00.000Z',
   lastUpdated: '2026-05-24T00:00:00.000Z',
   primaryKeyword: 'pure vanilla cookie awakened toppings',
@@ -71,6 +79,8 @@ Cooldown is 18 seconds, which is short for a heal kit of this magnitude. With Ma
 
 ## Best toppings build
 
+![A Raspberry topping, the Truthful Raspberry damage-resist set that defines Pure Vanilla Awakened's optimal build.](/images/gear/toppings/raspberry.png)
+
 This is the build. There is no second-best build. Anyone telling you otherwise is either farming clicks or hasn't run her past floor 35 of Cake Tower.
 
 | Slot | Topping | Sub-Stat Priority |
@@ -88,6 +98,8 @@ The HP/CRIT Damage split is the part most people miss. You want HP for shield va
 For comparison with how we build her sister Ancients, the [Hollyberry build guide](/gear-guide/hollyberry-cookie) covers the tank counterpart, and [Pure Vanilla's main gear page](/gear-guide/pure-vanilla-cookie) has the rune setup and treasure pairing recommendations.
 
 ## Best beascuit and topping tart
+
+![A Sweet beascuit, the Tainted Gleaming Sweet that turns Pure Vanilla into a damage sink converting nukes into team heals.](/images/gear/beascuits/sweet.png)
 
 Beascuit: **Tainted Gleaming Sweet**. Attunes: DMGRB x3 + CD x1.
 
@@ -134,6 +146,8 @@ For Cake Tower past floor 30, you need to survive nukes and stall out the timer.
 If you're missing pieces, [Sugar Swan](/gear-guide/sugar-swan-cookie) and [Millennial Tree](/gear-guide/millennial-tree-cookie) are the most impactful flex slots to build first. Dark Enchantress is the long-term DPS investment, and her [gear guide](/gear-guide/dark-enchantress-cookie) lays out the build path.
 
 ## The Warmth of Compassion rally with Aegis Hollyberry
+
+![Hollyberry Cookie, whose Aegis Awakened form pairs with Pure Vanilla to trigger the meta-defining Warmth of Compassion rally.](/images/cookies/hollyberry-cookie.png)
 
 This is the pairing that broke the meta in v6.5, and it has not been answered.
 

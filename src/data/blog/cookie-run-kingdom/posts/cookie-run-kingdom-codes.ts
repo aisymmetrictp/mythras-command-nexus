@@ -14,6 +14,14 @@ export const crkCodes: BlogPost = {
   featuredImagePrompt:
     'A glowing Cookie Run: Kingdom coupon UI mockup with stacks of Crystals, Rainbow Cubes, and Cookie Cutters spilling out, set against a dark candy-blue background with subtle confetti — vibrant, mobile-friendly, no text overlays.',
 
+  heroImage: '/images/cookies/dark-enchantress-cookie.png',
+  heroImageAlt:
+    'Dark Enchantress Cookie, the kind of rate-up Legendary your free code Crystals fund pulls toward in CRK.',
+  imageSources: [
+    { src: '/images/cookies/dark-enchantress-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/pure-vanilla-cookie.png', sourceUrl: 'owned-asset' },
+  ],
+
   publishDate: '2026-05-23T00:00:00.000Z',
   lastUpdated: '2026-05-23T00:00:00.000Z',
 
@@ -50,6 +58,9 @@ If you just landed in **v7.4 Timeline of Fate** (live since 2026-05-07), stackin
 This page is updated weekly. If you bookmark it once and check back every Monday, you'll catch most new codes within a day or two of release, which matters because Devsisters has shifted to a faster expiry cadence in 2026 — codes that once lived for two months now sometimes expire inside three weeks.
 
 ## Active CRK codes (May 2026)
+
+![Pure Vanilla Cookie render, an S-tier Legendary the Soulstone of Fate code chests can help you 6-star](/images/cookies/pure-vanilla-cookie.png)
+
 Every code below has been verified as redeemable on the global DevPlay coupon page as of **2026-05-23**. Some are anniversary leftovers, some are convention drops, and a few are subscriber milestones from CRK content creators — all stack onto your account regardless of source.
 
 | Code | Reward | Notes |
@@ -137,6 +148,9 @@ One more edge case worth knowing: if the DevPlay site itself is having issues (i
 For most regions, there is **no** in-game coupon entry box for global CRK in 2026. Devsisters routes everything through the DevPlay web page. A few region-specific store builds (Korean, Chinese) have had in-game entry in the past, but if you're on the global app store version, the browser flow is the only path.
 
 ## What to spend your code rewards on
+
+![Dark Enchantress Cookie render, the rate-up Legendary your code Crystals are best spent chasing](/images/cookies/dark-enchantress-cookie.png)
+
 Once the mail hits and you've claimed everything, the temptation is to dump it all on the first banner you see. Resist. Here's the rough priority order for spending fresh code rewards in May 2026:
 
 | Currency | Best use right now |

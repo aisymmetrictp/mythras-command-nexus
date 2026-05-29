@@ -14,6 +14,24 @@ export const crkTierList: BlogPost = {
   featuredImagePrompt:
     'Cookie Run Kingdom tier list banner for May 2026, dramatic lineup of Timekeeper Cookie, Dark Enchantress Cookie, Sugar Swan Cookie, Aegis Hollyberry Cookie, and Pure Vanilla Cookie standing on glowing tier ranks S+ to C, painterly cel-shaded style, time fracture energy in background, purple and gold color palette',
 
+  heroImage: '/images/blog/cookie-run-kingdom/timekeeper-toppings/timekeeper-cookie.webp',
+  heroImageAlt:
+    'Timekeeper Cookie, the v7.4 debut Legendary topping the May 2026 CRK S+ tier list after reshaping the Arena meta.',
+  imageSources: [
+    {
+      src: '/images/blog/cookie-run-kingdom/timekeeper-toppings/timekeeper-cookie.webp',
+      sourceUrl: 'https://cookierunkingdom.fandom.com/wiki/Timekeeper_Cookie',
+      license: 'Fandom CC-BY-SA',
+    },
+    {
+      src: '/images/blog/cookie-run-kingdom/cookie-run-kingdom-tier-list/pavlova-cookie.webp',
+      sourceUrl: 'https://cookierunkingdom.fandom.com/wiki/Pavlova_Cookie',
+      license: 'Fandom CC-BY-SA',
+    },
+    { src: '/images/cookies/pure-vanilla-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/eternal-sugar-cookie.png', sourceUrl: 'owned-asset' },
+  ],
+
   publishDate: '2026-05-23T00:00:00.000Z',
   lastUpdated: '2026-05-23T00:00:00.000Z',
 
@@ -76,6 +94,9 @@ Two other things worth saying about the methodology before the tables start. Fir
 One more meta note: the 6-star Legendary growth system means every tier is now bimodal. A 6-star S-tier Cookie outperforms a 5-star S+ Cookie in most encounters that are not strict hard-counters. The tiers below describe **ceiling potential** assuming both Cookies are equally built. If your roster is uneven, prioritize finishing what you have started over chasing the slightly-higher-tier name.
 
 ## S+ tier — auto-include Cookies
+
+![Pure Vanilla Cookie render, the Awakened healer that has held S+ since v6.5 and anchors arena tempo](/images/cookies/pure-vanilla-cookie.png)
+
 These five are the rosters that decide matches. If you have them, build them. If you do not, the F2P priority list further down tells you which one to chase first.
 
 - **Timekeeper Cookie** — anti-revive Magic Legendary, v7.4. Replaces Eternal Sugar in Evergreen Arena defense. See the [Timekeeper toppings build](/blog/cookie-run-kingdom/timekeeper-toppings) for the exact set most top-100 Arena players are running.
@@ -87,6 +108,9 @@ These five are the rosters that decide matches. If you have them, build them. If
 > **Tip:** You do not need all five to compete. A focused investment into Timekeeper + Sugar Swan + any two of the other three will outperform a spread roster every time.
 
 ## PvE tier list table
+
+![Pavlova Cookie render, the top May 2025 Epic DPS that still earns an A-tier PvE slot](/images/blog/cookie-run-kingdom/cookie-run-kingdom-tier-list/pavlova-cookie.webp)
+
 Scored for Story, Tower of Star Resonance, World Exploration, and general boss clears. Roles are abbreviated as **DPS / Ranged / Bomber / Support / Healer / Tank / Ambush**.
 
 | Tier | Cookie | Role | Notes |
@@ -114,6 +138,9 @@ A common F2P question this month: "If I do not have any of the S+ Cookies, can I
 The role you are most likely to be missing on a half-built account is **dedicated Healer**. Without one, Cake Tower trays 35+ become brutal. Sugar Swan is the dream pick, but a built Epic Healer (Cotton Candy, Cherry Blossom) will get you to tray 45 in a pinch.
 
 ## Arena / PvP tier list table
+
+![Timekeeper Cookie render, the S+ Arena pick whose anti-revive Magic kit breaks current defenses](/images/blog/cookie-run-kingdom/timekeeper-toppings/timekeeper-cookie.webp)
+
 Scored for Kingdom Arena ladder play and Arcade Arena's Rewound Glory season (running through 2026-06-04). Initiative, CC, and revive interaction matter more here than raw DPS.
 
 | Tier | Cookie | Why she ranks here |
@@ -151,6 +178,9 @@ Boss matters more than raw tier here, so the table is sorted by current rotation
 > **Warning:** Do not invest into Seltzer + Menthol *just* for Machine-God if you do not already have them. The pair is S-tier inside one Guild Battle and B-tier everywhere else. Build for breadth, then chase niche picks.
 
 ## Notable risers and fallers this month
+
+![Eternal Sugar Cookie render, the headline faller that dropped from S+ to S after losing her Evergreen Arena slot](/images/cookies/eternal-sugar-cookie.png)
+
 **Risers:**
 
 - **Timekeeper Cookie** — debut directly into S+. Almost never happens. The combination of anti-revive plus Magic damage was a coverage gap nobody had filled.

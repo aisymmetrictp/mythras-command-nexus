@@ -13,6 +13,30 @@ export const mtgCommanderFormatGuideHowToStart: BlogPost = {
     'Commander is the most-played MTG format on the planet and the easiest one for new players to start in. The rules look intimidating on paper. They are not. Here is the full beginner guide.',
   featuredImagePrompt:
     'A long table at a local game store, four players in mid-game of Magic: The Gathering Commander, glowing 40-life counters floating beside each seat, an iconic legendary creature card (The Ur-Dragon or Atraxa) standing in the command zone, painterly fantasy art style, warm tavern lighting',
+  heroImage: '/images/blog/magic-the-gathering/mtg-commander-format-guide-how-to-start/atraxa-praetors-voice.jpg',
+  heroImageAlt: "Atraxa, Praetors' Voice, a four-color Phyrexian angel and one of the most popular Commander legends in MTG.",
+  imageSources: [
+    {
+      src: '/images/blog/magic-the-gathering/mtg-commander-format-guide-how-to-start/atraxa-praetors-voice.jpg',
+      sourceUrl: 'https://scryfall.com/card/2xm/190/atraxa-praetors-voice',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/mtg-commander-format-guide-how-to-start/krenko-mob-boss.jpg',
+      sourceUrl: 'https://scryfall.com/card/fdn/204/krenko-mob-boss',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/mtg-commander-format-guide-how-to-start/the-ur-dragon.jpg',
+      sourceUrl: 'https://scryfall.com/card/cmm/361/the-ur-dragon',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/mtg-commander-format-guide-how-to-start/sol-ring.jpg',
+      sourceUrl: 'https://scryfall.com/card/soc/128/sol-ring',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+  ],
 
   publishDate: '2026-05-27T00:00:00.000Z',
   lastUpdated: '2026-05-27T00:00:00.000Z',
@@ -76,6 +100,8 @@ The singleton rule is the single biggest mental shift from formats like Standard
 
 ## Color identity explained
 
+![Atraxa, Praetors' Voice, a 1WUBG legendary angel whose four-color identity locks her deck out of red cards.](/images/blog/magic-the-gathering/mtg-commander-format-guide-how-to-start/atraxa-praetors-voice.jpg)
+
 This is the rule that confuses every new player, so read this section twice.
 
 Your commander has a color identity made up of every mana symbol that appears on the card, including in the casting cost AND the rules text. Atraxa, Praetors' Voice costs 1WUBG, so her color identity is white-blue-black-green (WUBG, sometimes called four-color or "no red"). Every card in your Atraxa deck must only contain mana symbols within that WUBG set.
@@ -104,6 +130,8 @@ Other ways to lose: drop to 0 or fewer life, try to draw from an empty library, 
 
 ## How to pick your first commander
 
+![Krenko, Mob Boss, a mono-red goblin legend that taps to make goblin tokens equal to the number you control.](/images/blog/magic-the-gathering/mtg-commander-format-guide-how-to-start/krenko-mob-boss.jpg)
+
 Pick by playstyle, not by power level. The most common new-player mistake is picking the strongest commander on EDHREC, building a janky version of a cEDH deck, and then losing 14 games in a row.
 
 Mono-color decks have the simplest mana base. You play one type of basic land, you never get color-screwed, you have time to think about the actual game. Two-color decks are the sweet spot for most new players: enough flexibility to cover weaknesses, easy enough to fix mana with cheap dual lands. Three-color decks demand a real fetchland or shockland investment to function. Four and five-color decks are technically harder to pilot because every turn you need to ask "do I have the right colors?"
@@ -117,6 +145,8 @@ Five solid starter commanders:
 - **Yarok, the Desecrated.** Sultai (blue-black-green) ETB engine. Every "when this creature enters the battlefield" trigger happens twice. Plug it into any creature-heavy precon and watch value explode.
 
 ## Three good first deck archetypes for new players
+
+![The Ur-Dragon, a five-color legendary dragon with eminence cost reduction, the go-to commander for a Dragons tribal deck.](/images/blog/magic-the-gathering/mtg-commander-format-guide-how-to-start/the-ur-dragon.jpg)
 
 **Tribal.** Pick a creature type. Build a deck where every creature is that type and where you run cards that reward you for playing that type. Goblins, Elves, Dragons, Slivers, Merfolk, Vampires, Zombies. All of them have deep card pools and proven shells. Tribal decks are forgiving because the synergies are obvious and the lord effects (cards that pump every creature of a type) carry games. Try Krenko for Goblins or The Ur-Dragon for Dragons.
 
@@ -152,6 +182,8 @@ Wizards announced a formal Bracket System in 2024 that splits Commander into pow
 **Cockatrice.** Free desktop simulator, unofficial, supports the full card pool. Older interface but excellent for testing decklists you cannot afford to build in paper.
 
 ## Common new-player mistakes
+
+![Sol Ring, the colorless two-mana artifact that taps for two and is a singleton staple of nearly every Commander deck.](/images/blog/magic-the-gathering/mtg-commander-format-guide-how-to-start/sol-ring.jpg)
 
 - **Running fewer than 36 lands.** The single most common mistake. You will get mana-screwed half your games.
 - **Skipping board wipes.** Commander pods can build wide armies fast. You need at least 2-3 mass removal pieces like Wrath of God, Damnation, or Blasphemous Act.

@@ -13,6 +13,18 @@ export const crkMagicCandyPriorityGuide: BlogPost = {
     'Most CRK players grind Aurora Dust for months then spend it on whichever Cookie is on screen. That is how you end up with a maxed Espresso and a naked Timekeeper. Here is the actual priority order for May 2026.',
   featuredImagePrompt:
     'Cookie Run Kingdom Magic Laboratory scene, glowing Aurora Dust crystals floating around a workbench with five Magic Candy jars labeled for Timekeeper, Dark Enchantress, Pure Vanilla, Sugar Swan, and Aegis Hollyberry, painterly cel-shaded style, purple and gold magical light',
+  heroImage: '/images/blog/cookie-run-kingdom/crk-magic-candy-priority-guide/timekeeper-cookie.webp',
+  heroImageAlt: 'Timekeeper Cookie, the #1 Magic Candy priority in May 2026 whose Sealed Hour upgrade warps Kingdom Arena.',
+  imageSources: [
+    {
+      src: '/images/blog/cookie-run-kingdom/crk-magic-candy-priority-guide/timekeeper-cookie.webp',
+      sourceUrl: 'https://cookierunkingdom.fandom.com/wiki/Timekeeper_Cookie',
+      license: 'Fandom CC-BY-SA',
+    },
+    { src: '/images/cookies/espresso-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/dark-enchantress-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/silent-salt-cookie.png', sourceUrl: 'owned-asset' },
+  ],
 
   publishDate: '2026-05-27T00:00:00.000Z',
   lastUpdated: '2026-05-27T00:00:00.000Z',
@@ -60,6 +72,8 @@ Tier 1 and tier 2 give small numerical bumps. Tier 3 usually unlocks the "real" 
 
 ## Magic Candy is skill modification, not a stat stick
 
+![Espresso Cookie, the textbook "skip Magic Candy" case whose plain beam skill gains nothing from a duration bump.](/images/cookies/espresso-cookie.png)
+
 This is the part most guides bury and it is the single most important framing in this whole post. Magic Candy does not give you flat ATK, HP, or DMG Resist. It does not affect your CRIT rate. It does not change your topping bonuses.
 
 If you want raw stats, that is what toppings, beascuits, and Soulstone overlevels do. Magic Candy is a separate axis. Specifically, it is the axis that changes how a Cookie's kit functions, not how big its numbers are.
@@ -69,6 +83,8 @@ That distinction matters because it tells you who deserves Magic Candy. The Cook
 That is the whole framework. Skill-defining Cookies get Magic Candy. Bog-standard DPS Cookies get toppings instead.
 
 ## The May 2026 Magic Candy priority list
+
+![Dark Enchantress Cookie, the #2 Magic Candy target whose upgrade adds an AoE component to her single-target nuke.](/images/cookies/dark-enchantress-cookie.png)
 
 Here is the current order based on v7.4 meta, Kingdom Arena defense data from the Reddit weekly threads, and Cake Tower floor 60+ clear comps.
 
@@ -88,6 +104,8 @@ Here is the current order based on v7.4 meta, Kingdom Arena defense data from th
 | Niche Epics (Latte, Crunchy Chip, etc.) | Various | B | Use them in early game, but do not spend dust on them. |
 
 ### Tier S — Magic Candy first
+
+![Timekeeper Cookie, whose tier-5 Sealed Hour Magic Candy is the single biggest Arena defense upgrade in v7.4.](/images/blog/cookie-run-kingdom/crk-magic-candy-priority-guide/timekeeper-cookie.webp)
 
 Timekeeper is the unambiguous first target if you own her. Sealed Hour at tier 5 lasts long enough that your team usually gets two full skill rotations before the enemy can move again. That is the difference between a 60% Arena win rate and an 85% one.
 
@@ -127,6 +145,8 @@ Per-Cookie materials drop from:
 A full tier 1 to tier 5 upgrade on a non-Beast Cookie takes roughly 200-260 Cookie-specific materials and around 9,000 Aurora Dust total [VERIFY]. That is six to eight weeks of focused farming for one Cookie at F2P pace.
 
 ## Beast Magic Candy is its own grind
+
+![Silent Salt Cookie, the Beast Cookie whose anti-revive field Beast Magic Candy is the top A-tier pick for Beast teams.](/images/cookies/silent-salt-cookie.png)
 
 Beast Cookies (Silent Salt, Eternal Sugar, Burning Spice, Mystic Flour, Shining Glitter) use Beast Magic Candy. Beast Magic Candy is structurally the same five-tier system, but the materials come from Beast-Yeast content exclusively. That means Dark Mode stages in the Beast-Yeast world map, Beast-specific Cookie Odyssey replays, and the Beast-Yeast Tower (when it is in rotation).
 

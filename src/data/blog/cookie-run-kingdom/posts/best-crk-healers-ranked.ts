@@ -13,6 +13,31 @@ export const bestCrkHealersRanked: BlogPost = {
     'Sugar Swan and Pure Vanilla Awakened are the only true S+ healers in May 2026, and the gap to A tier is wider than most players think. Here is the full healer ranking, mode-by-mode picks, and F2P investment order.',
   featuredImagePrompt:
     'Cookie Run Kingdom healer tier list lineup, dramatic key art of Sugar Swan Cookie and Pure Vanilla Cookie Awakened standing on a glowing S+ podium with Cream Unicorn, Cherry Blossom, Healing Apple, and Cotton Candy on lower tiers, painterly cel-shaded style, pink and gold healing light, soft halo backdrop',
+  heroImage: '/images/blog/cookie-run-kingdom/best-crk-healers-ranked/sugar-swan-cookie.webp',
+  heroImageAlt: 'Sugar Swan Cookie, the S+ double-revive Healer topping the May 2026 Cookie Run: Kingdom healer tier list.',
+  imageSources: [
+    {
+      src: '/images/blog/cookie-run-kingdom/best-crk-healers-ranked/sugar-swan-cookie.webp',
+      sourceUrl: 'https://cookierunkingdom.fandom.com/wiki/Sugar_Swan_Cookie',
+      license: 'Fandom CC-BY-SA',
+    },
+    { src: '/images/cookies/pure-vanilla-cookie.png', sourceUrl: 'owned-asset' },
+    {
+      src: '/images/blog/cookie-run-kingdom/best-crk-healers-ranked/cream-unicorn-cookie.webp',
+      sourceUrl: 'https://cookierunkingdom.fandom.com/wiki/Cream_Unicorn_Cookie',
+      license: 'Fandom CC-BY-SA',
+    },
+    {
+      src: '/images/blog/cookie-run-kingdom/best-crk-healers-ranked/cherry-blossom-cookie.webp',
+      sourceUrl: 'https://cookierunkingdom.fandom.com/wiki/Cherry_Blossom_Cookie',
+      license: 'Fandom CC-BY-SA',
+    },
+    {
+      src: '/images/blog/cookie-run-kingdom/best-crk-healers-ranked/healing-apple-cookie.webp',
+      sourceUrl: 'https://cookierunkingdom.fandom.com/wiki/Healer_Cookie',
+      license: 'Fandom CC-BY-SA',
+    },
+  ],
 
   publishDate: '2026-05-27T00:00:00.000Z',
   lastUpdated: '2026-05-27T00:00:00.000Z',
@@ -73,6 +98,8 @@ For the full roster across DPS, tank, and support, the [May 2026 master tier lis
 
 ## Sugar Swan Cookie — S+ tier
 
+![Sugar Swan Cookie, the Ancient Healer whose two-ally revive on a 17-second cooldown breaks Arena burst comps.](/images/blog/cookie-run-kingdom/best-crk-healers-ranked/sugar-swan-cookie.webp)
+
 Sugar Swan's kit does one thing and does it better than anything else in the game. She revives two fallen Cookies on roughly a 17-second cooldown (down to ~14 with full Swift Chocolate), and the revive comes with an AoE heal that scales off her ATK stat. That is the entire pitch. It is enough.
 
 Where she shines is Kingdom Arena, full stop. The current meta is built around Timekeeper rewinding your team out of a burst window. Sugar Swan breaks that math. Once she revives, the enemy Timekeeper has to choose: rewind to kill her again, or save the rewind for your DPS combo. Either choice loses them tempo. The top 200 ladder in Season 14 is overwhelmingly Sugar Swan teams for exactly this reason.
@@ -84,6 +111,8 @@ Build notes: 5x Swift Chocolate is non-negotiable. The cooldown reduction is wha
 One specific weakness: she does almost nothing if your team is not dying. In Cake Tower farming where your DPS is overlevelled and nobody is getting hit, she is a dead slot. Bring Pure Vanilla instead.
 
 ## Pure Vanilla Cookie Awakened — S+ tier
+
+![Pure Vanilla Cookie, the S+ rally-and-shield Healer that anchors every long PvE fight in v7.4.](/images/cookies/pure-vanilla-cookie.png)
 
 Pure Vanilla Awakened is the answer to every long PvE fight in v7.4. His rally skill heals all allies and applies a shield pulse that scales with his max HP, and with Beast Magic Candy unlocked the shield ticks twice. That second pulse is what makes the difference. It catches the cleanup damage that normally chunks your back line after the main rally lands.
 
@@ -97,6 +126,8 @@ One specific weakness: he gets deleted by Arena burst comps before he can cast. 
 
 ## Cream Unicorn Cookie — A tier
 
+![Cream Unicorn Cookie, the cheap A-tier burst-heal-and-cleanse Healer for DoT-heavy Beast-Yeast fights.](/images/blog/cookie-run-kingdom/best-crk-healers-ranked/cream-unicorn-cookie.webp)
+
 Cream Unicorn is the Cookie everyone has and most players underrate. Her active is a burst heal plus a cleanse that wipes one debuff stack from every ally. In a meta where Beast-Yeast bosses are stacking burn, bleed, and poison simultaneously, that cleanse is gold.
 
 She slots into Beast-Yeast farming teams and any World Exploration stage with heavy DoT pressure. She is also the cheapest A-tier healer to fully ascend, because her soulstones have been in the standard shop rotation for over two years.
@@ -107,6 +138,8 @@ One specific weakness: her sustained HPS is mediocre. She is a burst-and-cleanse
 
 ## Cherry Blossom Cookie — A tier
 
+![Cherry Blossom Cookie, the petal-stack sustain Healer who ramps into a top Guild Battle pick in long fights.](/images/blog/cookie-run-kingdom/best-crk-healers-ranked/cherry-blossom-cookie.webp)
+
 Cherry Blossom heals based on petal stacks that build up over the course of a fight. After roughly 20 seconds, her HPS is genuinely competitive with Pure Vanilla. The problem is what happens in the first 20 seconds.
 
 She shines in long Guild Battle fights and any encounter where the win condition is outlasting the boss. She is a top-three Cookie for the Lich Queen guild boss in v7.4 because that fight lasts the full timer.
@@ -116,6 +149,8 @@ Build notes: 5x Solid Almond. You need her alive long enough to ramp. Skip Magic
 One specific weakness: short fights. Anything under 25 seconds and she is a worse Cream Unicorn with no cleanse.
 
 ## Healing Apple Cookie — B+ tier
+
+![Healing Apple Cookie, the free B+ training-wheels Healer that carries new accounts through the Dark Cacao chapters.](/images/blog/cookie-run-kingdom/best-crk-healers-ranked/healing-apple-cookie.webp)
 
 Healing Apple is the training-wheels healer. Free, reliable, and good enough to carry you through the main story up to the start of Dark Cacao Kingdom. Past that point, she gets one-shot by anything S+ tier on the enemy side.
 

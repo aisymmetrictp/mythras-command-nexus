@@ -12,6 +12,30 @@ export const bestBlueCardsMtg: BlogPost = {
     "Blue's deal is simple. The best counterspell is the one you don't have to cast, and the best card-draw engine is the one your opponents help fuel. Here are the blue cards that still set the bar in 2026.",
   featuredImagePrompt:
     'A swirling oceanic display of iconic blue Magic: The Gathering cards (Force of Will, Rhystic Study, Counterspell, Cyclonic Rift) hovering above stormy water, deep blue and silver light, lightning crackling in the background, painterly fantasy art style',
+  heroImage: '/images/blog/magic-the-gathering/best-blue-cards-magic-the-gathering/rhystic-study.jpg',
+  heroImageAlt: "Rhystic Study, the three-mana blue enchantment that draws you a card whenever an opponent doesn't pay the tax.",
+  imageSources: [
+    {
+      src: '/images/blog/magic-the-gathering/best-blue-cards-magic-the-gathering/rhystic-study.jpg',
+      sourceUrl: 'https://scryfall.com/card/j22/114/rhystic-study',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/best-blue-cards-magic-the-gathering/counterspell.jpg',
+      sourceUrl: 'https://scryfall.com/card/dsc/114/counterspell',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/best-blue-cards-magic-the-gathering/cyclonic-rift.jpg',
+      sourceUrl: 'https://scryfall.com/card/rvr/40/cyclonic-rift',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/best-blue-cards-magic-the-gathering/brainstorm.jpg',
+      sourceUrl: 'https://scryfall.com/card/dsc/113/brainstorm',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+  ],
   publishDate: '2026-05-24T00:00:00.000Z',
   lastUpdated: '2026-05-24T00:00:00.000Z',
   primaryKeyword: 'best blue cards mtg',
@@ -58,6 +82,8 @@ Skipping the silver-bullet tier on purpose. Spell Pierce, Stifle, Trickbind — 
 ## Best counterspells in blue
 
 Counterspells are blue's signature mechanic. The color owns the entire category. Every other color that gets a counterspell — Mana Tithe in white, Stubborn Denial in black — pays a rate penalty or attaches a restriction. Blue just gets to cast Counterspell.
+
+![Counterspell, the two-mana blue instant that hard-counters any spell with no restrictions, in print since Alpha.](/images/blog/magic-the-gathering/best-blue-cards-magic-the-gathering/counterspell.jpg)
 
 | Card | Mana | What it does | When to run it |
 | --- | --- | --- | --- |
@@ -108,6 +134,8 @@ Consecrated Sphinx is the win-the-game-on-your-next-turn creature. Six mana for 
 
 Cantrips are blue's other unique weapon. Blue gets to look at its deck, fix its draws, dig for answers, and refill its hand for one mana. Other colors get scry 1 stapled onto five-mana spells and call it a day.
 
+![Brainstorm, the one-mana blue instant that draws three and puts two back, the most-played card in Legacy.](/images/blog/magic-the-gathering/best-blue-cards-magic-the-gathering/brainstorm.jpg)
+
 - **Brainstorm.** The most-played card in Legacy. One mana, draw 3 put 2 back. Functionally a 1-mana Ancestral Recall if you have a shuffle effect (fetchland, Scalding Tarn) to follow it up. Without shuffle support, Brainstorm is "1-mana scry 2, draw 1." Still excellent. With shuffle support, Brainstorm becomes one of the best cards in the game.
 - **Ponder.** One mana, scry-3-then-draw. Slightly worse than Brainstorm in pure card advantage, slightly better at fixing turn-2 draws.
 - **Dig Through Time.** Delve cost. Pay UU plus exile seven cards from your graveyard and look at the top seven of your deck, then put two into your hand. The card is restricted in Vintage for a reason. In Commander you cast it on turn 5 for two mana and find your wincon.
@@ -118,6 +146,8 @@ Cantrips are blue's other unique weapon. Blue gets to look at its deck, fix its 
 ## Best disruption and utility
 
 Blue's disruption package is what closes the gap between "I drew the right cards" and "I won the game." Bounce, tempo plays, and the single best six-mana spell in the format.
+
+![Cyclonic Rift, the blue instant whose six-mana overload bounces every nonland permanent your opponents control.](/images/blog/magic-the-gathering/best-blue-cards-magic-the-gathering/cyclonic-rift.jpg)
 
 - **Cyclonic Rift.** Two mana to bounce one nonland permanent at instant speed. Six mana for OVERLOAD — bounce every nonland permanent your opponents control. Single most format-warping six-mana spell in Commander history. Often functions as "you lose the game next turn."
 - **An Offer You Can't Refuse.** Covered above. One-mana counter is also a tempo play. Counter the wincon, take the 2 treasures, win on your next turn.

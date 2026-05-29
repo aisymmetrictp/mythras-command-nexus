@@ -13,6 +13,14 @@ export const crkBeginnerMistakesToAvoid: BlogPost = {
     'These are the Cookie Run Kingdom beginner mistakes that quietly delete weeks of progress. Most of them feel reasonable at the time. Here is how to spot them and how to recover.',
   featuredImagePrompt:
     'Dark fantasy illustration of a confused Cookie Run Kingdom hero standing in front of a giant chalkboard covered in glowing red Xs and crossed-out icons of toppings, soulstones and pull tickets, painterly cinematic style, gold and obsidian color palette',
+  heroImage: '/images/cookies/pure-vanilla-cookie.png',
+  heroImageAlt: 'Pure Vanilla Cookie, the healer whose mistimed skill is the example threading this Cookie Run: Kingdom beginner-mistakes guide.',
+  imageSources: [
+    { src: '/images/cookies/pure-vanilla-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/black-pearl-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/burning-spice-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/hollyberry-cookie.png', sourceUrl: 'owned-asset' },
+  ],
 
   publishDate: '2026-05-24T00:00:00.000Z',
   lastUpdated: '2026-05-24T00:00:00.000Z',
@@ -104,6 +112,8 @@ The current meta priority order, by content type, is covered in the [CRK tier li
 
 ### 3. Ignoring topping substats
 
+![Black Pearl Cookie, a cooldown-dependent DPS that folds on Cake Tower without Cooldown topping substats.](/images/cookies/black-pearl-cookie.png)
+
 Toppings are the second-largest damage multiplier in the game. The substats on those toppings are where 30% to 40% of your effective damage comes from. New players slot any Epic topping with the right primary stat and assume the build is done.
 
 The fix is mechanical. Every topping has up to four substat lines. You want, in priority order:
@@ -165,6 +175,8 @@ The mistake is not the absence of a guild. It is being in a dead guild where nob
 
 ### 8. Auto-running endgame content
 
+![Burning Spice Cookie, whose burn-stack consumption timing is wasted by auto-battle in endgame content.](/images/cookies/burning-spice-cookie.png)
+
 Auto is fine for repeat farming. It is a damage hemorrhage in endgame.
 
 The Cookie Run: Kingdom AI does not cycle cooldowns intelligently. It fires skills the instant they come off cooldown, regardless of enemy positioning, debuff windows, or whether your damage amp is up. In Cake Tower past floor 30, in Guild Battle phase-2 boss attempts, and in any Beast-Yeast battle above Crunchy difficulty, manual play gains 30% to 50% effective damage over auto.
@@ -194,6 +206,8 @@ A useful rule: a F2P account should be saving for the next permanent banner at a
 The current banner priority order for F2P accounts, including which "limited" returns are actually worth the spend, is summarized in our [best F2P arena team breakdown](/blog/cookie-run-kingdom/best-f2p-arena-team) because Arena pulls and PvE pulls have very different ROI curves.
 
 ## How to recover if you already made these
+
+![Hollyberry Cookie, whose shield-up timing rewards the manual rotations new players need to learn to recover.](/images/cookies/hollyberry-cookie.png)
 
 Most of these are recoverable. Here is the honest order of operations if you are looking at this list and counting how many of them describe your account.
 

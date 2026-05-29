@@ -12,6 +12,30 @@ export const bestWhiteCardsMtg: BlogPost = {
     "White spent a decade as the punching bag of Commander color rankings. Esper Sentinel, Smothering Tithe, and Farewell ended that argument. Here are the white cards worth building around in 2026.",
   featuredImagePrompt:
     'A radiant pile of iconic white Magic: The Gathering cards (Swords to Plowshares, Smothering Tithe, Teferi\'s Protection, Esper Sentinel) glowing on a marble altar, gold and ivory light, dramatic cathedral background, painterly fantasy art style',
+  heroImage: '/images/blog/magic-the-gathering/best-white-cards-magic-the-gathering/esper-sentinel.jpg',
+  heroImageAlt: "Esper Sentinel, the white Modern Horizons 2 artifact creature that taxes opponents' noncreature spells.",
+  imageSources: [
+    {
+      src: '/images/blog/magic-the-gathering/best-white-cards-magic-the-gathering/esper-sentinel.jpg',
+      sourceUrl: 'https://scryfall.com/card/mh2/12/esper-sentinel',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/best-white-cards-magic-the-gathering/swords-to-plowshares.jpg',
+      sourceUrl: 'https://scryfall.com/card/soc/179/swords-to-plowshares',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/best-white-cards-magic-the-gathering/smothering-tithe.jpg',
+      sourceUrl: 'https://scryfall.com/card/cmm/57/smothering-tithe',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/best-white-cards-magic-the-gathering/teferis-protection.jpg',
+      sourceUrl: 'https://scryfall.com/card/2x2/32/teferis-protection',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+  ],
   publishDate: '2026-05-24T00:00:00.000Z',
   lastUpdated: '2026-05-24T00:00:00.000Z',
   primaryKeyword: 'best white cards mtg',
@@ -59,6 +83,8 @@ We are deliberately not ranking cards 1-50. Tier lists in a color this deep are 
 
 White removal is the cleanest in the game. Other colors deal damage, force sacrifices, or lock permanents under enchantments that can be answered. White just exiles things. No regrowth, no Reanimate, no graveyard recursion shenanigans.
 
+![Swords to Plowshares, the one-mana white instant that exiles any creature, the benchmark removal spell in Magic.](/images/blog/magic-the-gathering/best-white-cards-magic-the-gathering/swords-to-plowshares.jpg)
+
 | Card | Mana | What it does | Why it makes the list |
 | --- | --- | --- | --- |
 | Swords to Plowshares | W | Exile any creature, controller gains life | The benchmark one-mana removal spell in Magic's entire history |
@@ -80,6 +106,8 @@ Farewell is the headline card and the reason white now actually scares the table
 ## Best card-advantage and ramp engines
 
 This is the section that did not exist in 2020. White's card-advantage and ramp toolkit looked like Land Tax and Mentor of the Meek and a prayer. Then Modern Horizons 2 dropped Esper Sentinel and Smothering Tithe became universal, and white finally had real engines.
+
+![Smothering Tithe, the four-mana white enchantment that prints a Treasure off every opponent draw unless they pay 2.](/images/blog/magic-the-gathering/best-white-cards-magic-the-gathering/smothering-tithe.jpg)
 
 | Card | Mana | Type | Role |
 | --- | --- | --- | --- |
@@ -112,6 +140,8 @@ White's creature suite is deeper than the color's reputation suggests. The trick
 ## Best protection and interaction
 
 This is the category where white quietly dominates. Other colors have to bend over backwards to protect their board. White just casts a two-mana instant and the entire table loses its turn.
+
+![Teferi's Protection, the three-mana white instant that phases out your permanents and locks your life total until your next turn.](/images/blog/magic-the-gathering/best-white-cards-magic-the-gathering/teferis-protection.jpg)
 
 | Card | Mana | Effect |
 | --- | --- | --- |

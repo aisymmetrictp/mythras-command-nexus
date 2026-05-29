@@ -12,6 +12,20 @@ export const selesnyaLandfallProTourStrixhavenWinningDeck: BlogPost = {
     "Nathan Steuer brought Selesnya Landfall to a Pro Tour where 49% of the field was Izzet. Then he won the mirror in the finals. Here is how the deck actually works and how to build it now that the bans hit.",
   featuredImagePrompt:
     'A triumphant Selesnya-aligned planeswalker standing on a battlefield of cracked fetchlands, surrounded by towering green creatures and white spirit tokens, golden Pro Tour trophy in the foreground, Strixhaven campus silhouette in the distance, dark fantasy painterly style, gold and forest-green lighting',
+  heroImage: '/images/blog/magic-the-gathering/selesnya-landfall-pro-tour-strixhaven-winning-deck/scute-swarm.jpg',
+  heroImageAlt: "Scute Swarm, the green landfall insect that copies itself every time a land enters, the engine of Selesnya Landfall.",
+  imageSources: [
+    {
+      src: '/images/blog/magic-the-gathering/selesnya-landfall-pro-tour-strixhaven-winning-deck/scute-swarm.jpg',
+      sourceUrl: 'https://scryfall.com/card/dsc/197/scute-swarm',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/selesnya-landfall-pro-tour-strixhaven-winning-deck/felidar-retreat.jpg',
+      sourceUrl: 'https://scryfall.com/card/fdn/574/felidar-retreat',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+  ],
   publishDate: '2026-05-24T00:00:00.000Z',
   lastUpdated: '2026-05-24T00:00:00.000Z',
   primaryKeyword: 'pro tour secrets of strixhaven winning deck',
@@ -83,6 +97,8 @@ You can read [Magic.gg's full Pro Tour Strixhaven coverage](https://magic.gg/) f
 
 ## The core engine
 
+![Scute Swarm, a green Zendikar Rising insect that creates a copy of itself every time a land enters under your control.](/images/blog/magic-the-gathering/selesnya-landfall-pro-tour-strixhaven-winning-deck/scute-swarm.jpg)
+
 The reason this deck works is that every land drop does two things. It is mana for next turn, and it is a free trigger this turn. Once you understand that, every other card in the list makes sense.
 
 The fetchland suite is the spine. Cracking a Bloomburrow surveil land is two landfall triggers in one turn for two mana of input. Stack that on top of a one-drop ramp creature and you are getting three to four landfall triggers between turns two and three.
@@ -99,6 +115,8 @@ The deck is built so that even your bad hands have a plan. A hand with no early 
 The third pillar is the removal package. Selesnya is the strongest color combo right now for permanent-based removal. Get Lost-style cards exile threats without giving the opponent a flashback or a recursion target, which matters a lot against the graveyard-leaning decks like Witherbloom and the post-ban Dimir builds.
 
 ## Key cards and matchups
+
+![Felidar Retreat, a white enchantment that makes a Cat Beast token or anthems your board every time a land enters.](/images/blog/magic-the-gathering/selesnya-landfall-pro-tour-strixhaven-winning-deck/felidar-retreat.jpg)
 
 The cards that did the heavy lifting at the Pro Tour were the ones that solved specific Izzet problems. Here is how the matchup matrix looked across the top eight, paraphrased from [MTGGoldfish's metagame breakdown](https://www.mtggoldfish.com/).
 

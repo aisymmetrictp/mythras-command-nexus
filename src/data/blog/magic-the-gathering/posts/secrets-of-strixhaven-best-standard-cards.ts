@@ -12,6 +12,30 @@ export const secretsOfStrixhavenBestStandardCards: BlogPost = {
     "Secrets of Strixhaven shipped 270 cards. Most will never see Standard play. Here are the 20 that actually matter, the hype mythics that flopped, and what the May 18 bans changed.",
   featuredImagePrompt:
     'A grand college library at Strixhaven with five Elder Dragons perched on different floors, glowing arcane diagrams floating between them, a single uncommon spell card labeled FLOW STATE radiating gold light in the foreground, dark academic fantasy art, jewel-tone lighting',
+  heroImage: '/images/blog/magic-the-gathering/secrets-of-strixhaven-best-standard-cards/velomachus-lorehold.jpg',
+  heroImageAlt: 'Velomachus Lorehold, the red-white Lorehold Elder Dragon from Strixhaven, a haste-flying control finisher.',
+  imageSources: [
+    {
+      src: '/images/blog/magic-the-gathering/secrets-of-strixhaven-best-standard-cards/velomachus-lorehold.jpg',
+      sourceUrl: 'https://scryfall.com/card/tdc/309/velomachus-lorehold',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/secrets-of-strixhaven-best-standard-cards/beledros-witherbloom.jpg',
+      sourceUrl: 'https://scryfall.com/card/soc/296/beledros-witherbloom',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/secrets-of-strixhaven-best-standard-cards/tanazir-quandrix.jpg',
+      sourceUrl: 'https://scryfall.com/card/soc/332/tanazir-quandrix',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/secrets-of-strixhaven-best-standard-cards/cori-steel-cutter.jpg',
+      sourceUrl: 'https://scryfall.com/card/tdm/103/cori-steel-cutter',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+  ],
   publishDate: '2026-05-24T00:00:00.000Z',
   lastUpdated: '2026-05-24T00:00:00.000Z',
   primaryKeyword: 'secrets of strixhaven best standard cards',
@@ -61,6 +85,8 @@ The cards below are ranked on Standard relevance first, with a separate Commande
 
 ## S-tier
 
+![Velomachus Lorehold, the red-white Lorehold Elder Dragon, a 7/7 haste-flier that casts free spells when it attacks.](/images/blog/magic-the-gathering/secrets-of-strixhaven-best-standard-cards/velomachus-lorehold.jpg)
+
 These are the cards that anchor or define a tier 1 deck in current Standard. If you only buy a handful of singles from SSH, buy these first.
 
 | Card                          | Color  | Rarity   | Where it shows up               |
@@ -81,6 +107,8 @@ The Elder Dragons are a more interesting story. Four of the five are genuinely S
 For the wider context on which control shells get to play these dragons, see the [standard post-ban meta breakdown](/blog/magic-the-gathering/standard-post-ban-meta-may-2026). The short version: 4/5C Control and Jeskai Control are the two homes for the Lorehold and Prismari versions respectively.
 
 ## A-tier
+
+![Beledros Witherbloom, the black-green Witherbloom Elder Dragon that pays life to untap lands and drain the table.](/images/blog/magic-the-gathering/secrets-of-strixhaven-best-standard-cards/beledros-witherbloom.jpg)
 
 These are the role-players. Cards that show up as four-ofs in tier 1 decks but are not the marquee S-tier pieces. They are also where the value plays live, because A-tier rares are generally a fraction of the price of the mythics above.
 
@@ -118,6 +146,8 @@ A few examples of the kind of card living in B-tier (paraphrased rather than nam
 
 ## Commander-only standouts
 
+![Tanazir Quandrix, the green-blue Quandrix Elder Dragon that doubles +1/+1 counters on your creatures.](/images/blog/magic-the-gathering/secrets-of-strixhaven-best-standard-cards/tanazir-quandrix.jpg)
+
 Most of SSH's most exciting cards are Commander pieces that will never see Standard play. The set leaned into the legendary creature and college-flavor design space hard, and the EDH crowd is the biggest winner.
 
 Highlights worth tracking:
@@ -130,6 +160,8 @@ Highlights worth tracking:
 If you only play Commander, the value play is to crack a Collector Booster box of SSH for the reprints and the legendary mythics, rather than chasing the Standard staples one at a time.
 
 ## Cards that flopped
+
+![Cori-Steel Cutter, the artifact that defined Izzet Prowess before its May 18, 2026 Standard ban.](/images/blog/magic-the-gathering/secrets-of-strixhaven-best-standard-cards/cori-steel-cutter.jpg)
 
 Every set has hype mythics that do not live up to the spoiler-season buzz. SSH had a louder-than-usual list of them, mostly because the Pro Tour metagame settled before the Standard meta had time to actually test the marginal cards.
 

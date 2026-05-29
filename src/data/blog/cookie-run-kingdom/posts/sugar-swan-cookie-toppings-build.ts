@@ -9,6 +9,18 @@ export const sugarSwanCookieToppingsBuild: BlogPost = {
   metaDescription: 'The complete Sugar Swan Cookie toppings and build guide for May 2026: cooldown toppings, sub-stats, beascuit, treasures, and the Timekeeper Arena meta.',
   excerpt: 'Sugar Swan is the only Healer who revives two allies, and in the Timekeeper meta that makes her non-negotiable. Here is the exact build, sub-stats, and comp.',
   featuredImagePrompt: 'Sugar Swan Cookie from Cookie Run Kingdom standing in an elegant lake palace, soft pink and white feathers glowing with healing light, two faint allied cookie silhouettes reviving behind her, dramatic Arena stage lighting, high detail mobile game splash art style',
+  heroImage: '/images/blog/cookie-run-kingdom/sugar-swan-cookie-toppings-build/sugar-swan-cookie.webp',
+  heroImageAlt: 'Sugar Swan Cookie, the only CRK Healer who revives two allies at once and the subject of this build guide.',
+  imageSources: [
+    {
+      src: '/images/blog/cookie-run-kingdom/sugar-swan-cookie-toppings-build/sugar-swan-cookie.webp',
+      sourceUrl: 'https://cookierunkingdom.fandom.com/wiki/Sugar_Swan_Cookie',
+      license: 'Fandom CC-BY-SA',
+    },
+    { src: '/images/gear/toppings/chocolate.png', sourceUrl: 'owned-asset' },
+    { src: '/images/gear/beascuits/chewy.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/dark-enchantress-cookie.png', sourceUrl: 'owned-asset' },
+  ],
   publishDate: '2026-05-28T00:00:00.000Z',
   lastUpdated: '2026-05-28T00:00:00.000Z',
   primaryKeyword: 'sugar swan cookie toppings',
@@ -41,6 +53,8 @@ If you've been holding off on building her because she looked like a "comfort pi
 
 ## Why Sugar Swan is mandatory in May 2026
 
+![Sugar Swan Cookie, the elegant lake-palace Healer whose double revive anchors the May 2026 Arena meta.](/images/blog/cookie-run-kingdom/sugar-swan-cookie-toppings-build/sugar-swan-cookie.webp)
+
 The whole Arena meta right now revolves around survival math. Timekeeper rewinds the clock and brings allies back to a previous HP state, Pure Vanilla Awakened heals and shields on a loop, and games routinely drag past the point where damage alone decides anything. The team that runs out of revives first loses.
 
 Sugar Swan changes that equation by herself. A single Sugar Swan revive saves two cookies, which means your front line and your damage dealer can both eat a full burst rotation and stand back up together. Pair that with Timekeeper's rewind and you've essentially got two separate "undo" buttons firing on different timers. The opposing team has to break through both before they can actually close.
@@ -48,6 +62,8 @@ Sugar Swan changes that equation by herself. A single Sugar Swan revive saves tw
 That's the reason she shows up in nearly every top Arena defense screenshot this month. The community settled this argument fast. Once people realized the double revive stacks cleanly with Timekeeper's rewind, the "is she worth it" threads dried up overnight.
 
 ## The standard Sugar Swan topping build
+
+![Swift Chocolate topping icon, the Cooldown topping you run five of on Sugar Swan for the fastest possible revives.](/images/gear/toppings/chocolate.png)
 
 The build is simple, and simple is good here. You want her reviving as fast as humanly possible, so cooldown is the entire point.
 
@@ -77,6 +93,8 @@ Chase Cooldown first, ATK% second, and let HP% be whatever leftover rolls give y
 
 ## Beascuit and tart picks
 
+![Chewy beascuit icon, the Healing and Cooldown beascuit option for Sugar Swan in Cookie Run: Kingdom.](/images/gear/beascuits/chewy.png)
+
 For the beascuit, go with a Chewy beascuit (or whichever Healer-appropriate beascuit your roster has) that prioritizes **Healing and Cooldown**. The point is the same as the toppings: anything that makes her revive faster or heal harder is what you want stamped on her gear. Avoid beascuits geared toward damage or pure survivability.
 
 For the tart, you have two correct answers: **HP or Cooldown.** A Cooldown tart leans even harder into the fast-revive plan and is the aggressive pick. An HP tart gives her a survivability cushion so she's not the first thing a Dark Cacao or Burning Spice rotation deletes. If you're already comfortably past your Cooldown target from toppings and sub-stats, take the HP tart for insurance. If you're scrambling to hit 14%, take the Cooldown tart and keep pushing.
@@ -100,6 +118,8 @@ Sugar Swan's Magic Candy is a real upgrade, not a footnote. It extends and stren
 Where she lands on your overall Magic Candy roadmap depends on the rest of your account, so don't blow your candy stock on her if your damage dealers are still bare. Check our [CRK Magic Candy priority guide](/blog/cookie-run-kingdom/crk-magic-candy-priority-guide) for where she should sit in the queue relative to your other cookies. The short version: she's a high-value candy in an Arena-focused account, lower priority if you're mostly doing PvE content where one revive is usually plenty.
 
 ## Team comps and the Timekeeper interaction
+
+![Dark Enchantress Cookie, the damage-and-debuff core that Sugar Swan keeps alive in the standard May 2026 Arena comp.](/images/cookies/dark-enchantress-cookie.png)
 
 The standard May 2026 Arena comp looks like this:
 

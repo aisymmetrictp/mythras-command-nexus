@@ -50,6 +50,11 @@ export default function BlogPostBody({ post, related }: Props) {
     };
   }
 
+  // Hero image → BlogPosting.image (absolute URL) for rich results.
+  if (post.heroImage) {
+    blogPostingJsonLd.image = `https://gamertagmythras.com${post.heroImage}`;
+  }
+
   return (
     <article className="relative">
       <script
@@ -115,6 +120,19 @@ export default function BlogPostBody({ post, related }: Props) {
           <span>By <strong className="text-[#D4A853]">Mythras</strong></span>
         </div>
       </header>
+
+      {post.heroImage && (
+        <figure className="max-w-3xl mx-auto px-4 sm:px-6 mb-2">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src={post.heroImage}
+            alt={post.heroImageAlt ?? post.title}
+            className="w-full rounded-xl border border-[#D4A853]/15"
+            width={1200}
+            height={630}
+          />
+        </figure>
+      )}
 
       <div className="max-w-3xl mx-auto px-4 sm:px-6">
         {post.tldr && (

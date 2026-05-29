@@ -14,6 +14,19 @@ export const ashSaltCookieToppings: BlogPost = {
   featuredImagePrompt:
     'Dark fantasy portrait of Ash Salt Cookie surrounded by glowing corrosion stacks, ashen sigils floating around a Cookie Run Kingdom battlefield, cinematic lighting, painterly style, gold and obsidian color palette',
 
+  heroImage: '/images/blog/cookie-run-kingdom/ash-salt-cookie-toppings/ash-salt-cookie.webp',
+  heroImageAlt: 'Ash Salt Cookie, the Epic anti-revive debuffer added in the v7.4 Timeline of Fate update to Cookie Run: Kingdom.',
+  imageSources: [
+    {
+      src: '/images/blog/cookie-run-kingdom/ash-salt-cookie-toppings/ash-salt-cookie.webp',
+      sourceUrl: 'https://cookierunkingdom.fandom.com/wiki/Ash_Salt_Cookie',
+      license: 'Fandom CC-BY-SA',
+    },
+    { src: '/images/gear/toppings/chocolate.png', sourceUrl: 'owned-asset' },
+    { src: '/images/gear/beascuits/chewy.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/silent-salt-cookie.png', sourceUrl: 'owned-asset' },
+  ],
+
   publishDate: '2026-05-24T00:00:00.000Z',
   lastUpdated: '2026-05-24T00:00:00.000Z',
 
@@ -77,6 +90,8 @@ Her magic candy upgrade adds a fourth Corrosion stack on the initial cast, which
 
 ## Best toppings build
 
+![A Chocolate topping, the Swift Chocolate cooldown set that lets Ash Salt reapply Corrosion as fast as possible.](/images/gear/toppings/chocolate.png)
+
 Most guides published in the first week after launch ran Searing Raspberry x5 for burst, and that build is a trap. Ash Salt is not a DPS. Her job is to land Corrosion repeatedly, which means cooldown is the only stat that matters until she hits the cap. Here is the build we have been running in arena, Cake Tower, and Guild Battle since May 10th.
 
 | Slot | Choice | Why |
@@ -104,6 +119,8 @@ When you are rerolling sub-stats with Topping Pieces in the bakery:
 A clean 3-CD, 2-ATK SPD topping spread with the Chocolate tart will put her at the breakpoint where her skill comes up roughly every 9 seconds, which is the magic number for keeping 3-stack Corrosion permanently active on the front line.
 
 ## Best beascuit and topping tart
+
+![A Chewy beascuit, the survivability set that keeps Ash Salt alive long enough to land her second Corrosion cast.](/images/gear/beascuits/chewy.png)
 
 Chewy beascuit is non-negotiable. The 4-piece Chewy bonus gives her the bulk to survive one rotation of Dark Enchantress nukes or two ticks of Eternal Sugar burn, which is exactly the survival window she needs to land her second cast. Spicy beascuit is the meme-build choice if you are running her as a sub-DPS in a low-difficulty World Exploration team, but anywhere that matters, Chewy.
 
@@ -152,6 +169,8 @@ This is the comp where Ash Salt earns her keep as a Legendary replacement. With 
 > Pro tip: in Guild Battle, Ash Salt's Corrosion stacks persist through phase transitions in v7.4. That is almost certainly a bug. It will probably get patched in v7.5. Abuse it while it lasts.
 
 ## How Ash Salt compares to Silent Salt and Timekeeper
+
+![Silent Salt Cookie, the Legendary anti-revive Beast that fully locks revives where Ash Salt only strips charges.](/images/cookies/silent-salt-cookie.png)
 
 This is the comparison everyone wants, so here it is straight:
 

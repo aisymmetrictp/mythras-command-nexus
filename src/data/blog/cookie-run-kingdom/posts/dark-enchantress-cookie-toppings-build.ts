@@ -13,6 +13,18 @@ export const darkEnchantressCookieToppingsBuild: BlogPost = {
     'Dark Enchantress has been the S+ DPS anchor since v7.0 and Timeline of Fate did not move her. If she is built right, she ends fights. If she is built wrong, she gets out-damaged by an Epic. Here is the May 2026 build sheet.',
   featuredImagePrompt:
     'Dark Enchantress Cookie standing center frame with purple flame aura, surrounded by glowing Searing Raspberry topping icons, Cookie Run: Kingdom key-art style, painterly cel-shaded, deep purple and crimson palette, dramatic backlighting',
+  heroImage: '/images/cookies/dark-enchantress-cookie.png',
+  heroImageAlt: 'Dark Enchantress Cookie, the S+ Magic DPS anchor and headline subject of this May 2026 toppings build.',
+  imageSources: [
+    { src: '/images/cookies/dark-enchantress-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/gear/toppings/raspberry.png', sourceUrl: 'owned-asset' },
+    { src: '/images/gear/beascuits/chewy.png', sourceUrl: 'owned-asset' },
+    {
+      src: '/images/blog/cookie-run-kingdom/dark-enchantress-cookie-toppings-build/timekeeper-cookie.webp',
+      sourceUrl: 'https://cookierunkingdom.fandom.com/wiki/Timekeeper_Cookie',
+      license: 'Fandom CC-BY-SA',
+    },
+  ],
 
   publishDate: '2026-05-27T00:00:00.000Z',
   lastUpdated: '2026-05-27T00:00:00.000Z',
@@ -51,6 +63,8 @@ This guide is the May 2026 build sheet. Toppings, beascuit, tart, Magic Candy, t
 
 ## Why Dark Enchantress is still S+ in May 2026
 
+![Dark Enchantress Cookie, the corrupted Witch of Darkness who has held the #1 Magic DPS slot since v7.0.](/images/cookies/dark-enchantress-cookie.png)
+
 Three reasons, in order of importance.
 
 Her v7.0 kit rework added a multi-target debuff on top of her existing AoE nuke, which means she scales into more enemies, not fewer. Most legacy DPS cookies (looking at you, Frost Queen) lose damage when the screen is crowded. Dark Enchantress gains it.
@@ -62,6 +76,8 @@ She still counters the current Arena meta. Pure Vanilla Awakened shields, Hollyb
 If you want the full ranking context, the [May 2026 tier list](/blog/cookie-run-kingdom/cookie-run-kingdom-tier-list) has her at S+ alongside two other cookies, and she is the only one of the three that has held that spot for the full patch cycle.
 
 ## The standard Dark Enchantress topping build
+
+![Searing Raspberry topping icon, the ATK topping you run five of on Dark Enchantress with no splits.](/images/gear/toppings/raspberry.png)
 
 5x Searing Raspberry. Full stop.
 
@@ -98,6 +114,8 @@ Here is what you want, in priority order:
 Do not chase ATK Flat. The number looks bigger, but ATK% scales with her base stat and Flat ATK does not. This is the second most common mistake after the topping type itself.
 
 ## Beascuit pick — Skill Power vs ATK
+
+![Chewy beascuit icon, the Skill Power beascuit that scales Dark Enchantress's ult damage.](/images/gear/beascuits/chewy.png)
 
 Chewy beascuit with Skill Power priority. That is the answer.
 
@@ -141,6 +159,8 @@ The leveling priority is straightforward. Get her Magic Candy to 15 minimum, pus
 For the full priority order of which cookies should get Magic Candy first, the [Magic Candy priority guide](/blog/cookie-run-kingdom/crk-magic-candy-priority-guide) has Dark Enchantress in the top 3, and the math on why.
 
 ## Team comps that maximize her damage windows
+
+![Timekeeper Cookie, Dark Enchantress's best teammate who covers enemy revives in the standard May 2026 Arena comp.](/images/blog/cookie-run-kingdom/dark-enchantress-cookie-toppings-build/timekeeper-cookie.webp)
 
 Three comps to know in May 2026:
 

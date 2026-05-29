@@ -12,6 +12,30 @@ export const bestRedCardsMtg: BlogPost = {
     "Red has the best one-mana spell in MTG history, the best draw-7 in MTG history, and one of the best banned cards in MTG history. Building red in 2026 is mostly about which of those traditions you are leaning into.",
   featuredImagePrompt:
     'A volcanic forge with five iconic MTG red cards floating in the heat haze: Lightning Bolt, Wheel of Fortune, Ragavan Nimble Pilferer, Sword of Feast and Famine, Underworld Breach. Glowing red and orange palette, sparks, painted card-art style with goblins working hammers in the background.',
+  heroImage: '/images/blog/magic-the-gathering/best-red-cards-magic-the-gathering/ragavan-nimble-pilferer.jpg',
+  heroImageAlt: 'Ragavan, Nimble Pilferer, the one-mana red 2/1 monkey that makes Treasure and steals cards on combat damage.',
+  imageSources: [
+    {
+      src: '/images/blog/magic-the-gathering/best-red-cards-magic-the-gathering/ragavan-nimble-pilferer.jpg',
+      sourceUrl: 'https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/best-red-cards-magic-the-gathering/lightning-bolt.jpg',
+      sourceUrl: 'https://scryfall.com/card/clu/141/lightning-bolt',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/best-red-cards-magic-the-gathering/wheel-of-fortune.jpg',
+      sourceUrl: 'https://scryfall.com/card/vma/192/wheel-of-fortune',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/best-red-cards-magic-the-gathering/lightning-greaves.jpg',
+      sourceUrl: 'https://scryfall.com/card/soc/350/lightning-greaves',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+  ],
   publishDate: '2026-05-24T00:00:00.000Z',
   lastUpdated: '2026-05-24T00:00:00.000Z',
   primaryKeyword: 'best red cards mtg',
@@ -53,6 +77,8 @@ We also assumed Commander as the default format because that is where most of yo
 
 Lightning Bolt is the most important card in this section, and arguably in red period. One mana, instant, three damage to any target. It kills 80% of the small creatures ever printed, it kills planeswalkers that have been ticked down once or twice, it acts as direct damage to finish games, and it has done all of this for thirty years without ever rotating out of any format where it was legal. It is the card every other red removal spell is compared to. None of them have surpassed it.
 
+![Lightning Bolt, the one-mana red instant that deals three damage to any target, the benchmark burn spell since Alpha.](/images/blog/magic-the-gathering/best-red-cards-magic-the-gathering/lightning-bolt.jpg)
+
 Chaos Warp is the closest red gets to a true removal spell that hits anything: 2R sorcery, target permanent, owner shuffles it into their library and reveals the top card. If the top card is a permanent, they put it onto the battlefield. It is a flawed answer (sometimes you give your opponent a free Avacyn off the top of their deck) but it is one of the only ways red can answer enchantments and planeswalkers without splashing white. Every red Commander deck should run it.
 
 Price of Progress is the meta-call removal spell. Two mana, instant, deals damage to each player equal to twice the number of nonbasic lands they control. In a Commander game with three opponents running Command Tower, fetch lands, and triome lands, this kills a table. It is one of the cleanest "I win the game from a board state I should not win" cards in red. Mono-red decks specifically run it. Decks with their own nonbasics have to be more careful.
@@ -73,6 +99,8 @@ A note on burn-style direct damage as a deck strategy: Lightning Bolt plus Lava 
 ## Best wheel and rummaging effects
 
 This is where red has quietly become a card-advantage color. The "wheel" — a card that makes everyone discard their hand and draw a new one of equal size — used to be a niche effect. Now it is a build-around archetype, with Commanders like Magda, Brazen Outlaw and Birgi, God of Storytelling rewarding you for cycling through cards fast.
+
+![Wheel of Fortune, the three-mana red sorcery that makes each player discard their hand and draw seven new cards.](/images/blog/magic-the-gathering/best-red-cards-magic-the-gathering/wheel-of-fortune.jpg)
 
 Wheel of Fortune is the patriarch. Three mana, sorcery, each player discards their hand and draws seven cards. That is the best draw-7 effect in MTG, period. It is also on the Reserved List, which has pushed the price into "do not casually buy one" territory. [Verify current price] before pulling the trigger. If you do not own one, Wheel of Misfortune is the closest functional reprint at the same casting cost, just with a slightly weirder targeting clause.
 
@@ -96,6 +124,8 @@ Underworld Breach is the centerpiece of red's combo identity. One mana, enchantm
 ## Best equipment and combat tools
 
 Red is the second-best equipment color (behind white, which has all the spicy Boros options). The reason equipment matters in red is that red's creatures often want haste and protection, both of which the equipment package provides.
+
+![Lightning Greaves, the colorless equipment with zero-cost equip that grants the equipped creature haste and shroud.](/images/blog/magic-the-gathering/best-red-cards-magic-the-gathering/lightning-greaves.jpg)
 
 Lightning Greaves is the single most-played piece of equipment in Commander. Zero-cost equip, gives the creature haste and shroud. You drop your commander, equip Greaves for free, swing for damage on the turn you cast it. Greaves is in almost every Commander deck that runs red and most that do not. It is colorless, so the only barrier is owning a copy.
 

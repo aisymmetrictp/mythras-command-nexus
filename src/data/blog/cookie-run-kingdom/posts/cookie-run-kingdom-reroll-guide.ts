@@ -14,6 +14,15 @@ export const crkRerollGuide: BlogPost = {
   featuredImagePrompt:
     'A new Cookie Run: Kingdom save-file selection screen with glowing Legendary summon orbs floating above three candy-themed kingdoms, vibrant pastels with deep purple accents, no text, mobile-friendly framing.',
 
+  heroImage: '/images/cookies/dark-enchantress-cookie.png',
+  heroImageAlt:
+    'Dark Enchantress Cookie, the single highest-impact Legendary and top reroll target in Cookie Run: Kingdom.',
+  imageSources: [
+    { src: '/images/cookies/dark-enchantress-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/venom-dough-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/millennial-tree-cookie.png', sourceUrl: 'owned-asset' },
+  ],
+
   publishDate: '2026-05-23T00:00:00.000Z',
   lastUpdated: '2026-05-23T00:00:00.000Z',
 
@@ -86,6 +95,9 @@ The honest tradeoff: each reroll attempt is 20-30 minutes of mostly-skippable tu
 A useful frame: think of reroll attempts as a budget, not a streak. Decide upfront — say, **ten attempts** — and stop when you hit your cap whether or not you got the dream Cookie. CRK is a long game, and the difference between "the perfect account" and "a perfectly fine account" is usually one or two months of farming, not the entire trajectory of your save. The trap is sinking 15+ attempts because you're sure the next one will hit, when in reality the marginal value of attempt #16 is the same as attempt #6 — but you're four extra hours in.
 
 ## The 12 best starting Cookies to roll for
+
+![Dark Enchantress Cookie render, the highest-impact Legendary and the top stop-rerolling target](/images/cookies/dark-enchantress-cookie.png)
+
 These are the Cookies that, if they show up in your reroll pulls, you should **stop rerolling immediately and lock in the account**. The list weights the current S+ tier (Timeline of Fate meta) plus a few Super Epics that are so strong they're effectively account-defining for a beginner.
 
 | Cookie | Role | Why you stop rerolling |
@@ -137,6 +149,9 @@ The fastest CRK reroll method is the **guest account + clear data** loop. Each a
 > **Tip:** Always pull on the **rate-up banner**, not the general Legendary banner. Rate-up boosts a specific Cookie's odds significantly, and that's the whole point of the pull window.
 
 ## What to do after you land a good account
+
+![Millennial Tree Cookie render, the healer to pair with your reroll DPS when building your first balanced team](/images/cookies/millennial-tree-cookie.png)
+
 The first hour after a successful reroll matters more than people think. Here's the checklist:
 
 1. **Link the account.** Settings → Account → link to Google/Apple/DevPlay. Do this *before* you do anything else. Losing the account to an uninstall is a disaster.
@@ -152,6 +167,9 @@ The first hour after a successful reroll matters more than people think. Here's 
 > **Warning:** Resist the urge to roll on every banner that pops up. Crystal economy in CRK is brutal — save for rate-up banners that match your roster gap, not impulse pulls.
 
 ## Common reroll mistakes
+
+![Venom Dough Cookie render, the tier-1 Super Epic Bomber you should never reroll past](/images/cookies/venom-dough-cookie.png)
+
 A few patterns waste hours of reroll time:
 
 - **Pulling on the standard banner.** Always rate-up. Standard pulls bleed Crystals with no targeting.

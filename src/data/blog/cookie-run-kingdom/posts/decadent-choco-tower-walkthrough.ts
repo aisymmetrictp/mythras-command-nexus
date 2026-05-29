@@ -12,6 +12,14 @@ export const decadentChocoTowerWalkthrough: BlogPost = {
     'Cake Tower expanded to 55 trays in v7.4 and most players stall at floor 30. The fix is not more damage. It is sustain, cooldown toppings, and a comp swap. Here is the full Decadent Choco walkthrough for 2026.',
   featuredImagePrompt:
     'A towering chocolate cake fortress rising into a purple void sky, layered with dripping ganache trays and faintly glowing rune sigils on each level. A small line of Cookie Run-style chibi heroes silhouetted at the base, golden lion crest banner planted in the foreground. Cinematic lighting, painterly, moody.',
+  heroImage: '/images/cookies/pavlova-cookie.png',
+  heroImageAlt: 'Pavlova Cookie, the load-bearing cleanser and constant damage carry across every tier of the Decadent Choco Tower.',
+  imageSources: [
+    { src: '/images/cookies/pavlova-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/dark-enchantress-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/venom-dough-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/gear/toppings/chocolate.png', sourceUrl: 'owned-asset' },
+  ],
   publishDate: '2026-05-24T00:00:00.000Z',
   lastUpdated: '2026-05-24T00:00:00.000Z',
   primaryKeyword: 'decadent choco tower guide',
@@ -87,6 +95,8 @@ The pattern is consistent across all three. Two sustain cookies minimum, one dis
 
 ## Per-tier strategy: F2P (Floors 1-30)
 
+![Pavlova Cookie, whose debuff-cleanse active is the most important cooldown in the F2P Decadent Choco Tower comp.](/images/cookies/pavlova-cookie.png)
+
 If you have not built Awakened Hollyberry yet, this is your comp. The five cookies above are all farmable, none of them require Awakening to function in Tier 1 and Tier 2, and the gear bar is whatever your Bounties have dropped you.
 
 Run it on auto from floor 1 to about floor 22. The early waves cannot threaten Hollyberry shields plus Pure Vanilla heals. From floor 23 up, you want to be watching the screen. Pavlova's debuff cleanse on her active is the single most important cooldown in this comp and the auto-AI does not always fire it on the wave that matters.
@@ -100,6 +110,8 @@ The order to fire cookies matters more in Cake Tower than in any other PvE mode.
 > Two healers is non-negotiable past floor 25. If you are running one healer plus two DPS, that is why floor 28 keeps killing you. Swap one DPS for [Pure Vanilla Cookie](/gear-guide/pure-vanilla-cookie) or Pavlova.
 
 ## Per-tier strategy: Mid-game (Floors 31-45)
+
+![Dark Enchantress Cookie, the Awakened damage win condition that carries Tier 3 floors of the Decadent Choco Tower.](/images/cookies/dark-enchantress-cookie.png)
 
 This is where the comp upgrades. Aegis Hollyberry replaces Hollyberry, Dark Enchantress comes in as your damage anchor, and Millennial Tree joins as the second sustain on top of Pure Vanilla Awakened. Pavlova stays. She is the load-bearing cleanser for this entire mode.
 
@@ -116,6 +128,8 @@ Floor 42 has a burst-damage spike that punishes single-shield comps. This is whe
 Floor 44 is the last filtration floor before the Tier 4 wall. If you cleared 44, you will probably clear 45 on the same run. If you cannot get past 44 with the mid-game comp, you need the endgame swap, not a topping reroll.
 
 ## Per-tier strategy: Endgame (Floors 46-55)
+
+![Venom Dough Cookie, the endgame finisher saved for boss phases on the top Decadent Choco Tower floors.](/images/cookies/venom-dough-cookie.png)
 
 Aegis Hollyberry stays. Dark Enchantress stays. Pavlova rotates out for Sugar Swan, Millennial Tree rotates out for Timekeeper, and Pure Vanilla Awakened rotates out for Venom Dough. You now have a comp built around damage-prevention rather than damage-healing, with Timekeeper's rewind covering the chip waves that used to require Pure Vanilla.
 
@@ -134,6 +148,8 @@ Expect floor 55 to take ten or fifteen attempts even with a fully built comp. Th
 One more thing about the endgame comp. Venom Dough is your finisher, not your damage carry. Save her active for the boss phase, not the early waves. The temptation is to fire her on cooldown for clear speed, but doing that on floor 54 will leave you without a kill window when the boss enters its enrage phase.
 
 ## Treasures and toppings for tower runs
+
+![A Chocolate topping, the Swift Chocolate cooldown set that out-clears Searing Raspberry on tower healers and supports.](/images/gear/toppings/chocolate.png)
 
 Treasures are where most arena-focused players lose Cake Tower clears without realizing why. The arena loadout is wrong for this mode. Old Pilgrim's Scroll is fine through Tier 2 but actively bad in Tier 3 and Tier 4, where you need cooldown reduction and sustain instead of damage amp.
 

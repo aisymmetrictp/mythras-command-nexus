@@ -9,6 +9,30 @@ export const bestRemovalSpellsMtg: BlogPost = {
   metaDescription: 'The best removal spells in MTG for 2026, ranked by color for Commander. Swords, Cyclonic Rift, Toxic Deluge, Bolt and the budget picks that punch up.',
   excerpt: 'Removal is the most underbuilt category in casual Commander decks, and it is the cheapest way to win a game. Here are the best removal spells in every color, plus board wipes and budget picks.',
   featuredImagePrompt: 'A dramatic Magic: The Gathering battlefield scene, a massive glowing creature being struck down by five beams of colored magic (white, blue, black, red, green) converging from off-frame, painterly fantasy art, high contrast, cinematic lighting, no text',
+  heroImage: '/images/blog/magic-the-gathering/best-removal-spells-mtg/swords-to-plowshares.jpg',
+  heroImageAlt: 'Swords to Plowshares, the one-mana white instant that exiles any creature, the most efficient removal ever printed.',
+  imageSources: [
+    {
+      src: '/images/blog/magic-the-gathering/best-removal-spells-mtg/swords-to-plowshares.jpg',
+      sourceUrl: 'https://scryfall.com/card/soc/179/swords-to-plowshares',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/best-removal-spells-mtg/cyclonic-rift.jpg',
+      sourceUrl: 'https://scryfall.com/card/rvr/40/cyclonic-rift',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/best-removal-spells-mtg/toxic-deluge.jpg',
+      sourceUrl: 'https://scryfall.com/card/soc/120/toxic-deluge',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/best-removal-spells-mtg/beast-within.jpg',
+      sourceUrl: 'https://scryfall.com/card/soc/263/beast-within',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+  ],
   publishDate: '2026-05-28T00:00:00.000Z',
   lastUpdated: '2026-05-28T00:00:00.000Z',
   primaryKeyword: 'best removal spells mtg',
@@ -71,6 +95,8 @@ White's whole identity is paying the lowest rate for the cleanest answers. If yo
 
 Blue does not "destroy" much. Blue bounces, transforms, and counters, which is removal that most casual players refuse to count as removal. They are wrong.
 
+![Cyclonic Rift, the blue instant whose seven-mana overload bounces every nonland permanent your opponents control.](/images/blog/magic-the-gathering/best-removal-spells-mtg/cyclonic-rift.jpg)
+
 - **Pongify / Rapid Hybridization** — 1 mana each. Destroy target creature, its controller gets a 3/3 (Pongify) or a 3/3 with no abilities (Hybridization). One-mana instant-speed kill spells in blue. They look bad until you point one at someone's voltron Commander and the game just ends for them.
 - **Cyclonic Rift** — 2 mana, or 7 to overload. The seven-mana overload bounces every nonland permanent your opponents control to their hands at instant speed. It is the single most backbreaking blue card in Commander and a soft "I win" button. [Verify current price] consistently one of the priciest blue staples.
 - **Reality Shift** — 2 mana. Exile target creature, the controller manifests the top card of their library. Exile is the cleanest answer to recursion and indestructible threats, and blue does not get much of it, so this card matters.
@@ -81,6 +107,8 @@ The mental shift for blue players is treating bounce and counters as your remova
 ## Best black removal
 
 Black is the color of "kill it, and also I do not care what it is." If you want unconditional creature destruction, this is your aisle.
+
+![Toxic Deluge, the three-mana black board wipe that gives all creatures minus-X/minus-X and beats indestructible and hexproof.](/images/blog/magic-the-gathering/best-removal-spells-mtg/toxic-deluge.jpg)
 
 - **Bloodchief's Thirst** — 1 mana. Destroy a creature or planeswalker with mana value 2 or less, or kick it for 2 mana to destroy any creature or planeswalker. Early game it kills mana dorks and dorky Commanders, late game it kills anything. Best one-drop removal in the color.
 - **Cut Down** — 1 mana. Destroy target creature with total power and toughness 5 or less. Murders the entire support cast of any deck, dorks, value engines, blockers. Narrow on big threats, lethal on everything else. [Verify current legality] Standard and Pioneer legal.
@@ -104,6 +132,8 @@ Red's removal is narrower on big creatures but unmatched at picking off the smal
 ## Best green removal
 
 Green's reputation is that it has no removal. The reputation is twenty years out of date. Green is excellent at killing artifacts, enchantments, and big creatures, it just does it the green way.
+
+![Beast Within, the three-mana green instant that destroys any permanent and gives its controller a 3/3 Beast token.](/images/blog/magic-the-gathering/best-removal-spells-mtg/beast-within.jpg)
 
 - **Beast Within** — 3 mana. Destroy any permanent, the controller gets a 3/3. The single most important card a green deck can run. Instant speed, hits literally anything, and the 3/3 drawback is trivial against a Commander or a combo land. If you play green, play this.
 - **Krosan Grip** — 3 mana. Destroy target artifact or enchantment with split second, meaning it cannot be responded to. The split second is the whole point. It answers combo pieces and protective enchantments that other removal gets fizzled around. [Verify current legality] Modern and Legacy legal.

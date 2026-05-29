@@ -9,6 +9,14 @@ export const crkBeastYeastGuide: BlogPost = {
   metaDescription: 'Cookie Run: Kingdom Beast-Yeast guide for 2026: episode walls, Beast Raid bosses, best team comps, treasure picks, and where to spend soulstones.',
   excerpt: 'Beast-Yeast is the second continent in Cookie Run: Kingdom and the highest-EV farm in the game once you can clear it. This is the comp, treasure, and investment guide.',
   featuredImagePrompt: 'Dark fantasy painterly illustration of a towering moonlit beast-yeast continent with five glowing beast cookies silhouetted in front, mist and dough-like terrain, cinematic lighting, 16:9 hero banner',
+  heroImage: '/images/cookies/eternal-sugar-cookie.png',
+  heroImageAlt: 'Eternal Sugar Cookie, the Beast Cookie and best first soulstone investment for Beast-Yeast thanks to her front-line tanking.',
+  imageSources: [
+    { src: '/images/cookies/eternal-sugar-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/silent-salt-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/mystic-flour-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/gear/beascuits/hard.png', sourceUrl: 'owned-asset' },
+  ],
   publishDate: '2026-05-24T00:00:00.000Z',
   lastUpdated: '2026-05-24T00:00:00.000Z',
   primaryKeyword: 'cookie run kingdom beast yeast guide',
@@ -70,6 +78,8 @@ Crystal numbers vary by event overlays and login bonuses but the relative shape 
 
 ## Beast Raid bosses and what they drop
 
+![A Hard beascuit, the Beast Raid dough-tier gear used to attune Beast Cookies in Cookie Run: Kingdom.](/images/gear/beascuits/hard.png)
+
 Beast Raid is the engine room. It is a co-op boss mode where you fight one of several rotating Beast Raid bosses, contribute damage in a single attempt window, and collect rewards based on damage tier. It is gated behind Beast-Yeast Episode 5, runs on a weekly reset, and uses its own currency (Beast Raid coins) plus direct drops.
 
 The bosses are not the same as Guild Battle bosses. They have their own kits, their own counters, and their own loot tables. The roster expands over time. Here is what currently rotates.
@@ -84,6 +94,8 @@ Damage tiers cap the rewards. Hitting the top tier gets you the full payout incl
 > Do not skip a Beast Raid week to "save up." The currency you earn this week is gone if you skip. Even a low-damage run is free dough.
 
 ## Recommended comps by tier
+
+![Mystic Flour Cookie, the magic-damage Beast backline pick for the all-Beast Beast-Core push comp.](/images/cookies/mystic-flour-cookie.png)
 
 There is no single Beast-Yeast comp. The mode favors flexibility. But here are the three reference comps I run on rotation depending on episode difficulty and what I have leveled.
 
@@ -138,6 +150,8 @@ For the full treasure leveling roadmap, the [CRK treasures guide](/blog/cookie-r
 Here is the hard truth about Beast Cookies. They are the strongest cookies in the game. They also cost obscene amounts of soulstones, dough, and time to make functional. Pulling one to a usable state from zero is a 4-6 month F2P investment.
 
 So which one do you invest in first? The answer depends on your existing roster and your goals.
+
+![Silent Salt Cookie, the best opener Beast Cookie for PvE-focused Beast-Yeast accounts thanks to single-target burst.](/images/cookies/silent-salt-cookie.png)
 
 - **Silent Salt Cookie** is the best opener pick for PvE-focused accounts. He hits like a truck, scales with both attack speed and crit, and his kit punishes single-target bosses, which is exactly what Beast-Yeast episodes throw at you. Topping priority is covered in the [Silent Salt toppings article](/blog/cookie-run-kingdom/cookie-run-kingdom-tier-list) and the [Silent Salt Cookie gear guide](/gear-guide/silent-salt-cookie).
 - **Eternal Sugar Cookie** is the answer if your tank line is weak. She is the best front-line cookie in the game once attuned, and she frees a slot for a second DPS or healer. Build her if your current tank is Hollyberry-tier or worse. See the [Eternal Sugar Cookie gear guide](/gear-guide/eternal-sugar-cookie).

@@ -14,6 +14,15 @@ export const cookiechatAffectionGuide: BlogPost = {
   featuredImagePrompt:
     'A cozy Cookie Run: Kingdom CookieChat scene with several cookies sitting around a candy table exchanging glowing wrapped gifts, hearts floating above them, set against a warm pastel kingdom background — warm, friendly, no text overlays.',
 
+  heroImage: '/images/cookies/pure-vanilla-cookie.png',
+  heroImageAlt:
+    'Pure Vanilla Cookie, a story-heavy Ancient whose scholar archetype favors lore-flavored CookieChat gifts.',
+  imageSources: [
+    { src: '/images/cookies/pure-vanilla-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/dark-enchantress-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/sea-fairy-cookie.png', sourceUrl: 'owned-asset' },
+  ],
+
   publishDate: '2026-05-23T00:00:00.000Z',
   lastUpdated: '2026-05-23T00:00:00.000Z',
 
@@ -48,6 +57,9 @@ export const cookiechatAffectionGuide: BlogPost = {
 The catch: gifting wrong is roughly **3x slower** than gifting right. This is the guide that fixes that, with the full favorability table, the favorite-gift list (annotated with what's confirmed vs still unverified), and the priority order for which cookies you should level affection on first.
 
 ## What is CookieChat?
+
+![Pure Vanilla Cookie render, a story-heavy Ancient with some of the richest CookieChat dialogue scenes](/images/cookies/pure-vanilla-cookie.png)
+
 CookieChat is an in-game messenger UI that turns your roster into a contact list. Every cookie you own has a chat window where they:
 
 - Send you scripted **messages** based on in-game events (you cleared a stage with them, you upgraded their building, the season changed).
@@ -98,6 +110,9 @@ The play is simple but tedious: **only give Favorite-tier gifts**, spread across
 > **Tip:** If you don't know a cookie's Favorite gift, give them a single Liked gift and watch their reaction line. The game telegraphs preference strongly — a Favorite gift triggers a unique animation and a heart-burst, a Liked one is more muted, a Neutral one is generic.
 
 ## Favorite gifts list — best-known matches
+
+![Dark Enchantress Cookie render, whose dark-themed favorite gifts illustrate the archetype-matching pattern](/images/cookies/dark-enchantress-cookie.png)
+
 This is the running favorite-gift list as of **v7.4 Timeline of Fate**. Anything not personally confirmed yet is flagged — if you've tested one and it lit up with the Favorite animation, your data is more recent than this table.
 
 | Cookie | Favorite gift | Notes |
@@ -143,6 +158,9 @@ You can't max every cookie. Pick a small set based on what their unlocks actuall
 > **Tip:** Track your top 5 affection cookies on a sticky note or the game's pinned-cookies UI. Splitting daily gifts across more than 5 cookies dilutes your progress to a crawl.
 
 ## Story / lore unlocks at higher affection
+
+![Sea Fairy Cookie render, a lore-rich Ancient whose higher affection tiers unlock multi-cookie story scenes](/images/cookies/sea-fairy-cookie.png)
+
 The biggest "hidden" reason to chase higher affection levels is the **presenter notes** system — short narrative beats that fill in backstory the game otherwise doesn't show. Story-heavy cookies (the Beasts, the Ancients, the recent Sugar Swan and Black Sapphire arcs) get the richest unlocks here.
 
 A rough pattern across the cookies that have been mapped so far:

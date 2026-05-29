@@ -13,6 +13,30 @@ export const bestLandsCommanderMtg: BlogPost = {
     "A Commander deck's mana base loses or wins more games than its spells do. Most new players run 33 lands and wonder why they keep getting screwed. Here are the staples, the budget swaps, and the right land count for every archetype.",
   featuredImagePrompt:
     "A glowing collection of iconic MTG Commander lands (Command Tower, Cabal Coffers, Bojuka Bog, Nykthos Shrine to Nyx, Boseiju Who Endures) arranged in a stained-glass spiral, fantasy painterly art style, gold and deep green palette, dramatic lighting",
+  heroImage: '/images/blog/magic-the-gathering/best-lands-commander-mtg/boseiju-who-endures.jpg',
+  heroImageAlt: 'Boseiju, Who Endures, the green Kamigawa land whose channel ability destroys an artifact, enchantment, or land.',
+  imageSources: [
+    {
+      src: '/images/blog/magic-the-gathering/best-lands-commander-mtg/boseiju-who-endures.jpg',
+      sourceUrl: 'https://scryfall.com/card/neo/266/boseiju-who-endures',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/best-lands-commander-mtg/bojuka-bog.jpg',
+      sourceUrl: 'https://scryfall.com/card/soc/363/bojuka-bog',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/best-lands-commander-mtg/cabal-coffers.jpg',
+      sourceUrl: 'https://scryfall.com/card/mh2/301/cabal-coffers',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/best-lands-commander-mtg/command-tower.jpg',
+      sourceUrl: 'https://scryfall.com/card/soc/129/command-tower',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+  ],
 
   publishDate: '2026-05-27T00:00:00.000Z',
   lastUpdated: '2026-05-27T00:00:00.000Z',
@@ -73,6 +97,8 @@ These are the cycles that anchor a real manabase. Buy what you can afford, proxy
 
 This is where most decks leave power on the table. Every land below is replacing a basic.
 
+![Bojuka Bog, the black Commander utility land that exiles a target player's graveyard when it enters the battlefield.](/images/blog/magic-the-gathering/best-lands-commander-mtg/bojuka-bog.jpg)
+
 | Land | Effect | Best in |
 |------|--------|---------|
 | Bojuka Bog | Exile a graveyard for {B} | Any black deck |
@@ -95,6 +121,8 @@ The Kamigawa Channel lands (Boseiju, Otawara, Eiganjo, Sokenzan, Takenuma) are t
 
 ## Mana doublers and ramp lands
 
+![Cabal Coffers, the black Commander land that adds one black mana for each Swamp you control for two mana.](/images/blog/magic-the-gathering/best-lands-commander-mtg/cabal-coffers.jpg)
+
 | Land | Effect | Caveat |
 |------|--------|---------|
 | Cabal Coffers | {2}: add {B} per Swamp you control | Mono-black or Urborg shells |
@@ -112,6 +140,8 @@ Cabal Coffers in a Reanimator or mono-B deck is a Tendrils of Agony waiting to h
 ## Commander-only land staples
 
 These cards either exist because of Commander or are dramatically better in the format.
+
+![Command Tower, the Commander staple land that taps for any color in your commander's color identity with no drawback.](/images/blog/magic-the-gathering/best-lands-commander-mtg/command-tower.jpg)
 
 **Command Tower.** Taps for any color in your commander's identity. Zero drawback. Costs about a dollar. If you are playing 2+ colors and do not have one, you are griefing yourself.
 

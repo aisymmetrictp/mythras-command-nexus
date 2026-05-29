@@ -12,6 +12,22 @@ export const crkTreasuresGuide: BlogPost = {
     'Treasures are the second-most-impactful resource in Cookie Run: Kingdom after Cookies themselves. Here is exactly which ones to build, in what order, and which to ignore.',
   featuredImagePrompt:
     'A glowing display of magical fantasy treasures floating above a marble pedestal in Cookie Run: Kingdom art style. A jelly-encased pocket watch, a golden scroll, and a crystal monocle glow with soft light. Warm pastel palette, painterly shading, dark gold backdrop.',
+  heroImage: '/images/blog/cookie-run-kingdom/cookie-run-kingdom-treasures-guide/squishy-jelly-watch.webp',
+  heroImageAlt: 'Squishy Jelly Watch, the team skill-cooldown treasure widely considered the strongest in Cookie Run: Kingdom.',
+  imageSources: [
+    {
+      src: '/images/blog/cookie-run-kingdom/cookie-run-kingdom-treasures-guide/squishy-jelly-watch.webp',
+      sourceUrl: 'https://cookierunkingdom.fandom.com/wiki/Squishy_Jelly_Watch',
+      license: 'Fandom CC-BY-SA',
+    },
+    {
+      src: '/images/blog/cookie-run-kingdom/cookie-run-kingdom-treasures-guide/old-pilgrims-scroll.webp',
+      sourceUrl: "https://cookierunkingdom.fandom.com/wiki/Old_Pilgrim's_Scroll",
+      license: 'Fandom CC-BY-SA',
+    },
+    { src: '/images/cookies/poison-mushroom-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/pure-vanilla-cookie.png', sourceUrl: 'owned-asset' },
+  ],
   publishDate: '2026-05-24T00:00:00.000Z',
   lastUpdated: '2026-05-24T00:00:00.000Z',
   primaryKeyword: 'cookie run kingdom treasures guide',
@@ -78,6 +94,8 @@ This is why you do not max every treasure. You cannot. The system is built to fo
 > Treat treasure upgrades like Cookie level-ups: pick a target, fully commit, then move to the next. Spreading shards across five treasures is the same mistake as spreading Cookie XP across your entire roster.
 
 ## The 8 priority treasures every player should build
+
+![Old Pilgrim's Scroll, the universal battle-start ATK and Crit treasure that pairs with every comp in CRK.](/images/blog/cookie-run-kingdom/cookie-run-kingdom-treasures-guide/old-pilgrims-scroll.webp)
 
 These are the universally strong treasures in 2026. If you build only these eight, in roughly this order, you will cover Arena, Guild Battle, Cake Tower, World Exploration, and most events without ever needing to think about an off-meta pick.
 
@@ -149,7 +167,11 @@ Treasures are not generic stat sticks. They reward specific team-building decisi
 
 A **burst comp** (Searing Raspberry, Frost Queen, Black Pearl burst windows) wants the Watch for faster skill rotations, the Scroll for opener damage, and Sugar Gnome Tools to make the Crit hits land harder. The point of a burst comp is to end fights before turn five, and your treasures need to compress that window.
 
+![Pure Vanilla Cookie, the sustain-comp anchor whose healer kit wants the Monocle, Power-Pack, and Squishy Jelly Watch.](/images/cookies/pure-vanilla-cookie.png)
+
 A **sustain comp** (Pure Vanilla, Hollyberry, Eternal Sugar anchors) wants the Monocle, the Power-Pack, and the Watch. The point of a sustain comp is to outlast the enemy, and your treasures need to keep the damage scaling up as your team drops to low HP.
+
+![Poison Mushroom Cookie, a debuff-comp staple that wants the Crepe Cape, Scythe, and Disco-Ball Hairpin treasures.](/images/cookies/poison-mushroom-cookie.png)
 
 A **debuff comp** (Poison Mushroom, Ash Salt, Black Sapphire) wants the Crepe Cape, the Scythe, and the Hairpin. The point of a debuff comp is to amplify damage through layered debuff windows, and your treasures need to feed that amplification.
 

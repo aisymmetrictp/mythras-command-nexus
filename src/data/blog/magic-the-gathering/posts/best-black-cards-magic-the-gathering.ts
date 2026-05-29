@@ -12,6 +12,30 @@ export const bestBlackCardsMtg: BlogPost = {
     "Black's whole identity is paying a cost to break a rule. Demonic Tutor finds anything. Necropotence draws everything. Here are the staples that have defined the color for 20+ years.",
   featuredImagePrompt:
     'A dark cathedral altar with five iconic MTG black cards floating in candlelight: Demonic Tutor, Necropotence, Sheoldred the Apocalypse, Toxic Deluge, Reanimate. Skulls, dripping wax, deep purple and black palette with bone-white highlights, painted card-art style.',
+  heroImage: '/images/blog/magic-the-gathering/best-black-cards-magic-the-gathering/sheoldred-the-apocalypse.jpg',
+  heroImageAlt: 'Sheoldred, the Apocalypse, the black 4/5 deathtouch Praetor that punishes opponents for drawing cards.',
+  imageSources: [
+    {
+      src: '/images/blog/magic-the-gathering/best-black-cards-magic-the-gathering/sheoldred-the-apocalypse.jpg',
+      sourceUrl: 'https://scryfall.com/card/dmu/107/sheoldred-the-apocalypse',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/best-black-cards-magic-the-gathering/demonic-tutor.jpg',
+      sourceUrl: 'https://scryfall.com/card/cmm/150/demonic-tutor',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/best-black-cards-magic-the-gathering/toxic-deluge.jpg',
+      sourceUrl: 'https://scryfall.com/card/soc/120/toxic-deluge',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/best-black-cards-magic-the-gathering/reanimate.jpg',
+      sourceUrl: 'https://scryfall.com/card/dsc/155/reanimate',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+  ],
   publishDate: '2026-05-24T00:00:00.000Z',
   lastUpdated: '2026-05-24T00:00:00.000Z',
   primaryKeyword: 'best black cards mtg',
@@ -53,6 +77,8 @@ We also weighted Commander relevance heavily, because Commander is where most of
 
 This is the section that sells the color. Black tutors are the single biggest reason people splash into it.
 
+![Demonic Tutor, the two-mana black sorcery that searches your deck for any card and puts it into your hand.](/images/blog/magic-the-gathering/best-black-cards-magic-the-gathering/demonic-tutor.jpg)
+
 | Card               | Mana Cost | Format Use            | Notes                                  |
 | ------------------ | --------- | --------------------- | -------------------------------------- |
 | Demonic Tutor      | 1B        | Commander, Vintage    | The gold standard. Any card, to hand.  |
@@ -72,6 +98,8 @@ Imperial Seal deserves its asterisk. It is functionally Vampiric Tutor at sorcer
 ## Best removal in black
 
 Black removal comes in two flavors: cheap single-target kill spells and devastating board wipes. Both are fundamental to the color.
+
+![Toxic Deluge, the three-mana black board wipe that gives every creature minus-X/minus-X and kills indestructible threats.](/images/blog/magic-the-gathering/best-black-cards-magic-the-gathering/toxic-deluge.jpg)
 
 Toxic Deluge is the headline. Three mana, pay X life, every creature gets -X/-X until end of turn. It kills indestructible creatures (because they take no damage, but their toughness still drops to zero), it kills hexproof creatures (it does not target), and it scales to whatever the board looks like. The life cost is real but in Commander you have 40 life to work with.
 
@@ -109,6 +137,8 @@ Sheoldred, the Apocalypse is the card that defined Standard from 2023 through 20
 ## Best reanimation effects
 
 Black is the reanimation color. Other colors recur creatures with conditions (Sun Titan brings back permanents costing 3 or less; Karmic Guide brings back a creature with vigilance and protection from black, costing 5 mana). Black just casts Reanimate. One mana. Any creature in any graveyard. Onto your battlefield.
+
+![Reanimate, the one-mana black sorcery that returns any creature from any graveyard to the battlefield for life.](/images/blog/magic-the-gathering/best-black-cards-magic-the-gathering/reanimate.jpg)
 
 Reanimate is the headliner. One black mana to return any creature in any graveyard, lose life equal to its mana value. That is the entire card. In a format with Griselbrand and Atraxa and every other bomb-shell creature ever printed, paying 1 mana plus 7 life to put Griselbrand into play is one of the most powerful sequences in Magic.
 

@@ -14,6 +14,23 @@ export const timelineOfFateUpdateGuide: BlogPost = {
   featuredImagePrompt:
     'Cookie Run Kingdom Timeline of Fate v7.4 patch banner, Timekeeper Cookie and Ash Salt Cookie standing in a fractured timeline rift, swirling clock-gear energy, the Ash-Bound Soul region in the background, cinematic painterly art, purple gold and ash-grey palette',
 
+  heroImage: '/images/blog/cookie-run-kingdom/timeline-of-fate-update-guide/ash-salt-cookie.webp',
+  heroImageAlt:
+    'Ash Salt Cookie, the v7.4 Epic debuffer whose corrosion kit strips revive shields in the Ash-Bound Soul region.',
+  imageSources: [
+    {
+      src: '/images/blog/cookie-run-kingdom/timeline-of-fate-update-guide/ash-salt-cookie.webp',
+      sourceUrl: 'https://cookierunkingdom.fandom.com/wiki/Ash_Salt_Cookie',
+      license: 'Fandom CC-BY-SA',
+    },
+    {
+      src: '/images/blog/cookie-run-kingdom/timekeeper-toppings/timekeeper-cookie.webp',
+      sourceUrl: 'https://cookierunkingdom.fandom.com/wiki/Timekeeper_Cookie',
+      license: 'Fandom CC-BY-SA',
+    },
+    { src: '/images/cookies/pure-vanilla-cookie.png', sourceUrl: 'owned-asset' },
+  ],
+
   publishDate: '2026-05-23T00:00:00.000Z',
   lastUpdated: '2026-05-23T00:00:00.000Z',
 
@@ -66,6 +83,11 @@ The patch shipped with:
 There is also a quietly important schedule change: Devsisters reportedly moved main-story drops from a **4-week cycle to a 2-week cycle** with Act 2. If you have been waiting for "the next big patch" before logging back in, that window just got cut in half.
 
 ## New Cookies: Timekeeper & Ash Salt
+
+![Timekeeper Cookie render, the v7.4 anti-revive Legendary Magic DPS and headline new Cookie](/images/blog/cookie-run-kingdom/timekeeper-toppings/timekeeper-cookie.webp)
+
+![Ash Salt Cookie render, the v7.4 Epic debuffer with a Legendary-quality corrosion kit](/images/blog/cookie-run-kingdom/timeline-of-fate-update-guide/ash-salt-cookie.webp)
+
 The two debut Cookies are both meta-relevant, which is rarer than it sounds — most patches ship one keeper and one filler.
 
 | Cookie | Rarity | Role | Why she matters |
@@ -82,6 +104,9 @@ For the full ranking context, the [CRK May 2026 tier list](/blog/cookie-run-king
 > **Tip:** Pull Timekeeper *before* you chase Ash Salt. Timekeeper changes your Arena ceiling. Ash Salt is a quality-of-life upgrade. If you only have pulls for one, the Legendary is the correct call.
 
 ## The 6-Star Legendary growth system, explained
+
+![Pure Vanilla Cookie render, one of the strong-base-kit Legendaries whose 6-star passive is fight-defining](/images/cookies/pure-vanilla-cookie.png)
+
 This is the change with the longest-tail impact. Before v7.4, the maximum Legendary growth tier was 5-star. With Act 2, that ceiling moved to 6-star — and the gap between a 5-star and 6-star Legendary is genuinely large, not cosmetic.
 
 Practically, that means:

@@ -14,6 +14,20 @@ export const guildBattleTeams: BlogPost = {
   featuredImagePrompt:
     'A widescreen Cookie Run: Kingdom Guild Battle scene with four boss silhouettes (a red dragon, a celestial avatar, a mechanical god, and a void abyss) facing off against a glowing five-cookie team formation, lit in candy-neon colors against a dark cosmic background — vibrant, cinematic, no text overlays.',
 
+  heroImage: '/images/cookies/pomegranate-cookie.png',
+  heroImageAlt:
+    'Pomegranate Cookie, the Poison-amplifying DPS anchor for the Red Velvet Dragon Guild Battle comp in CRK.',
+  imageSources: [
+    { src: '/images/cookies/pomegranate-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/seltzer-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/dark-enchantress-cookie.png', sourceUrl: 'owned-asset' },
+    {
+      src: '/images/blog/cookie-run-kingdom/kingdom-arena-meta-team/sugar-swan-cookie.webp',
+      sourceUrl: 'https://cookierunkingdom.fandom.com/wiki/Sugar_Swan_Cookie',
+      license: 'Fandom CC-BY-SA',
+    },
+  ],
+
   publishDate: '2026-05-23T00:00:00.000Z',
   lastUpdated: '2026-05-23T00:00:00.000Z',
 
@@ -79,6 +93,9 @@ Each boss has a "soft cap" — a damage threshold past which scaling drops sharp
 > **Warning:** If your Battle Power is more than 30% below the recommended threshold, your damage gets _heavily_ penalized regardless of skill execution. Level cookies and gear toppings before chasing top comps.
 
 ## Red Velvet Dragon — Poison comp
+
+![Pomegranate Cookie render, the Poison-damage amplifier that is the real damage source against Red Velvet Dragon](/images/cookies/pomegranate-cookie.png)
+
 Red Velvet Dragon is the original Guild Battle boss and still one of the most lopsided in terms of element advantage. He takes massively amplified damage from **Poison stacks**, which is why the canonical comp packs two Poison-applying cookies plus a tank that survives the breath phases.
 
 | Position | Cookie | Role | Notes |
@@ -94,6 +111,9 @@ Red Velvet Dragon is the original Guild Battle boss and still one of the most lo
 > **Tip:** If your Pomegranate Cookie is below 6-star, lean harder on Poison Mushroom's uptime instead of trying to burst with Pom. The DoT floor on Red Velvet Dragon is more forgiving than the burst ceiling.
 
 ## Avatar of Destiny — Sustain comp
+
+![Sugar Swan Cookie render, the single-target healer anchor that carries the Avatar of Destiny drain phases](/images/blog/cookie-run-kingdom/kingdom-arena-meta-team/sugar-swan-cookie.webp)
+
 Avatar of Destiny is the Guild Battle's sustain check — repeated HP-drain windows that wipe under-healed teams in seconds. The comp is structured around keeping a single front-line tank alive through the worst windows while two DPS cookies pump damage uninterrupted.
 
 | Position | Cookie | Role | Notes |
@@ -109,6 +129,9 @@ The trick on Avatar of Destiny is that Sugar Swan and Millennial Tree's heals **
 > **Tip:** [Pure Vanilla Cookie](/gear-guide/pure-vanilla-cookie) is a hard substitute in for the Sugar Swan slot if you don't have her, but his shield is reactive rather than proactive — expect a 10-15% score drop on the same roster.
 
 ## Machine-God — Stinging Fizz comp
+
+![Seltzer Cookie render, the Epic Bomber half of the Stinging Fizz combo that out-scores Legendary teams on Machine-God](/images/cookies/seltzer-cookie.png)
+
 The "Stinging Fizz" comp is the highest-ceiling team in Guild Battle right now and the cleanest example of why pair synergy matters more than raw rarity. **Seltzer Cookie** (Epic Bomber, released in v6.8) and **Menthol Cookie** (Epic Support) buff each other on every skill rotation, producing a damage loop that out-scores Legendary-only teams against Machine-God.
 
 | Position | Cookie | Role | Notes |
@@ -124,6 +147,9 @@ The rotation order is what makes Stinging Fizz tick: **Menthol opens, Seltzer fo
 > **Warning:** Stinging Fizz is finicky on auto. Manual the first 20 seconds at minimum to land the opening Menthol → Seltzer → buff loop; you can let auto coast the back half if you need to. Expect a 20-30% score gap between manual and full-auto on the same comp.
 
 ## Living Abyss — Standard comp
+
+![Dark Enchantress Cookie render, the Chaos DPS and debuffer that anchors the Living Abyss comp](/images/cookies/dark-enchantress-cookie.png)
+
 Living Abyss is the newest of the four Guild Battle bosses and the meta on it is still shifting. The widely-accepted core right now is a Chaos-leaning team that stacks debuffs and uses Timekeeper to lock the boss's heavier-hitting phases.
 
 | Position | Cookie | Role | Notes |

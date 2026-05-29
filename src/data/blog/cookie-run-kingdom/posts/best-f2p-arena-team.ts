@@ -12,6 +12,14 @@ export const bestF2pArenaTeam: BlogPost = {
     'The meta arena comp needs three Legendaries you do not own. This one needs zero, loses about two ranks of ceiling, and costs you exactly nothing in crystals.',
   featuredImagePrompt:
     'A Cookie Run: Kingdom arena lineup of five cookies — Hollyberry, Black Sapphire, Pavlova, Ash Salt, Pure Vanilla — standing on a Kingdom Arena platform with soft gold light, no Legendary glow effects, painterly chibi style, banner aspect ratio.',
+  heroImage: '/images/cookies/hollyberry-cookie.png',
+  heroImageAlt: 'Hollyberry Cookie, the Ancient front tank anchoring the F2P Diamond-tier Kingdom Arena comp with no Legendary pulls.',
+  imageSources: [
+    { src: '/images/cookies/hollyberry-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/black-sapphire-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/pavlova-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/pure-vanilla-cookie.png', sourceUrl: 'owned-asset' },
+  ],
   publishDate: '2026-05-24T00:00:00.000Z',
   lastUpdated: '2026-05-24T00:00:00.000Z',
   primaryKeyword: 'best f2p arena team CRK',
@@ -79,17 +87,23 @@ Black Sapphire is the secret sauce. Her defense shred lets Pavlova's burst overs
 
 ### Hollyberry Cookie (front tank)
 
+![Hollyberry Cookie, the Ancient front tank built to soak damage and pair with Pure Vanilla in the F2P arena comp.](/images/cookies/hollyberry-cookie.png)
+
 Build her as a tank, not a bruiser. You want her to soak, not punch. Aim for her Awakened soulstones if you can swing it, but a non-Awakened Hollyberry with proper toppings still does the job at Diamond. See the full build on her [gear guide page](/gear-guide/hollyberry-cookie).
 
 Skill priority: Skill level matters less for her than for the DPS. Stop at level 9 if you are short on level-ups and feed Pavlova instead.
 
 ### Black Sapphire Cookie (front bruiser)
 
+![Black Sapphire Cookie, the Super Epic front bruiser whose defense shred lets Pavlova overshoot her damage in arena.](/images/cookies/black-sapphire-cookie.png)
+
 She is the second-front, not a tank. Her job is to land her debuff on the enemy backline, eat one rotation of damage, and then keep auto-attacking through it. Full build details live on her [gear guide page](/gear-guide/black-sapphire-cookie).
 
 The most common mistake here is building her like a DPS. She is not. Her contribution is the defense shred and the ATK SPD slow on enemy front. Treat her stats like a support.
 
 ### Pavlova Cookie (mid magic DPS)
+
+![Pavlova Cookie, the highest-output Epic magic DPS in CRK and the damage carry of the F2P arena comp.](/images/cookies/pavlova-cookie.png)
 
 This is where 70% of your investment goes. Pavlova is your damage. If she does not burst, you lose, because nothing else on this team scales with toppings the way she does. Build her per the [Pavlova gear guide](/gear-guide/pavlova-cookie) and prioritize her topping sub-stats above every other cookie on the roster.
 
@@ -102,6 +116,8 @@ Ash Salt is the cookie that makes this comp work above Platinum. Her debuff hits
 Drop her in mid behind Black Sapphire. Front would get her killed before she fires, and back would put her too far from the actual debuff trigger.
 
 ### Pure Vanilla Cookie (back healer)
+
+![Pure Vanilla Cookie, the Ancient back-line healer and permanent F2P fixture providing sustain for the arena comp.](/images/cookies/pure-vanilla-cookie.png)
 
 Standard healer build. Heal output toppings, prioritize his ult cooldown, and you are done. The [Pure Vanilla gear guide](/gear-guide/pure-vanilla-cookie) covers the topping breakdown. He is a permanent fixture on most F2P teams for the next eighteen months, so this investment never goes stale.
 

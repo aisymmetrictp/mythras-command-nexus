@@ -12,6 +12,15 @@ export const beastCookiesRankedWorthPulling: BlogPost = {
     "Beast Cookies are the most opaque investment in CRK. Six months to soulstone one, and only half of them are actually worth the wait. Here is how they rank.",
   featuredImagePrompt:
     'Five Beast Cookies (Silent Salt, Eternal Sugar, Burning Spice, Mystic Flour, Shadow Milk) arranged on a glowing tier list podium with the Beast-Yeast continent backdrop, dark fantasy art style, gold and crimson lighting',
+  heroImage: '/images/cookies/silent-salt-cookie.png',
+  heroImageAlt: 'Silent Salt Cookie, the S+ Ambush Beast Cookie whose anti-revive field makes him the only must-pull Beast in CRK.',
+  imageSources: [
+    { src: '/images/cookies/silent-salt-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/eternal-sugar-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/burning-spice-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/mystic-flour-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/shadow-milk-cookie.png', sourceUrl: 'owned-asset' },
+  ],
   publishDate: '2026-05-24T00:00:00.000Z',
   lastUpdated: '2026-05-24T00:00:00.000Z',
   primaryKeyword: 'beast cookies tier list crk',
@@ -72,6 +81,8 @@ If you only read one row of this post, read the top one. Silent Salt is the only
 
 ## Silent Salt — the only must-pull
 
+![Silent Salt Cookie, the S+ Ambush Beast whose anti-revive debuff field deletes enemy revives permanently.](/images/cookies/silent-salt-cookie.png)
+
 Silent Salt released in v6.9 (September 2025) and has not given up the S+ slot since. The kit is dead simple to explain and miserable to fight: enemies killed inside Silent Salt's debuff field cannot be revived.
 
 In a meta where Pure Vanilla, Cream Unicorn, and basically every modern Healing Cookie has some form of revive insurance, killing the revive itself is the loudest possible answer. Arena teams that used to chain three revives now eat one Silent Salt ult and lose the entire backline permanently. Guild Battle DPS checks that relied on res-bait cheese strategies got deleted the week she dropped.
@@ -86,6 +97,8 @@ The catch is the Magic Candy timeline. Without Beast Magic Candy, Silent Salt's 
 For more context on where she slots into competitive comps, our [Kingdom Arena meta team breakdown](/blog/cookie-run-kingdom/kingdom-arena-meta-team) walks through the current top 100 comps using her. The [Silent Salt gear guide](/gear-guide/silent-salt-cookie) covers the topping setup.
 
 ## Eternal Sugar — dropping but still relevant
+
+![Eternal Sugar Cookie, the S-tier Magic Beast whose time-manipulation and AoE damage carried the meta before Timekeeper releases.](/images/cookies/eternal-sugar-cookie.png)
 
 Eternal Sugar (v6.4, May 2025) was the previous undisputed S+ Beast. She is still excellent. She is also visibly losing ground as the Timekeeper-aligned Cookies edge into the meta, because her time-manipulation mechanic stops being unique when half a dozen new releases also play with action speed and turn order.
 
@@ -107,11 +120,15 @@ These three are the original Beast trio. They were terrifying on release. The me
 
 ### Burning Spice
 
+![Burning Spice Cookie, the B+ Charge Beast whose DoT field hits hard but lacks a defensive layer in the 2026 meta.](/images/cookies/burning-spice-cookie.png)
+
 Beast Charge type, the original "frontline you cannot ignore" Beast. The kit hits like a truck and applies a strong DoT field. The problem is that modern Charge Cookies have caught up in raw damage while bringing better utility, and Burning Spice's lack of a defensive layer means he gets shredded by current Ambush DPS before his ult even lands.
 
 He is still strong in low-to-mid PvE. He is still fun. He is no longer worth a Beast-tier investment when a built [Burning Spice topping setup](/gear-guide/burning-spice-cookie) only takes you so far. **B+** today, dropping further every patch.
 
 ### Mystic Flour
+
+![Mystic Flour Cookie, the A-tier Magic Beast and PvE single-target burst workhorse for Cake Tower and Beast Raid.](/images/cookies/mystic-flour-cookie.png)
 
 The PvE DPS workhorse. Mystic Flour still puts up huge numbers in single-target burst fights, and she remains a strong pick for Beast Raid clears against the older Beast bosses. Her Arena utility is the issue. The kit was designed before defensive Cookies started carrying built-in shred resist, and her ult feels increasingly easy to interrupt.
 

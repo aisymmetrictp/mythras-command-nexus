@@ -13,6 +13,30 @@ export const bestBudgetCommanderDecksUnder100: BlogPost = {
     'A $100 Commander deck beats a half-built premium deck most nights. The premium cost lives in the mana base, not the wincons. Here are seven $100-or-under builds that actually win games.',
   featuredImagePrompt:
     'A tabletop scene with seven open Magic the Gathering Commander decks fanned out, each with a different legendary commander card on top (Krenko, Talrand, Edgar Markov, Lathril, Wilhelt, Slimefoot, Sliver Overlord), painterly fantasy MTG art style, warm tavern lighting, stacks of basic lands and dice in the background',
+  heroImage: '/images/blog/magic-the-gathering/best-budget-commander-decks-under-100/edgar-markov.jpg',
+  heroImageAlt: 'Edgar Markov, the Mardu vampire commander whose eminence ability anchors a budget vampire tribal deck.',
+  imageSources: [
+    {
+      src: '/images/blog/magic-the-gathering/best-budget-commander-decks-under-100/edgar-markov.jpg',
+      sourceUrl: 'https://scryfall.com/card/inr/234/edgar-markov',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/best-budget-commander-decks-under-100/krenko-mob-boss.jpg',
+      sourceUrl: 'https://scryfall.com/card/fdn/204/krenko-mob-boss',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/best-budget-commander-decks-under-100/talrand-sky-summoner.jpg',
+      sourceUrl: 'https://scryfall.com/card/otc/116/talrand-sky-summoner',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+    {
+      src: '/images/blog/magic-the-gathering/best-budget-commander-decks-under-100/lathril-blade-of-the-elves.jpg',
+      sourceUrl: 'https://scryfall.com/card/fdn/242/lathril-blade-of-the-elves',
+      license: 'WotC Fan Content Policy / Scryfall',
+    },
+  ],
 
   publishDate: '2026-05-27T00:00:00.000Z',
   lastUpdated: '2026-05-27T00:00:00.000Z',
@@ -76,6 +100,8 @@ One or two splash cards are fine if a deck genuinely needs them. Edgar Markov de
 
 ## Krenko Mono-Red Goblins under $80
 
+![Krenko, Mob Boss, the mono-red goblin commander that doubles your token army every time he taps.](/images/blog/magic-the-gathering/best-budget-commander-decks-under-100/krenko-mob-boss.jpg)
+
 **Commander:** Krenko, Mob Boss
 **Total cost:** ~$75-80 [Verify current prices]
 
@@ -96,6 +122,8 @@ One or two splash cards are fine if a deck genuinely needs them. Edgar Markov de
 **$50 upgrade priority.** Goblin Recruiter for tutoring effects, Skullclamp for card draw off your 1/1 tokens, and a Sol Ring if your precon did not include one. Skullclamp alone is worth its weight in mana.
 
 ## Talrand Mono-Blue Spellslinger under $90
+
+![Talrand, Sky Summoner, the mono-blue commander that makes a 2/2 flying Drake for every instant or sorcery you cast.](/images/blog/magic-the-gathering/best-budget-commander-decks-under-100/talrand-sky-summoner.jpg)
 
 **Commander:** Talrand, Sky Summoner
 **Total cost:** ~$85-90 [Verify current prices]
@@ -118,6 +146,8 @@ One or two splash cards are fine if a deck genuinely needs them. Edgar Markov de
 
 ## Edgar Markov Mardu Vampires under $100
 
+![Edgar Markov, the Mardu vampire commander whose eminence ability spawns a 1/1 vampire every time you cast a vampire.](/images/blog/magic-the-gathering/best-budget-commander-decks-under-100/edgar-markov.jpg)
+
 **Commander:** Edgar Markov
 **Total cost:** ~$95-100 [Verify current prices]
 
@@ -138,6 +168,8 @@ One or two splash cards are fine if a deck genuinely needs them. Edgar Markov de
 **$50 upgrade priority.** Vampiric Tutor is the obvious one [Verify current price — premium], but if it is out of range, grab Necropotence, a basic Phyrexian Arena, and a Sol Ring. Edgar's plan is consistent enough that pure card draw is the highest-impact upgrade.
 
 ## Lathril Elves under $70
+
+![Lathril, Blade of the Elves, the mono-green elf commander that taps ten elves to drain each opponent for ten life.](/images/blog/magic-the-gathering/best-budget-commander-decks-under-100/lathril-blade-of-the-elves.jpg)
 
 **Commander:** Lathril, Blade of the Elves
 **Total cost:** ~$65-70 [Verify current prices]

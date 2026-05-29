@@ -15,6 +15,11 @@ export async function generateMetadata({ params }: { params: Promise<{ game: str
 
   const url = `https://gamertagmythras.com/blog/${post.game}/${post.slug}`;
 
+  // Hero image powers the social card. Relative paths resolve against
+  // metadataBase (set in the root layout). Fall back to the site logo so every
+  // post still ships a valid summary_large_image card even before backfill.
+  const ogImage = post.heroImage ?? '/images/mythras-logo-new.png';
+
   return {
     title: post.title,
     description: post.metaDescription,
@@ -26,8 +31,14 @@ export async function generateMetadata({ params }: { params: Promise<{ game: str
       type: 'article',
       publishedTime: post.publishDate,
       modifiedTime: post.lastUpdated,
+      images: [{ url: ogImage, alt: post.heroImageAlt ?? post.title }],
     },
-    twitter: { title: post.title, description: post.metaDescription, card: 'summary_large_image' },
+    twitter: {
+      title: post.title,
+      description: post.metaDescription,
+      card: 'summary_large_image',
+      images: [ogImage],
+    },
     alternates: { canonical: url },
   };
 }
