@@ -2,7 +2,15 @@ import Link from 'next/link';
 import type { BlogPost } from '@/data/blog/blogTypes';
 import { getCategoryBySlug } from '@/data/blog/categories';
 
-type Props = { post: BlogPost; gameSlug: string };
+// Only the fields the card actually renders. Accepting a Pick (rather than the
+// full BlogPost) lets the client-side BlogBrowser pass slim post objects without
+// shipping every post's `content` markdown into the client bundle.
+export type BlogCardPost = Pick<
+  BlogPost,
+  'slug' | 'category' | 'title' | 'excerpt' | 'publishDate' | 'readingTimeMin'
+>;
+
+type Props = { post: BlogCardPost; gameSlug: string };
 
 function formatDate(iso: string): string {
   return new Date(iso).toLocaleDateString('en-US', {

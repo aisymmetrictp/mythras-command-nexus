@@ -21,6 +21,16 @@ export const GAMES: Game[] = [
     accentColor: '#D4A853',
     active: true,
   },
+  {
+    slug: 'cookie-run-braverse-tcg',
+    name: 'Cookie Run: Braverse',
+    shortName: 'Braverse',
+    description:
+      'Devsisters\' Cookie Run trading card game — a fast-to-learn two-player TCG. Starter deck rankings, deck-building basics, the five colors, the FLIP mechanic, set reviews, collecting guides, and competitive archetypes.',
+    icon: '🎴',
+    accentColor: '#D4A853',
+    active: true,
+  },
 ];
 
 export function getGameBySlug(slug: string): Game | undefined {

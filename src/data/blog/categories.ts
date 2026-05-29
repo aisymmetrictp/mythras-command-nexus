@@ -62,6 +62,12 @@ export const BLOG_CATEGORIES: BlogCategory[] = [
     description: 'New set previews, mechanics breakdowns, precon reviews, draft archetypes.',
     icon: '✨',
   },
+  {
+    slug: 'collector-product',
+    name: 'Collector & Product',
+    description: 'Rarity guides, booster box value, promo tracking, product comparisons, storage, and clearly-labeled speculation.',
+    icon: '💎',
+  },
 ];
 
 export function getCategoryBySlug(slug: string): BlogCategory | undefined {

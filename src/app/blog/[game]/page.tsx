@@ -2,8 +2,9 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { ACTIVE_GAMES, getGameBySlug } from '@/data/blog/games';
-import { getPostsByGame, groupPostsByMonth } from '@/data/blog/blogIndex';
-import BlogCard from '@/components/blog/BlogCard';
+import { getPostsByGame, getTagsForGame } from '@/data/blog/blogIndex';
+import { BLOG_CATEGORIES } from '@/data/blog/categories';
+import BlogBrowser, { type BrowsePost } from '@/components/blog/BlogBrowser';
 import { BreadcrumbSchema, WebPageSchema } from '@/components/StructuredData';
 
 export function generateStaticParams() {
@@ -35,8 +36,28 @@ export default async function GameBlogHubPage({ params }: { params: Promise<{ ga
   if (!g) notFound();
 
   const posts = getPostsByGame(g.slug);
-  const months = groupPostsByMonth(posts);
   const url = `https://gamertagmythras.com/blog/${g.slug}`;
+
+  // Slim payload for the client browser — no `content` markdown shipped to the client.
+  const browsePosts: BrowsePost[] = posts.map(p => ({
+    slug: p.slug,
+    category: p.category,
+    title: p.title,
+    excerpt: p.excerpt,
+    publishDate: p.publishDate,
+    readingTimeMin: p.readingTimeMin,
+    tags: p.tags,
+  }));
+
+  // Categories present in this game, in canonical order, with counts.
+  const categories = BLOG_CATEGORIES.map(c => ({
+    slug: c.slug,
+    name: c.name,
+    icon: c.icon,
+    count: posts.filter(p => p.category === c.slug).length,
+  })).filter(c => c.count > 0);
+
+  const tags = getTagsForGame(g.slug);
 
   return (
     <>
@@ -69,27 +90,12 @@ export default async function GameBlogHubPage({ params }: { params: Promise<{ ga
         </div>
       </section>
 
-      {months.length === 0 ? (
+      {posts.length === 0 ? (
         <section className="max-w-5xl mx-auto px-4 sm:px-6 py-20 text-center">
           <p className="text-[#9999aa]">No articles published yet. Check back soon.</p>
         </section>
       ) : (
-        months.map(month => (
-          <section key={month.key} className="max-w-5xl mx-auto px-4 sm:px-6 mb-14">
-            <div id={month.key} className="flex items-center gap-3 mb-6 scroll-mt-24">
-              <h2 className="text-2xl md:text-3xl font-bold text-white" style={{ fontFamily: 'var(--font-display)' }}>
-                {month.label}
-              </h2>
-              <div className="h-px flex-1 bg-gradient-to-r from-[#D4A853]/30 to-transparent" />
-              <span className="text-xs text-[#9999aa]">{month.posts.length} {month.posts.length === 1 ? 'post' : 'posts'}</span>
-            </div>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
-              {month.posts.map(post => (
-                <BlogCard key={post.slug} post={post} gameSlug={g.slug} />
-              ))}
-            </div>
-          </section>
-        ))
+        <BlogBrowser gameSlug={g.slug} posts={browsePosts} categories={categories} tags={tags} />
       )}
     </>
   );

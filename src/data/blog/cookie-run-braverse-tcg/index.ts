@@ -1,0 +1,20 @@
+import type { BlogPost } from '../blogTypes';
+import { howToPlayBraverse } from './posts/how-to-play-cookie-run-braverse';
+import { braverseColorsExplained } from './posts/cookie-run-braverse-colors-explained';
+import { braverseDeckBuildingBasics } from './posts/cookie-run-braverse-deck-building-basics';
+import { bestBraverseStarterDeck } from './posts/best-cookie-run-braverse-starter-deck';
+import { braverseRaritiesCollectingGuide } from './posts/cookie-run-braverse-rarities-collecting-guide';
+import { braverseSetsReleaseTimeline } from './posts/cookie-run-braverse-sets-release-timeline';
+import { braverseBeginnerMistakes } from './posts/cookie-run-braverse-beginner-mistakes';
+import { braverseDeckArchetypes } from './posts/cookie-run-braverse-deck-archetypes';
+
+export const BRAVERSE_POSTS: BlogPost[] = [
+  howToPlayBraverse,
+  braverseColorsExplained,
+  braverseDeckBuildingBasics,
+  bestBraverseStarterDeck,
+  braverseRaritiesCollectingGuide,
+  braverseSetsReleaseTimeline,
+  braverseBeginnerMistakes,
+  braverseDeckArchetypes,
+];

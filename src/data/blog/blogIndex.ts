@@ -1,8 +1,9 @@
 import type { BlogPost, BlogPostListItem } from './blogTypes';
 import { CRK_POSTS } from './cookie-run-kingdom';
 import { MTG_POSTS } from './magic-the-gathering';
+import { BRAVERSE_POSTS } from './cookie-run-braverse-tcg';
 
-export const ALL_POSTS: BlogPost[] = [...CRK_POSTS, ...MTG_POSTS].sort(
+export const ALL_POSTS: BlogPost[] = [...CRK_POSTS, ...MTG_POSTS, ...BRAVERSE_POSTS].sort(
   (a, b) => new Date(b.publishDate).getTime() - new Date(a.publishDate).getTime()
 );
 
@@ -21,6 +22,29 @@ export function getRelatedPosts(post: BlogPost, limit = 3): BlogPost[] {
       p.slug !== post.slug &&
       (p.category === post.category || p.topicCluster === post.topicCluster)
   ).slice(0, limit);
+}
+
+export function getPostsByCategory(gameSlug: string, category: string): BlogPost[] {
+  return ALL_POSTS.filter(p => p.game === gameSlug && p.category === category);
+}
+
+/** Category slugs that actually have at least one post for this game. */
+export function getCategorySlugsForGame(gameSlug: string): string[] {
+  const set = new Set<string>();
+  for (const p of ALL_POSTS) if (p.game === gameSlug) set.add(p.category);
+  return [...set];
+}
+
+/** Tags present across a game's posts, with counts, sorted alphabetically. */
+export function getTagsForGame(gameSlug: string): { tag: string; count: number }[] {
+  const counts = new Map<string, number>();
+  for (const p of ALL_POSTS) {
+    if (p.game !== gameSlug || !p.tags) continue;
+    for (const t of p.tags) counts.set(t, (counts.get(t) ?? 0) + 1);
+  }
+  return [...counts.entries()]
+    .map(([tag, count]) => ({ tag, count }))
+    .sort((a, b) => a.tag.localeCompare(b.tag));
 }
 
 export function toListItem(p: BlogPost): BlogPostListItem {
