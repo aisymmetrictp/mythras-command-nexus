@@ -13,6 +13,9 @@ import { bestBudgetCommanderDecksUnder100 } from './posts/best-budget-commander-
 import { bestRemovalSpellsMtg } from './posts/best-removal-spells-mtg';
 import { mtgDeckArchetypesExplained } from './posts/mtg-deck-archetypes-explained';
 import { howToBuildACommanderDeck } from './posts/how-to-build-a-commander-deck';
+import { bestManaRocksCommanderMtg } from './posts/best-mana-rocks-commander-mtg';
+import { bestPlaneswalkersMtg } from './posts/best-planeswalkers-magic-the-gathering';
+import { mtgMulliganGuideLondonMulligan } from './posts/mtg-mulligan-guide-london-mulligan';
 
 export const MTG_POSTS: BlogPost[] = [
   bestWhiteCardsMtg,
@@ -29,4 +32,7 @@ export const MTG_POSTS: BlogPost[] = [
   bestRemovalSpellsMtg,
   mtgDeckArchetypesExplained,
   howToBuildACommanderDeck,
+  bestManaRocksCommanderMtg,
+  bestPlaneswalkersMtg,
+  mtgMulliganGuideLondonMulligan,
 ];

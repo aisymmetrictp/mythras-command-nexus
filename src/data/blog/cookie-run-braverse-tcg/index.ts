@@ -7,6 +7,9 @@ import { braverseRaritiesCollectingGuide } from './posts/cookie-run-braverse-rar
 import { braverseSetsReleaseTimeline } from './posts/cookie-run-braverse-sets-release-timeline';
 import { braverseBeginnerMistakes } from './posts/cookie-run-braverse-beginner-mistakes';
 import { braverseDeckArchetypes } from './posts/cookie-run-braverse-deck-archetypes';
+import { bestRedCardsBraverse } from './posts/best-red-cards-cookie-run-braverse';
+import { budgetBraverseDeck } from './posts/budget-cookie-run-braverse-deck';
+import { braverseCardTypesExplained } from './posts/cookie-run-braverse-card-types-explained';
 
 export const BRAVERSE_POSTS: BlogPost[] = [
   howToPlayBraverse,
@@ -17,4 +20,7 @@ export const BRAVERSE_POSTS: BlogPost[] = [
   braverseSetsReleaseTimeline,
   braverseBeginnerMistakes,
   braverseDeckArchetypes,
+  bestRedCardsBraverse,
+  budgetBraverseDeck,
+  braverseCardTypesExplained,
 ];

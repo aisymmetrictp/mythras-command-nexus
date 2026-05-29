@@ -21,6 +21,9 @@ import { darkEnchantressCookieToppingsBuild } from './posts/dark-enchantress-coo
 import { bestCrkDpsCookiesRanked } from './posts/best-crk-dps-cookies-ranked';
 import { crkToppingsGuide } from './posts/crk-toppings-guide';
 import { sugarSwanCookieToppingsBuild } from './posts/sugar-swan-cookie-toppings-build';
+import { beascuitTierList } from './posts/beascuit-tier-list';
+import { beastYeastBossCounters } from './posts/beast-yeast-boss-counters';
+import { f2pCrystalOptimization } from './posts/f2p-crystal-optimization';
 
 export const CRK_POSTS: BlogPost[] = [
   crkCodes,
@@ -45,4 +48,7 @@ export const CRK_POSTS: BlogPost[] = [
   bestCrkDpsCookiesRanked,
   crkToppingsGuide,
   sugarSwanCookieToppingsBuild,
+  beascuitTierList,
+  beastYeastBossCounters,
+  f2pCrystalOptimization,
 ];
