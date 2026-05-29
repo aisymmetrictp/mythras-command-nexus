@@ -10,6 +10,9 @@ import { secretsOfStrixhavenBestStandardCards } from './posts/secrets-of-strixha
 import { bestLandsCommanderMtg } from './posts/best-lands-commander-mtg';
 import { mtgCommanderFormatGuideHowToStart } from './posts/mtg-commander-format-guide-how-to-start';
 import { bestBudgetCommanderDecksUnder100 } from './posts/best-budget-commander-decks-under-100';
+import { bestRemovalSpellsMtg } from './posts/best-removal-spells-mtg';
+import { mtgDeckArchetypesExplained } from './posts/mtg-deck-archetypes-explained';
+import { howToBuildACommanderDeck } from './posts/how-to-build-a-commander-deck';
 
 export const MTG_POSTS: BlogPost[] = [
   bestWhiteCardsMtg,
@@ -23,4 +26,7 @@ export const MTG_POSTS: BlogPost[] = [
   bestLandsCommanderMtg,
   mtgCommanderFormatGuideHowToStart,
   bestBudgetCommanderDecksUnder100,
+  bestRemovalSpellsMtg,
+  mtgDeckArchetypesExplained,
+  howToBuildACommanderDeck,
 ];

@@ -169,6 +169,24 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://gamertagmythras.com/blog/cookie-run-kingdom/best-crk-dps-cookies-ranked</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://gamertagmythras.com/blog/cookie-run-kingdom/crk-toppings-guide</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://gamertagmythras.com/blog/cookie-run-kingdom/sugar-swan-cookie-toppings-build</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://gamertagmythras.com/blog/magic-the-gathering</loc>
     <lastmod>2026-05-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -237,6 +255,24 @@
   <url>
     <loc>https://gamertagmythras.com/blog/magic-the-gathering/best-budget-commander-decks-under-100</loc>
     <lastmod>2026-05-27</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://gamertagmythras.com/blog/magic-the-gathering/best-removal-spells-mtg</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://gamertagmythras.com/blog/magic-the-gathering/mtg-deck-archetypes-explained</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://gamertagmythras.com/blog/magic-the-gathering/how-to-build-a-commander-deck</loc>
+    <lastmod>2026-05-28</lastmod>
     <changefreq>quarterly</changefreq>
     <priority>0.9</priority>
   </url>

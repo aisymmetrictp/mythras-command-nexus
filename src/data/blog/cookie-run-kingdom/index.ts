@@ -18,6 +18,9 @@ import { crkBeginnerMistakesToAvoid } from './posts/crk-beginner-mistakes-to-avo
 import { bestCrkHealersRanked } from './posts/best-crk-healers-ranked';
 import { crkMagicCandyPriorityGuide } from './posts/crk-magic-candy-priority-guide';
 import { darkEnchantressCookieToppingsBuild } from './posts/dark-enchantress-cookie-toppings-build';
+import { bestCrkDpsCookiesRanked } from './posts/best-crk-dps-cookies-ranked';
+import { crkToppingsGuide } from './posts/crk-toppings-guide';
+import { sugarSwanCookieToppingsBuild } from './posts/sugar-swan-cookie-toppings-build';
 
 export const CRK_POSTS: BlogPost[] = [
   crkCodes,
@@ -39,4 +42,7 @@ export const CRK_POSTS: BlogPost[] = [
   bestCrkHealersRanked,
   crkMagicCandyPriorityGuide,
   darkEnchantressCookieToppingsBuild,
+  bestCrkDpsCookiesRanked,
+  crkToppingsGuide,
+  sugarSwanCookieToppingsBuild,
 ];
