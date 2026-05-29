@@ -64,7 +64,7 @@ export const bestRemovalSpellsMtg: BlogPost = {
 
 Removal is the most underbuilt category in casual decks, and it is not close. People will jam 38 lands, a perfect mana rock package, three tutors, and then run four pieces of interaction and wonder why they keep losing to a Craterhoof swing they saw coming two turns out. Your deck does not need more synergy. It needs to be able to say no.
 
-So here is the whole removal toolbox, ranked by color, framed around Commander since that is where most of these cards live. I have noted where the staples are also Modern or Standard legal, because plenty of you are building across formats. Prices and legality shift, so anywhere I cite a number it is tagged [Verify current price] and format windows are tagged [Verify current legality].
+So here is the whole removal toolbox, ranked by color, framed around Commander since that is where most of these cards live. I have noted where the staples are also Modern or Standard legal, because plenty of you are building across formats. Prices and ban lists shift, though, so treat any dollar figure as a rough guide and double-check a card's legal window before you sleeve it up for a sanctioned format.
 
 ## What makes removal good
 
@@ -84,10 +84,10 @@ One more thing, and it is the part casual players skip. **Instant speed is king.
 
 White is the gold standard for cheap, clean removal, and it owns the two best single-target answers in the game.
 
-- **Swords to Plowshares** — 1 mana. Exiles any creature, the controller gains life equal to its power. One white mana, no questions, the creature is gone forever. The lifegain almost never matters in a 40-life pod. [Verify current legality] Modern and Legacy legal.
-- **Path to Exile** — 1 mana. Exiles any creature, the controller may search for a basic land. Functionally a twin of Swords with a ramp drawback instead of a lifegain one. In multiplayer the ramp can sting, so I lean Swords first, but you run both. [Verify current legality] Modern legal.
+- **Swords to Plowshares** — 1 mana. Exiles any creature, the controller gains life equal to its power. One white mana, no questions, the creature is gone forever. The lifegain almost never matters in a 40-life pod. Also Modern and Legacy legal.
+- **Path to Exile** — 1 mana. Exiles any creature, the controller may search for a basic land. Functionally a twin of Swords with a ramp drawback instead of a lifegain one. In multiplayer the ramp can sting, so I lean Swords first, but you run both. Also Modern legal.
 - **Generous Gift** — 3 mana. Destroys any permanent, the controller gets a 3/3. This is white's answer to the "I can only kill creatures" problem. It hits artifacts, enchantments, planeswalkers, and lands. The Beast Within of white.
-- **Farewell** — 6 mana. Modal exile-everything. Pick any combination of artifacts, creatures, enchantments, and graveyards. It is a board wipe and a targeted reset and a graveyard answer in one card. Expensive, but it ends games. [Verify current legality] check before sleeving for any 60-card format.
+- **Farewell** — 6 mana. Modal exile-everything. Pick any combination of artifacts, creatures, enchantments, and graveyards. It is a board wipe and a targeted reset and a graveyard answer in one card. Expensive, but it ends games. Legal across Standard, Pioneer, Modern, and Commander, though it is always worth confirming the window before sleeving up for a 60-card format.
 
 White's whole identity is paying the lowest rate for the cleanest answers. If you are in white and not running Swords and Path, fix that before you do anything else. More on the color's full kit in our [best white cards guide](/blog/magic-the-gathering/best-white-cards-magic-the-gathering).
 
@@ -98,7 +98,7 @@ Blue does not "destroy" much. Blue bounces, transforms, and counters, which is r
 ![Cyclonic Rift, the blue instant whose seven-mana overload bounces every nonland permanent your opponents control.](/images/blog/magic-the-gathering/best-removal-spells-mtg/cyclonic-rift.jpg)
 
 - **Pongify / Rapid Hybridization** — 1 mana each. Destroy target creature, its controller gets a 3/3 (Pongify) or a 3/3 with no abilities (Hybridization). One-mana instant-speed kill spells in blue. They look bad until you point one at someone's voltron Commander and the game just ends for them.
-- **Cyclonic Rift** — 2 mana, or 7 to overload. The seven-mana overload bounces every nonland permanent your opponents control to their hands at instant speed. It is the single most backbreaking blue card in Commander and a soft "I win" button. [Verify current price] consistently one of the priciest blue staples.
+- **Cyclonic Rift** — 2 mana, or 7 to overload. The seven-mana overload bounces every nonland permanent your opponents control to their hands at instant speed. It is the single most backbreaking blue card in Commander and a soft "I win" button. It is consistently one of the priciest blue staples, so check a current retailer before you buy in.
 - **Reality Shift** — 2 mana. Exile target creature, the controller manifests the top card of their library. Exile is the cleanest answer to recursion and indestructible threats, and blue does not get much of it, so this card matters.
 - **Counterspells as removal** — Counterspell, Swan Song, An Offer You Can't Refuse, and friends. Killing a threat on the stack is removal, full stop. The advantage is you answer it before it ever generates value. The cost is you have to hold up mana and read the table.
 
@@ -111,10 +111,10 @@ Black is the color of "kill it, and also I do not care what it is." If you want 
 ![Toxic Deluge, the three-mana black board wipe that gives all creatures minus-X/minus-X and beats indestructible and hexproof.](/images/blog/magic-the-gathering/best-removal-spells-mtg/toxic-deluge.jpg)
 
 - **Bloodchief's Thirst** — 1 mana. Destroy a creature or planeswalker with mana value 2 or less, or kick it for 2 mana to destroy any creature or planeswalker. Early game it kills mana dorks and dorky Commanders, late game it kills anything. Best one-drop removal in the color.
-- **Cut Down** — 1 mana. Destroy target creature with total power and toughness 5 or less. Murders the entire support cast of any deck, dorks, value engines, blockers. Narrow on big threats, lethal on everything else. [Verify current legality] Standard and Pioneer legal.
+- **Cut Down** — 1 mana. Destroy target creature with total power and toughness 5 or less. Murders the entire support cast of any deck, dorks, value engines, blockers. Narrow on big threats, lethal on everything else. Also Standard and Pioneer legal.
 - **Deadly Rollick** — 4 mana, free if you control your Commander. Exile target creature at instant speed, and if your Commander is out you pay nothing. Free exile-based instant-speed removal is absurd, and most Commander decks have their Commander out most of the time.
 - **Toxic Deluge** — 3 mana plus X life. A board wipe that gives each creature -X/-X. It scales, it gets around indestructible, and it kills hexproof. The premier black sweeper and one of the best wraths in the format.
-- **Damnation** — 4 mana. Destroy all creatures, no regeneration. Black's straight Wrath of God. Simple, clean, always good. [Verify current legality] Modern legal.
+- **Damnation** — 4 mana. Destroy all creatures, no regeneration. Black's straight Wrath of God. Simple, clean, always good. Also Modern legal.
 
 Black pays in life and card disadvantage instead of giving opponents value, which in a 40-life format is usually the better deal. See the full kit in our [best black cards guide](/blog/magic-the-gathering/best-black-cards-magic-the-gathering).
 
@@ -122,9 +122,9 @@ Black pays in life and card disadvantage instead of giving opponents value, whic
 
 Red kills by burning, and its real strength is artifact and enchantment hate that other aggressive colors do not get.
 
-- **Lightning Bolt** — 1 mana. Three damage to any target. The best burn spell ever printed, and yes, three damage kills plenty in Commander, especially aimed at dorks, utility creatures, and the occasional low-loyalty planeswalker or face. [Verify current legality] Modern, Pioneer, and Legacy legal.
+- **Lightning Bolt** — 1 mana. Three damage to any target. The best burn spell ever printed, and yes, three damage kills plenty in Commander, especially aimed at dorks, utility creatures, and the occasional low-loyalty planeswalker or face. Also Modern, Pioneer, and Legacy legal.
 - **Chaos Warp** — 3 mana. The controller shuffles target permanent into their library, then reveals the top card and puts it onto the battlefield if it is a permanent. Red's only catch-all answer to enchantments and other permanents it normally cannot touch. Slight gamble on the flip, worth it for the flexibility.
-- **Abrade** — 2 mana. Three damage to a creature OR destroy an artifact. Modality is everything. Half the time it is a Shock, half the time it kills a mana rock or a combo piece. [Verify current legality] Pioneer and Modern legal.
+- **Abrade** — 2 mana. Three damage to a creature OR destroy an artifact. Modality is everything. Half the time it is a Shock, half the time it kills a mana rock or a combo piece. Also Pioneer and Modern legal.
 - **Vandalblast** — 1 mana, or 5 to overload. Destroy target artifact, or overload to destroy every artifact your opponents control. In an artifact-heavy format this is a one-sided sweeper that wrecks rock-based ramp and artifact combo decks.
 
 Red's removal is narrower on big creatures but unmatched at picking off the small stuff and blowing up the artifact and enchantment problems. More in our [best red cards guide](/blog/magic-the-gathering/best-red-cards-magic-the-gathering).
@@ -136,7 +136,7 @@ Green's reputation is that it has no removal. The reputation is twenty years out
 ![Beast Within, the three-mana green instant that destroys any permanent and gives its controller a 3/3 Beast token.](/images/blog/magic-the-gathering/best-removal-spells-mtg/beast-within.jpg)
 
 - **Beast Within** — 3 mana. Destroy any permanent, the controller gets a 3/3. The single most important card a green deck can run. Instant speed, hits literally anything, and the 3/3 drawback is trivial against a Commander or a combo land. If you play green, play this.
-- **Krosan Grip** — 3 mana. Destroy target artifact or enchantment with split second, meaning it cannot be responded to. The split second is the whole point. It answers combo pieces and protective enchantments that other removal gets fizzled around. [Verify current legality] Modern and Legacy legal.
+- **Krosan Grip** — 3 mana. Destroy target artifact or enchantment with split second, meaning it cannot be responded to. The split second is the whole point. It answers combo pieces and protective enchantments that other removal gets fizzled around. Also Modern and Legacy legal.
 - **Fight effects (Prey Upon, Ram Through)** — 1 to 2 mana. Your creature deals damage to a target creature. Prey Upon makes your creature fight theirs, Ram Through deals your trampler's power to a creature with no risk back. Cheap, but they need a body and they do not handle non-creatures.
 - **Return to Nature / Force of Vigor** — green's modal artifact and enchantment answers. Cheap, flexible, and the cards nobody runs enough of right up until someone resolves a Smothering Tithe.
 
@@ -172,13 +172,13 @@ Single-target removal answers one problem. A board wipe answers all of them at o
 | Sunfall | 5 | W | Exiles creatures, makes you an Incubate token |
 | Cyclonic Rift (overload) | 7 | U | Bounces every opponent permanent, one-sided |
 
-Blasphemous Act deserves a special note, since it almost always costs one or two mana in a Commander board full of creatures, making it the cheapest 13-damage-to-everything spell in the format. [Verify current legality] Blasphemous Act and Sunfall are Pioneer and newer-format relevant, check the window for your format. Cyclonic Rift's overload is the one wipe that only hits opponents, which is why it is borderline format-warping.
+Blasphemous Act deserves a special note, since it almost always costs one or two mana in a Commander board full of creatures, making it the cheapest 13-damage-to-everything spell in the format. Blasphemous Act and Sunfall are both Pioneer- and newer-format relevant, so check the legal window for your format. Cyclonic Rift's overload is the one wipe that only hits opponents, which is why it is borderline format-warping.
 
 Want the lands to actually cast all this on time? Our [best Commander lands guide](/blog/magic-the-gathering/best-lands-commander-mtg) handles the mana base.
 
 ## Budget removal under $2
 
-Good removal does not require a Cyclonic Rift budget. Here is functional, table-respected interaction in every color that you can pick up for under $2 a copy. [Verify current price] on each, since reprints and spikes move these around.
+Good removal does not require a Cyclonic Rift budget. Here is functional, table-respected interaction in every color that you can pick up for under $2 a copy, give or take, since reprints and spikes move these around.
 
 - **White:** Generous Gift, Swords to Plowshares (cheap thanks to reprints), Banishing Light, Fateful Absence.
 - **Blue:** Pongify, Rapid Hybridization, Reality Shift, Counterspell.

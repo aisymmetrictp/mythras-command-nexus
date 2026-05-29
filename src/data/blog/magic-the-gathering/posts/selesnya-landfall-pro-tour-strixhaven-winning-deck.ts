@@ -69,10 +69,10 @@ Rather than pretend to know the exact 75 by count, here is the composition by ro
 | --------------------------------- | ------------- | ------------------------------------------------------------------------- |
 | Fetchlands (Bloomburrow surveil)  | ~8            | The engine. Every fetch crack is a landfall trigger.                      |
 | Basic Plains / Forests            | ~10           | Fetch targets. Heavy on Forests for early ramp curves.                    |
-| Utility / dual lands              | ~6-8          | Selesnya duals plus a handful of utility lands. [Verify exact mix]        |
+| Utility / dual lands              | ~6-8          | Selesnya duals plus a handful of utility lands; exact mix varies by build. |
 | Ramp / landfall enablers          | ~8            | One-drop and two-drop creatures that ramp and trigger landfall.           |
 | Landfall payoffs (creatures)      | ~10           | Mid-cost threats that grow with every land drop.                          |
-| Removal (instants / sorceries)    | ~6            | Selesnya-colored removal. Get Lost-style answers. [Verify current legality] |
+| Removal (instants / sorceries)    | ~6            | Selesnya-colored removal. Get Lost-style answers.                         |
 | Flex / win condition              | ~4            | Go-wide finishers and game-closing landfall triggers.                     |
 | Sideboard                         | 15            | Control hate, graveyard hate, mirror tools.                               |
 
@@ -144,7 +144,7 @@ General principles for the sideboard transition:
 
 1. **Against Izzet Prowess pre-bans:** Bring in extra spot removal, trim the late-game ramp pieces. You want the curve flatter and faster.
 2. **Against any control deck:** Bring in uncounterable threats and trim the cheap removal you do not need against a deck with no creatures.
-3. **Against graveyard decks:** Bring in the graveyard hate (Rest in Peace effects or equivalent, [Verify current Standard legality]) and trim the slot of removal that does not interact with their best plan.
+3. **Against graveyard decks:** Bring in the graveyard hate (a Rest in Peace effect or whatever the current Standard equivalent is) and trim the slot of removal that does not interact with their best plan.
 4. **Against the mirror:** Mostly trim removal, bring in extra card advantage and any sideboard threats that fight on a different axis than landfall.
 
 The deck does not transform after sideboard. It stays Selesnya Landfall. You are tuning the dials, not rebuilding the engine.
@@ -157,7 +157,7 @@ Here is what to swap relative to the Pro Tour list:
 
 - **Trim aggressive Izzet hate.** Cards that were specifically pointed at Prowess shells are dead slots now. Cut them for more flexible removal.
 - **Add a control plan.** With 4/5C and Jeskai both in tier 1.5, you need more sideboard threats that survive counters and removal. Uncounterable creatures, planeswalkers if you can fit them.
-- **Increase the mirror tax.** Mono-Green Landfall is going to be everywhere. Cards that punish lands-matter decks (land destruction, mass-bounce, or [Verify current options]) earn a sideboard slot.
+- **Increase the mirror tax.** Mono-Green Landfall is going to be everywhere. Cards that punish lands-matter decks (land destruction, mass-bounce, or whatever the current legal options are) earn a sideboard slot.
 - **Watch for Witherbloom.** Secrets of Strixhaven gave Witherbloom the Dina's Guidance plus Elder Dragon midrange shell that wants to grind through your creature-heavy deck. Graveyard hate is non-negotiable.
 
 If you want a deeper look at the broader format math after the bans, check the companion piece on the [standard post-ban meta for May 2026](/blog/magic-the-gathering/standard-post-ban-meta-may-2026). It walks through the tier list as of this week.
@@ -171,7 +171,7 @@ If you cannot afford the full fetchland suite, here is how to build a budget ver
 - **Skip the planeswalker package.** Walkers are the most expensive part of the deck and the most replaceable. A budget version can run extra creature threats in those slots.
 - **Build the sideboard last.** Sideboards are where budget players hemorrhage value. Start with three flexible hate cards and add specific tech as you climb.
 
-Total budget build runs roughly $80-150 in paper [Verify current price] versus $400+ for the full list. The budget version still beats the casual meta on Arena and the Friday Night Magic crowd, which is what most readers actually need.
+Total budget build runs roughly $80-150 in paper (prices vary — check a current retailer) versus $400+ for the full list. The budget version still beats the casual meta on Arena and the Friday Night Magic crowd, which is what most readers actually need.
 
 If you want a primer on what to play against this kind of deck, the [best green cards in Magic: The Gathering](/blog/magic-the-gathering/best-green-cards-magic-the-gathering) breakdown covers the green staples that show up in every landfall list. The [best white cards in Magic: The Gathering](/blog/magic-the-gathering/best-white-cards-magic-the-gathering) piece does the same for the white side.
 
@@ -195,7 +195,7 @@ If you want a primer on what to play against this kind of deck, the [best green 
     },
     {
       question: "How much does this deck cost to build in paper?",
-      answer: "The full Pro Tour-style list runs in the $400-plus range, with the fetchland suite making up most of the cost. [Verify current price] A budget version using tapped duals and rare-tier payoffs instead of mythics comes in around $80-150 and still plays the same game plan, just slower and with fewer trigger windows.",
+      answer: "The full Pro Tour-style list runs in the $400-plus range, with the fetchland suite making up most of the cost (prices vary — check a current retailer). A budget version using tapped duals and rare-tier payoffs instead of mythics comes in around $80-150 and still plays the same game plan, just slower and with fewer trigger windows.",
     },
     {
       question: "What is the worst matchup for Selesnya Landfall right now?",

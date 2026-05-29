@@ -57,7 +57,7 @@ export const beastYeastBossCounters: BlogPost = {
 
   content: `Beast-Yeast bosses are not a gear check. They are a *reading* check. You can walk in with five fully-toppinged Legendaries and still get flattened in twelve seconds because you ignored the one mechanic the fight is built around. Then you swap a single cookie — the one that happens to hard-counter that mechanic — and the same boss melts on the next attempt with a weaker team. That is the entire game with these fights, and it is why "just bring stronger cookies" advice keeps failing players at the Beast walls.
 
-This guide goes boss by boss through the Beast Cookies you fight in Beast-Yeast. For each one: the mechanic that actually kills you, the cookie that shuts it off, and a full five-cookie comp you can build toward. The exact skill names and numeric thresholds shift across patches, so I have flagged the specifics with \`[VERIFY]\` — treat the *counter logic* as the durable part and re-check the numbers against the current version before you commit soulstones. For the broader progression and farm route, pair this with the [Beast-Yeast guide](/blog/cookie-run-kingdom/crk-beast-yeast-guide).
+This guide goes boss by boss through the Beast Cookies you fight in Beast-Yeast. For each one: the mechanic that actually kills you, the cookie that shuts it off, and a full five-cookie comp you can build toward. The exact skill names and numeric thresholds shift across patches, so treat the *counter logic* as the durable part and re-check the specifics against the current version before you commit soulstones. For the broader progression and farm route, pair this with the [Beast-Yeast guide](/blog/cookie-run-kingdom/crk-beast-yeast-guide).
 
 ## Why counters beat raw power in Beast-Yeast
 
@@ -84,7 +84,7 @@ One more layer most guides skip: **positioning and treasures matter as much as t
 
 ![Burning Spice Cookie render, the Beast boss whose stacking burn damage outpaces raw healing in Beast-Yeast](/images/cookies/burning-spice-cookie.png)
 
-**What kills you:** stacking burn / damage-over-time that ramps past your healing throughput [VERIFY exact burn mechanic]. If you try to out-heal it, you lose — the stacks compound faster than a healer can patch.
+**What kills you:** stacking burn / damage-over-time that, if the fight is built the way it looks, ramps past your healing throughput. If you try to out-heal it, you lose — the stacks compound faster than a healer can patch.
 
 **The counter:** burst him down inside the window before burn stacks become lethal, and bring a cleanse so the stacks you do eat get wiped. This is a race, not an endurance fight.
 
@@ -94,7 +94,7 @@ One more layer most guides skip: **positioning and treasures matter as much as t
 | Front | [Hollyberry](/gear-guide/hollyberry-cookie) | DMG-resist frontline |
 | Mid | [Dark Enchantress](/gear-guide/dark-enchantress-cookie) | Primary burst before burn ramps |
 | Mid | [Venom Dough](/gear-guide/venom-dough-cookie) | Bomber burst to close the race |
-| Rear | [Pure Vanilla](/gear-guide/pure-vanilla-cookie) | Heal + the cleanse that wipes burn stacks [VERIFY cleanse] |
+| Rear | [Pure Vanilla](/gear-guide/pure-vanilla-cookie) | Heal + a cleanse to help wipe the burn stacks |
 
 The trap here is bringing two healers and zero cleanse. Two healers just delay the loss; a cleanse plus front-loaded burst actually wins. The mental model that fixes this fight: you are not trying to survive Burning Spice indefinitely, you are trying to delete a chunk of his health bar before the burn math turns against you. Open with every burst cooldown you have, cleanse the stacks that land in the first few seconds, and aim to be more than halfway through his bar before sustain even becomes a question. If you've front-loaded correctly, the fight is decided before the dangerous phase arrives.
 
@@ -104,7 +104,7 @@ If you're consistently *almost* winning — he dies a sliver after your team wip
 
 ![Eternal Sugar Cookie render, the Beast boss that wins by attrition and lifesteal in Beast-Yeast](/images/cookies/eternal-sugar-cookie.png)
 
-**What kills you:** attrition. She sustains herself and grinds you down over a long fight [VERIFY sustain mechanic], so a slow damage team simply runs out of cooldowns before she runs out of health.
+**What kills you:** attrition. She sustains herself and grinds you down over a long fight, so a slow damage team simply runs out of cooldowns before she runs out of health.
 
 **The counter:** sustained, uninterrupted DPS plus your own sustain to survive the long fight. This is the inverse of the Burning Spice race — here you need to *last*, with damage that never stops. A reliable healer plus two damage cookies that don't depend on a single burst window is the formula.
 
@@ -122,17 +122,17 @@ The discipline against an attrition fight is the opposite of the burn race: do *
 
 ![Mystic Flour Cookie render, the Beast boss that disables enemy buffs and heals with stacking debuffs](/images/cookies/mystic-flour-cookie.png)
 
-**What kills you:** debuffs that turn *your* kit off — silencing buffs, blocking heals, or sapping your stats [VERIFY exact debuff suite]. Teams built around a single buffer or a single big heal fall apart because the boss switches that one engine off.
+**What kills you:** debuffs that turn *your* kit off — think silencing buffs, blocking heals, or sapping your stats. Teams built around a single buffer or a single big heal fall apart because the boss switches that one engine off.
 
 **The counter:** debuff immunity or cleanse, and a kit that does not rely on one fragile buff source. Spread your value so no single disable breaks the team. A body with built-in debuff resistance is gold here.
 
 | Slot | Cookie | Role |
 |---|---|---|
 | Front | [Aegis Hollyberry](/blog/cookie-run-kingdom/timekeeper-toppings) | Durable, rally not dependent on stacking buffs |
-| Front | [Black Sapphire](/gear-guide/black-sapphire-cookie) | Secondary frontline / disruption [VERIFY kit] |
+| Front | [Black Sapphire](/gear-guide/black-sapphire-cookie) | Secondary frontline / disruption |
 | Mid | [Dark Enchantress](/gear-guide/dark-enchantress-cookie) | Self-sufficient damage |
 | Mid | [Frost Queen](/gear-guide/frost-queen-cookie) | Crowd control that doesn't need buffs to function |
-| Rear | [Pure Vanilla](/gear-guide/pure-vanilla-cookie) | Heal + cleanse to strip the boss's debuffs [VERIFY] |
+| Rear | [Pure Vanilla](/gear-guide/pure-vanilla-cookie) | Heal + cleanse to help strip the boss's debuffs |
 
 The single biggest mistake against a debuff boss is building your whole team around one fragile engine — a single buffer everyone depends on, or one massive heal that, when blocked, leaves you with nothing. The boss exists specifically to switch that one thing off. The fix is redundancy: a cookie like Dark Enchantress that does its damage without needing external buffs, crowd control from a Frost Queen that functions regardless of your buff state, and a cleanse to peel the worst debuffs back off. Resilient-but-unspectacular beats fragile-but-explosive in this fight.
 
@@ -140,7 +140,7 @@ The single biggest mistake against a debuff boss is building your whole team aro
 
 ![Shadow Milk Cookie render, the Beast boss whose illusions and burst windows punish reactive teams](/images/cookies/shadow-milk-cookie.png)
 
-**What kills you:** unpredictable burst and illusion/clone mechanics that bait your cooldowns and then punish the gap [VERIFY illusion mechanic]. If you blow your healer's big cooldown on a fake threat, the real burst lands on a team that can't respond.
+**What kills you:** unpredictable burst and illusion-style mechanics that bait your cooldowns and then punish the gap. If you blow your healer's big cooldown on a fake threat, the real burst lands on a team that can't respond.
 
 **The counter:** a team with overlapping defensive cooldowns so you are never caught with everything on cooldown, plus enough burst to skip the longest, most dangerous phases. Layered sustain beats single-big-heal sustain against a trickster.
 
@@ -156,7 +156,7 @@ The single biggest mistake against a debuff boss is building your whole team aro
 
 ![Silent Salt Cookie render, the Beast boss whose anti-revival pressure punishes revive-dependent teams](/images/cookies/silent-salt-cookie.png)
 
-**What kills you:** if the fight pressures your revivals or punishes a revive-dependent comp [VERIFY], then leaning on Sugar Swan to bring cookies back stops working, and you're suddenly down bodies with no recovery.
+**What kills you:** if the fight pressures your revivals or punishes a revive-dependent comp, then leaning on Sugar Swan to bring cookies back stops working, and you're suddenly down bodies with no recovery.
 
 **The counter:** a comp that wins *without* needing revives — front-loaded damage and a healer that keeps cookies alive rather than one that resurrects them after they die. Don't bring your revive plan into a fight that nullifies it.
 

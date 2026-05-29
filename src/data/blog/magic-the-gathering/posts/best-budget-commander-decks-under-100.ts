@@ -74,11 +74,11 @@ export const bestBudgetCommanderDecksUnder100: BlogPost = {
 
 Strip a $1,000 Atraxa list down to its strategy and you will find maybe $150 of actually-relevant cards. The rest is fetchlands, shocklands, original duals, and Mana Crypt. Those cards buy you consistency. They do not buy you a strategy you did not already have.
 
-So when we say "budget" here, we mean a deck that costs $100 or less at current TCGplayer prices [Verify current prices] and still has a coherent game plan, a functional mana base, and a path to winning the game before turn 12. That is the standard. Anything that cannot hit that standard is not a deck, it is a pile.
+So when we say "budget" here, we mean a deck that costs $100 or less at current TCGplayer prices (prices vary — check a current retailer) and still has a coherent game plan, a functional mana base, and a path to winning the game before turn 12. That is the standard. Anything that cannot hit that standard is not a deck, it is a pile.
 
 ## What budget actually means in Commander
 
-For reference, the 2025 Commander precons run roughly $40-60 [Verify current price]. A precon plus a focused 30-minute upgrade pass lands you right in the $80-100 zone. That is the sweet spot we are targeting all the way down this page.
+For reference, the 2025 Commander precons run roughly $40-60. A precon plus a focused 30-minute upgrade pass lands you right in the $80-100 zone. That is the sweet spot we are targeting all the way down this page.
 
 Below $100 you start trading consistency. Below $50 you start cutting mana fixing. Below $30 you are in mono-color tribal territory or you are playing chaos magic. All three of those are valid, and we will cover all three.
 
@@ -103,7 +103,7 @@ One or two splash cards are fine if a deck genuinely needs them. Edgar Markov de
 ![Krenko, Mob Boss, the mono-red goblin commander that doubles your token army every time he taps.](/images/blog/magic-the-gathering/best-budget-commander-decks-under-100/krenko-mob-boss.jpg)
 
 **Commander:** Krenko, Mob Boss
-**Total cost:** ~$75-80 [Verify current prices]
+**Total cost:** ~$75-80
 
 **Game plan.** Cast Krenko. Tap Krenko. Make Goblins. Attack with Goblins. Goblin Warchief and Goblin Chieftain make your tribe faster, Goblin Piledriver makes your tribe lethal. You are swinging for 30+ damage out of nowhere on turn 6.
 
@@ -126,7 +126,7 @@ One or two splash cards are fine if a deck genuinely needs them. Edgar Markov de
 ![Talrand, Sky Summoner, the mono-blue commander that makes a 2/2 flying Drake for every instant or sorcery you cast.](/images/blog/magic-the-gathering/best-budget-commander-decks-under-100/talrand-sky-summoner.jpg)
 
 **Commander:** Talrand, Sky Summoner
-**Total cost:** ~$85-90 [Verify current prices]
+**Total cost:** ~$85-90
 
 **Game plan.** Cast cheap instants and sorceries. Get free 2/2 flying Drakes every time. Win in the air because nobody can block a board of evasive bodies in a four-player pod where one opponent always forgets to leave up a blocker.
 
@@ -142,14 +142,14 @@ One or two splash cards are fine if a deck genuinely needs them. Edgar Markov de
 
 **Win condition.** Swarm of 2/2 flyers plus an evasion-enabling Bident swing. Cyclonic Rift overload on turn 8, then attack with everything.
 
-**$50 upgrade priority.** Cyclonic Rift if you do not already have one [Verify current price], Mystic Confluence for flexible interaction, and a Reliquary Tower because Rhystic Study punishes you for not having one.
+**$50 upgrade priority.** Cyclonic Rift if you do not already have one, Mystic Confluence for flexible interaction, and a Reliquary Tower because Rhystic Study punishes you for not having one.
 
 ## Edgar Markov Mardu Vampires under $100
 
 ![Edgar Markov, the Mardu vampire commander whose eminence ability spawns a 1/1 vampire every time you cast a vampire.](/images/blog/magic-the-gathering/best-budget-commander-decks-under-100/edgar-markov.jpg)
 
 **Commander:** Edgar Markov
-**Total cost:** ~$95-100 [Verify current prices]
+**Total cost:** ~$95-100
 
 **Game plan.** Edgar's eminence ability makes a 1/1 vampire token every time you cast a vampire, from the command zone, without even having Edgar in play. That is busted. You cast 20+ vampires across a game and ride a swarm into commander damage with Edgar himself, who hits for 4 with first strike and haste.
 
@@ -165,14 +165,14 @@ One or two splash cards are fine if a deck genuinely needs them. Edgar Markov de
 
 **Win condition.** Commander damage from Edgar plus a Cathars' Crusade swarm. Or just life drain off Sanctum Seeker triggers across 20 vampire attacks.
 
-**$50 upgrade priority.** Vampiric Tutor is the obvious one [Verify current price — premium], but if it is out of range, grab Necropotence, a basic Phyrexian Arena, and a Sol Ring. Edgar's plan is consistent enough that pure card draw is the highest-impact upgrade.
+**$50 upgrade priority.** Vampiric Tutor is the obvious one (it is a premium card, so check a current retailer), but if it is out of range, grab Necropotence, a basic Phyrexian Arena, and a Sol Ring. Edgar's plan is consistent enough that pure card draw is the highest-impact upgrade.
 
 ## Lathril Elves under $70
 
 ![Lathril, Blade of the Elves, the mono-green elf commander that taps ten elves to drain each opponent for ten life.](/images/blog/magic-the-gathering/best-budget-commander-decks-under-100/lathril-blade-of-the-elves.jpg)
 
 **Commander:** Lathril, Blade of the Elves
-**Total cost:** ~$65-70 [Verify current prices]
+**Total cost:** ~$65-70
 
 **Game plan.** Make Elves. Make more Elves. Tap ten Elves with Lathril, drain each opponent for 10. You can hit lethal life drain on turn 7-8 without ever attacking.
 
@@ -188,7 +188,7 @@ One or two splash cards are fine if a deck genuinely needs them. Edgar Markov de
 
 **Win condition.** Lathril activation drains for 10+ life per opponent. Or you just attack with a 50-power Marwyn after Coat of Arms.
 
-**$50 upgrade priority.** Gaea's Cradle is the dream [Verify current price — historically very expensive]. More realistically, add Craterhoof Behemoth if budget allows, Lead the Stampede for card draw, and a Skullclamp for value on your 1/1 elves.
+**$50 upgrade priority.** Gaea's Cradle is the dream, though it has historically been very expensive, so check a current retailer before counting on it. More realistically, add Craterhoof Behemoth if budget allows, Lead the Stampede for card draw, and a Skullclamp for value on your 1/1 elves.
 
 ## Two-color budget decks under $50
 
@@ -196,7 +196,7 @@ Two-color is where the budget game gets interesting. You sacrifice one color ide
 
 A few standouts at this price point:
 
-**Slimefoot, the Stowaway (Golgari Saproling Tokens).** Every Saproling that dies drains 1 and gains 1. Spit out tokens with Sporecrown Thallid, Tukatongue Thallid, and Mycoloth, sac them to Slimefoot triggers, win by drain. Total cost lands around $40-45 [Verify current prices].
+**Slimefoot, the Stowaway (Golgari Saproling Tokens).** Every Saproling that dies drains 1 and gains 1. Spit out tokens with Sporecrown Thallid, Tukatongue Thallid, and Mycoloth, sac them to Slimefoot triggers, win by drain. Total cost lands around $40-45.
 
 **Wilhelt, the Rotcleaver (Mono-Black Zombies, often splash blue).** Sacrifice zombies, make decayed zombies, loop Gravecrawler for value. The whole list builds for under $60 and has a real combo line.
 
@@ -208,7 +208,7 @@ A few standouts at this price point:
 
 Most tribal decks have a functional budget build because the lord effects are commons and uncommons. The expensive cards in tribal are the format staples that everyone runs, not the tribal pieces themselves.
 
-**Goblins under $30.** Krenko is not even necessary. Wort, Boggart Auntie, or Muxus, Goblin Grandee work too, though Muxus is creeping up in price [Verify current price]. Goblin Warchief and Chieftain are under $5 each. The whole deck is fast, mean, and pre-built into pretty much every Magic player's collection already.
+**Goblins under $30.** Krenko is not even necessary. Wort, Boggart Auntie, or Muxus, Goblin Grandee work too, though Muxus has been creeping up in price. Goblin Warchief and Chieftain are under $5 each. The whole deck is fast, mean, and pre-built into pretty much every Magic player's collection already.
 
 **Elves under $30.** Ezuri, Renegade Leader as commander. Elvish Archdruid, Priest of Titania, and Elvish Promenade form the core. Win by Overrun-ing a 30-elf board.
 
@@ -234,16 +234,16 @@ Tribal works at $30 because the entire game plan is "play creatures of one type,
 
 These are the five highest-impact upgrades for any budget Commander deck, in roughly the order you should add them.
 
-- **Sol Ring.** Every precon comes with one. Every deck plays one. It is a Magic tax that costs $2-4 [Verify current price] and adds a full turn of tempo to your deck. Non-negotiable.
-- **Arcane Signet.** Two mana, taps for any color in your commander's identity. Around $3-5 [Verify current price]. Faster than any cheap dual land and color-flexible. Most precons include this too, but if yours does not, buy one immediately.
-- **Command Tower.** Taps for any color in your commander's identity, enters untapped, no downside. The single best land for two-or-more-color decks. Costs about $1-2 [Verify current price]. There is no reason not to run it.
-- **Reliquary Tower.** No maximum hand size. The moment you have a Rhystic Study or a Phyrexian Arena drawing extra cards, Reliquary Tower stops being a luxury and starts being mandatory. $1-2 [Verify current price].
-- **Bojuka Bog.** Comes in tapped, taps for black, exiles a graveyard on ETB. Free graveyard hate stapled to a basic. Roughly $1 [Verify current price]. Every black deck and every multicolor-with-black deck should run this. It single-handedly counters most reanimator and graveyard combo strategies.
+- **Sol Ring.** Every precon comes with one. Every deck plays one. It is a Magic tax that costs $2-4 and adds a full turn of tempo to your deck. Non-negotiable.
+- **Arcane Signet.** Two mana, taps for any color in your commander's identity. Around $3-5. Faster than any cheap dual land and color-flexible. Most precons include this too, but if yours does not, buy one immediately.
+- **Command Tower.** Taps for any color in your commander's identity, enters untapped, no downside. The single best land for two-or-more-color decks. Costs about $1-2. There is no reason not to run it.
+- **Reliquary Tower.** No maximum hand size. The moment you have a Rhystic Study or a Phyrexian Arena drawing extra cards, Reliquary Tower stops being a luxury and starts being mandatory. $1-2.
+- **Bojuka Bog.** Comes in tapped, taps for black, exiles a graveyard on ETB. Free graveyard hate stapled to a basic. Roughly $1. Every black deck and every multicolor-with-black deck should run this. It single-handedly counters most reanimator and graveyard combo strategies.
 
 ## Quick Action Checklist
 
 - Pick one of the seven commanders above based on the color identity you enjoy
-- Buy the matching precon if one exists ($40-60) [Verify current price]
+- Buy the matching precon if one exists ($40-60)
 - Build the decklist on Archidekt or Moxfield and export to TCGplayer Mass Entry
 - Cap the build at $100 total, including the precon
 - Add Sol Ring, Arcane Signet, and Command Tower if they are not already in
@@ -257,7 +257,7 @@ These are the five highest-impact upgrades for any budget Commander deck, in rou
     {
       question: 'How much should a beginner spend on their first Commander deck?',
       answer:
-        "Start with a precon. The 2024 and 2025 Commander precons run roughly $40-60 [Verify current price] and come with a Sol Ring, a Command Tower, and a coherent game plan out of the box. If you want to build from scratch, $100 is the honest floor for a deck that holds its own at a casual table. Below that, you start cutting consistency cards, and below $60 you start cutting basic mana fixing.",
+        "Start with a precon. The 2024 and 2025 Commander precons run roughly $40-60 and come with a Sol Ring, a Command Tower, and a coherent game plan out of the box. If you want to build from scratch, $100 is the honest floor for a deck that holds its own at a casual table. Below that, you start cutting consistency cards, and below $60 you start cutting basic mana fixing.",
     },
     {
       question: 'Can a budget Commander deck actually beat expensive decks?',

@@ -133,7 +133,7 @@ You have about six weeks until the next B&R window on June 30. That is enough ti
 
 When 10 cards leave a format, the cards that survived and were previously held down get a massive boost.
 
-**Sheoldred, the Apocalypse** was always good. With Mono-Red effectively gutted, she is now the single best four-drop in the format. The life-gain matters more without Heartfire Hero and Monstrous Rage to push lethal through. **[Verify current price]** because she will spike.
+**Sheoldred, the Apocalypse** was always good. With Mono-Red effectively gutted, she is now the single best four-drop in the format. The life-gain matters more without Heartfire Hero and Monstrous Rage to push lethal through. Check a current retailer before you buy, because she is going to spike.
 
 **Beza, the Bounding Spring** was a tier 2 finisher in pre-ban Standard. With the format slowing down, she gets to attack more. Expect to see her in green midrange decks immediately.
 

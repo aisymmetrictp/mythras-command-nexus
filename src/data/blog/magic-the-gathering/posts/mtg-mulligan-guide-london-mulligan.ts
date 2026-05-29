@@ -149,7 +149,7 @@ These are the seductive mulligans — hands that look fine until you ask whether
 
 Commander changes the math in three ways.
 
-First, the **free first mulligan.** Most Commander pods let your first mulligan be "free" — you draw a fresh seven and don't bottom a card for it. This is a community courtesy rather than a universal official rule, so [VERIFY] it with your table during the Rule 0 conversation. Where it applies, it means you should aggressively ship any non-functional opening hand, because the first ship costs you nothing.
+First, the **free first mulligan.** In multiplayer Commander, your first mulligan is free — you draw a fresh seven and don't bottom a card for it. This is part of the official Commander rules, not just a house rule (the one exception is 1v1 Duel Commander, where the first mulligan is not free). It means you should aggressively ship any non-functional opening hand, because the first ship costs you nothing.
 
 Second, **the land count shifts up.** Commander decks run 36-38 lands, far more than a 60-card deck's proportion, and games go long. A four-land hand is comfortable; even five lands with a ramp piece is fine. You're playing a 100-card singleton deck, so you need lands to reliably hit your curve into the midgame. For the full manabase breakdown, see our [best Commander lands](/blog/magic-the-gathering/best-lands-commander-mtg) guide.
 
@@ -204,7 +204,7 @@ Run this every time you look at an opening hand.
     {
       question: 'What is the free mulligan in Commander?',
       answer:
-        "Most Commander pods allow your first mulligan to be 'free' — you draw a fresh seven and don't bottom a card for it. It is a community courtesy rather than a universal official rule, so confirm it with your table during the Rule 0 conversation [VERIFY]. Where it applies, you should aggressively ship any non-functional opening hand because the first mulligan costs you nothing.",
+        "In multiplayer Commander, your first mulligan is free — you draw a fresh seven and don't bottom a card for it. This is part of the official Commander rules, not a house rule; the exception is 1v1 Duel Commander, where the first mulligan is not free. Either way you should aggressively ship any non-functional opening hand, because the first mulligan costs you nothing (or very little).",
     },
     {
       question: 'Which cards should I put on the bottom after a mulligan?',

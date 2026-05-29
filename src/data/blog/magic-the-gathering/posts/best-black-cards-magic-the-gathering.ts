@@ -91,7 +91,7 @@ Demonic Tutor is the one. Two mana, sorcery speed, finds literally any card in y
 
 Vampiric Tutor is the instant-speed sibling, and the reason it costs more in tournament play is that you can hold up mana, react to your opponent's plan, then tutor for the exact answer mid-turn. The cost is one black mana and 2 life, and the card you fetch goes to the top of your library, not your hand. That extra draw step matters. In Commander, where most decks run a single copy of everything, this is the cleanest way to assemble a combo.
 
-Imperial Seal deserves its asterisk. It is functionally Vampiric Tutor at sorcery speed, and because it is on the Reserved List, the price has climbed into "are you serious" territory. [Verify current price] before buying. If you do not own one, Diabolic Intent at 2 mana plus a creature sacrifice is the closest budget substitute, and in any deck that already cares about sacrificing creatures, Intent is arguably the better card.
+Imperial Seal deserves its asterisk. It is functionally Vampiric Tutor at sorcery speed, and because it is on the Reserved List, the price has climbed into "are you serious" territory (prices vary — check a current retailer before buying). If you do not own one, Diabolic Intent at 2 mana plus a creature sacrifice is the closest budget substitute, and in any deck that already cares about sacrificing creatures, Intent is arguably the better card.
 
 > If you are playing black and your deck does not run at least two tutors, you are leaving the color's main feature on the shelf. The whole point of black is consistency. Use it.
 
@@ -112,7 +112,7 @@ For single-target removal, the menu has gotten better in the last few years:
 - **Murder.** Two-mana destroy any creature. The default. Boring, but it does the job in budget decks.
 - **Bloodchief's Thirst.** Modal: kill a small creature for B, or kill anything for 1B with kicker (4B). Flexible single-card answer that scales with the game.
 
-For Standard play specifically, Sheoldred's Edict and Cut Down have been the format's most-played black removal spells across the last few rotations. [Verify current legality] after the May 18, 2026 ban wave dust settles.
+For Standard play specifically, Sheoldred's Edict and Cut Down have been the format's most-played black removal spells across the last few rotations. Both survived the May 18, 2026 ban wave, but Standard moves fast, so double-check the current ban list before you commit to a list.
 
 ## Best card-draw engines
 
@@ -164,7 +164,7 @@ The total swing between a "budget black" Commander deck and a full-power one is 
 
 Standard is in a weird spot. The May 18, 2026 ban wave hit 10 cards (Abuelo's Awakening, Cori-Steel Cutter, Heartfire Hero, Hopeless Nightmare, Monstrous Rage, Proft's Eidetic Memory, Screaming Nemesis, This Town Ain't Big Enough, Up the Beanstalk, Vivi Ornitier), which reset the format mid-cycle. For more on what the format looks like now, see our [post-ban Standard meta breakdown](/blog/magic-the-gathering/standard-post-ban-meta-may-2026).
 
-Black survived the bans largely intact, which puts it in a strong position. The staples that are still legal include Sheoldred, the Apocalypse (still the best 4-drop in the format), Cut Down (premium one-mana removal), Sheoldred's Edict (forced-sacrifice removal that bypasses hexproof and ward), and most of the discard-themed cards from Secrets of Strixhaven. [Verify current legality] before sleeving anything up because Standard moves fast.
+Black survived the bans largely intact, which puts it in a strong position. The staples that are still legal include Sheoldred, the Apocalypse (still the best 4-drop in the format), Cut Down (premium one-mana removal), Sheoldred's Edict (forced-sacrifice removal that bypasses hexproof and ward), and most of the discard-themed cards from Secrets of Strixhaven. Standard moves fast, so double-check the current ban list before sleeving anything up.
 
 For the new-set context, our [Secrets of Strixhaven best cards](/blog/magic-the-gathering/secrets-of-strixhaven-best-standard-cards) writeup goes deeper into which Strixhaven cards are actually showing up in post-ban black decks.
 
@@ -207,7 +207,7 @@ If you cannot tick at least five of those, your deck is leaning on color flavor 
     {
       question: "What black cards are still legal in Standard after the May 2026 bans?",
       answer:
-        "Most of the format-defining black cards survived the ban wave. Sheoldred, the Apocalypse, Cut Down, Sheoldred's Edict, and the bulk of the Secrets of Strixhaven black cards are all still legal. The bans hit red, monstrous-rage aggro, and some combo enablers harder than they hit black. [Verify current legality] before locking in a list, but black looks like one of the post-ban winners.",
+        "Most of the format-defining black cards survived the ban wave. Sheoldred, the Apocalypse, Cut Down, Sheoldred's Edict, and the bulk of the Secrets of Strixhaven black cards are all still legal. The bans hit red, monstrous-rage aggro, and some combo enablers harder than they hit black. Double-check the current ban list before locking in a list, but black looks like one of the post-ban winners.",
     },
     {
       question: "Should I build a Reanimator deck if I am new to Commander?",

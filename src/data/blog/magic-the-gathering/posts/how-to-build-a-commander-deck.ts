@@ -115,7 +115,7 @@ Ramp gets you ahead of the curve and, just as importantly, helps you recover aft
 
 Ramp comes in a few flavors:
 
-- **Mana rocks:** Sol Ring (auto-include in basically every deck, around [Verify current price]), Arcane Signet, Fellwar Stone, the color-pair Signets and Talismans.
+- **Mana rocks:** Sol Ring (an auto-include in basically every deck, and cheap — prices vary, so check a current retailer), Arcane Signet, Fellwar Stone, the color-pair Signets and Talismans.
 - **Mana dorks:** in green, creatures like Llanowar Elves and Birds of Paradise that tap for mana.
 - **Ramp spells:** Cultivate and Kodama's Reach in green fetch lands directly to the battlefield and fix colors at the same time.
 - **Rituals and big rocks:** for higher-cost decks, things like a Worn Powerstone or a Mind Stone that cantrips later.
@@ -191,7 +191,7 @@ Then comes the part nobody loves: cutting to exactly 100. Commander demands prec
 
 ## Upgrading from a precon
 
-If building from scratch sounds like a lot, don't. A preconstructed Commander deck is the single easiest on-ramp in the game. You get 100 legal cards, a tested commander, and a working (if mediocre) mana base out of the box for around [Verify current price].
+If building from scratch sounds like a lot, don't. A preconstructed Commander deck is the single easiest on-ramp in the game. You get 100 legal cards, a tested commander, and a working (if mediocre) mana base out of the box for the price of a typical precon.
 
 The upgrade path is the 10/10/10 template in reverse. Most precons are already light on ramp and card draw, so:
 
@@ -199,7 +199,7 @@ The upgrade path is the 10/10/10 template in reverse. Most precons are already l
 2. Add ramp and card draw first. Slot in Arcane Signet, a couple of Talismans or Signets, and two or three repeatable draw engines like Night's Whisper or Phyrexian Arena.
 3. Fix the mana base. Precons run too many tapped lands. Swap a few for Command Tower and untapped duals as your budget allows.
 
-That alone turns a sluggish out-of-box deck into something that holds its own at most tables, often for under $30 in upgrades [Verify current price]. For decks built entirely around tight budgets, our [best budget Commander decks under $100](/blog/magic-the-gathering/best-budget-commander-decks-under-100) breaks down full lists that already follow this structure. If a term in any of this tripped you up, the [Magic glossary](/glossary/magic-the-gathering) has plain-language definitions, and the official [Wizards Commander page](https://magic.wizards.com/en/formats/commander) has the current ban list and rules.
+That alone turns a sluggish out-of-box deck into something that holds its own at most tables, often for under $30 in upgrades. For decks built entirely around tight budgets, our [best budget Commander decks under $100](/blog/magic-the-gathering/best-budget-commander-decks-under-100) breaks down full lists that already follow this structure. If a term in any of this tripped you up, the [Magic glossary](/glossary/magic-the-gathering) has plain-language definitions, and the official [Wizards Commander page](https://magic.wizards.com/en/formats/commander) has the current ban list and rules.
 
 ## Quick Action Checklist
 

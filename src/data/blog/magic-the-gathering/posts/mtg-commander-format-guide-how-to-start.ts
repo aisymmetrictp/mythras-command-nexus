@@ -116,7 +116,7 @@ The easiest way to check legality is to paste your decklist into [Scryfall](http
 
 ## How the game actually plays
 
-You start at 40 life with seven cards. The London mulligan applies: you can mulligan freely, drawing a fresh seven each time, but for every mulligan you take, you put that many cards from your final hand on the bottom of your library. Your first mulligan is "free" in most pods (you still draw seven again without putting anything on the bottom), which is a community courtesy more than an official rule. [Verify the free first mulligan is still standard in the 2025 Comprehensive Rules update.]
+You start at 40 life with seven cards. The London mulligan applies: you can mulligan freely, drawing a fresh seven each time, but for every mulligan you take, you put that many cards from your final hand on the bottom of your library. Your first mulligan is "free" in most pods (you still draw seven again without putting anything on the bottom), which is a community courtesy more than an official rule, so confirm your table is using it before you rely on it.
 
 Once the game starts, turn order goes clockwise. There is no formal "active player gets first attack" priority weirdness beyond standard MTG rules.
 
@@ -167,7 +167,7 @@ A standard Rule 0 hits four questions:
 
 The casual-to-cEDH gap is enormous. A casual "battlecruiser" deck wants to do splashy 8-mana things on turn 8. A cEDH deck wants to win by turn 4 with infinite mana. Putting them at the same table without a heads-up is miserable for everyone.
 
-Wizards announced a formal Bracket System in 2024 that splits Commander into power tiers from "Exhibition" up through "cEDH" to standardize Rule 0. [Verify whether the bracket system has been formally codified in 2026 or is still in beta rollout.] Even if your pod ignores it, knowing the brackets exist makes the power-level conversation easier.
+Wizards announced a formal Bracket System in 2024 that splits Commander into power tiers from "Exhibition" up through "cEDH" to standardize Rule 0. The rollout has been evolving, so treat the exact tier definitions as a moving target. Even if your pod ignores it, knowing the brackets exist makes the power-level conversation easier.
 
 ## Where to play Commander in 2026
 

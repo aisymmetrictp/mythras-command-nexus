@@ -79,7 +79,7 @@ This is not a "play whoever you like" tier list. The May 2026 Arena meta has a c
 
 Three factors drive the ranking, in order. First, raw throughput. How much HP does the Cookie actually restore per cast, factoring in cooldown? A burst heal that lands once every 22 seconds is worse than a smaller heal that ticks every 11. Second, utility riders. Cleanse, shield, revive, ATK buff. These are what separate a healer who keeps your team alive from a healer who wins the fight. Third, mode fit. A Cookie can be S+ in Cake Tower and B in Arena, because the modes ask completely different questions.
 
-The May 7 patch changed two things that matter here. Timekeeper's rewind now consumes a stack on revives [VERIFY], which means double-revive healers like Sugar Swan went from strong to mandatory. And the new AoE damage falloff in Arena Season 14 means rally-style healers like Pure Vanilla Awakened are landing for full value more often instead of getting interrupted. Both changes pushed the existing S tier into S+ and left everyone else behind.
+Recent patches pushed the support landscape in a clear direction. Double-revive healers like Sugar Swan went from strong to near-mandatory as the meta leaned harder into stalling and rewinding, and rally-style healers like Pure Vanilla Awakened are landing for full value more often instead of getting interrupted. Both shifts pushed the existing S tier into S+ and left everyone else behind.
 
 For builds, I cite the actual toppings you want. Searing Raspberry, Swift Chocolate, Solid Almond, and Juicy Apple Jelly all show up depending on the role. Magic Candy and Beast Magic Candy notes are flagged where they matter.
 

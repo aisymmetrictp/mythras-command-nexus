@@ -83,16 +83,17 @@ Three things rocks do that lands can't:
 
 ![Sol Ring, the colorless two-mana artifact that taps for two and is run in nearly every Commander deck.](/images/blog/magic-the-gathering/best-mana-rocks-commander-mtg/sol-ring.jpg)
 
-Two cards are functionally auto-includes in any deck that can afford them.
+Sol Ring is the one true auto-include. Its old partner in this tier, Mana Crypt, was banned in Commander in September 2024 — more on that in a second.
 
 | Card | Cost | Produces | Why it's here |
 | --- | --- | --- | --- |
 | Sol Ring | {1} | {C}{C} | One mana in, two mana out, every single turn. The most-played card in Commander, full stop |
-| Mana Crypt | {0} | {C}{C} | Free Sol Ring with a 3-damage downside. [VERIFY] banned in some formats; legality shifts |
 
 Sol Ring is the most-played card in the entire format and it isn't close. One mana for an artifact that taps for two colorless is the most efficient ramp Magic has ever printed at common power level. A turn-one Sol Ring lets you cast a three-drop on turn two. The card is so good that the entire format's pacing assumes it exists. If your deck can run Sol Ring, it runs Sol Ring.
 
-Mana Crypt is Sol Ring's pricier, scarier cousin. Zero mana, taps for two colorless, but you flip a coin each upkeep and take 3 damage when you lose the flip. In a 40-life format the damage rarely matters, and "free two-mana rock" on turn zero is absurd. The catch is the price tag and shifting legality — Mana Crypt's status has been a moving target across formats, so [VERIFY] its current Commander legality before you buy in.
+**A word on Mana Crypt.** For years this was Sol Ring's zero-cost partner here — two colorless for free, with a coin-flip 3-damage downside. The Commander Rules Committee **banned it in September 2024** (alongside Jeweled Lotus, Dockside Extortionist, and Nadu) to rein in explosive starts, so it is no longer legal in the format. If you own one it still plays in Legacy and Vintage — but for Commander, skip it and build around the legal rocks below.
+
+![Mana Crypt, the zero-cost artifact banned in Commander in September 2024.](/images/blog/magic-the-gathering/best-mana-rocks-commander-mtg/mana-crypt.jpg)
 
 ## The two-mana workhorses
 
@@ -115,8 +116,6 @@ The Talisman cycle (Talisman of Dominance and its nine friends) is the two-color
 Mind Stone and Thought Vessel earn their slots through flexibility. Mind Stone cashes itself in for a card when you're flooded late. Thought Vessel removes your maximum hand size, which is quietly huge in a deck that draws a lot of cards and hates discarding down to seven.
 
 ## The utility rocks
-
-![Mana Crypt, the zero-cost artifact that taps for two colorless mana at the risk of 3 damage each upkeep.](/images/blog/magic-the-gathering/best-mana-rocks-commander-mtg/mana-crypt.jpg)
 
 Once you climb past two mana, a rock needs to earn the slot with extra fixing or upside. Pure colorless three-drops that just tap for three are rarely worth it.
 
@@ -157,7 +156,7 @@ The deeper principle: rocks are part of your total ramp count, not a separate bu
 
 ## Budget and cuts
 
-Mana rocks are one of the most budget-friendly upgrade paths in Commander, because the best ones are cheap. Sol Ring comes in nearly every precon. Arcane Signet is a few dollars. The Talisman and Signet cycles are bulk. The only expensive rock most decks want is Mana Crypt, and you can skip it entirely without your deck noticeably suffering.
+Mana rocks are one of the most budget-friendly upgrade paths in Commander, because the best ones are cheap. Sol Ring comes in nearly every precon. Arcane Signet is a few dollars. The Talisman and Signet cycles are bulk. The one rock that ever cost real money was Mana Crypt — and now that it's banned in Commander, that question is moot. Everything you actually run in the format is cheap.
 
 If you're building lean, here's the budget core that costs less than a single premium card:
 
@@ -167,7 +166,7 @@ If you're building lean, here's the budget core that costs less than a single pr
 - Fellwar Stone and Mind Stone as colorless flex
 - Chromatic Lantern only if you're three-plus colors
 
-That's a complete, competitive rock package for under $20 in most color combinations. [VERIFY current prices.] You don't need Mana Crypt to have a functioning mana base — you need Sol Ring, your fixing, and the discipline to stop adding rocks once your curve is covered. For the broader cheap-deck approach, see our [budget Commander decks under $100](/blog/magic-the-gathering/best-budget-commander-decks-under-100) breakdown.
+That's a complete, competitive rock package for roughly $20 in most color combinations (prices vary). You never needed Mana Crypt to have a functioning mana base, and now that it's banned in Commander the point is settled — you need Sol Ring, your fixing, and the discipline to stop adding rocks once your curve is covered. For the broader cheap-deck approach, see our [budget Commander decks under $100](/blog/magic-the-gathering/best-budget-commander-decks-under-100) breakdown.
 
 ## Quick Action Checklist
 
@@ -190,7 +189,7 @@ Use this as a starting rock package for any Commander deck. Adjust the count to 
     {
       question: 'What is the best mana rock in Commander?',
       answer:
-        "Sol Ring, with no real competition. One mana for an artifact that taps for two colorless, every turn, with no drawback. It is the most-played card in the entire format and the format's pacing assumes it exists. If your deck can run Sol Ring, it runs Sol Ring. Mana Crypt is arguably more powerful as a free version, but its shifting legality and price keep it out of most decks.",
+        "Sol Ring, with no real competition. One mana for an artifact that taps for two colorless, every turn, with no drawback. It is the most-played card in the entire format and the format's pacing assumes it exists. If your deck can run Sol Ring, it runs Sol Ring. (Mana Crypt, the old free-cost alternative, was banned in Commander in September 2024, so it's no longer an option in the format.)",
     },
     {
       question: 'Is Arcane Signet better than the original Signets?',
@@ -208,9 +207,9 @@ Use this as a starting rock package for any Commander deck. Adjust the count to 
         "Fewer of them. Green ramps with creatures (Llanowar Elves, mana dorks) and lands (Cultivate, Rampant Growth), so green decks lean less on artifacts. Most green-based decks still run Sol Ring and Arcane Signet, but they can get away with 4-6 total rocks instead of the 8-10 a rockless control deck needs. Count your green ramp creatures toward your total acceleration count.",
     },
     {
-      question: 'Should I buy Mana Crypt for my deck?',
+      question: 'Is Mana Crypt still legal in Commander?',
       answer:
-        "Only if your pod allows it and you want the marginal speed boost. Mana Crypt is a free Sol Ring with a 3-damage downside that rarely matters at 40 life, but it is expensive and its legality has shifted across formats [VERIFY current Commander legality]. Your deck functions perfectly well without it. Spend the money on lands or your archetype's payoffs first.",
+        "No. The Commander Rules Committee banned Mana Crypt in September 2024 (alongside Jeweled Lotus, Dockside Extortionist, and Nadu), so it is no longer legal in the format. It was a free Sol Ring with a 3-damage upkeep downside. It still sees play in Legacy and Vintage, but for Commander you don't need it — Sol Ring plus solid fixing covers your ramp.",
     },
   ],
   internalLinks: [
@@ -247,7 +246,6 @@ Use this as a starting rock package for any Commander deck. Adjust the count to 
     items: [
       { name: 'Sol Ring', description: 'One-mana artifact that taps for two colorless. The most-played card in Commander.' },
       { name: 'Arcane Signet', description: "Two-mana rock that taps for any color in your commander's identity, no drawback." },
-      { name: 'Mana Crypt', description: 'Zero-cost rock taps for two colorless with a 3-damage upkeep risk. Premium and legality-dependent.' },
       { name: 'Fellwar Stone', description: "Two-mana rock that taps for any color an opponent's land can make. Free fixing in most pods." },
       { name: 'Talisman cycle', description: 'Two-mana rocks that tap colorless free or a color for 1 life. The two-color fixing backbone.' },
       { name: 'Mind Stone', description: 'Two-mana colorless rock that sacrifices to draw a card late. Flood insurance.' },

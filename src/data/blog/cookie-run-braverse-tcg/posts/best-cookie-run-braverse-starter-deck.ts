@@ -54,7 +54,7 @@ This ranking is about **beginner-friendliness**, not a competitive power tier li
 
 ## What you get in a Braverse Starter Deck
 
-Each Starter Deck contains a ready-to-play **60-card deck** built around a single color, with a mix of Cookie, Item, Trap, and Stage cards (and FLIP cards baked in). You can sit down and play a full game with one Starter and a friend's. [Verify current Starter Deck contents and MSRP against the official site and a current retailer; pricing fluctuates and we don't quote unverified numbers.]
+Each Starter Deck contains a ready-to-play **60-card deck** built around a single color, with a mix of Cookie, Item, Trap, and Stage cards (and FLIP cards baked in). You can sit down and play a full game with one Starter and a friend's. Exact contents and prices vary by wave and shift over time, so check a current retailer before you buy.
 
 There have been multiple starter waves since the North American launch on July 11, 2025 - the original five color decks, and a later **Arena of Glory** wave (January 16, 2026) with named featured Cookies. We'll cover that wave below; the color-by-color advice applies either way, since each deck is built around its color's identity.
 
@@ -108,7 +108,7 @@ The catch for a brand-new player is that grindy games are less immediately satis
 
 ![Dark Cacao Cookie, the featured Purple Starter Deck Cookie running a trash-based Awakening strategy in Braverse.](/images/cookies/dark-cacao-cookie.png)
 
-Purple is the disruption color - resource denial, recursion, and "trash-based" strategies that turn discarded cards into fuel. The Arena of Glory wave features a **Dark Cacao Cookie** trash-based Awakening deck as the Purple option. [Verify how the Awakening mechanic works against the official rulebook; the name is confirmed but the exact rules should be checked.]
+Purple is the disruption color - resource denial, recursion, and "trash-based" strategies that turn discarded cards into fuel. The Arena of Glory wave features a **Dark Cacao Cookie** trash-based Awakening deck as the Purple option. The Awakening name is well-established, but its exact rules are worth confirming against the official rulebook before a sanctioned event.
 
 Purple is genuinely fun and very satisfying once it clicks, but it ranks lower for beginners because disruption decks require you to know *what's worth disrupting* - which means you need a feel for the format first. It's a fantastic second or third deck.
 
@@ -126,7 +126,7 @@ The Arena of Glory wave (released January 16, 2026) refreshed the starter lineup
 
 A few buying notes:
 
-- **Check what's actually in stock** at your local store or preferred retailer before committing to a color. [Verify current availability and pricing.]
+- **Check what's actually in stock** at your local store or preferred retailer before committing to a color, since availability and pricing vary.
 - **Newer doesn't always mean stronger** for *learning* - buy the color whose playstyle excites you.
 - If two players are starting together, **buy two different colors** so your practice games aren't mirror matches.
 

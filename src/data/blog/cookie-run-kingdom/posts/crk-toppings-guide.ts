@@ -40,7 +40,7 @@ export const crkToppingsGuide: BlogPost = {
     { id: 'best-topping-set-per-role', label: 'Best topping set per role', level: 2 },
     { id: 'how-to-farm-toppings-efficiently', label: 'How to farm toppings efficiently', level: 2 },
     { id: 'reroll-strategy-and-when-to-stop', label: 'Reroll strategy and when to stop', level: 2 },
-    { id: 'topping-bonus-sets-and-id-rerolling', label: 'Topping bonus sets and ID rerolling', level: 2 },
+    { id: 'how-topping-set-bonuses-work', label: 'How topping set bonuses work', level: 2 },
     { id: 'common-topping-mistakes', label: 'Common topping mistakes', level: 2 },
     { id: 'quick-action-checklist', label: 'Quick Action Checklist', level: 2 },
   ],
@@ -69,14 +69,15 @@ Each topping type locks in one main stat. Your job is to match the main stat to 
 | Searing Raspberry | ATK | DPS, most damage dealers |
 | Solid Almond | DMG Resist | Tanks, frontline bruisers |
 | Swift Chocolate | Cooldown | Healers, supports, ability-reliant DPS |
-| Juicy Apple Jelly | Cooldown / CRIT [VERIFY] | Crit-scaling DPS, cooldown supports |
-| Bouncy Caramel | HP | Off-tanks, sustain frontliners |
-| Hard Walnut | DMG Resist [VERIFY] | Tanks who need extra mitigation |
+| Juicy Apple Jelly | CRIT% | Crit-scaling DPS |
+| Bouncy Caramel | ATK SPD | Auto-attackers and speed-scaling Cookies |
+| Hard Walnut | DEF | Tanks who want flat defense |
 | Healthy Peanut | HP | Tanks, healers who want bulk |
-| Fresh Kiwi | ATK SPD [VERIFY] | Auto-attack and speed-scaling Cookies |
-| Sweet Candy | CRIT [VERIFY] | Crit DPS who already have ATK covered |
+| Fresh Kiwi | Debuff Resist | Cookies that need to shrug off stuns and debuffs |
+| Sweet Candy | Amplify Buff | Buff-centric supports |
+| Hearty Hazelnut | CRIT Resist | Tanks countering crit-heavy arena teams |
 
-A few of those overlap on purpose. CRK has more than one topping per main stat, which matters later when you start hunting set bonuses. For now, the three you'll touch ninety percent of the time are Searing Raspberry, Solid Almond, and Swift Chocolate. Learn those three cold and you've covered most of your roster.
+Ten topping types, ten main stats. The three you'll touch ninety percent of the time are Searing Raspberry, Solid Almond, and Swift Chocolate — ATK, DMG Resist, and Cooldown. Learn those three cold and you've covered most of your roster. The rest are situational: Apple Jelly and Sweet Candy for crit and buff-stacking builds, Fresh Kiwi and Hearty Hazelnut for arena teams that need to resist debuffs and crits.
 
 ## How sub-stats work (the real power)
 
@@ -97,7 +98,7 @@ The reason sub-stats are "the real power" is that they compound. A five-topping 
 
 ## The 5-topping vs hybrid debate
 
-![Juicy Apple Jelly topping icon, the cooldown-and-crit topping that tempts hybrid Cookie Run: Kingdom builds.](/images/gear/toppings/apple-jelly.png)
+![Juicy Apple Jelly topping icon, the CRIT% topping crit-scaling Cookie Run: Kingdom DPS chase.](/images/gear/toppings/apple-jelly.png)
 
 The default advice is to run five of one type. Five Searing Raspberries on your DPS, five Solid Almonds on your tank. That gives you the cleanest main-stat stacking and, in many cases, a set bonus on top. For pure damage dealers this is almost always correct. Five Raspberries, no debate.
 
@@ -135,11 +136,11 @@ The efficiency play is simple but easy to ignore:
 - **Spend energy on the type you're building right now.** Don't spread thin across five Cookies. Finish one set, then move on.
 - **Use sweep tickets / instant clears once unlocked** so you're not manually replaying the same stage forty times.
 
-The stingy one is Swift Chocolate. [VERIFY] Cooldown toppings tend to feel scarcer relative to demand because half your roster wants them and the drop stages gate them behind progression. If you're building a healer or support, start that grind earlier than you think you need to, because the wall is real.
+The stingy one is Swift Chocolate. Cooldown toppings tend to feel scarcer relative to demand because half your roster wants them and the drop stages gate them behind progression. If you're building a healer or support, start that grind earlier than you think you need to, because the wall is real.
 
 ## Reroll strategy and when to stop
 
-Once a topping has its main stat and four sub-stats locked, you can reroll the sub-stat values to push for better rolls. This costs materials, and the cost climbs the more you push. [VERIFY] Rerolling is where accounts either get cracked or get bankrupt, and the line between the two is discipline.
+Once a topping has its main stat and four sub-stats locked, you can reroll the sub-stat values to push for better rolls. This costs materials, and the cost climbs the more you push. Rerolling is where accounts either get cracked or get bankrupt, and the line between the two is discipline.
 
 The math that matters: rerolling has diminishing returns. Going from "no useful sub-stats" to "two useful sub-stats" is enormous value per reroll. Going from "three good sub-stats" to "four perfect sub-stats" can cost you ten times the materials for a single-digit power gain. Players who chase perfection on every topping run dry and can't build their next Cookie. Players who reroll to "good enough" and move on end up with five solidly-built Cookies instead of one flawless one.
 
@@ -147,11 +148,11 @@ So here's the stop rule. If a topping hits its priority sub-stats at decent valu
 
 The exception is a true endgame carry where you've already finished everything else. When your whole roster is "good enough," then sure, go grind the last 3% on your main DPS. Until then, breadth beats depth every time.
 
-## Topping bonus sets and ID rerolling
+## How topping set bonuses work
 
-Beyond the main and sub-stats, toppings carry a hidden Topping ID that determines bonus set effects. [VERIFY] Slotting toppings that share the right combination can grant an additional set bonus on top of the five-of-a-kind effect, which is why two identical-looking five-Raspberry sets can perform differently.
+Equipping multiples of the same topping type stacks an escalating set bonus on top of the individual main and sub-stats, with thresholds at 2, 3, and 5 pieces. The 5-piece bonus is the big one — a full Searing Raspberry set, for example, hands your DPS a chunk of bonus ATK% just for going mono. That 5-piece bonus is the real reason "five of one type" is the default for damage dealers: you're not only stacking the main stat, you're unlocking the set effect on top.
 
-You can reroll the Topping ID to chase a better bonus combination, separate from rerolling the sub-stat values. This is deep-end optimization. Most players never need to touch it, and you should not even think about ID rerolling until your sub-stats are already locked in across your core team. It's the last 1% of the last 1%, the thing you do when you've genuinely run out of bigger upgrades. If you're treating it as a priority before your sub-stats are clean, you've got the order backwards. Same logic applies to your [treasure setups](/blog/cookie-run-kingdom/cookie-run-kingdom-treasures-guide), which give you more raw power than ID rerolling ever will.
+This is also why hybrids cost you something concrete. A 3+2 split trades the 5-piece bonus away, so it only pays off when the second stat genuinely unlocks the Cookie. And there's no hidden mechanic beyond this — if two five-Raspberry sets perform differently, it's their sub-stat rolls doing the work, not any secret property of the toppings. Your [treasure setups](/blog/cookie-run-kingdom/cookie-run-kingdom-treasures-guide) give you more raw power than chasing the last sliver of a set anyway.
 
 ## Common topping mistakes
 
@@ -172,8 +173,7 @@ If you want the full breakdown with per-Cookie numbers, the [toppings gear guide
 - Hit roughly 18%+ CRIT and 12%+ Cooldown on a serious DPS before you call her done.
 - Farm the specific topping type you need from the highest World Exploration stage you can sweep.
 - Reroll to "two strong sub-stats plus a usable third," then stop and bank materials.
-- Build breadth before depth. Five good Cookies beat one perfect one.
-- Leave Topping ID rerolling for absolute endgame, after your core team's sub-stats are clean.`,
+- Build breadth before depth. Five good Cookies beat one perfect one.`,
   faq: [
     {
       question: 'What are the best toppings in Cookie Run: Kingdom?',
@@ -196,8 +196,8 @@ If you want the full breakdown with per-Cookie numbers, the [toppings gear guide
       answer: "Farm toppings from the topping stages in World Exploration, where each stage drops a specific type. Always sweep the highest stage you can clear for better rarity, focus your energy on the one topping type you're building right now, and use sweep tickets once unlocked so you're not manually grinding.",
     },
     {
-      question: 'What is Topping ID rerolling and do I need it?',
-      answer: "Topping ID rerolling chases a hidden ID that determines bonus set effects on top of the five-of-a-kind bonus. It's last-1% optimization. You should not touch it until your sub-stats are already clean across your whole core team, since bigger upgrades exist almost everywhere else first.",
+      question: 'How do topping set bonuses work in CRK?',
+      answer: "Equipping multiples of the same topping type grants an escalating set bonus at 2, 3, and 5 pieces, with the 5-piece bonus being the largest. That 5-piece bonus is the main reason damage dealers run five of one type instead of a mix. There is no hidden 'topping ID' — two identical-looking sets that perform differently are doing so because of their random sub-stat rolls.",
     },
   ],
   internalLinks: [
@@ -215,7 +215,7 @@ If you want the full breakdown with per-Cookie numbers, the [toppings gear guide
     { url: 'https://www.devsisters.com/en/', title: 'Devsisters' },
     { url: 'https://playcookierun.com/', title: 'Play Cookie Run' },
   ],
-  tldr: 'Match main stats to roles first (ATK/Searing Raspberry for DPS, DMG Resist/Solid Almond for tanks, Cooldown/Swift Chocolate for healers), then grind sub-stats: CRIT% and ATK% for DPS, DMG Resist for tanks, Cooldown for supports. Run five of one type on DPS, reserve hybrids for tanks/supports who need two stats. Farm the specific type you need from the highest World Exploration stage, reroll to "good enough" (two strong sub-stats plus a usable third) instead of chasing perfection, and leave Topping ID rerolling for absolute endgame.',
+  tldr: 'Match main stats to roles first (ATK/Searing Raspberry for DPS, DMG Resist/Solid Almond for tanks, Cooldown/Swift Chocolate for healers), then grind sub-stats: CRIT% and ATK% for DPS, DMG Resist for tanks, Cooldown for supports. Run five of one type on DPS, reserve hybrids for tanks/supports who need two stats. Farm the specific type you need from the highest World Exploration stage, reroll to "good enough" (two strong sub-stats plus a usable third) instead of chasing perfection. The 5-piece set bonus is why DPS run five of one topping type.',
   itemList: {
     name: 'Best Topping Sets by Role (CRK 2026)',
     items: [

@@ -134,7 +134,7 @@ Aurora Dust comes from:
 - Cookie Odyssey final chest rewards on completion of an Awakened Cookie's questline
 - Periodic event shops, especially anniversary and seasonal events
 
-A weekly cap of around 1,500-2,000 dust is realistic for active F2P [VERIFY]. Whales pulling event packs can roughly double that.
+A modest but steady weekly haul is realistic for active F2P. Whales pulling event packs pull in noticeably more.
 
 Per-Cookie materials drop from:
 
@@ -142,7 +142,7 @@ Per-Cookie materials drop from:
 - Cookie Odyssey replays for that specific Cookie
 - Magic Laboratory experiments using cheaper conversion materials (slow but reliable)
 
-A full tier 1 to tier 5 upgrade on a non-Beast Cookie takes roughly 200-260 Cookie-specific materials and around 9,000 Aurora Dust total [VERIFY]. That is six to eight weeks of focused farming for one Cookie at F2P pace.
+A full tier 1 to tier 5 upgrade on a non-Beast Cookie takes a hefty pile of Cookie-specific materials and a large Aurora Dust total. That is several weeks of focused farming for one Cookie at F2P pace.
 
 ## Beast Magic Candy is its own grind
 
@@ -150,7 +150,7 @@ A full tier 1 to tier 5 upgrade on a non-Beast Cookie takes roughly 200-260 Cook
 
 Beast Cookies (Silent Salt, Eternal Sugar, Burning Spice, Mystic Flour, Shining Glitter) use Beast Magic Candy. Beast Magic Candy is structurally the same five-tier system, but the materials come from Beast-Yeast content exclusively. That means Dark Mode stages in the Beast-Yeast world map, Beast-specific Cookie Odyssey replays, and the Beast-Yeast Tower (when it is in rotation).
 
-Beast Candy material drops are slower than regular candy materials. The drop rates are roughly comparable, but the energy cost per stage is higher and the stages take longer to clear because the enemies are tuned for endgame teams. Expect two to three months of focused farming per Beast Cookie if you are F2P, and that is on top of the Soulstone grind to actually unlock the Beast Cookie in the first place.
+Beast Candy material drops are slower than regular candy materials. The drop rates are roughly comparable, but the energy cost per stage is higher and the stages take longer to clear because the enemies are tuned for endgame teams. Expect a months-long grind per Beast Cookie if you are F2P, and that is on top of the Soulstone grind to actually unlock the Beast Cookie in the first place.
 
 The upside: every Beast Cookie's Beast Magic Candy is meaningful. None of them are skippable if you actually want to run that Cookie in serious content. There is no "Beast B-tier."
 
@@ -158,21 +158,13 @@ For the broader Beast-Yeast farming routes, the [Beast-Yeast guide](/blog/cookie
 
 ## Magic Candy upgrade costs and time investment
 
-Approximate per-tier costs for a standard Legendary [VERIFY]:
+The cost climbs with every tier. Each step up the ladder asks for more Aurora Dust and more Cookie-specific material than the last, and the early tiers come quickly while the final tiers are where the grind drags. The lower tiers are days of farming apiece; the top tiers stretch into weeks.
 
-| Tier | Aurora Dust | Cookie-specific material | Approx. F2P time to gather |
-| --- | --- | --- | --- |
-| 1 | 800 | 20 | 4-5 days |
-| 2 | 1,400 | 35 | 1 week |
-| 3 | 2,000 | 50 | 1.5 weeks |
-| 4 | 2,400 | 65 | 2 weeks |
-| 5 | 2,600 | 80 | 2.5 weeks |
+All told, a full tier 1 to tier 5 run is a long grind, working out to several weeks of focused F2P farming for a single Cookie.
 
-Total: roughly 9,200 Aurora Dust and 250 Cookie-specific materials per Cookie, working out to about seven weeks of focused F2P farming.
+Beast Cookies run noticeably slower because of the energy gating on Beast-Yeast stages.
 
-Beast Cookies run roughly 30-40% slower because of the energy gating on Beast-Yeast stages.
-
-This is exactly why split-focus farming is a trap. If you upgrade three Cookies in parallel to tier 3, you have spent ~16,200 dust to get three Cookies most of the way to the breakpoint. If you finish one Cookie to tier 5 and start the next, you have spent ~9,200 dust to get one Cookie fully online and have plenty of dust left to start the next. Same total spend, very different account power.
+This is exactly why split-focus farming is a trap. If you upgrade three Cookies in parallel to tier 3, you have spread your dust thin and left all three short of the breakpoint that justifies the investment. If you finish one Cookie to tier 5 and start the next, you get one Cookie fully online and still have a head start on the next. Same total spend, very different account power.
 
 ## Common Magic Candy mistakes
 
@@ -204,7 +196,7 @@ This is exactly why split-focus farming is a trap. If you upgrade three Cookies 
     {
       question: 'Is Magic Candy worth it for F2P players?',
       answer:
-        "Yes, but only on Cookies you actually run in your top two teams. F2P players generate roughly 1,500-2,000 Aurora Dust per week through dailies, weekly missions, and Tower of Sweet Chaos clears [VERIFY]. That is enough to keep one Cookie progressing toward tier 5 every six to eight weeks. Spreading that dust across five Cookies at once means none of them hit the breakpoint where the Magic Candy effect actually matters.",
+        "Yes, but only on Cookies you actually run in your top two teams. F2P players generate a steady trickle of Aurora Dust through dailies, weekly missions, and Tower of Sweet Chaos clears. That is enough to keep one Cookie progressing toward tier 5 over several weeks of focused farming. Spreading that dust across five Cookies at once means none of them hit the breakpoint where the Magic Candy effect actually matters.",
     },
     {
       question: "Should I max one Cookie's Magic Candy before starting another?",
@@ -214,7 +206,7 @@ This is exactly why split-focus farming is a trap. If you upgrade three Cookies 
     {
       question: 'How long does it take to max Magic Candy F2P?',
       answer:
-        "About six to eight weeks per Cookie for non-Beast Cookies, assuming you are clearing all daily Magic Laboratory production and running Tower of Sweet Chaos to floor 60+ weekly. Beast Magic Candy is slower because the materials drop from Beast-Yeast Dark Mode stages and gate behind energy. Plan on two to three months per Beast Cookie if you are not whaling [VERIFY].",
+        "Plan on several weeks of focused farming per non-Beast Cookie, assuming you are clearing all daily Magic Laboratory production and running Tower of Sweet Chaos to floor 60+ weekly. Beast Magic Candy is slower because the materials drop from Beast-Yeast Dark Mode stages and gate behind energy, so a Beast Cookie is a considerably longer grind if you are not whaling.",
     },
     {
       question: 'What is the difference between Magic Candy and Beast Magic Candy?',
@@ -229,7 +221,7 @@ This is exactly why split-focus farming is a trap. If you upgrade three Cookies 
     {
       question: 'Can I refund Magic Candy if I upgrade the wrong Cookie?',
       answer:
-        "No. Magic Candy materials are spent permanently. This is exactly why picking a priority order before you start farming matters so much. Devsisters has never run a Magic Candy reset event, and the in-game text on the upgrade screen explicitly warns you that the action is irreversible [VERIFY].",
+        "No. Magic Candy materials are spent permanently. This is exactly why picking a priority order before you start farming matters so much. There is no reset or refund for a Magic Candy upgrade, so the materials you commit are gone for good.",
     },
     {
       question: 'Do I need Magic Candy to clear Cake Tower 50?',

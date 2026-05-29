@@ -113,7 +113,7 @@ Color and archetype aren't a perfect one-to-one lock - decks can blend, and mult
 
 ![Dark Cacao Cookie, the trash-based Awakening Cookie that headlines the Disruption (Purple) archetype in Braverse.](/images/cookies/dark-cacao-cookie.png)
 
-**The plan:** deny resources, recur your own threats, and make the opponent's plan fall apart while yours keeps coming back. Purple values Cookie skills over raw stats and lives in "trash-based" recursion strategies (the Dark Cacao Awakening deck is the headline example). [Verify how the Awakening mechanic works against the official rulebook.]
+**The plan:** deny resources, recur your own threats, and make the opponent's plan fall apart while yours keeps coming back. Purple values Cookie skills over raw stats and lives in "trash-based" recursion strategies (the Dark Cacao Awakening deck is the headline example). The Awakening name is well-established, but its exact rules are worth confirming against the official rulebook before a sanctioned event.
 
 **How to pilot it:** identify the opponent's plan and break the piece that matters. Against Combo, strip their setup; against Ramp, deny their engine; against Control, grind back every answer they spend. Disruption is a "know thy enemy" archetype - it's strongest when you understand what you're disrupting, which is why it ranks higher on the skill curve.
 
@@ -135,7 +135,7 @@ The practical takeaway: when you sit down, identify your opponent's archetype fa
 
 A careful caveat first: the best public competitive data for Braverse is **community-tracked and largely from Southeast Asian events**, not official global standings, and the English-language scene is young. So treat everything in this section as a *trend*, not a verdict.
 
-With that said, community reporting from 2025 SEA tournaments has frequently shown **Control (Yellow)** as one of the strongest and most-played archetypes, with some regional finals skewing heavily Yellow, while other regions (such as Indonesia) showed a more diverse field with **Purple** well-represented. [Verify current competitive standings and any North American results; the meta shifts with each new set.]
+With that said, community reporting from 2025 SEA tournaments has frequently shown **Control (Yellow)** as one of the strongest and most-played archetypes, with some regional finals skewing heavily Yellow, while other regions (such as Indonesia) showed a more diverse field with **Purple** well-represented. The meta shifts with each new set, so check current competitive standings and any North American results before treating this as settled.
 
 What this means for you: a grindy, value-oriented metagame rewards clean play and punishes greed - which is good news, because those are skills that transfer to every archetype. The arrival of the first World Championship in April 2026 also means more high-level data is starting to exist; we'll fold confirmed results into our coverage as they're verified. For the product side of meta shifts, see our [set release timeline](/blog/cookie-run-braverse-tcg/cookie-run-braverse-sets-release-timeline).
 

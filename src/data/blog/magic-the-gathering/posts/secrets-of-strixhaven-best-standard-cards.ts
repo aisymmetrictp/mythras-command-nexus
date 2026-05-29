@@ -73,11 +73,11 @@ If you skipped the lore push, here is the one-paragraph version of what each col
 
 | College      | Colors  | Identity                                    | Signature Mechanic            |
 | ------------ | ------- | ------------------------------------------- | ----------------------------- |
-| Lorehold     | R / W   | Spirits, history, graveyard reuse           | Magecraft returns [Verify]    |
-| Prismari     | U / R   | Big spells, copy effects, instants/sorcs    | Prepare [Verify rules text]   |
-| Quandrix     | G / U   | Counters, math, fractals                    | Increment [Verify rules text] |
-| Silverquill  | W / B   | Token swarms, life drain, spell support     | Magecraft returns [Verify]    |
-| Witherbloom  | B / G   | Sacrifice, lifegain, midrange grind         | Paradigm [Verify rules text]  |
+| Lorehold     | R / W   | Spirits, history, graveyard reuse           | Magecraft (reportedly)        |
+| Prismari     | U / R   | Big spells, copy effects, instants/sorcs    | Prepare (rumored)             |
+| Quandrix     | G / U   | Counters, math, fractals                    | Increment (rumored)           |
+| Silverquill  | W / B   | Token swarms, life drain, spell support     | Magecraft (reportedly)        |
+| Witherbloom  | B / G   | Sacrifice, lifegain, midrange grind         | Paradigm (rumored)            |
 
 The mechanics matter, but most of them only really show up in dedicated college decks. Prepare and Paradigm both reward casting things twice (in different ways) and Increment is the Quandrix counters mini-game. Magecraft is the returning hook that mostly props up the Lorehold spirits archetype.
 
@@ -98,7 +98,7 @@ These are the cards that anchor or define a tier 1 deck in current Standard. If 
 | Witherbloom Elder Dragon      | B/G    | Mythic   | Witherbloom midrange staple     |
 | Dina's Guidance               | B/G    | Rare     | Tutor for Witherbloom and BG    |
 
-Flow State stays in S-tier even after the Izzet bans. The card was in 34.8% of Pro Tour Strixhaven decks for a reason. It is a two-cost spell that draws cards and chains into more spells [Verify exact rules text], and it will find a home in whatever the next viable spells-matter deck is. If you cracked one at the prerelease, do not sell it.
+Flow State stays in S-tier even after the Izzet bans. The card was in 34.8% of Pro Tour Strixhaven decks for a reason. It is, by the spoiler-season reports, a two-cost spell that draws cards and chains into more spells, and it should find a home in whatever the next viable spells-matter deck is. If you cracked one at the prerelease, do not sell it.
 
 The Elder Dragons are a more interesting story. Four of the five are genuinely Standard playable, but only the Witherbloom and Quandrix versions are seeing day-one play in tier 1 decks. The Lorehold and Prismari dragons are slow control finishers that need a deck built around them, and the Silverquill dragon (notably absent from this S-tier table) is the one that flopped hardest.
 
@@ -139,7 +139,7 @@ A few examples of the kind of card living in B-tier (paraphrased rather than nam
 - A two-mana Witherbloom rare that gains life and creates a token, slotted into the Aristocrats sideboard.
 - A Quandrix instant that doubles +1/+1 counters on one creature, conditional payoff in counters decks.
 - A Lorehold three-drop that returns a spell from your graveyard, narrow but powerful in Magecraft builds.
-- A Silverquill four-drop that creates inspired tokens [Verify rules text], occasional sideboard tech against control.
+- A Silverquill four-drop reportedly built around creating inspired tokens, the kind of occasional sideboard tech you bring against control.
 - A Prismari sorcery that copies the next instant or sorcery you cast that turn, build-around but explosive.
 
 > The thing about B-tier in a set this dense is that one card moves up to A-tier the moment someone builds the right shell around it. Watch the [MTGGoldfish weekly metagame data](https://www.mtggoldfish.com/) for cards climbing the play percentage charts.
@@ -154,7 +154,7 @@ Highlights worth tracking:
 
 - **The five college Elder Dragons as commanders.** Even the Standard-flop Silverquill dragon is a Commander-tier general because the deckbuilding constraint matters more in EDH.
 - **The college headmasters and lecturers cycle.** Each college got at least one new legendary in the rare and mythic slots, and most of them are designed for the Commander 100-card format rather than 60-card Standard.
-- **Reprints in the set boosters.** The reprint sheet for SSH is generous and includes a handful of staples that Commander players have wanted in foil [Verify exact reprint list]. Worth checking [Scryfall's SSH set search](https://scryfall.com/sets/ssh) for the full reprint list.
+- **Reprints in the set boosters.** The reprint sheet for SSH is rumored to be generous and to include a handful of staples Commander players have wanted in foil. Check [Scryfall's SSH set search](https://scryfall.com/sets/ssh) for the confirmed reprint list once it is up.
 - **The college Lairs (lands).** The cycle of college lair lands is too slow for Standard but perfect for the lower-power EDH metas.
 
 If you only play Commander, the value play is to crack a Collector Booster box of SSH for the reprints and the legendary mythics, rather than chasing the Standard staples one at a time.
@@ -165,13 +165,13 @@ If you only play Commander, the value play is to crack a Collector Booster box o
 
 Every set has hype mythics that do not live up to the spoiler-season buzz. SSH had a louder-than-usual list of them, mostly because the Pro Tour metagame settled before the Standard meta had time to actually test the marginal cards.
 
-The most spectacular flop is not technically an SSH card, but it defined the post-ban meta: **Cori-Steel Cutter**. It predates SSH but became the cornerstone of Izzet Prowess after the set launched, then got banned in Standard on May 18, 2026, 24 days after the SSH release. Anyone who paid $35-plus for a playset in the first week of release is now sitting on Modern and Pioneer pieces only. [Verify current price]
+The most spectacular flop is not technically an SSH card, but it defined the post-ban meta: **Cori-Steel Cutter**. It predates SSH but became the cornerstone of Izzet Prowess after the set launched, then got banned in Standard on May 18, 2026, 24 days after the SSH release. Anyone who paid $35-plus for a playset in the first week of release is now sitting on Modern and Pioneer pieces only (prices vary — check a current retailer).
 
 Other notable disappointments:
 
 - **The Silverquill Elder Dragon.** The hype said it was the flex play because Silverquill had the strongest token shell. The reality is the card costs one mana too much and the token decks would rather play a cheaper finisher.
 - **The Lorehold Magecraft payoff mythic.** Looked like a build-around mythic with format-defining potential. The deck never came together because the supporting cast was a tier 2 archetype.
-- **Two of the Prepare mythics.** [Verify exact cards] Prepare as a mechanic is great in theory, but the specific mythics that headlined the mechanic in the spoiler season are too expensive to be format-defining and too narrow to be Commander staples.
+- **Two of the Prepare mythics.** Prepare as a mechanic is great in theory, but the specific mythics rumored to headline the mechanic in spoiler season look too expensive to be format-defining and too narrow to be Commander staples.
 - **The Increment one-of-a-kind win condition mythic.** Cool design, no realistic Standard deck where the math works in 60-card format.
 
 The lesson, as always, is that first-week reviews overrate flashy mythics and underrate uncommons. Flow State at uncommon was the actual format-defining card. The mythic spotlight cards mostly faded.
@@ -217,7 +217,7 @@ For a deeper read on the new meta and what to actually build, the [Selesnya Land
     },
     {
       question: "Should I buy Cori-Steel Cutter now that it is banned?",
-      answer: "Only if you play Modern, Pioneer, or another non-rotating format where the card is still legal. The price has collapsed from its peak Standard pricing, so if you want it for older formats, this is the cheapest it has been since release. Do not buy it expecting any Standard application going forward. [Verify current price]",
+      answer: "Only if you play Modern, Pioneer, or another non-rotating format where the card is still legal. The price has collapsed from its peak Standard pricing, so if you want it for older formats, this is the cheapest it has been since release (prices vary — check a current retailer). Do not buy it expecting any Standard application going forward.",
     },
     {
       question: "Are the cycle dual lands from SSH worth the investment?",

@@ -85,13 +85,13 @@ The rule that matters: every land slot you fill with a basic is a slot you did n
 
 These are the cycles that anchor a real manabase. Buy what you can afford, proxy the rest if your pod allows it.
 
-**Fetchlands.** Scalding Tarn, Misty Rainforest, Flooded Strand, Polluted Delta, Bloodstained Mire, Wooded Foothills, Marsh Flats, Verdant Catacombs, Arid Mesa, Windswept Heath. Pay one life, tap, sacrifice to search any land with the right basic type. Currently [Verify current price] each for the Modern Horizons reprints, more for older printings. They thin the deck, fix colors, shuffle in response to Brainstorm and scry, and trigger Landfall twice in a turn. Bonus: they grab shocklands and original duals because those have basic land types.
+**Fetchlands.** Scalding Tarn, Misty Rainforest, Flooded Strand, Polluted Delta, Bloodstained Mire, Wooded Foothills, Marsh Flats, Verdant Catacombs, Arid Mesa, Windswept Heath. Pay one life, tap, sacrifice to search any land with the right basic type. Prices vary — check a current retailer — but expect the Modern Horizons reprints to run cheaper than the older printings. They thin the deck, fix colors, shuffle in response to Brainstorm and scry, and trigger Landfall twice in a turn. Bonus: they grab shocklands and original duals because those have basic land types.
 
 **Shocklands.** Steam Vents, Hallowed Fountain, Watery Grave, Sacred Foundry, Breeding Pool, the full Ravnica cycle. Enter tapped or pay 2 life to enter untapped. They have both basic land types, so fetches grab them. The 2-color manabase backbone in any deck that does not want to play 4 tap-lands and lose the game by turn 3.
 
 **Triomes.** Spara's Headquarters, Ketria Triome, Jetmir's Garden, Indatha Triome, Raugrin Triome, the full Ikoria and Streets of New Capenna cycle. Three colors, three basic types (so fetches grab them too), and cycling for 3 mana. Always enter tapped, which is the cost. In a 3-color deck these are non-negotiable.
 
-**Original Dual Lands.** Tropical Island, Underground Sea, Volcanic Island, Bayou, Tundra, Plateau, Savannah, Scrubland, Badlands, Taiga. Reserved List, [Verify current price] each (usually $200-800+ depending on edition). They are strictly better than shocks. If you own them, run them. If you do not, shocks do 90% of the job for 1% of the price.
+**Original Dual Lands.** Tropical Island, Underground Sea, Volcanic Island, Bayou, Tundra, Plateau, Savannah, Scrubland, Badlands, Taiga. Reserved List, usually $200-800+ each depending on edition. They are strictly better than shocks. If you own them, run them. If you do not, shocks do 90% of the job for 1% of the price.
 
 ## Utility lands that earn their slot
 
@@ -127,7 +127,7 @@ The Kamigawa Channel lands (Boseiju, Otawara, Eiganjo, Sokenzan, Takenuma) are t
 |------|--------|---------|
 | Cabal Coffers | {2}: add {B} per Swamp you control | Mono-black or Urborg shells |
 | Nykthos, Shrine to Nyx | {2}, T: add X mana of your devotion color | Mono-color or high-devotion decks |
-| Gaea's Cradle | T: add {G} per creature you control | Reserved List, [Verify current price] $800+ |
+| Gaea's Cradle | T: add {G} per creature you control | Reserved List, roughly $800+ |
 | Ancient Tomb | T: add {C}{C}, take 2 damage | Any deck, any color |
 | City of Traitors | T: add {C}{C}, sacrifice on next land drop | Combo, fast Stax |
 | Mishra's Workshop | T: add {C}{C}{C} for artifact spells only | Artifact decks, Reserved List |
@@ -151,7 +151,7 @@ These cards either exist because of Commander or are dramatically better in the 
 
 **Reflecting Pool.** Taps for any color any of your lands can produce. Better than Exotic Orchard in your own deck but worse in pods. Run both.
 
-**Mana Confluence and City of Brass.** Pay 1 life, get any color. The budget alt-Tower for decks that need perfect fixing and do not mind the chip damage. Confluence is usually [Verify current price] $30-40, City around $20.
+**Mana Confluence and City of Brass.** Pay 1 life, get any color. The budget alt-Tower for decks that need perfect fixing and do not mind the chip damage. Confluence is usually around $30-40, City around $20.
 
 ## Budget land swaps under $5 each
 
@@ -167,7 +167,7 @@ If you cannot drop $50 on a fetchland, here is the upgrade path that actually wo
 | Check lands | Sunpetal Grove, Dragonskull Summit, Innistrad cycle | $3-5 | Untapped if you have the right basic |
 | Filter lands | Mystic Gate, Twilight Mire, Shadowmoor cycle | $3-8 | Mana fixing for hybrid costs |
 
-The Battlebond cycle (Bountiful Promenade, Sea of Clouds, Morphic Pool, Luxury Suite, Spire Garden, Rejuvenating Springs) is the budget shockland for multiplayer. They enter untapped if 2+ opponents are alive, which in Commander is the entire game until someone gets knocked out. At [Verify current price] $5-10 each they are the highest-power-per-dollar dual you can buy.
+The Battlebond cycle (Bountiful Promenade, Sea of Clouds, Morphic Pool, Luxury Suite, Spire Garden, Rejuvenating Springs) is the budget shockland for multiplayer. They enter untapped if 2+ opponents are alive, which in Commander is the entire game until someone gets knocked out. At roughly $5-10 each they are the highest-power-per-dollar dual you can buy.
 
 Cycling lands and bounce lands are the floor. Even a $30 budget deck has no excuse to run 8 basic Forests when Tranquil Thicket exists.
 
@@ -220,7 +220,7 @@ The patterns I see week after week at LGSs and Spelltable pods.
     {
       question: 'Are fetchlands worth it in Commander?',
       answer:
-        "Yes, but only if you also run shocklands or duals for them to grab. A Scalding Tarn that only finds an Island is not worth [Verify current price]. The real value is color fixing, deck thinning, and triggering Landfall, Brainstorm shuffles, and graveyard count for delirium. If your manabase is mostly basics, run more cycling lands or tapped fixing instead.",
+        "Yes, but only if you also run shocklands or duals for them to grab. A Scalding Tarn that only finds an Island is not worth what you pay for it. The real value is color fixing, deck thinning, and triggering Landfall, Brainstorm shuffles, and graveyard count for delirium. If your manabase is mostly basics, run more cycling lands or tapped fixing instead.",
     },
     {
       question: 'What is the best utility land in MTG Commander?',
@@ -230,7 +230,7 @@ The patterns I see week after week at LGSs and Spelltable pods.
     {
       question: 'Should I run original dual lands in Commander?',
       answer:
-        "If you own them or can afford [Verify current price] each, absolutely. Tropical Island and Underground Sea are strictly better than shocklands (no 2 life cost, no shock damage) and count as both basic types for fetches. They are Reserved List so the price only goes up, but no one will tell you the deck is worse for using shocks instead.",
+        "If you own them or can afford them, absolutely. Tropical Island and Underground Sea are strictly better than shocklands (no 2 life cost, no shock damage) and count as both basic types for fetches. They are Reserved List so the price only goes up, but no one will tell you the deck is worse for using shocks instead.",
     },
     {
       question: 'Is Cabal Coffers worth the price?',
@@ -240,7 +240,7 @@ The patterns I see week after week at LGSs and Spelltable pods.
     {
       question: 'What is the best budget Commander land under $5?',
       answer:
-        "Exotic Orchard. It costs under [Verify current price] and taps for any color your opponents can make, which in a 4-player pod is basically always every color. It is a strictly better Command Tower in most multiplayer games and the single best dollar-per-power land in the format.",
+        "Exotic Orchard. It costs next to nothing and taps for any color your opponents can make, which in a 4-player pod is basically always every color. It is a strictly better Command Tower in most multiplayer games and the single best dollar-per-power land in the format.",
     },
     {
       question: 'Do I need a Command Tower in every deck?',

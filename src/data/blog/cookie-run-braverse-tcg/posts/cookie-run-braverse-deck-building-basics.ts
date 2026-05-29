@@ -60,7 +60,7 @@ A legal Braverse deck obeys exactly these constraints:
 | **Copy limit** | Up to 4 copies of any single card number. |
 | **FLIP cap** | Up to 16 FLIP cards in the 60. |
 
-That's it. [Verify the FLIP cap and copy limit against the current official rulebook, as competitive caps can be adjusted by errata.] Everything below this line is strategy, not law - so when you see a ratio recommendation, read it as a starting point, not a rule you'll be penalized for breaking.
+That's it. Braverse is a young game and competitive caps can be adjusted by errata, so confirm the FLIP cap and copy limit against the current official rulebook before a sanctioned event. Everything below this line is strategy, not law - so when you see a ratio recommendation, read it as a starting point, not a rule you'll be penalized for breaking.
 
 ## Start from a Starter Deck, not a blank page
 
@@ -101,7 +101,7 @@ Skew the curve toward your color's plan: Red wants a low curve to attack early; 
 
 You can run **up to 16 FLIP cards**, and FLIP is one of the most distinctive levers in Braverse deck-building. Remember how FLIP works: these cards live shuffled in your deck, end up in your Cookies' HP stacks, and trigger when damage flips them. (Full explanation in [how to play](/blog/cookie-run-braverse-tcg/how-to-play-cookie-run-braverse).)
 
-More FLIP cards means more frequent surprise effects and scarier combat for your opponent - but FLIP cards still have to pull their weight as cards, and stacking the maximum 16 isn't automatically correct. A focused aggro deck might run fewer, leaning on raw tempo; a defensive deck might push the count up to punish attackers. Start near what your Starter Deck runs and adjust from there. [Verify the exact FLIP cap and any deck-construction interaction against the official rulebook.]
+More FLIP cards means more frequent surprise effects and scarier combat for your opponent - but FLIP cards still have to pull their weight as cards, and stacking the maximum 16 isn't automatically correct. A focused aggro deck might run fewer, leaning on raw tempo; a defensive deck might push the count up to punish attackers. Start near what your Starter Deck runs and adjust from there.
 
 ## Items, Traps, and Stages: the support package
 
@@ -117,7 +117,7 @@ A common beginner mistake is running zero interaction - all Cookies, no answers 
 
 ![Dark Cacao Cookie, the headline Purple recursion Cookie new builders are tempted to splash before their deck is ready.](/images/cookies/dark-cacao-cookie.png)
 
-Single-color decks are more consistent because every card fits your resource base cleanly. Multicolor decks (which are legal) open up stronger combinations at the cost of consistency, since your Support cards have to fuel more demands. [Verify exact multicolor cost rules against the official rulebook.]
+Single-color decks are more consistent because every card fits your resource base cleanly. Multicolor decks (which are legal) open up stronger combinations at the cost of consistency, since your Support cards have to fuel more demands. The exact multicolor cost rules are worth confirming against the official rulebook before you commit to a splash in a tournament.
 
 For your first built deck: **stay one color.** You'll learn the clean version of your strategy, and you'll discover exactly what your color lacks. *That* gap is the reason to splash a second color later - not "these cards look cool together." We cover how colors combine into full strategies in [deck archetypes explained](/blog/cookie-run-braverse-tcg/cookie-run-braverse-deck-archetypes).
 
@@ -150,7 +150,7 @@ When you're chasing specific upgrade cards, our [rarities and collecting guide](
     {
       question: "How many FLIP cards can you run in a Braverse deck?",
       answer:
-        "Up to 16 FLIP cards in your 60-card deck. You don't have to run the maximum - match the count to your strategy, with defensive decks usually running more and pure aggro decks sometimes running fewer. [Verify the current cap against the official rulebook.]",
+        "Up to 16 FLIP cards in your 60-card deck. You don't have to run the maximum - match the count to your strategy, with defensive decks usually running more and pure aggro decks sometimes running fewer. Caps can change via errata, so confirm the current one against the official rulebook before a sanctioned event.",
     },
     {
       question: "How many Cookies should a Braverse deck have?",
@@ -203,7 +203,7 @@ When you're chasing specific upgrade cards, our [rarities and collecting guide](
       { name: 'Exactly 60 cards', description: 'Every legal deck is precisely 60 cards - no more, no less.' },
       { name: 'At least 1 Cookie', description: 'You must include at least one Cookie card; in practice you want far more.' },
       { name: 'Up to 4 copies', description: 'You can run a maximum of 4 copies of any single card number.' },
-      { name: 'Up to 16 FLIP cards', description: 'No more than 16 of your 60 cards can be FLIP cards. [Verify current cap.]' },
+      { name: 'Up to 16 FLIP cards', description: 'No more than 16 of your 60 cards can be FLIP cards (a cap that can move via errata, so confirm it before a sanctioned event).' },
       { name: 'Multicolor allowed', description: 'Decks may mix colors, at the cost of resource consistency.' },
     ],
   },

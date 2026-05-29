@@ -48,7 +48,7 @@ export const bestRedCardsBraverse: BlogPost = {
   ],
   content: `Red is the aggression color in Cookie Run: Braverse, and aggression is unforgiving. A Red deck is a stopwatch: it has a limited number of turns to push the opponent's Break Area to a combined Cookie Level of 10 before a slower deck stabilizes and buries you in value. That means every Red card has to earn its slot by answering one question - *does this help me end the game faster?*
 
-This guide is about how to evaluate Red cards and which ones are worth building around. A heads-up on honesty first: Braverse is a young game, set codes and card counts are reported inconsistently across the web, and we don't quote card names we can't confirm against the official database. So where a specific card matters, we name what's confirmed and flag the rest with [Verify]. The *evaluation framework* below is the durable part - it'll still be right after the next set drops. If you're brand new, read [the five colors explained](/blog/cookie-run-braverse-tcg/cookie-run-braverse-colors-explained) and [deck archetypes](/blog/cookie-run-braverse-tcg/cookie-run-braverse-deck-archetypes) first.
+This guide is about how to evaluate Red cards and which ones are worth building around. A heads-up first: Braverse is a young game, and its set codes, card counts, and stats are reported inconsistently across the web, so where a specific card or number matters, we name what's well-established and treat the rest as tentative - confirm it against the official card database before you build around it. The *evaluation framework* below is the durable part - it'll still be right after the next set drops. If you're brand new, read [the five colors explained](/blog/cookie-run-braverse-tcg/cookie-run-braverse-colors-explained) and [deck archetypes](/blog/cookie-run-braverse-tcg/cookie-run-braverse-deck-archetypes) first.
 
 ## What makes a Red card good
 
@@ -65,7 +65,7 @@ A Red card that's "fine" in a control shell can be a trap in aggro, because aggr
 
 ## How to read this list
 
-We're grouping by *role*, not by raw power, because role is what survives a meta shift. The buckets are: cheap early attackers, mid-curve damage pushers, reach/finishers, and the support (non-Cookie) cards a Red deck actually wants. For each, we name confirmed example Cookies where we can and flag specific card stats and any newer-set additions as [Verify against the official card database]. Treat the named Cookies as anchors of the archetype, not a "run exactly these" decklist.
+We're grouping by *role*, not by raw power, because role is what survives a meta shift. The buckets are: cheap early attackers, mid-curve damage pushers, reach/finishers, and the support (non-Cookie) cards a Red deck actually wants. For each, we name confirmed example Cookies where we can and keep specific card stats and any newer-set additions tentative, since those are worth confirming against the official card database. Treat the named Cookies as anchors of the archetype, not a "run exactly these" decklist.
 
 ## The cheap early attackers
 
@@ -73,9 +73,9 @@ We're grouping by *role*, not by raw power, because role is what survives a meta
 
 These are the cards that make Red, Red. The whole point of the color is to have a threat on the table before your opponent is ready, and that starts with low-cost Cookies that hit above their weight.
 
-**Strawberry Crepe Cookie** is the confirmed anchor here - a Red staple built for early board pressure. From the Arena of Glory starter wave (released January 16, 2026), **Jalapeño Cookie** is the named Red featured Cookie and slots into this same aggressive role. The role these fill is consistent across every aggro deck: drop a cheap body, start attacking, and force the opponent to react to you instead of executing their own plan.
+**Strawberry Crepe Cookie** is the confirmed anchor here - a Red staple built for early board pressure. From the Arena of Glory starter wave (reportedly launched in early 2026), **Jalapeño Cookie** is the named Red featured Cookie and slots into this same aggressive role. The role these fill is consistent across every aggro deck: drop a cheap body, start attacking, and force the opponent to react to you instead of executing their own plan.
 
-What you're looking for in this slot, set after set, is the best cost-to-attack ratio you can find, ideally with a relevant keyword or a small on-attack effect. [Verify the exact cost and attack values for current Red one- and two-cost Cookies against the official card database; numbers vary by printing and we don't quote unconfirmed stats.]
+What you're looking for in this slot, set after set, is the best cost-to-attack ratio you can find, ideally with a relevant keyword or a small on-attack effect. Exact cost and attack values vary by printing, so confirm the current Red one- and two-cost Cookies against the official card database before locking in a list.
 
 > A Red deck wants to be developing a threat on turn one or two, every game. If your opening hand can't do that, mulligan it.
 
@@ -87,13 +87,13 @@ By the mid-game, your cheap attackers have either traded away or been answered. 
 
 **Pitaya Dragon Cookie** is the confirmed Red Dragon Cookie from the Arena of Glory starter wave, and Dragon Cookies generally sit higher on the curve as payoff threats. The mid-curve is also where you want your damage-amplifying effects: cards that let a Cookie attack again, deal damage directly, or punch through a defender. These are the cards that convert a board stall into actual Break Area progress.
 
-The trap to avoid here is over-loading the top of your curve. Red is not a midrange deck wearing a costume - if your three-, four-, and five-cost slots get crowded, you've slowed your own clock. Keep the mid-curve lean and pointed at damage. [Verify the current Red mid-curve Cookies and any damage-pushing effects against the official card database; Dragon Cookie rules in particular should be confirmed against the official rulebook.]
+The trap to avoid here is over-loading the top of your curve. Red is not a midrange deck wearing a costume - if your three-, four-, and five-cost slots get crowded, you've slowed your own clock. Keep the mid-curve lean and pointed at damage. The current Red mid-curve Cookies and damage-pushing effects are worth confirming against the official card database, and Dragon Cookie rules in particular against the official rulebook.
 
 ## The reach and finisher cards
 
 This is the slot that wins close games and the one new Red players most often skip. "Reach" means the ability to deal the last few points of damage when the board has stalled out - when your attackers are blocked or traded away and you still need to push the opponent's Break Area over the line to a combined Level of 10.
 
-The best reach cards in any aggro deck are effects that deal damage **without needing a Cookie to attack** - direct burn, on-play damage, or "deal X damage to a Cookie" Items. They let you close from a position where a pure board-based deck would be stuck. [Verify which current Red cards provide direct/reach damage against the official card database.]
+The best reach cards in any aggro deck are effects that deal damage **without needing a Cookie to attack** - direct burn, on-play damage, or "deal X damage to a Cookie" Items. They let you close from a position where a pure board-based deck would be stuck. Which current Red cards actually provide direct or reach damage is worth confirming against the official card database before you count on it.
 
 If you've ever lost a Red game where you had the opponent at the brink and just couldn't finish, you needed more reach. Budget two to four slots for it.
 
@@ -109,7 +109,7 @@ Red is a Cookie-first color, but the right non-Cookie cards multiply your damage
 | **Traps** | Punish the opponent's blocker or defensive play | Keeps your clock running while they react |
 | **Stages** | A persistent damage or attack buff, if cheap enough | Passive value that snowballs your tempo |
 
-The discipline here is the same as everywhere in Red: the support card has to *speed up the kill*, not just generate value. A card-draw engine that pays off in three turns is a Green or Blue card. A one-cost "deal 2 damage" is a Red card. [Verify the specific Red-aligned Items, Traps, and Stages in the current pool against the official card database; see our deck-building basics guide for how support ratios work.]
+The discipline here is the same as everywhere in Red: the support card has to *speed up the kill*, not just generate value. A card-draw engine that pays off in three turns is a Green or Blue card. A one-cost "deal 2 damage" is a Red card. The specific Red-aligned Items, Traps, and Stages in the current pool are worth confirming against the official card database; see our deck-building basics guide for how support ratios work.
 
 ## Cards that look good but underperform
 
@@ -133,7 +133,7 @@ A clean Red aggro shell, role by role, looks roughly like this. Treat it as a st
 | Support (Items/Traps/Stages) | A focused package | Only cards that speed the kill |
 | FLIP cards | Up to the 16-card cap | Tune toward early, board-relevant flips |
 
-[Verify exact deck-construction limits against the official rulebook; the 60-card, four-copy, 16-FLIP figures are corroborated across sources but confirm before a sanctioned event.] For the full rules on ratios and curve, see [deck-building basics](/blog/cookie-run-braverse-tcg/cookie-run-braverse-deck-building-basics), and for a budget take on the whole thing, our [budget deck guide](/blog/cookie-run-braverse-tcg/budget-cookie-run-braverse-deck).
+The 60-card, four-copy, and 16-FLIP figures are corroborated across sources, but the exact deck-construction limits are worth confirming against the official rulebook before a sanctioned event. For the full rules on ratios and curve, see [deck-building basics](/blog/cookie-run-braverse-tcg/cookie-run-braverse-deck-building-basics), and for a budget take on the whole thing, our [budget deck guide](/blog/cookie-run-braverse-tcg/budget-cookie-run-braverse-deck).
 
 ## Quick Action Checklist
 

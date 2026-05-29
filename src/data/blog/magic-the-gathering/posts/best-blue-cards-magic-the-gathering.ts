@@ -90,7 +90,7 @@ Counterspells are blue's signature mechanic. The color owns the entire category.
 | Counterspell | UU | Counter target spell | Floor and ceiling. Every blue deck plays this |
 | Force of Will | 3UU | Pay 1 life + exile a blue card from hand to cast for free | The premier "free" counterspell. Mandatory in cEDH, recommended above mid-power |
 | Force of Negation | 1UU | Same alternate cost on non-creature spells, on opponents' turns only | Cheaper FoW substitute. Pairs well with Force of Will, doesn't replace it |
-| Mana Drain | UU | Counter spell, gain mana equal to its converted cost next turn | The single best counterspell ever printed when you can afford it [Verify current price] |
+| Mana Drain | UU | Counter spell, gain mana equal to its converted cost next turn | The single best counterspell ever printed when you can afford it (prices vary — check a current retailer) |
 | Fierce Guardianship | 1U | Free if you control your commander | Commander-only. Premier "free" counterspell at lower power than Force of Will |
 | Cryptic Command | 1UUU | Modal: counter, return, draw, tap | Three-color mana commitment but ridiculous flexibility |
 | Pact of Negation | 0 | Counter for free, pay 3UU next upkeep or lose | Combo-finisher counterspell. cEDH staple |
@@ -100,7 +100,7 @@ Counterspell is non-negotiable. Two-mana hard counter, no restrictions, no drawb
 
 Force of Will is the gold standard for "free" counters. Three blue mana plus exile a blue card plus pay 1 life is a steep alternate cost — but the value of being able to interact on turn 1, or interact through tap-out turns, is what makes blue oppressive at high power levels. Force of Negation is the cheaper sibling. Free only on opponents' turns and only against non-creature spells, which is fine because that is when you mostly want to cast it anyway.
 
-Mana Drain is the single most powerful counterspell ever printed. Same mana cost as Counterspell, but you bank the countered spell's mana to use next turn. Counter a six-mana Cyclonic Rift on turn 4 and you get six floating mana on your turn 5. The card is expensive [Verify current price] because it has been a Vintage and cEDH staple for 30 years.
+Mana Drain is the single most powerful counterspell ever printed. Same mana cost as Counterspell, but you bank the countered spell's mana to use next turn. Counter a six-mana Cyclonic Rift on turn 4 and you get six floating mana on your turn 5. The card is expensive because it has been a Vintage and cEDH staple for 30 years.
 
 > Fierce Guardianship looks like a Force of Will reprint at first read. Read it again. Free in Commander only when you control your commander, and it counters any spell. In a format where everyone has their commander in play roughly 60 percent of the time, Fierce Guardianship is a one-mana hard counter. That is the actual rate.
 
@@ -118,7 +118,7 @@ Card-draw engines are the second pillar of blue's dominance. Other colors have t
 | Brainstorm | U | Instant | Draw 3, put 2 back. The most-played card in Legacy |
 | Ponder | U | Sorcery | Look at top 3, shuffle or rearrange, draw 1 |
 | Dig Through Time | 6UU (delve) | Instant | Look at top 7, put 2 in hand. Delve to UU in practice |
-| Treasure Cruise | 7U (delve) | Sorcery | Draw 3 for U with active graveyard. Banned in most non-EDH formats [Verify current legality] |
+| Treasure Cruise | 7U (delve) | Sorcery | Draw 3 for U with active graveyard. Legal in Commander, banned in most other constructed formats |
 
 Rhystic Study is the most polarizing blue enchantment in Commander. Three mana, taxes every opponent's spell, draws you a card every time they refuse to pay 1. In actual play, opponents almost never pay the tax after turn 5 because they are tapped out doing real things. You draw 3-7 cards per turn cycle off Rhystic Study in a typical mid-power pod. That is a degenerate rate of card advantage on a 1-card investment.
 
@@ -161,7 +161,7 @@ Cyclonic Rift is the win condition for half the blue decks in Commander. Six-man
 
 ## Budget alternatives
 
-Counterspell is the budget alternative to most of the premium counters on this list. Two mana, in print constantly, under $1 at most stores. [Verify current price.] If you cannot afford Force of Will (a $80+ card), Counterspell does roughly 75 percent of the same job.
+Counterspell is the budget alternative to most of the premium counters on this list. Two mana, in print constantly, and usually under $1 at most stores (prices vary — check a current retailer). If you cannot afford Force of Will (an $80-plus card), Counterspell does roughly 75 percent of the same job.
 
 Other budget options:
 
@@ -177,9 +177,9 @@ Swan Song, Negate, Arcane Denial, and Dispel are all sub-$1 counterspells that f
 
 Blue has the most format-specific staples of any color. A few cards that you absolutely must know the legality of before sleeving up:
 
-- **Fierce Guardianship is Commander-only.** It is not legal in Modern, Pioneer, Legacy, or Vintage. [Verify current legality.] If you are building outside Commander, do not include Fierce Guardianship in your deck list. It will not show up in deckbuilders, but it bears stating.
+- **Fierce Guardianship is Commander-only.** It is not legal in Modern, Pioneer, Legacy, or Vintage. If you are building outside Commander, do not include Fierce Guardianship in your deck list. It will not show up in deckbuilders, but it bears stating.
 - **Brainstorm is restricted in Vintage and not legal in Modern or Pioneer.** It is legal in Commander, Legacy, and most casual formats.
-- **Treasure Cruise and Dig Through Time are banned in Modern, Legacy, and Pioneer.** [Verify current legality.] Both are legal in Commander.
+- **Treasure Cruise and Dig Through Time are banned in Modern, Legacy, and Pioneer.** Both are legal in Commander.
 - **Force of Will is legal in Commander, Legacy, and Vintage** but not Modern or Pioneer.
 - **Counterspell is legal almost everywhere it has ever been printed except for the brief period it spent off Standard.**
 
@@ -208,7 +208,7 @@ Apply this list when sleeving up a blue or blue-inclusive Commander deck. Adjust
     {
       question: "What is the best counterspell in MTG?",
       answer:
-        "Mana Drain is the most powerful single counterspell ever printed — two mana to counter any spell AND bank that spell's mana cost for your next turn. The catch is the price [Verify current price]. For most players, Force of Will is the best counterspell they can realistically include in a Commander deck, because it is free to cast and that turns 'I am tapped out' into 'I am tapped out except I can still answer the wincon.'",
+        "Mana Drain is the most powerful single counterspell ever printed — two mana to counter any spell AND bank that spell's mana cost for your next turn. The catch is the price (prices vary — check a current retailer). For most players, Force of Will is the best counterspell they can realistically include in a Commander deck, because it is free to cast and that turns 'I am tapped out' into 'I am tapped out except I can still answer the wincon.'",
     },
     {
       question: "Should I run both Rhystic Study and Mystic Remora?",
@@ -218,7 +218,7 @@ Apply this list when sleeving up a blue or blue-inclusive Commander deck. Adjust
     {
       question: "Is Fierce Guardianship legal in Modern?",
       answer:
-        "No. Fierce Guardianship is a Commander-only card. It is not legal in Modern, Pioneer, Legacy, or Vintage. [Verify current legality.] If you are building a Modern blue deck, use Force of Negation or Counterspell instead. WotC prints a small set of Commander-exclusive spells in each year's preconstructed Commander products and Fierce Guardianship is one of them.",
+        "No. Fierce Guardianship is a Commander-only card. It is not legal in Modern, Pioneer, Legacy, or Vintage. If you are building a Modern blue deck, use Force of Negation or Counterspell instead. WotC prints a small set of Commander-exclusive spells in each year's preconstructed Commander products and Fierce Guardianship is one of them.",
     },
     {
       question: "Is Cyclonic Rift really worth a slot in every blue deck?",
@@ -228,12 +228,12 @@ Apply this list when sleeving up a blue or blue-inclusive Commander deck. Adjust
     {
       question: "What is the best budget blue card draw engine?",
       answer:
-        "Mystic Remora at one mana. The card has been a Commander staple for three decades, costs under $1 in most printings [Verify current price], and pulls 8-15 cards in the 3-4 turns it stays in play. Rhystic Study is the premium upgrade at three mana, but Remora at one mana on turn 1 is often the better starting play in pods that run lots of non-creature interaction.",
+        "Mystic Remora at one mana. The card has been a Commander staple for three decades, costs under $1 in most printings, and pulls 8-15 cards in the 3-4 turns it stays in play. Rhystic Study is the premium upgrade at three mana, but Remora at one mana on turn 1 is often the better starting play in pods that run lots of non-creature interaction.",
     },
     {
       question: "What blue cards from Secrets of Strixhaven are worth picking up?",
       answer:
-        "Secrets of Strixhaven added several Standard-impactful blue cards [Verify current legality] including new counterspell options and Strixhaven-themed card-draw enchantments. For Commander, the set's blue legendary creatures have seen play as alternative commanders for spellslinger and control shells. Check our [Secrets of Strixhaven best cards](/blog/magic-the-gathering/secrets-of-strixhaven-best-standard-cards) writeup for the per-color breakdown.",
+        "Secrets of Strixhaven added several Standard-impactful blue cards, including new counterspell options and Strixhaven-themed card-draw enchantments. For Commander, the set's blue legendary creatures have seen play as alternative commanders for spellslinger and control shells. Check our [Secrets of Strixhaven best cards](/blog/magic-the-gathering/secrets-of-strixhaven-best-standard-cards) writeup for the per-color breakdown.",
     },
   ],
   internalLinks: [

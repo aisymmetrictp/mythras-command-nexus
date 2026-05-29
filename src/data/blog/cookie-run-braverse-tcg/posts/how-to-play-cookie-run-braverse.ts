@@ -74,7 +74,7 @@ If you want to move past the pre-built deck later, the construction rules are wo
 - Your deck must contain **exactly 60 cards**.
 - It must include **at least one Cookie card** (in practice, a lot more than one).
 - You can run **up to 4 copies** of any single card number.
-- You can include **up to 16 FLIP cards** in that 60. [Verify the current FLIP cap against the latest official rulebook, as caps can change via errata.]
+- You can include **up to 16 FLIP cards** in that 60 (a cap that can move via errata, so check the current rulebook before a sanctioned event).
 - **Multicolor decks are allowed**, so you're not locked into one color.
 
 That's the entire deck-building law. We turn it into actual list decisions in our [deck-building basics](/blog/cookie-run-braverse-tcg/cookie-run-braverse-deck-building-basics) guide, and if you're shopping for a first product, our [best starter deck ranked](/blog/cookie-run-braverse-tcg/best-cookie-run-braverse-starter-deck) post tells you which box to grab.
@@ -125,10 +125,12 @@ The two zones beginners trip on are the **Support Area** and the **Break Area**.
 
 Setup is quick once you've done it once:
 
-1. **Decide who goes first.** A quick game of rock-paper-scissors settles it. [Verify the official method vs the rulebook.]
+1. **Decide who goes first.** A quick game of rock-paper-scissors usually settles it.
 2. **Shuffle and draw an opening hand of 6 cards.**
 3. **Place your first Cookie face-down** in your Battle Area. Both players do this at the same time, then **reveal simultaneously**.
-4. **Build that Cookie's HP.** Take cards off the top of your deck and place them face-down underneath your Cookie, equal to its **HP value**. That stack of cards *is* its health. [Verify exact setup steps and starting Cookie rules against the official rulebook.]
+4. **Build that Cookie's HP.** Take cards off the top of your deck and place them face-down underneath your Cookie, equal to its **HP value**. That stack of cards *is* its health.
+
+Braverse is a young game and the English-language rules are still settling, so where an exact setup step or starting-Cookie ruling matters, confirm it against the official rulebook before a sanctioned event.
 
 One rule to internalize early: **the player who goes first cannot draw or attack on turn 1.** That's the balancing tax for the first-turn advantage, and forgetting it is the single most common new-player rules slip.
 
@@ -143,7 +145,7 @@ A Braverse turn moves through clear phases in order. You finish one before movin
 | **Main** | The meat of the turn: play Cookies, add one card to your Support Area, drop a Stage, set Traps, use Items, and attack. |
 | **End** | Resolve any end-of-turn effects and pass to your opponent. |
 
-[Verify the exact official phase names and ordering against the rulebook, as some community guides label them slightly differently.]
+Some community guides label these phases slightly differently, so if a precise phase name or ordering matters for a ruling, check it against the official rulebook.
 
 The Main phase is where the decisions live. A typical flow: refresh your Support, draw, add a Support card to grow your resources, play a Cookie or two into the Battle Area, maybe set a Trap or drop a Stage, then declare attacks. You don't have to do all of that every turn. Sometimes the right play is to develop your board and Support, then swing big next turn.
 
@@ -159,7 +161,7 @@ The loop works like this:
 
 Because you only add one Support card per turn, your economy ramps slowly and steadily. That makes **early tempo** matter: a Cookie that costs less gets onto the board sooner, and being a turn ahead on development is a real edge. It also means you should think before you spend: hold a little back if you're running Traps or reactive Items, because a Trap you can't pay for is just a card sitting there.
 
-[Verify whether costs require specific color matching or any rested Support card, against the official rulebook - community guides describe the resource engine but the exact color rules should be confirmed.]
+One detail community guides describe inconsistently is whether costs require color-matched Support or any rested Support card, so confirm the exact color rules against the official rulebook before you rely on them in a tournament.
 
 > **Beginner tip:** Don't reflexively dump your whole Support every turn. Leaving one or two cards active lets you answer your opponent's turn with a Trap or instant-speed Item.
 
@@ -169,7 +171,7 @@ This is the section that makes Braverse click.
 
 Every Cookie's **HP is a literal stack of face-down cards** sitting underneath it, set up from the top of your deck. When a Cookie takes damage, you remove cards from that stack. When the stack hits zero, the Cookie **faints** and goes to its owner's **Break Area**.
 
-Now the twist. Some of the cards in that HP stack are **FLIP cards**. When damage flips a FLIP card face-up, its effect triggers immediately, mid-combat. That might heal, deal damage back, disrupt the attacker, or swing a fight you looked like you were losing. [Verify the precise FLIP trigger timing and resolution against the official rulebook.]
+Now the twist. Some of the cards in that HP stack are **FLIP cards**. When damage flips a FLIP card face-up, its effect triggers immediately, mid-combat. That might heal, deal damage back, disrupt the attacker, or swing a fight you looked like you were losing. The precise FLIP trigger timing is the most-cited rules ambiguity in Braverse, so confirm exactly how it resolves against the official rulebook before a sanctioned event.
 
 Two practical things to remember:
 
@@ -185,9 +187,7 @@ There are **two ways to win** in Braverse, and a smart player keeps both in mind
 1. **Fill the opponent's Break Area to a Level total of 10+.** Every Cookie you defeat goes to its owner's Break Area, and each Cookie has a **Level** (1, 2, or 3). When the combined Level of the Cookies in your opponent's Break Area reaches **10 or more**, you win. This is the path that decides most games.
 2. **Leave the opponent unable to field a Cookie.** If a player's Battle Area is empty, they must immediately reveal a new Cookie from hand, even on the opponent's turn. If they have no Cookie in hand to deploy, **they lose.**
 
-Win condition #1 means you should think in terms of **Level**: high-Level Cookies are worth more toward your opponent's loss when they fall, but they're also tougher to remove. Trading a small Cookie to take down a big one is often great math. Win condition #2 is why running too few Cookies (or losing them all at once) can suddenly end a game you thought was close.
-
-[Verify the exact win-condition wording and the Break Area Level threshold against the official rulebook.]
+Win condition #1 means you should think in terms of **Level**: high-Level Cookies are worth more toward your opponent's loss when they fall, but they're also tougher to remove. Trading a small Cookie to take down a big one is often great math. Win condition #2 is why running too few Cookies (or losing them all at once) can suddenly end a game you thought was close. The exact win-condition wording and the Break Area Level threshold are worth confirming against the official rulebook before a sanctioned event.
 
 ## A sample first turn
 
@@ -226,7 +226,7 @@ When you're ready to start tweaking cards, our [rarities guide](/blog/cookie-run
     {
       question: "How long does a game of Cookie Run: Braverse take?",
       answer:
-        "A typical game runs roughly 20 to 40 minutes once both players know the rules. First games while you're still learning the phases take longer, but the pace picks up fast. [Verify average game length against official guidance.]",
+        "A typical game runs roughly 20 to 40 minutes once both players know the rules. First games while you're still learning the phases take longer, but the pace picks up fast.",
     },
     {
       question: "How many players can play Cookie Run: Braverse?",

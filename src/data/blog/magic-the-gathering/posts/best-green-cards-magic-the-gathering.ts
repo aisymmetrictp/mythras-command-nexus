@@ -76,7 +76,7 @@ Second, **format flexibility**. A card that is legal in Commander, Legacy, and a
 
 Third, **does it do something only green can do**. There are good green cards that any color could theoretically replicate. The interesting ones are the cards that are green precisely because of what they do. One-mana mana dorks. Land-fetch sorceries with built-in ramp. Spells that say "you may put any number of lands onto the battlefield." That is the green color pie staking its claim, and the best cards live inside it.
 
-Prices and legality move. Anything price-sensitive here is marked **[Verify current price]** so you can check before you buy in.
+Prices and legality move, so treat any dollar figure here as a rough guide and check a current retailer before you buy in.
 
 ## Best mana dorks and ramp creatures
 
@@ -102,7 +102,7 @@ If creatures die, spells do not. Green ramp spells are how you stabilize your ma
 
 **Cultivate** is the standard. Three mana, search for two basic lands, one comes into play tapped, one goes to your hand. **Kodama's Reach** is functionally identical and you should run both. There is no reason to pick between them when you can play eight copies of the effect. Most green decks should be running both unless you have a specific reason not to.
 
-**Three Visits** and **Nature's Lore** are the upgrades when you have the budget. Two mana, search for a Forest, put it into play untapped. That untapped clause matters. A turn-two Nature's Lore ramps you into a four-mana play on turn three, which is a full turn faster than Cultivate. **[Verify current price]** on both because Three Visits in particular has bounced around.
+**Three Visits** and **Nature's Lore** are the upgrades when you have the budget. Two mana, search for a Forest, put it into play untapped. That untapped clause matters. A turn-two Nature's Lore ramps you into a four-mana play on turn three, which is a full turn faster than Cultivate. Check current prices on both, because Three Visits in particular has bounced around.
 
 **Rampant Growth** is the budget version of the above. Two mana, search for a basic, comes into play tapped. Worse than Three Visits but legal in more formats and almost always cheap to acquire.
 
@@ -122,7 +122,7 @@ The "two-land tax" tradeoff is real. Two-mana ramp spells get you one land. Thre
 
 Green is the only color that gets to break the one-land-per-turn rule, which is why land-matters cards stack so hard once you commit to them.
 
-**Exploration** is the gold standard. One green mana, enchantment, "you may play an additional land each turn." A turn-one Exploration plus a Cultivate plus a fetchland on turn three puts you at six mana on turn four. The deck just stops being fair. **[Verify current price]** because the original printings are not cheap, but it has been reprinted enough that there are budget options.
+**Exploration** is the gold standard. One green mana, enchantment, "you may play an additional land each turn." A turn-one Exploration plus a Cultivate plus a fetchland on turn three puts you at six mana on turn four. The deck just stops being fair. The original printings are not cheap, but it has been reprinted enough that there are budget options.
 
 **Burgeoning** is the chaotic cousin. One green mana, "whenever an opponent plays a land, you may put a basic land from your hand onto the battlefield." In a four-player Commander pod, this means three extra lands per turn cycle as long as you have basics to drop. It scales with table size and it is the single best turn-one play green has in multiplayer.
 
@@ -136,7 +136,7 @@ Green's old reputation was that it did not draw cards. That stopped being true a
 
 ![Eternal Witness, the three-mana green 2/1 that returns any card from your graveyard to your hand on entry.](/images/blog/magic-the-gathering/best-green-cards-magic-the-gathering/eternal-witness.jpg)
 
-**Sylvan Library** is the original engine. Two mana, enchantment, "at the beginning of your draw step, you may draw two additional cards. At the beginning of your end step, if you drew cards this way, put two of the cards drawn this turn on top of your library or pay 4 life per card." Effectively, you draw three cards a turn and pay four life for the third if you want it. In Commander where life totals start at 40, that is a steal. **[Verify current price]** on the original but reprints exist.
+**Sylvan Library** is the original engine. Two mana, enchantment, "at the beginning of your draw step, you may draw two additional cards. At the beginning of your end step, if you drew cards this way, put two of the cards drawn this turn on top of your library or pay 4 life per card." Effectively, you draw three cards a turn and pay four life for the third if you want it. In Commander where life totals start at 40, that is a steal. The original printing runs high, but reprints exist.
 
 **Eternal Witness** is the value glue card. Three mana, 2/1 body, "when Eternal Witness enters the battlefield, you may return target card from your graveyard to your hand." It rebuys ramp spells, removal, board wipes, anything. Almost every green Commander deck plays it because the floor is "I get back the best card in my graveyard" and the ceiling is infinite combo loops.
 
@@ -150,7 +150,7 @@ Green's old reputation was that it did not draw cards. That stopped being true a
 
 This is what the ramp builds toward.
 
-**Craterhoof Behemoth** is the most reliable game-ender in Commander. Eight mana, 5/5 with haste, "when Craterhoof Behemoth enters the battlefield, creatures you control gain trample and get +X/+X until end of turn, where X is the number of creatures you control." In a token deck or an elf deck, this is "swing for lethal." There is a reason it is one of the most expensive uncommon-rarity-equivalent cards in the format. **[Verify current price]**.
+**Craterhoof Behemoth** is the most reliable game-ender in Commander. Eight mana, 5/5 with haste, "when Craterhoof Behemoth enters the battlefield, creatures you control gain trample and get +X/+X until end of turn, where X is the number of creatures you control." In a token deck or an elf deck, this is "swing for lethal." There is a reason it is one of the most expensive uncommon-rarity-equivalent cards in the format.
 
 **Avenger of Zendikar** is the wider version. Seven mana, 5/5, "when Avenger of Zendikar enters the battlefield, create a 0/1 green Plant creature token for each land you control. Landfall — whenever a land enters the battlefield under your control, put a +1/+1 counter on each Plant creature you control." Drop it on turn six off ramp, drop a Cultivate the next turn, and the Plants are suddenly a real army. Pair it with Craterhoof on the next turn and the game is over.
 

@@ -59,7 +59,7 @@ export const f2pCrystalOptimization: BlogPost = {
 
   content: `Two F2P players can log the same hours, clear the same content, and end up six months apart in roster strength. The difference is almost never grind — it is pulling discipline. The player who blows 8,000 crystals the moment a shiny banner appears spends the next two months crystal-broke when the banner that actually mattered drops. The player who sat on their stash pulls the meta-definer at the right moment and leapfrogs them. Crystals are your only real currency as a F2P account, and how you *spend* them matters far more than how fast you farm them.
 
-This is the income map and the decision tree. Where crystals come from, how to decide save-versus-spend on any given banner, which banners clear the bar, and the spending traps that quietly stall accounts. Exact crystal costs and gacha rates shift and I do not want you budgeting off a number I half-remember — anything rate- or cost-specific below is flagged \`[VERIFY]\` so you confirm it in-game before you commit a stash.
+This is the income map and the decision tree. Where crystals come from, how to decide save-versus-spend on any given banner, which banners clear the bar, and the spending traps that quietly stall accounts. Exact crystal costs and gacha rates shift between banners, so confirm any number in-game before you commit a stash.
 
 ## The one habit that decides your F2P account
 
@@ -96,7 +96,7 @@ When a banner appears, run it through these gates in order. Spend only if you cl
 1. **Is the featured cookie S-tier on the current [tier list](/blog/cookie-run-kingdom/cookie-run-kingdom-tier-list)?** If no → save. Almost nothing below S-tier justifies a F2P stash.
 2. **Does it fill a real gap in your roster?** If you already have a built answer for that role → save. A second healer when your Sugar Swan is built is a luxury, not an upgrade.
 3. **Will it change a result you currently can't clear?** If it just makes an already-winning team slightly better → save. Pull for breakthroughs, not marginal gains.
-4. **Do you have enough to realistically land it without going broke?** If pulling would leave you unable to react to the *next* banner and you're not confident you'll hit pity → consider waiting. [VERIFY pity threshold]
+4. **Do you have enough to realistically land it without going broke?** If pulling would leave you unable to react to the *next* banner and you're not confident you'll hit pity → consider waiting. (Confirm the current pity threshold in-game; it shifts between banners.)
 
 If a banner clears all four gates, that is your green light — commit and don't second-guess it. If it fails any single gate, save. The discipline is in honoring gate 1 and gate 4 even when the cookie looks fun.
 
@@ -121,7 +121,7 @@ The healers and revivers are the exception worth stressing: a sustain gap caps y
 
 ## How big a stash do you need?
 
-You want enough to realistically land a featured Legendary without praying — ideally a full pity's worth banked before a banner you've targeted [VERIFY pity cost]. Pulling with half a stash and hoping is how F2P accounts go broke and miss the *next* banner too.
+You want enough to realistically land a featured Legendary without praying — ideally a full pity's worth banked before a banner you've targeted (check the current pity cost in-game). Pulling with half a stash and hoping is how F2P accounts go broke and miss the *next* banner too.
 
 The discipline: **bank to your target, then pull; never pull on the way up.** A stash that's "almost enough" is worth nothing if a better banner drops the week after you spent it chasing this one with insufficient ammo.
 
@@ -160,7 +160,7 @@ Follow that and you'll land the cookies that matter and skip the ones that don't
 - [ ] Default to **saving**; treat spending as the exception you justify
 - [ ] Run every banner through the four-gate decision tree before pulling
 - [ ] Pull only for **S-tier, gap-filling, result-changing** Legendaries
-- [ ] Bank a full pity's worth before committing to a targeted banner [VERIFY pity cost]
+- [ ] Bank a full pity's worth before committing to a targeted banner (confirm the current pity cost in-game)
 - [ ] Climb **arena rank** and clear **Beast-Yeast episodes early** — your two biggest faucets
 - [ ] Build a free/Epic core ([Pavlova](/gear-guide/pavlova-cookie)) so you clear PvE without spending
 - [ ] Prioritize an S-tier healer if sustain is your roster gap

@@ -64,7 +64,7 @@ Pick a color that matches your temperament and you'll enjoy the game more and pl
 
 ## How color works in Braverse
 
-A quick mechanical note before the breakdowns. In Braverse you pay for cards by resting cards in your Support Area rather than spending mana, and you only add one Support card per turn, so your resources grow slowly and steadily. That single fact is why color identities feel so distinct: an aggro color is trying to make every early resource count, while a control color is happy to fall behind on board early and cash in its advantage later. [Verify whether costs require matching-color Support against the official rulebook; community guides describe the engine but exact color-cost rules should be confirmed.]
+A quick mechanical note before the breakdowns. In Braverse you pay for cards by resting cards in your Support Area rather than spending mana, and you only add one Support card per turn, so your resources grow slowly and steadily. That single fact is why color identities feel so distinct: an aggro color is trying to make every early resource count, while a control color is happy to fall behind on board early and cash in its advantage later. One detail community guides describe inconsistently is whether costs require matching-color Support, so confirm the exact color-cost rules against the official rulebook before a sanctioned event.
 
 Here's the five-color cheat sheet, then we'll go one at a time.
 
@@ -92,7 +92,7 @@ Example Cookies in the current pool include **Strawberry Crepe Cookie** (a Red s
 
 Yellow is the patient counter-puncher. Where Red wants the game over fast, Yellow is happy to trade, grind, and win on turn fifteen. It leans on **Break Area manipulation** and strong late-game Cookies (including Level-3 heavy hitters) to out-value the opponent over a long match.
 
-Yellow's edge is math. The deck is built to make favorable trades, control the tempo of who's attacking, and then close once it has the board it wants. In community-tracked tournament data from Southeast Asian events, Yellow has frequently shown up as one of the most-played and most successful colors - though that data is community-reported and region-specific, so treat it as a trend, not gospel. [Verify current competitive standings; see our deck archetypes guide for the meta picture.]
+Yellow's edge is math. The deck is built to make favorable trades, control the tempo of who's attacking, and then close once it has the board it wants. In community-tracked tournament data from Southeast Asian events, Yellow has frequently shown up as one of the most-played and most successful colors - though that data is community-reported and region-specific, so treat it as a trend, not gospel, and check current competitive standings before drawing conclusions. See our deck archetypes guide for the broader meta picture.
 
 **Play Yellow if** you like grindy games, you enjoy doing the Break Area arithmetic in your head, and you're comfortable being behind early because you know your late game is better. Yellow's weakness is a fast clock: a Red deck that ends the game before your late game comes online can steal it.
 
@@ -122,7 +122,7 @@ Blue often turns a downside into an upside: effects that discard or cycle cards 
 
 Purple is the spoiler. It values **Cookie skills over raw stats** and wins by **denying resources and recurring threats** - making your opponent's plan fall apart while yours keeps coming back. Purple is the home of "trash-based" strategies that turn used and discarded cards into fuel.
 
-The headline example is **Dark Cacao Cookie**, featured in the Arena of Glory starter wave as a trash-based Awakening deck. [Verify how the Awakening mechanic works against the official rulebook - the name is confirmed but exact rules should be checked.]
+The headline example is **Dark Cacao Cookie**, featured in the Arena of Glory starter wave as a trash-based Awakening deck. The Awakening name is well-established, but its exact rules are worth confirming against the official rulebook before a sanctioned event.
 
 **Play Purple if** you enjoy frustrating your opponent, you like grindy attrition games, and you find recursion (getting your good cards back) more satisfying than raw aggression. Purple's weakness is speed and consistency: disruption is great, but you still need a clock to actually win.
 
@@ -140,7 +140,7 @@ There's no wrong answer - pick the color whose *fantasy* excites you, because yo
 
 ## Going multicolor
 
-Braverse allows multicolor decks, and once you're comfortable you'll want to experiment. The trade-off is the classic one: more colors means more powerful options but a less consistent resource base, since your Support cards have to fuel more demands. [Verify exact multicolor cost rules against the official rulebook.]
+Braverse allows multicolor decks, and once you're comfortable you'll want to experiment. The trade-off is the classic one: more colors means more powerful options but a less consistent resource base, since your Support cards have to fuel more demands. The exact multicolor cost rules are worth confirming against the official rulebook before you commit to a splash in a tournament.
 
 Our advice: learn the game in **one color** first. Single-color decks teach you the clean version of a game plan. Once you understand what your color is *missing*, you'll splash a second color for the right reasons instead of just jamming your favorite cards together. We break down how colors combine into full strategies in [deck archetypes explained](/blog/cookie-run-braverse-tcg/cookie-run-braverse-deck-archetypes).`,
   faq: [

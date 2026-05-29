@@ -63,7 +63,7 @@ This is the English-language booster release order as best we can confirm it. Da
 | 4 | **Arena of Glory** | January 16, 2026 | Competitive-focused set; paired with a new starter-deck wave. |
 | 5 | **A Game of Truth and Deceit** | March 27, 2026 | Added **Shadow Milk Cookie** variants and per-color Cookie "skins." |
 
-[Verify each set's exact English release date and the precise ordering against the official site, since the North American schedule does not match the original Korean set numbering.]
+Because the North American schedule doesn't match the original Korean set numbering, each set's exact English release date and precise ordering are worth confirming against the official site before you rely on them.
 
 ## Brave Beginning (the launch set)
 
@@ -75,13 +75,13 @@ If you're starting out, this is the most "evergreen" set to understand because s
 
 ![Pitaya Dragon Cookie, a Dragon Cookie of the kind introduced to Braverse in the Operation Timeguard set.](/images/cookies/pitaya-dragon-cookie.png)
 
-**Operation Timeguard** is best known for introducing **Dragon Cookie** cards to the game - a new flavor of Cookie that showed up in starter products too (you'll see Dragon Cookies like Pitaya Dragon, Longan Dragon, and Lotus Dragon in the Arena of Glory starter wave). [Verify the Dragon Cookie mechanic's exact rules against the official rulebook; the cards are confirmed but the mechanic details should be checked.]
+**Operation Timeguard** is best known for introducing **Dragon Cookie** cards to the game - a new flavor of Cookie that showed up in starter products too (you'll see Dragon Cookies like Pitaya Dragon, Longan Dragon, and Lotus Dragon in the Arena of Glory starter wave). The cards are well-established, but the Dragon Cookie mechanic's exact rules are worth confirming against the official rulebook before a sanctioned event.
 
-A heads-up on this one: Operation Timeguard's set code and card-count listings are some of the most inconsistent we found, likely because of differences between the Korean and English releases. Treat any specific number you see for it with extra suspicion. [Verify Operation Timeguard's English release details and card count.]
+A heads-up on this one: Operation Timeguard's set code and card-count listings are some of the most inconsistent we found, likely because of differences between the Korean and English releases. Treat any specific number you see for it with extra suspicion, and confirm Operation Timeguard's English release details and card count against the official site before quoting them.
 
 ## Age of Heroes and Kingdoms
 
-**Age of Heroes and Kingdoms** released in English in **October 2025**, expanding the card pool with a heroes-and-kingdoms theme. It's a meaningful chunk of new cards for deck-builders across all five colors. As with every set, exact card counts vary by source, so confirm the number on the official database before quoting it. [Verify card count and contents.]
+**Age of Heroes and Kingdoms** released in English in **October 2025**, expanding the card pool with a heroes-and-kingdoms theme. It's a meaningful chunk of new cards for deck-builders across all five colors. As with every set, exact card counts vary by source, so confirm the count and contents on the official database before quoting them.
 
 ## Arena of Glory
 
@@ -101,7 +101,7 @@ If you're buying a starter today, this is likely the wave you'll find on shelves
 
 ![Frost Queen Cookie, one of the marquee featured Cookies in the A Game of Truth and Deceit Braverse set.](/images/cookies/frost-queen-cookie.png)
 
-The most recent set at the time of writing, **A Game of Truth and Deceit**, released on **March 27, 2026**. It's a flashy one thematically: it introduces **Shadow Milk Cookie** variants and per-color Cookie "skins" with new mechanics, and features a lineup of marquee Cookies including **Burning Spice, Mystic Flour, Golden Cheese, Dark Cacao, and Frost Queen**. [Verify the exact new mechanics and card list against the official site; the theme and featured Cookies are confirmed but the rules of the new "skin" mechanics should be checked.]
+The most recent set at the time of writing, **A Game of Truth and Deceit**, released on **March 27, 2026**. It's a flashy one thematically: it introduces **Shadow Milk Cookie** variants and per-color Cookie "skins" with new mechanics, and features a lineup of marquee Cookies including **Burning Spice, Mystic Flour, Golden Cheese, Dark Cacao, and Frost Queen**. The theme and featured Cookies are well-established, but the rules of the new "skin" mechanics and the full card list are worth confirming against the official site before you rely on them.
 
 For collectors, the marquee Cookies in a set like this are usually where the flashiest Secret-rarity chase cards live - see our [rarities and collecting guide](/blog/cookie-run-braverse-tcg/cookie-run-braverse-rarities-collecting-guide).
 
@@ -109,14 +109,14 @@ For collectors, the marquee Cookies in a set like this are usually where the fla
 
 Devsisters has signaled more Braverse product for 2026: reporting points to **two additional booster sets** later in the year (one mid-year, one toward the end), with the later set expected to arrive alongside another starter-deck release. There have also been teasers around **Legendary Pets** debuting in new starter decks.
 
-Treat all of this as a roadmap, not a shipped fact - announced products slip, change names, and shift dates. [Verify whether any of these 2026 products have actually released, and their final names and dates, before relying on them.] We'll fold them into the timeline above as they land.
+Treat all of this as a roadmap, not a shipped fact - announced products slip, change names, and shift dates, so confirm whether any of these 2026 products have actually released, and their final names and dates, before relying on them. We'll fold them into the timeline above as they land.
 
 ## A note on set codes and card counts
 
 Two things you'll see online that we deliberately did **not** put in the table above:
 
-- **Set codes (like BS1-BS10).** These exist, but the English release order does **not** track the codes in ascending order - the codes come from the original Korean numbering, and the English market released sets in a different sequence. Mapping a code to an English set without confirming it is a recipe for being wrong. [Verify the canonical English set-code mapping on the official site.]
-- **Exact card counts.** Listings disagree, sometimes wildly, on how many "regular" and "hidden" cards each set contains - probably due to region and printing differences. We won't print a count we can't stand behind. [Verify per-set card counts on the official card database.]
+- **Set codes (like BS1-BS10).** These exist, but the English release order does **not** track the codes in ascending order - the codes come from the original Korean numbering, and the English market released sets in a different sequence. Mapping a code to an English set without confirming it is a recipe for being wrong, so check the canonical English set-code mapping on the official site first.
+- **Exact card counts.** Listings disagree, sometimes wildly, on how many "regular" and "hidden" cards each set contains - probably due to region and printing differences. We won't print a count we can't stand behind, so check per-set card counts on the official card database before quoting them.
 
 If you need these specifics, the official card database at play.cookieruntcg.com/cards is the source of truth. This is exactly the kind of detail we'll keep refreshed here so you don't have to chase conflicting numbers.
 

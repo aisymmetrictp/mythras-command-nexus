@@ -66,7 +66,7 @@ Here's the ladder, from most common to rarest:
 | Secret Super Rare | SSR | Rarer alt-art chase |
 | Secret Ultra Rare | SUR | The rarest alt-art chase |
 
-[Verify the exact rarity ladder, abbreviations, and ordering against the official site and the latest set, as treatments can be added or renamed set to set.]
+Treatments can be added or renamed set to set, so the exact rarity ladder, abbreviations, and ordering are worth confirming against the official site and the latest set before you rely on them.
 
 ## Standard rarities, from Common to Extra Rare
 
@@ -85,13 +85,13 @@ The **Secret** tiers - **SEC**, **SSR**, and **SUR** - are the collector layer. 
 Two practical notes for collectors:
 
 - A Secret version usually plays the same as its standard counterpart, so chasing them is a *collecting* decision, not a competitive necessity.
-- Which specific cards get Secret treatments varies by set, and the marquee Cookies tend to get the flashiest versions. We won't name "the chase card" of a given set without confirming it. [Verify per-set chase cards and any pull-rate information against official sources; do not trust unverified pull-rate claims.]
+- Which specific cards get Secret treatments varies by set, and the marquee Cookies tend to get the flashiest versions. We won't name "the chase card" of a given set without confirming it, and you shouldn't trust unverified pull-rate claims either - check per-set chase cards and pull rates against official sources.
 
 ## What "hidden" cards mean
 
 If you read set listings, you'll see card counts split into "regular" and "hidden" numbers (for example, a set might be described as having a few hundred regular cards plus several dozen hidden ones). **Hidden cards** appear to be the premium and alt-art pool - the higher-rarity and Secret treatments that sit on top of the base set rather than the cards you'd see in a standard checklist.
 
-Be careful here: the exact regular-versus-hidden counts we found **conflict across sources**, and they likely differ by region and printing. Treat any specific count you see as something to confirm on the official card database before repeating it. [Verify per-set regular/hidden card counts on the official site; reported numbers conflict.]
+Be careful here: the exact regular-versus-hidden counts we found **conflict across sources**, and they likely differ by region and printing. Reported numbers conflict, so treat any specific count you see as something to confirm on the official card database before repeating it.
 
 ## How booster boxes and packs are configured
 
@@ -100,9 +100,9 @@ For the current English-language products, a booster box is built like this:
 - **28 packs per box**
 - **9 cards per pack**
 
-That's the configuration to expect on shelves now. You may run into older or overseas listings citing a different layout (for instance, more packs with fewer cards each) - those reflect a different region or era, so don't use them to plan an English-product purchase. [Verify the pack/box configuration for the specific product you're buying; older and overseas listings differ.]
+That's the configuration to expect on shelves now. You may run into older or overseas listings citing a different layout (for instance, more packs with fewer cards each) - those reflect a different region or era, so don't use them to plan an English-product purchase. Configurations differ across regions and eras, so confirm the pack and box layout for the specific product you're buying.
 
-We are deliberately not quoting box or pack prices, because they vary by retailer and over time. Check a current listing before you buy. [Verify current product pricing.]
+We are deliberately not quoting box or pack prices, because they vary by retailer and over time. Check a current listing before you buy.
 
 ## A collecting strategy that won't break the bank
 

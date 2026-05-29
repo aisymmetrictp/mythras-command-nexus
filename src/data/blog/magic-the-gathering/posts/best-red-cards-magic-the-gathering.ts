@@ -102,7 +102,7 @@ This is where red has quietly become a card-advantage color. The "wheel" — a c
 
 ![Wheel of Fortune, the three-mana red sorcery that makes each player discard their hand and draw seven new cards.](/images/blog/magic-the-gathering/best-red-cards-magic-the-gathering/wheel-of-fortune.jpg)
 
-Wheel of Fortune is the patriarch. Three mana, sorcery, each player discards their hand and draws seven cards. That is the best draw-7 effect in MTG, period. It is also on the Reserved List, which has pushed the price into "do not casually buy one" territory. [Verify current price] before pulling the trigger. If you do not own one, Wheel of Misfortune is the closest functional reprint at the same casting cost, just with a slightly weirder targeting clause.
+Wheel of Fortune is the patriarch. Three mana, sorcery, each player discards their hand and draws seven cards. That is the best draw-7 effect in MTG, period. It is also on the Reserved List, which has pushed the price into "do not casually buy one" territory (prices vary — check a current retailer before pulling the trigger). If you do not own one, Wheel of Misfortune is the closest functional reprint at the same casting cost, just with a slightly weirder targeting clause.
 
 Faithless Looting is a tiny but format-defining card: one mana, draw 2, discard 2, with flashback for 2R. It enables graveyard decks across Modern and Commander. Banned in Modern for a reason. In Commander it is the cleanest "I do not need this hand, give me a new one" effect at one mana.
 
@@ -112,7 +112,7 @@ Underworld Breach is the centerpiece of red's combo identity. One mana, enchantm
 
 | Effect                  | Mana Cost | Role                          | Notes                                  |
 | ----------------------- | --------- | ----------------------------- | -------------------------------------- |
-| Wheel of Fortune        | 2R        | Combo enabler, refuel         | Reserved List. [Verify price].         |
+| Wheel of Fortune        | 2R        | Combo enabler, refuel         | Reserved List. Pricey.                 |
 | Wheel of Misfortune     | 2R        | Functional Wheel substitute   | Reprinted. Affordable.                 |
 | Faithless Looting       | R         | Graveyard enabler, dig        | Modern ban, Commander staple.          |
 | Jeska's Will            | 2R        | Ritual + draw burst           | One of the best 3-mana red spells.     |
@@ -139,7 +139,7 @@ For Modern and Legacy specifically, Bonesplitter and Skullclamp see niche play, 
 
 Red creature design has gotten dramatically better over the last decade. Where you used to run a bunch of two-mana 2/2s with marginal abilities, you now have a deep bench of creatures that generate card advantage, ritual mana, or combo with the rest of your deck.
 
-**Ragavan, Nimble Pilferer.** One mana, 2/1 monkey, when it deals combat damage to a player you get a Treasure and exile the top card of their library and may play it this turn. It is the banner card for Modern Grixis decks and it is the most expensive Modern Horizons 2 card for a reason. [Verify Standard/Modern legality] in your specific format. In Commander, Ragavan is a perfectly playable utility creature though the political read changes (he steals from one opponent per swing).
+**Ragavan, Nimble Pilferer.** One mana, 2/1 monkey, when it deals combat damage to a player you get a Treasure and exile the top card of their library and may play it this turn. It is the banner card for Modern Grixis decks and it is the most expensive Modern Horizons 2 card for a reason. As a Modern Horizons card it was never Standard- or Pioneer-legal, so confirm the legal window for your specific format. In Commander, Ragavan is a perfectly playable utility creature though the political read changes (he steals from one opponent per swing).
 
 **Birgi, God of Storytelling.** Three mana, 3/3, whenever you cast a spell add R, no double-up per spell. Birgi turns wheel decks into actual combo decks by giving you free mana on every cast. Her back side (Harnfel, Horn of Bounty) is also a strong card-filter effect.
 
@@ -200,7 +200,7 @@ If you cannot tick five of those, the deck is going to run out of gas before it 
     {
       question: "Is Ragavan banned in any formats?",
       answer:
-        "Ragavan, Nimble Pilferer is legal in Modern, Legacy, Vintage, and Commander as of this writing. He is restricted in Vintage to one copy per deck. Pioneer was never legal for the Modern Horizons sets in general. [Verify current legality] before sleeving up for a tournament, because Modern's ban list has been volatile in recent years around the Modern Horizons cards.",
+        "Ragavan, Nimble Pilferer is legal in Modern, Legacy, Vintage, and Commander as of this writing. He is restricted in Vintage to one copy per deck. Pioneer was never legal for the Modern Horizons sets in general. Double-check the current ban list before sleeving up for a tournament, because Modern's ban list has been volatile in recent years around the Modern Horizons cards.",
     },
     {
       question: "Why is Dockside Extortionist banned in Commander?",

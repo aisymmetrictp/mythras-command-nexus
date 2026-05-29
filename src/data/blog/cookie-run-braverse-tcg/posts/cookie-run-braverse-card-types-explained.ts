@@ -48,7 +48,7 @@ export const braverseCardTypesExplained: BlogPost = {
   ],
   content: `If you've read [how to play Cookie Run: Braverse](/blog/cookie-run-braverse-tcg/how-to-play-cookie-run-braverse), you got the speed-run: here are the card types, here's how a turn goes, now play. This guide is the slower, deeper pass - the one that turns "I know what the cards are called" into "I know what each card type is *for* and how to use it." Understanding the card types properly is the difference between a beginner who reads each card cold and a player who already knows what to expect from a face-down Trap.
 
-A quick discipline note, because Braverse is a young game and accuracy is the point of this blog: the *shapes* of the card types below are well-corroborated, but a few exact rules - especially around FLIP timing and how Traps are set and triggered - couldn't be fully confirmed against the official rulebook. Where that's true, we describe how it works and flag the specifics with [Verify against the official rulebook]. Don't quote an edge-case ruling to a judge from memory; confirm it.
+A quick discipline note, because Braverse is a young game and its card data is reported inconsistently: the *shapes* of the card types below are well-corroborated, but a few exact rules - especially around FLIP timing and how Traps are set and triggered - aren't pinned down across sources. Where a specific stat or ruling matters, confirm it against the official rulebook before a sanctioned event, and don't quote an edge-case ruling to a judge from memory.
 
 ## The card types at a glance
 
@@ -62,7 +62,7 @@ Braverse has four card types, plus FLIP, which is a property certain cards carry
 | **Stage** | Persistent battlefield effects | Continuously, while in play |
 | **FLIP** | A trigger baked into a card in an HP stack | When damage flips the card |
 
-[Verify the exact official names and any additional sub-types against the current rulebook and card database; the four-type structure plus FLIP is corroborated across sources but confirm before a sanctioned event.]
+The four-type structure plus FLIP is corroborated across sources, but the exact official names and any additional sub-types are worth confirming against the current rulebook and card database before a sanctioned event.
 
 ## Cookie cards: the stars of the game
 
@@ -76,7 +76,7 @@ Everything in Braverse revolves around Cookies. They're the only cards that:
 
 Every legal deck must contain at least one Cookie, and in practice Cookies are the largest share of any deck. A Cookie card carries a Level (which feeds both win conditions and curve), a cost (paid by resting Support cards), an attack value, and usually a skill. When a Cookie's HP stack is exhausted and it faints, it goes to the Break Area - and its Level counts toward your opponent's win.
 
-There are also special Cookie variants. **Dragon Cookies** were introduced in the Operation Timeguard set and appear as starter headliners (Pitaya Dragon, Longan Dragon, Lotus Dragon in the Arena of Glory wave). Purple's **Dark Cacao Cookie** anchors a trash-based "Awakening" strategy. These variants follow the Cookie rules but carry extra mechanics. [Verify the exact rules for Dragon Cookies and the Awakening mechanic against the official rulebook - the names and existence are confirmed, the specific rules are not.]
+There are also special Cookie variants. **Dragon Cookies** were reportedly introduced in the Operation Timeguard set and appear as starter headliners (Pitaya Dragon, Longan Dragon, Lotus Dragon in the Arena of Glory wave). Purple's **Dark Cacao Cookie** anchors a trash-based "Awakening" strategy. These variants follow the Cookie rules but carry extra mechanics. The names are well-established, but the specific rules for Dragon Cookies and the Awakening mechanic are worth confirming against the official rulebook before a sanctioned event.
 
 > The mental model: Cookies are your board and your clock. Every other card type exists to make your Cookies better or your opponent's Cookies worse.
 
@@ -86,7 +86,7 @@ There are also special Cookie variants. **Dragon Cookies** were introduced in th
 
 Items are your one-shot effects - the cards you play for an immediate impact and then they're done. Think of them as the "spell" layer in most TCGs. A typical Item does something like push extra damage, remove or weaken an opposing Cookie, draw or cycle cards, or buff one of your Cookies for a turn.
 
-Because Braverse resources ramp slowly (one Support card per turn), Items compete directly with Cookies for your limited resources. The skill is knowing when an Item's tempo swing is worth spending a turn's resources that *aren't* going onto the board. Aggressive decks want cheap, damage-pushing Items; control and combo decks want Items that generate card advantage or set up a payoff. [Verify the exact timing windows in which Items can be played against the official rulebook.]
+Because Braverse resources ramp slowly (one Support card per turn), Items compete directly with Cookies for your limited resources. The skill is knowing when an Item's tempo swing is worth spending a turn's resources that *aren't* going onto the board. Aggressive decks want cheap, damage-pushing Items; control and combo decks want Items that generate card advantage or set up a payoff. The exact timing windows in which Items can be played are worth confirming against the official rulebook before a sanctioned event.
 
 ## Trap cards: the reactive layer
 
@@ -96,13 +96,13 @@ The strategic value of a Trap is information warfare: a set Trap forces your opp
 
 > Traps reward reading the opponent. The best Trap is one you set when you can predict what they'll do next turn - so it's almost guaranteed to fire.
 
-[Verify exactly how Traps are set, what zone they occupy, and the precise timing of their triggers against the official rulebook; the reactive, face-down nature is corroborated but the mechanical specifics should be confirmed.]
+The reactive, face-down nature of Traps is well-corroborated, but the mechanical specifics - exactly how they're set, what zone they occupy, and the precise timing of their triggers - are worth confirming against the official rulebook before a sanctioned event.
 
 ## Stage cards: the persistent layer
 
 Stages are the persistent layer - cards that stay in play and apply a continuous effect rather than resolving once. Where an Item is a single swing and a Trap is a single reaction, a Stage keeps working every turn it remains on the table.
 
-Stages are typically build-around or value cards: a passive damage buff, an ongoing resource benefit, or a static rule change that nudges the whole game in your favor. Because their value compounds the longer they stick, they fit slower decks better than aggro - a Stage that pays off over five turns is worth more to a control or ramp deck than to a Red deck trying to end the game in four. [Verify how many Stages can be in play at once and whether they can be removed, against the official rulebook.]
+Stages are typically build-around or value cards: a passive damage buff, an ongoing resource benefit, or a static rule change that nudges the whole game in your favor. Because their value compounds the longer they stick, they fit slower decks better than aggro - a Stage that pays off over five turns is worth more to a control or ramp deck than to a Red deck trying to end the game in four. How many Stages can be in play at once, and whether they can be removed, are details worth confirming against the official rulebook before a sanctioned event.
 
 ## FLIP: the mechanic that changes everything
 
@@ -118,7 +118,7 @@ This does a few remarkable things to the game:
 - **HP stacks carry hidden information.** Neither player knows exactly which HP cards are FLIP cards until they flip, so combat has a built-in element of risk.
 - **It rewards deckbuilding.** You can load your decks with FLIP cards - up to a cap of 16 - to make your Cookies dangerous to attack.
 
-The 16-FLIP-card maximum is a corroborated deck-construction rule. The exact *timing* of when a FLIP triggers relative to damage and other effects is the part to confirm. [Verify the precise FLIP trigger timing and any stacking/ordering rules against the official rulebook - this is the most-cited rules ambiguity in the game.]
+The 16-FLIP-card maximum is a corroborated deck-construction rule. The exact *timing* of when a FLIP triggers relative to damage and other effects is the most-cited rules ambiguity in the game, so confirm the precise trigger timing and any stacking or ordering rules against the official rulebook before a sanctioned event.
 
 > Practical takeaway: when you attack, you're gambling that the defender's HP stack won't punish you. When you defend, FLIP cards are how you make attacking you a bad idea.
 
@@ -146,7 +146,7 @@ There's no universal ratio, but here's a sane starting frame for a 60-card deck.
 | **Stages** | A small number | Build-arounds; value compounds, so slower decks want more |
 | **FLIP cards** | Up to 16 (the cap) | A separate axis - many cards of other types can also be FLIP cards |
 
-Note that FLIP overlaps with the other types: a Cookie or Item can also be a FLIP card, so the 16-FLIP cap is a constraint layered on top of your type mix, not a separate slice of the pie. [Verify deck-construction limits - 60 cards, four copies max of a card number, at least one Cookie, up to 16 FLIP cards - against the official rulebook.] For the full ratio discussion, see [deck-building basics](/blog/cookie-run-braverse-tcg/cookie-run-braverse-deck-building-basics).
+Note that FLIP overlaps with the other types: a Cookie or Item can also be a FLIP card, so the 16-FLIP cap is a constraint layered on top of your type mix, not a separate slice of the pie. These deck-construction limits - 60 cards, four copies max of a card number, at least one Cookie, up to 16 FLIP cards - are well-corroborated, but confirm them against the official rulebook before a sanctioned event. For the full ratio discussion, see [deck-building basics](/blog/cookie-run-braverse-tcg/cookie-run-braverse-deck-building-basics).
 
 ## Quick Action Checklist
 
@@ -186,7 +186,7 @@ Note that FLIP overlaps with the other types: a Cookie or Item can also be a FLI
     {
       question: "Are Dragon Cookies a separate card type?",
       answer:
-        "No. Dragon Cookies are a Cookie variant - introduced in the Operation Timeguard set and featured as starter headliners like Pitaya Dragon Cookie - that follow the Cookie rules but carry extra mechanics. Verify the exact Dragon Cookie rules against the official rulebook, since the name is confirmed but the specifics are not.",
+        "No. Dragon Cookies are a Cookie variant - reportedly introduced in the Operation Timeguard set and featured as starter headliners like Pitaya Dragon Cookie - that follow the Cookie rules but carry extra mechanics. Verify the exact Dragon Cookie rules against the official rulebook, since the specifics are not fully confirmed.",
     },
   ],
   internalLinks: [

@@ -80,7 +80,7 @@ This is where most Sugar Swan builds quietly fall apart. The toppings are easy. 
 Your priority order:
 
 1. **Cooldown** — stack it on every topping that lets you. Target **14%+ total** from sub-stats. This is the number that matters most.
-2. **ATK%** — her healing and revive output scale off her Attack stat, so ATK% sub-stats translate directly into bigger revives and stronger heals. [VERIFY] exact scaling coefficient.
+2. **ATK%** — her healing and revive output scale off her Attack stat, so ATK% sub-stats translate directly into bigger revives and stronger heals.
 3. **HP%** — a small amount keeps her from getting sniped, but you are not building around it.
 
 Chase Cooldown first, ATK% second, and let HP% be whatever leftover rolls give you. The mistake people make is treating her like a tanky support and dumping HP% into every slot. You don't want a Sugar Swan who survives forever and revives slowly. You want one who brings two cookies back the instant they fall and then does it again as soon as her cooldown is up.

@@ -69,7 +69,7 @@ Three reasons, in order of importance.
 
 Her v7.0 kit rework added a multi-target debuff on top of her existing AoE nuke, which means she scales into more enemies, not fewer. Most legacy DPS cookies (looking at you, Frost Queen) lose damage when the screen is crowded. Dark Enchantress gains it.
 
-Her ult animation timing got shaved by roughly 0.4 seconds [VERIFY] in v7.2, which sounds tiny until you realize Arena fights are decided in under 15 seconds. That is one extra rotation in a long match.
+Her ult animation timing got shaved noticeably in a recent patch, which sounds tiny until you realize Arena fights are decided in under 15 seconds. That tightened window can mean one extra rotation in a long match.
 
 She still counters the current Arena meta. Pure Vanilla Awakened shields, Hollyberry walls, Sea Fairy chip. None of it matters if Dark Enchantress lands a critted ult on the back row. The only thing that genuinely threatens her is Timekeeper, and Timekeeper happens to be her best teammate. We will get there.
 
@@ -121,7 +121,7 @@ Chewy beascuit with Skill Power priority. That is the answer.
 
 But the reasoning matters, because the answer flips in one specific scenario.
 
-Her ult does roughly 70-80% of her total damage in a standard Arena fight [VERIFY]. Skill Power directly multiplies that number. ATK multiplies her ult too, but it also multiplies her basic attacks, and her basic attacks are not what is winning you matches.
+Her ult is the bulk of her total damage in a standard Arena fight. Skill Power directly multiplies that number. ATK multiplies her ult too, but it also multiplies her basic attacks, and her basic attacks are not what is winning you matches.
 
 The trade-off looks like this:
 
@@ -152,7 +152,7 @@ The Arena double-treasure of Old Pilgrim's Scroll plus Sugar Swan's Shining Feat
 
 Mandatory if you are pushing top 100 Arena or Cake Tower past tray 50.
 
-Her Magic Candy adds an AoE component to her damage rotation and extends her debuff duration by roughly 2 seconds [VERIFY]. The AoE piece is what matters most against spread Arena teams where her single-target nuke would otherwise miss the squishies.
+Her Magic Candy adds an AoE component to her damage rotation and extends her debuff duration. The AoE piece is what matters most against spread Arena teams where her single-target nuke would otherwise miss the squishies.
 
 The leveling priority is straightforward. Get her Magic Candy to 15 minimum, push to 20 if you are a serious Arena player, max it if you are top 50.
 
@@ -192,7 +192,7 @@ PvE fights last longer, so you want raw damage per second over rotation speed. C
 
 Arena matches end in 15-25 seconds. You need her ult off twice, you need it critting, and you need the second rotation to land before the enemy Timekeeper or Pure Vanilla Awakened resets the fight. Every Cooldown sub-stat is one millisecond closer to that second ult.
 
-The trap is running an Arena build in PvE or vice versa. They look similar on paper, and the damage difference is roughly 20-25% in the wrong mode [VERIFY].
+The trap is running an Arena build in PvE or vice versa. They look similar on paper, but the damage difference in the wrong mode is steep enough to feel.
 
 ## Common Dark Enchantress build mistakes
 

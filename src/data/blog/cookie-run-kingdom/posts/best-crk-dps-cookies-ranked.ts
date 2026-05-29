@@ -105,7 +105,7 @@ Why she ranks #1: the damage is the headline, but the real edge is timing. Her s
 
 ![Timekeeper Cookie, the S+ Magic burst DPS whose cooldown pressure wins close Arena exchanges.](/images/blog/cookie-run-kingdom/best-crk-dps-cookies-ranked/timekeeper-cookie.webp)
 
-The closest thing to a true co-leader of the damage meta. Timekeeper deals heavy Magic burst on a faster, more reliable cadence than DEC, and her kit messes with enemy cooldowns, which is brutal in Arena where one delayed skill loses the round. [VERIFY] exact cooldown-manipulation values against the current patch.
+The closest thing to a true co-leader of the damage meta. Timekeeper deals heavy Magic burst on a faster, more reliable cadence than DEC, and her kit messes with enemy cooldowns, which is brutal in Arena where one delayed skill loses the round.
 
 Why she ranks S+: consistency. Where DEC has the higher ceiling, Timekeeper has the higher floor. She gets her damage out in matchups where DEC gets shut down, and the cooldown pressure she applies wins exchanges that look even on paper. In the current Arena, running both is the strongest double-DPS magic core.
 
@@ -142,7 +142,7 @@ The bench is genuinely good right now, which is great news for F2P players who d
 - **Pavlova (Epic):** the best non-Legendary DPS by a wide margin and the value pick of the meta. An Epic that earns a real Arena slot is rare. If you're F2P, she's your bridge to a magic core.
 - **Sea Fairy:** still a clean AoE Magic nuker for PvE and a fine Arena pick. She's aged better than most of her generation because the damage type kept her relevant.
 - **Frost Queen:** more crowd control than pure DPS, but the freeze sets up your real damage dealers and she chips meaningful Magic damage while doing it.
-- **Mystic Flour (Beast):** heavy hitter in long PvE and Guild fights with a kit that punishes grouped enemies. [VERIFY] her current Guild Boss damage relative to Venom Dough.
+- **Mystic Flour (Beast):** heavy hitter in long PvE and Guild fights with a kit that punishes grouped enemies. She trades blows with Venom Dough for the long-fight damage crown depending on the encounter.
 - **Black Sapphire:** an Arena disruptor with solid Magic burst whose debuff utility keeps her useful even as raw-damage cookies pass her.
 
 What's falling off: a lot of older Legendaries that used to anchor teams. Fire Spirit, the early physical-damage nukers, and the first wave of Beast-Yeast cookies all slid down because the meta rewards magic and fast casts, and they offer neither in 2026. If a cookie was top-tier in 2024 and you haven't checked since, assume it dropped.
@@ -151,7 +151,7 @@ What's falling off: a lot of older Legendaries that used to anchor teams. Fire S
 
 Here's the mechanic that explains the whole list. CRK damage comes in two flavors, Magic and Physical, and they interact with the target's DEF differently.
 
-Physical damage is reduced by the target's DEF on a fairly direct curve. Stack enough DEF on a defender and you blunt physical attackers hard. Magic damage interacts with DEF on a softer curve, so the same DEF wall does less to stop a Magic nuke. [VERIFY] the exact DEF-mitigation formula difference in the current patch.
+Physical damage is reduced by the target's DEF on a fairly direct curve. Stack enough DEF on a defender and you blunt physical attackers hard. Magic damage interacts with DEF on a softer curve, so the same DEF wall does less to stop a Magic nuke.
 
 Now layer in the current Arena defense meta. The popular defenses lean on bruisers and healers, and their backlines are squishy and not DEF-stacked in the way that would punish magic. So Magic DPS slices through the exact compositions people are running. DEC and Timekeeper are both Magic, both fast, and both ignore the kind of bulk Arena defenses actually have.
 

@@ -122,7 +122,7 @@ Esper Sentinel is the card that broke the color-power-rankings argument. A one-m
 
 Smothering Tithe is the second pillar. Four-mana enchantment that says "every opponent makes a treasure when they draw a card unless they pay 2." Nobody pays the 2. You generate 5-10 treasures a turn cycle in a four-player game. That is ramp, that is fixing, that is mana for instant-speed plays, that is artifact synergy if you are building toward it. The card is everywhere for a reason.
 
-Land Tax is the elder statesman and still earns its slot. The card came out in 1991 and is currently legal in Commander, Legacy, and most casual formats. [Verify current legality for any other format.] Three basics into hand is a 1-for-3 every turn an opponent ramps before you. In a format where someone always has Sol Ring on turn 1, Land Tax triggers consistently.
+Land Tax is the elder statesman and still earns its slot. The card came out in 1991 and is currently legal in Commander, Legacy, and most casual formats, though it is worth confirming the window if you are building for anything else. Three basics into hand is a 1-for-3 every turn an opponent ramps before you. In a format where someone always has Sol Ring on turn 1, Land Tax triggers consistently.
 
 Sun Titan is the value-engine creature. Six mana for a 6/6 vigilance that recurs a permanent CMC 3 or less every combat. Every white deck has Sun Titan targets sitting in the graveyard — Land Tax, Esper Sentinel, fetchlands, planeswalkers, sacrificed clue tokens. Sun Titan turns a midrange white deck into an inevitable one.
 
@@ -158,7 +158,7 @@ Akroma's Will is the closest thing white has to a one-card win condition. Five m
 
 ## Budget alternatives
 
-Most of the cards above sit in the $10-$60 range. [Verify current price.] If you are building on a budget or just don't want to drop $40 on a single enchantment, here are the closest functional substitutes for under ~$5 each.
+Most of the cards above sit in the $10-$60 range (prices vary — check a current retailer). If you are building on a budget or just don't want to drop $40 on a single enchantment, here are the closest functional substitutes for under ~$5 each.
 
 - **Instead of Swords to Plowshares:** Get Lost. Two mana sorcery that exiles a creature, planeswalker, or battle. Slower, but covers more types.
 - **Instead of Smothering Tithe:** Marauding Blight-Priest is the wrong color. White's budget ramp substitute is honestly just Pearl Medallion or Pristine Talisman — neither is great, which is why Smothering Tithe is the price it is.
@@ -174,9 +174,9 @@ Standard is the format the May 2026 ban wave reshaped most aggressively. Ten car
 
 The white cards driving the post-ban Standard meta:
 
-- **The Secrets of Strixhaven white removal package.** [Verify current legality.] SSH printed at least one new white removal spell at the two-mana-instant slot that has slotted into every white-based control deck. Pair it with the older Get Lost and you have eight clean answers.
+- **The Secrets of Strixhaven white removal package.** SSH printed at least one new white removal spell at the two-mana-instant slot that has slotted into every white-based control deck. Pair it with the older Get Lost and you have eight clean answers.
 - **Selesnya Landfall pieces.** Nathan Steuer's Pro Tour Strixhaven-winning Selesnya Landfall deck leans heavily on white for protection and removal. The white half of that shell is fully intact post-bans.
-- **Mono-white tokens.** Has crept back into the format with anthem effects, the older Caretaker's Talent draw engine, and the new Strixhaven white anthem [Verify current legality]. Mono-white token swarms are a real Tier 1.5 deck for the first time in a while.
+- **Mono-white tokens.** Has crept back into the format with anthem effects, the older Caretaker's Talent draw engine, and the new Strixhaven white anthem. Mono-white token swarms are a real Tier 1.5 deck for the first time in a while.
 - **Esper midrange.** Splashes blue and black for counter-magic and Sheoldred-style life-drain, but the engine card is white removal plus white protection. The deck punishes the format's slower midrange mirrors.
 
 For a deeper dive on the current Standard environment, read our [Standard post-ban meta breakdown](/blog/magic-the-gathering/standard-post-ban-meta-may-2026) and the [Selesnya Landfall PT-winning deck guide](/blog/magic-the-gathering/selesnya-landfall-pro-tour-strixhaven-winning-deck).
@@ -207,7 +207,7 @@ Use this list as a deckbuilding starting point for any white-inclusive Commander
     {
       question: "Is Smothering Tithe worth the price tag?",
       answer:
-        "In a four-player Commander pod, Smothering Tithe generates between 5 and 10 treasures per turn cycle. That is ramp, that is fixing, that is artifact synergy, and that is mana for instant-speed plays. It is one of the most impactful four-mana plays a white deck can make, and yes, it is worth the price [Verify current price] in any deck that draws cards faster than your opponents can answer it.",
+        "In a four-player Commander pod, Smothering Tithe generates between 5 and 10 treasures per turn cycle. That is ramp, that is fixing, that is artifact synergy, and that is mana for instant-speed plays. It is one of the most impactful four-mana plays a white deck can make, and yes, it is worth the price in any deck that draws cards faster than your opponents can answer it.",
     },
     {
       question: "What is the best budget alternative to Esper Sentinel?",
@@ -227,7 +227,7 @@ Use this list as a deckbuilding starting point for any white-inclusive Commander
     {
       question: "Which white cards from Secrets of Strixhaven are worth picking up?",
       answer:
-        "The set added several Standard-impactful white cards [Verify current legality], including a new two-mana removal spell that has become a four-of in every white control deck post-ban. For Commander, SSH's white legendary creature gets play as a budget anthem commander. Check our [Secrets of Strixhaven best cards](/blog/magic-the-gathering/secrets-of-strixhaven-best-standard-cards) breakdown for the full per-color set review.",
+        "The set added several Standard-impactful white cards, including a new two-mana removal spell that has become a four-of in every white control deck post-ban. For Commander, SSH's white legendary creature gets play as a budget anthem commander. Check our [Secrets of Strixhaven best cards](/blog/magic-the-gathering/secrets-of-strixhaven-best-standard-cards) breakdown for the full per-color set review.",
     },
   ],
   internalLinks: [
