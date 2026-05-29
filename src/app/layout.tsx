@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import { OrganizationSchema, PersonSchema } from "@/components/StructuredData";
+import { SiteAdSenseLoader } from "@/components/AdUnit";
 import CookieConsent from "@/components/CookieConsent";
 import ChatWidget from "@/components/assistant/ChatWidget";
 import "./globals.css";
@@ -63,24 +65,6 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        {/* Google AdSense — site-wide script so reviewers + auto-ads see it on every page */}
-        <script
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4585749746768234"
-          crossOrigin="anonymous"
-        />
-        {/* Google Analytics 4 */}
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-0NF282ERV6" />
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-              window.dataLayer = window.dataLayer || [];
-              function gtag(){dataLayer.push(arguments);}
-              gtag('js', new Date());
-              gtag('config', 'G-0NF282ERV6');
-            `,
-          }}
-        />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link
@@ -89,6 +73,22 @@ export default function RootLayout({
         />
       </head>
       <body className="antialiased">
+        {/* Google AdSense — site-wide loader so reviewers + auto-ads see it on every page */}
+        <SiteAdSenseLoader />
+        {/* Google Analytics 4 */}
+        <Script
+          id="ga-loader"
+          strategy="afterInteractive"
+          src="https://www.googletagmanager.com/gtag/js?id=G-0NF282ERV6"
+        />
+        <Script id="ga-init" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-0NF282ERV6');
+          `}
+        </Script>
         <OrganizationSchema />
         <PersonSchema />
         {/* Hidden form for Netlify build-time form detection */}

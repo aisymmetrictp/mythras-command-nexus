@@ -5,7 +5,7 @@ import { useEffect, useRef } from 'react';
 const AD_CLIENT = 'ca-pub-4585749746768234';
 
 let scriptLoaded = false;
-function ensureAdScript() {
+export function ensureAdScript() {
   if (scriptLoaded || typeof window === 'undefined') return;
   scriptLoaded = true;
   const s = document.createElement('script');
@@ -13,6 +13,17 @@ function ensureAdScript() {
   s.async = true;
   s.crossOrigin = 'anonymous';
   document.head.appendChild(s);
+}
+
+// Site-wide loader: injects the AdSense script on every page (for auto-ads +
+// AdSense crawler verification) even when no <AdUnit> is mounted. Imperative
+// injection avoids the head hydration mismatch and the data-nscript warning
+// that next/script triggers with AdSense.
+export function SiteAdSenseLoader() {
+  useEffect(() => {
+    ensureAdScript();
+  }, []);
+  return null;
 }
 
 interface AdUnitProps {
