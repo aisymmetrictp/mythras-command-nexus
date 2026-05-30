@@ -12,22 +12,22 @@ export const secretsOfStrixhavenBestStandardCards: BlogPost = {
     "Secrets of Strixhaven shipped 270 cards. Most will never see Standard play. Here are the 20 that actually matter, the hype mythics that flopped, and what the May 18 bans changed.",
   featuredImagePrompt:
     'A grand college library at Strixhaven with five Elder Dragons perched on different floors, glowing arcane diagrams floating between them, a single uncommon spell card labeled FLOW STATE radiating gold light in the foreground, dark academic fantasy art, jewel-tone lighting',
-  heroImage: '/images/blog/magic-the-gathering/secrets-of-strixhaven-best-standard-cards/velomachus-lorehold.jpg',
-  heroImageAlt: 'Velomachus Lorehold, the red-white Lorehold Elder Dragon from Strixhaven, a haste-flying control finisher.',
+  heroImage: '/images/blog/magic-the-gathering/secrets-of-strixhaven-best-standard-cards/lorehold-the-historian.jpg',
+  heroImageAlt: 'Lorehold, the Historian — the red-white Lorehold Elder Dragon from Secrets of Strixhaven.',
   imageSources: [
     {
-      src: '/images/blog/magic-the-gathering/secrets-of-strixhaven-best-standard-cards/velomachus-lorehold.jpg',
-      sourceUrl: 'https://scryfall.com/card/tdc/309/velomachus-lorehold',
+      src: '/images/blog/magic-the-gathering/secrets-of-strixhaven-best-standard-cards/lorehold-the-historian.jpg',
+      sourceUrl: 'https://scryfall.com/card/sos/201/lorehold-the-historian',
       license: 'WotC Fan Content Policy / Scryfall',
     },
     {
-      src: '/images/blog/magic-the-gathering/secrets-of-strixhaven-best-standard-cards/beledros-witherbloom.jpg',
-      sourceUrl: 'https://scryfall.com/card/soc/296/beledros-witherbloom',
+      src: '/images/blog/magic-the-gathering/secrets-of-strixhaven-best-standard-cards/witherbloom-the-balancer.jpg',
+      sourceUrl: 'https://scryfall.com/card/sos/245/witherbloom-the-balancer',
       license: 'WotC Fan Content Policy / Scryfall',
     },
     {
-      src: '/images/blog/magic-the-gathering/secrets-of-strixhaven-best-standard-cards/tanazir-quandrix.jpg',
-      sourceUrl: 'https://scryfall.com/card/soc/332/tanazir-quandrix',
+      src: '/images/blog/magic-the-gathering/secrets-of-strixhaven-best-standard-cards/quandrix-the-proof.jpg',
+      sourceUrl: 'https://scryfall.com/card/sos/218/quandrix-the-proof',
       license: 'WotC Fan Content Policy / Scryfall',
     },
     {
@@ -73,11 +73,11 @@ If you skipped the lore push, here is the one-paragraph version of what each col
 
 | College      | Colors  | Identity                                    | Signature Mechanic            |
 | ------------ | ------- | ------------------------------------------- | ----------------------------- |
-| Lorehold     | R / W   | Spirits, history, graveyard reuse           | Magecraft (reportedly)        |
-| Prismari     | U / R   | Big spells, copy effects, instants/sorcs    | Prepare (rumored)             |
-| Quandrix     | G / U   | Counters, math, fractals                    | Increment (rumored)           |
-| Silverquill  | W / B   | Token swarms, life drain, spell support     | Magecraft (reportedly)        |
-| Witherbloom  | B / G   | Sacrifice, lifegain, midrange grind         | Paradigm (rumored)            |
+| Lorehold     | R / W   | Spirits, history, graveyard reuse           | Magecraft                     |
+| Prismari     | U / R   | Big spells, copy effects, instants/sorcs    | Prepare                       |
+| Quandrix     | G / U   | Counters, math, fractals                    | Increment                     |
+| Silverquill  | W / B   | Token swarms, life drain, spell support     | Magecraft                     |
+| Witherbloom  | B / G   | Sacrifice, lifegain, midrange grind         | Paradigm                      |
 
 The mechanics matter, but most of them only really show up in dedicated college decks. Prepare and Paradigm both reward casting things twice (in different ways) and Increment is the Quandrix counters mini-game. Magecraft is the returning hook that mostly props up the Lorehold spirits archetype.
 
@@ -85,7 +85,7 @@ The cards below are ranked on Standard relevance first, with a separate Commande
 
 ## S-tier
 
-![Velomachus Lorehold, the red-white Lorehold Elder Dragon, a 7/7 haste-flier that casts free spells when it attacks.](/images/blog/magic-the-gathering/secrets-of-strixhaven-best-standard-cards/velomachus-lorehold.jpg)
+![Lorehold, the Historian — the red-white Lorehold Elder Dragon from Secrets of Strixhaven.](/images/blog/magic-the-gathering/secrets-of-strixhaven-best-standard-cards/lorehold-the-historian.jpg)
 
 These are the cards that anchor or define a tier 1 deck in current Standard. If you only buy a handful of singles from SSH, buy these first.
 
@@ -98,7 +98,7 @@ These are the cards that anchor or define a tier 1 deck in current Standard. If 
 | Witherbloom Elder Dragon      | B/G    | Mythic   | Witherbloom midrange staple     |
 | Dina's Guidance               | B/G    | Rare     | Tutor for Witherbloom and BG    |
 
-Flow State stays in S-tier even after the Izzet bans. The card was in 34.8% of Pro Tour Strixhaven decks for a reason. It is, by the spoiler-season reports, a two-cost spell that draws cards and chains into more spells, and it should find a home in whatever the next viable spells-matter deck is. If you cracked one at the prerelease, do not sell it.
+Flow State stays in S-tier even after the Izzet bans. The card was in 34.8% of Pro Tour Strixhaven decks for a reason. It is a two-mana ({1}{U}) uncommon that digs three cards deep for your best spell — and pulls two of them once you have an instant and a sorcery in your graveyard — so it slots into whatever the next viable spells-matter deck is. If you cracked one at the prerelease, do not sell it.
 
 The Elder Dragons are a more interesting story. Four of the five are genuinely Standard playable, but only the Witherbloom and Quandrix versions are seeing day-one play in tier 1 decks. The Lorehold and Prismari dragons are slow control finishers that need a deck built around them, and the Silverquill dragon (notably absent from this S-tier table) is the one that flopped hardest.
 
@@ -108,7 +108,7 @@ For the wider context on which control shells get to play these dragons, see the
 
 ## A-tier
 
-![Beledros Witherbloom, the black-green Witherbloom Elder Dragon that pays life to untap lands and drain the table.](/images/blog/magic-the-gathering/secrets-of-strixhaven-best-standard-cards/beledros-witherbloom.jpg)
+![Witherbloom, the Balancer — the black-green Witherbloom Elder Dragon from Secrets of Strixhaven.](/images/blog/magic-the-gathering/secrets-of-strixhaven-best-standard-cards/witherbloom-the-balancer.jpg)
 
 These are the role-players. Cards that show up as four-ofs in tier 1 decks but are not the marquee S-tier pieces. They are also where the value plays live, because A-tier rares are generally a fraction of the price of the mythics above.
 
@@ -139,14 +139,14 @@ A few examples of the kind of card living in B-tier (paraphrased rather than nam
 - A two-mana Witherbloom rare that gains life and creates a token, slotted into the Aristocrats sideboard.
 - A Quandrix instant that doubles +1/+1 counters on one creature, conditional payoff in counters decks.
 - A Lorehold three-drop that returns a spell from your graveyard, narrow but powerful in Magecraft builds.
-- A Silverquill four-drop reportedly built around creating inspired tokens, the kind of occasional sideboard tech you bring against control.
+- A Silverquill four-drop built around creating tokens, the kind of occasional sideboard tech you bring against control.
 - A Prismari sorcery that copies the next instant or sorcery you cast that turn, build-around but explosive.
 
 > The thing about B-tier in a set this dense is that one card moves up to A-tier the moment someone builds the right shell around it. Watch the [MTGGoldfish weekly metagame data](https://www.mtggoldfish.com/) for cards climbing the play percentage charts.
 
 ## Commander-only standouts
 
-![Tanazir Quandrix, the green-blue Quandrix Elder Dragon that doubles +1/+1 counters on your creatures.](/images/blog/magic-the-gathering/secrets-of-strixhaven-best-standard-cards/tanazir-quandrix.jpg)
+![Quandrix, the Proof — the green-blue Quandrix Elder Dragon from Secrets of Strixhaven.](/images/blog/magic-the-gathering/secrets-of-strixhaven-best-standard-cards/quandrix-the-proof.jpg)
 
 Most of SSH's most exciting cards are Commander pieces that will never see Standard play. The set leaned into the legendary creature and college-flavor design space hard, and the EDH crowd is the biggest winner.
 
@@ -154,7 +154,7 @@ Highlights worth tracking:
 
 - **The five college Elder Dragons as commanders.** Even the Standard-flop Silverquill dragon is a Commander-tier general because the deckbuilding constraint matters more in EDH.
 - **The college headmasters and lecturers cycle.** Each college got at least one new legendary in the rare and mythic slots, and most of them are designed for the Commander 100-card format rather than 60-card Standard.
-- **Reprints in the set boosters.** The reprint sheet for SSH is rumored to be generous and to include a handful of staples Commander players have wanted in foil. Check [Scryfall's SSH set search](https://scryfall.com/sets/ssh) for the confirmed reprint list once it is up.
+- **Reprints in the set boosters.** The reprint sheet for SSH is generous and includes a handful of staples Commander players have wanted in foil. Check [Scryfall's SSH set search](https://scryfall.com/sets/sos) for the full reprint list.
 - **The college Lairs (lands).** The cycle of college lair lands is too slow for Standard but perfect for the lower-power EDH metas.
 
 If you only play Commander, the value play is to crack a Collector Booster box of SSH for the reprints and the legendary mythics, rather than chasing the Standard staples one at a time.
@@ -171,7 +171,7 @@ Other notable disappointments:
 
 - **The Silverquill Elder Dragon.** The hype said it was the flex play because Silverquill had the strongest token shell. The reality is the card costs one mana too much and the token decks would rather play a cheaper finisher.
 - **The Lorehold Magecraft payoff mythic.** Looked like a build-around mythic with format-defining potential. The deck never came together because the supporting cast was a tier 2 archetype.
-- **Two of the Prepare mythics.** Prepare as a mechanic is great in theory, but the specific mythics rumored to headline the mechanic in spoiler season look too expensive to be format-defining and too narrow to be Commander staples.
+- **Two of the Prepare mythics.** Prepare as a mechanic is great in theory, but the specific mythics built to headline it are too expensive to be format-defining and too narrow to be Commander staples.
 - **The Increment one-of-a-kind win condition mythic.** Cool design, no realistic Standard deck where the math works in 60-card format.
 
 The lesson, as always, is that first-week reviews overrate flashy mythics and underrate uncommons. Flow State at uncommon was the actual format-defining card. The mythic spotlight cards mostly faded.
