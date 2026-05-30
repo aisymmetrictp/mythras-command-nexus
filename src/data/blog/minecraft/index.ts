@@ -6,6 +6,8 @@ import { bestMinecraftEnchantments } from './posts/best-minecraft-enchantments';
 import { minecraftRedstoneBasics } from './posts/minecraft-redstone-basics';
 import { bestMinecraftSeeds } from './posts/best-minecraft-seeds';
 import { minecraftBuildingTips } from './posts/minecraft-building-tips';
+import { howToFindDiamondsMinecraft } from './posts/how-to-find-diamonds-minecraft';
+import { howToBeatTheEnderDragon } from './posts/how-to-beat-the-ender-dragon';
 
 export const MINECRAFT_POSTS: BlogPost[] = [
   minecraftSurvivalGuideBeginners,
@@ -13,4 +15,6 @@ export const MINECRAFT_POSTS: BlogPost[] = [
   minecraftRedstoneBasics,
   bestMinecraftSeeds,
   minecraftBuildingTips,
+  howToFindDiamondsMinecraft,
+  howToBeatTheEnderDragon,
 ];

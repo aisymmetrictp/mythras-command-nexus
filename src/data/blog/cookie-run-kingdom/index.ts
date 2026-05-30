@@ -24,6 +24,8 @@ import { sugarSwanCookieToppingsBuild } from './posts/sugar-swan-cookie-toppings
 import { beascuitTierList } from './posts/beascuit-tier-list';
 import { beastYeastBossCounters } from './posts/beast-yeast-boss-counters';
 import { f2pCrystalOptimization } from './posts/f2p-crystal-optimization';
+import { bestCrkSupportCookiesRanked } from './posts/best-crk-support-cookies-ranked';
+import { bestAncientCookiesCrkRanked } from './posts/best-ancient-cookies-crk-ranked';
 
 export const CRK_POSTS: BlogPost[] = [
   crkCodes,
@@ -51,4 +53,6 @@ export const CRK_POSTS: BlogPost[] = [
   beascuitTierList,
   beastYeastBossCounters,
   f2pCrystalOptimization,
+  bestCrkSupportCookiesRanked,
+  bestAncientCookiesCrkRanked,
 ];

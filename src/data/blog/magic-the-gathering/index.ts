@@ -16,6 +16,8 @@ import { howToBuildACommanderDeck } from './posts/how-to-build-a-commander-deck'
 import { bestManaRocksCommanderMtg } from './posts/best-mana-rocks-commander-mtg';
 import { bestPlaneswalkersMtg } from './posts/best-planeswalkers-magic-the-gathering';
 import { mtgMulliganGuideLondonMulligan } from './posts/mtg-mulligan-guide-london-mulligan';
+import { mtgLimitedDraftGuideBeginners } from './posts/mtg-limited-draft-guide-beginners';
+import { bestCounterspellsMtg } from './posts/best-counterspells-mtg';
 
 export const MTG_POSTS: BlogPost[] = [
   bestWhiteCardsMtg,
@@ -35,4 +37,6 @@ export const MTG_POSTS: BlogPost[] = [
   bestManaRocksCommanderMtg,
   bestPlaneswalkersMtg,
   mtgMulliganGuideLondonMulligan,
+  mtgLimitedDraftGuideBeginners,
+  bestCounterspellsMtg,
 ];

@@ -10,6 +10,8 @@ import { braverseDeckArchetypes } from './posts/cookie-run-braverse-deck-archety
 import { bestRedCardsBraverse } from './posts/best-red-cards-cookie-run-braverse';
 import { budgetBraverseDeck } from './posts/budget-cookie-run-braverse-deck';
 import { braverseCardTypesExplained } from './posts/cookie-run-braverse-card-types-explained';
+import { bestBlueCardsBraverse } from './posts/best-blue-cards-cookie-run-braverse';
+import { braverseFlipMechanic } from './posts/cookie-run-braverse-flip-mechanic';
 
 export const BRAVERSE_POSTS: BlogPost[] = [
   howToPlayBraverse,
@@ -23,4 +25,6 @@ export const BRAVERSE_POSTS: BlogPost[] = [
   bestRedCardsBraverse,
   budgetBraverseDeck,
   braverseCardTypesExplained,
+  bestBlueCardsBraverse,
+  braverseFlipMechanic,
 ];
