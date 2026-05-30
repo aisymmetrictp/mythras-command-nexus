@@ -2,10 +2,20 @@ import type { BlogPost, BlogPostListItem } from './blogTypes';
 import { CRK_POSTS } from './cookie-run-kingdom';
 import { MTG_POSTS } from './magic-the-gathering';
 import { BRAVERSE_POSTS } from './cookie-run-braverse-tcg';
+import { ROBLOX_POSTS } from './roblox';
+import { PUBG_POSTS } from './pubg-battlegrounds';
+import { FORTNITE_POSTS } from './fortnite';
+import { MINECRAFT_POSTS } from './minecraft';
 
-export const ALL_POSTS: BlogPost[] = [...CRK_POSTS, ...MTG_POSTS, ...BRAVERSE_POSTS].sort(
-  (a, b) => new Date(b.publishDate).getTime() - new Date(a.publishDate).getTime()
-);
+export const ALL_POSTS: BlogPost[] = [
+  ...CRK_POSTS,
+  ...MTG_POSTS,
+  ...BRAVERSE_POSTS,
+  ...ROBLOX_POSTS,
+  ...PUBG_POSTS,
+  ...FORTNITE_POSTS,
+  ...MINECRAFT_POSTS,
+].sort((a, b) => new Date(b.publishDate).getTime() - new Date(a.publishDate).getTime());
 
 export function getPostsByGame(gameSlug: string): BlogPost[] {
   return ALL_POSTS.filter(p => p.game === gameSlug);

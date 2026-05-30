@@ -31,6 +31,46 @@ export const GAMES: Game[] = [
     accentColor: '#D4A853',
     active: true,
   },
+  {
+    slug: 'roblox',
+    name: 'Roblox',
+    shortName: 'Roblox',
+    description:
+      'The massive user-generated game platform. Finding the best experiences, getting started safely, earning and spending Robux, Roblox Studio basics, and the best games to play with friends.',
+    icon: '🟥',
+    accentColor: '#D4A853',
+    active: true,
+  },
+  {
+    slug: 'pubg-battlegrounds',
+    name: 'PUBG: Battlegrounds',
+    shortName: 'PUBG',
+    description:
+      'Krafton\'s original battle royale. Survival fundamentals, weapon and loadout tier lists, attachment setups, the best landing spots, and settings and sensitivity tuning.',
+    icon: '🪂',
+    accentColor: '#D4A853',
+    active: true,
+  },
+  {
+    slug: 'fortnite',
+    name: 'Fortnite',
+    shortName: 'Fortnite',
+    description:
+      'Epic\'s genre-defining battle royale. Beginner fundamentals, building basics, current-season landing spots, weapon tier lists, and the best settings for PC and console.',
+    icon: '🦙',
+    accentColor: '#D4A853',
+    active: true,
+  },
+  {
+    slug: 'minecraft',
+    name: 'Minecraft',
+    shortName: 'Minecraft',
+    description:
+      'Mojang\'s sandbox phenomenon. Survival guides for beginners, enchantment rankings, redstone basics, the best seeds, and building tips for every kind of player.',
+    icon: '⛏️',
+    accentColor: '#D4A853',
+    active: true,
+  },
 ];
 
 export function getGameBySlug(slug: string): Game | undefined {

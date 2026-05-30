@@ -37,6 +37,18 @@ export const BLOG_CATEGORIES: BlogCategory[] = [
     description: 'Overall, PvE, PvP, Guild Battle, rarity-specific, refreshed monthly.',
     icon: '🏆',
   },
+  {
+    slug: 'game-guides',
+    name: 'Game Guides',
+    description: 'How-to walkthroughs, mechanics, modes, maps, settings, and systems.',
+    icon: '🎮',
+  },
+  {
+    slug: 'tips-tricks',
+    name: 'Tips & Tricks',
+    description: 'Quick wins, optimization, lesser-known mechanics, and pro habits.',
+    icon: '💡',
+  },
   // Magic: The Gathering specific
   {
     slug: 'deck-guides',

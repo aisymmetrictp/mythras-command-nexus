@@ -12,6 +12,8 @@ export type BlogCategorySlug =
   | 'beginner-guides'
   | 'advanced-strategy'
   | 'tier-lists'
+  | 'game-guides'
+  | 'tips-tricks'
   // Collector / product (TCG)
   | 'collector-product';
 
