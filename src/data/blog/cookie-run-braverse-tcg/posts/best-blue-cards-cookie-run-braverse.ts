@@ -8,30 +8,35 @@ export const bestBlueCardsBraverse: BlogPost = {
   tags: ['Blue', 'Combo'],
   title: "Best Blue Cards in Cookie Run: Braverse, Ranked",
   metaDescription:
-    "The best Blue cards in Cookie Run: Braverse for combo decks - which Cookies and effects draw, cycle, and pay off, plus how to evaluate any Blue card fast.",
+    "The best Blue cards in Cookie Run: Braverse, ranked with real costs and effects - Frost Queen, Pure Vanilla, Sea Fairy and the engines that win combo games.",
   excerpt:
-    "Blue is the brain color: draw deep, set up, then win the game in a single explosive sequence. Here's how to evaluate Blue cards and which ones are worth building a combo deck around.",
+    "Blue is the brain color: draw deep, set up, then win the game in a single explosive sequence. Here are the real Blue cards worth building a combo deck around, ranked top to bottom.",
   featuredImagePrompt:
     "A deep-blue Cookie Run: Braverse Cookie card glowing mid-combo, a fan of cards arcing behind it like a drawn hand, cool blue light against a dark studio backdrop.",
   heroImage:
-    '/images/blog/cookie-run-braverse-tcg/best-blue-cards-cookie-run-braverse/cream-soda-cookie.webp',
+    '/images/blog/cookie-run-braverse-tcg/best-blue-cards-cookie-run-braverse/frost-queen-cookie.webp',
   heroImageAlt:
-    'Cream Soda Cookie, a Blue Cookie that anchors the card-cycling combo plan in Cookie Run: Braverse.',
+    'Official Frost Queen Cookie card (BS8-083), the Ultra Rare Blue freeze-and-refill engine that tops the best Blue cards list in Cookie Run: Braverse.',
   imageSources: [
     {
-      src: '/images/blog/cookie-run-braverse-tcg/best-blue-cards-cookie-run-braverse/cream-soda-cookie.webp',
-      sourceUrl: 'https://cookierun.fandom.com/wiki/File:Cream_soda_cookie.png',
-      license: 'Fandom CC-BY-SA',
+      src: '/images/blog/cookie-run-braverse-tcg/best-blue-cards-cookie-run-braverse/frost-queen-cookie.webp',
+      sourceUrl: 'https://cookierunbraverse.com/data/en_storage/ZG9voycvG6B1AyIrj0_ADw.webp',
+      license: 'Card art © Devsisters Corp.; via cookierunbraverse.com official card database',
     },
     {
-      src: '/images/blog/cookie-run-braverse-tcg/best-blue-cards-cookie-run-braverse/sea-fairy-cookie.webp',
-      sourceUrl: 'https://cookierun.fandom.com/wiki/File:Sea_Fairy_Cookie.png',
-      license: 'Fandom CC-BY-SA',
+      src: '/images/blog/cookie-run-braverse-tcg/best-blue-cards-cookie-run-braverse/pure-vanilla-cookie.webp',
+      sourceUrl: 'https://cookierunbraverse.com/data/en_storage/VOu69gjKUn29SPzhHk_TXg.webp',
+      license: 'Card art © Devsisters Corp.; via cookierunbraverse.com official card database',
     },
     {
-      src: '/images/blog/cookie-run-braverse-tcg/best-blue-cards-cookie-run-braverse/sorbet-shark-cookie.webp',
-      sourceUrl: 'https://cookierun.fandom.com/wiki/File:Sorbet_Shark_Cookie.png',
-      license: 'Fandom CC-BY-SA',
+      src: '/images/blog/cookie-run-braverse-tcg/best-blue-cards-cookie-run-braverse/sea-fairy-cookie-official.webp',
+      sourceUrl: 'https://cookierunbraverse.com/data/en_storage/swbKxU4iHoIKNoZCMLWGgA.webp',
+      license: 'Card art © Devsisters Corp.; via cookierunbraverse.com official card database',
+    },
+    {
+      src: '/images/blog/cookie-run-braverse-tcg/best-blue-cards-cookie-run-braverse/sorbet-shark-cookie-official.webp',
+      sourceUrl: 'https://cookierunbraverse.com/data/en_storage/yAPC4xcajfGooV6IAkhClA.webp',
+      license: 'Card art © Devsisters Corp.; via cookierunbraverse.com official card database',
     },
   ],
   publishDate: '2026-05-30T00:00:00.000Z',
@@ -48,7 +53,7 @@ export const bestBlueCardsBraverse: BlogPost = {
   schemaType: 'BlogPosting',
   updateFrequency: 'quarterly',
   evergreen: false,
-  readingTimeMin: 10,
+  readingTimeMin: 11,
   toc: [
     { id: 'what-makes-a-blue-card-good', label: 'What makes a Blue card good', level: 2 },
     { id: 'how-to-read-this-list', label: 'How to read this list', level: 2 },
@@ -62,7 +67,7 @@ export const bestBlueCardsBraverse: BlogPost = {
   ],
   content: `Blue is the color you lose to and don't see coming. Where Red is a stopwatch and Yellow is a war of attrition, a Blue deck spends the early game looking like it's doing nothing - drawing, cycling, holding cards - and then dumps three turns of value into one. Played well, it's the most satisfying color in Cookie Run: Braverse. Played badly, it's a deck that durdles for ten turns and then dies with the perfect hand it never got to use.
 
-This guide is about how to evaluate Blue cards and which ones are worth building a combo deck around. A heads-up first: Braverse is a young game, and its set codes, card counts, and stats are reported inconsistently across the web, so where a specific card or number matters, we name what's well-established and treat the rest as tentative - confirm it against the official card database before you build around it. The *evaluation framework* below is the durable part; it'll still be right after the next set drops. If you're brand new, read [the five colors explained](/blog/cookie-run-braverse-tcg/cookie-run-braverse-colors-explained) and [deck archetypes](/blog/cookie-run-braverse-tcg/cookie-run-braverse-deck-archetypes) first - Blue has the highest skill floor of the five colors, and it shows.
+This is a ranked tour of the real Blue cards worth building around, pulled from the official card database, plus the framework for evaluating any Blue card that drops next set. Stats below - cost, HP, and effect text - are quoted from the official listings; the {B} symbol is a single Blue resource, {N} is any color, so a cost like "two Blue, one any" is what a card actually demands to fire. If you're brand new, read [the five colors explained](/blog/cookie-run-braverse-tcg/cookie-run-braverse-colors-explained) and [deck archetypes](/blog/cookie-run-braverse-tcg/cookie-run-braverse-deck-archetypes) first - Blue has the highest skill floor of the five colors, and it shows.
 
 ## What makes a Blue card good
 
@@ -70,8 +75,8 @@ Color identity is the lens, and Blue's identity is **card cycling, hand manipula
 
 - **Draw real cards.** Raw card advantage is the engine. The deck that sees more of itself assembles its combo first and has answers to spare.
 - **Cycle and filter.** Effects that let you dig past dead cards or swap a useless draw for a live one are what make a combo deck consistent instead of a coin flip.
-- **Turn a downside into fuel.** Blue often *wants* to discard or spend cards, because its payoffs care about what's in the trash or how many cards you've cycled. A "cost" that feeds a payoff isn't a cost.
-- **Pay off the setup.** The combo finish - the card that takes ten turns of digging and ends the game in one sequence. Without a payoff, you're just a draw engine with no kill.
+- **Turn a downside into fuel.** Blue often *wants* to discard or spend cards, and the best Blue cards reward it - several draw conditionally only when your hand is small enough, so emptying your hand isn't a cost, it's the trigger.
+- **Pay off the setup.** The combo finish - the card that takes the cards you dug for and ends the game in one sequence. Without a payoff, you're just a draw engine with no kill.
 
 > The combo test: a Blue card earns its slot if it makes your payoff turn come *sooner* or hit *harder*. Card advantage you never cash in is just a slower way to lose.
 
@@ -79,112 +84,126 @@ A card that's "fine" value in a Yellow control shell can be a trap in Blue, beca
 
 ## How to read this list
 
-We're grouping by *role*, not by raw power, because role is what survives a meta shift. The buckets are: card-draw engines, cycle/filter pieces, combo payoffs, and the Cookies a Blue deck actually wants on the board. For each, we name confirmed example Cookies where we can and keep specific card stats and any newer-set additions tentative, since those are worth confirming against the official card database. Treat the named Cookies as anchors of the archetype, not a "run exactly these" decklist - especially for Blue, whose best build shifts more with each set than any other color's.
+We're grouping by *role*, not by raw power, because role is what survives a meta shift - but within each role the picks are ranked, real cards with their actual numbers. The buckets are: card-draw engines, cycle/filter pieces, combo payoffs, and the Cookies a Blue deck actually wants on the board. Costs and effects are quoted from the official database; the named cards span several sets (Age of Heroes and Kingdoms through Land of Fire & Ruin), so a few will rotate in relevance as new sets land. Treat the ranking as a snapshot of the current pool, not a "run exactly these" decklist.
 
 ## The card draw engines
 
-![Cream Soda Cookie, a Blue Cookie that embodies the card-cycling combo identity at the heart of a Blue draw engine in Braverse.](/images/blog/cookie-run-braverse-tcg/best-blue-cards-cookie-run-braverse/cream-soda-cookie.webp)
+![Official Pure Vanilla Cookie card (BS3-088), an Ultra Rare Blue draw engine that draws up to three cards and sets one back on top.](/images/blog/cookie-run-braverse-tcg/best-blue-cards-cookie-run-braverse/pure-vanilla-cookie.webp)
 
-This is the slot that makes Blue, Blue. The entire color is built on seeing more cards than your opponent and using that information to win. **Cream Soda Cookie** is the confirmed Blue anchor here - a starter staple that embodies the color's cycling, combo-focused playstyle. Build the engine around Cookies and effects like it.
+This is the slot that makes Blue, Blue. The entire color is built on seeing more cards than your opponent and using that information to win. Ranked top to bottom:
 
-What you're looking for in this slot, set after set, is the best draw-per-resource you can find. A one-resource "draw a card" is fine; a card that draws two, or draws while doing something else, is what turns a fair deck into an engine. The discipline is that draw without a payoff is just a prettier way to deck yourself out, so every draw engine has to be paired with something to *do* with the cards. Confirm the current Blue draw effects and their exact costs against the official card database before locking in a list.
+1. **Pure Vanilla Cookie** (BS3-088, Ultra Rare, LV.3, 4 HP). Its Healing Radiance skill costs one Blue and reads: "Draw up to 3 cards from your deck. Then, place 1 card from your hand on the top of your deck." That's net +2 cards *and* a top-deck setup for one resource - the best raw draw-to-cost ratio in the color. Its attack even heals a Cookie +1 HP, so it isn't dead weight on the board.
+2. **Pure Vanilla Cookie** (BS11-070, Secret Super Rare, LV.2, 4 HP). A lower-Level reprint for decks that want the engine cheaper to deploy: discard an 【Ancient】 Cookie on play, draw up to 2. Run it when your curve can't afford the LV.3 body but you still want the dig.
+3. **Lime Cookie** (BS10-095, Super Rare, LV.1, 2 HP). A one-cost body whose On Play draws up to 1, then up to 1 *more* if your hand is six or fewer. Cheap, early, and exactly the kind of repeatable card advantage the deck wants to chain off of turn one.
+
+What you're looking for in this slot, set after set, is the best draw-per-resource you can find, and Pure Vanilla is the current benchmark. The discipline is that draw without a payoff is just a prettier way to deck yourself out, so every engine card has to be paired with something to *do* with the cards.
 
 > A Blue deck wants to be drawing or filtering nearly every turn of the early game. If you're not adding cards or quality to your hand, you're falling behind your own clock.
 
 ## The cycle and filter pieces
 
-![Sea Fairy Cookie, a deep-sea Blue character whose mystical identity fits Blue's card-filtering, dig-for-pieces role in Braverse.](/images/blog/cookie-run-braverse-tcg/best-blue-cards-cookie-run-braverse/sea-fairy-cookie.webp)
+![Official Sorbet Shark Cookie card (BS4-077), a one-HP Super Rare Blue Cookie that loops back into your deck to draw two.](/images/blog/cookie-run-braverse-tcg/best-blue-cards-cookie-run-braverse/sorbet-shark-cookie-official.webp)
 
-Drawing more cards is half of it; the other half is making sure the cards you draw are the *right* ones. Cycle and filter pieces are how a Blue deck goes from "I drew a lot of stuff" to "I drew exactly what I needed."
+Drawing more cards is half of it; the other half is making sure the cards you draw are the *right* ones, and that you can keep the engine running without flooding out. Ranked:
 
-These are the effects that let you discard a dead card to draw a fresh one, dig several cards deep to find a specific piece, or rearrange the top of your deck. They're unglamorous, and new Blue players skip them for splashier cards - which is exactly why their combo never comes together. Filtering is what turns a combo deck from a coin flip into a plan. Blue also famously *turns the discard into an upside*: an effect that makes you pitch cards isn't a drawback when your payoff counts cards in the trash. Which current Blue cards provide real filtering versus raw draw is worth confirming against the official card database, since the two roles look similar on the surface and play very differently.
+1. **Sorbet Shark Cookie** (BS4-077, Super Rare, LV.1, 1 HP). The defining Blue cycle piece. Its Shark Splash skill: "Place this Cookie on the bottom of your deck. If your hand contains 5 cards or less and there is a {B} Cookie in your battle area, draw up to 2 cards from your deck." It loops itself back into the deck and refills your hand - a one-HP body you're *happy* to recycle, which is the whole point.
+2. **Sea Fairy Cookie** (BS11-069, Secret Super Rare, LV.2, 4 HP). A reactive filter: once per turn, when your opponent attacks, if your hand is five or fewer, draw up to 2 and place 1 back on top. Free card selection on the opponent's turn, which is exactly when a combo deck wants to be quietly improving its hand.
+3. **Black Raisin Cookie** (BS9-077, Super Rare, LV.2, 3 HP). Its On Play draws 1 and puts 1 back on top, and its attack places the Cookie back on top or bottom of the deck - pure top-deck sculpting that smooths your next two turns.
+
+These are the effects that let you discard a dead card to draw a fresh one, dig several cards deep, or rearrange the top of your deck. They're unglamorous, and new Blue players skip them for splashier cards - which is exactly why their combo never comes together. Note how many of these *only* draw when your hand is small: emptying your hand isn't a drawback in Blue, it's the unlock.
 
 ## The combo payoffs
 
-This is the slot that wins the game and the one that defines whether your Blue deck is actually a deck or just a draw engine with no finisher. A payoff is the card that all the digging and cycling is *for* - the effect that converts a stacked hand or a loaded trash pile into a single game-ending sequence.
+This is the slot that wins the game and the one that defines whether your Blue deck is actually a deck or just a draw engine with no finisher. Ranked:
 
-The best payoffs scale with the work you've put in: "do something powerful for each card you've drawn/discarded/cycled this turn," a big effect that's cheap *because* you've set it up, or a sequence that chains your cheap cycle cards into lethal. The reward for piloting Blue well is the turn where everything lines up and the game flips at once. The risk is real: misfire the combo, or get your payoff answered, and you've spent ten turns building toward nothing. Which specific Blue cards function as true payoffs in the current pool is worth confirming against the official card database - this is the slot that changes most with each new set, so don't assume an old combo still works.
+1. **Sea Fairy Cookie** (BS4-073, Ultra Rare, LV.3, 5 HP). The premier Blue board-clear payoff. Her Soaring Compassion skill, for one Blue plus bouncing a small Cookie, "Deals 1 damage to all of your opponent's Cookies," and her three-cost attack deals 2 - then 2 *more* if your hand is five or more. A full hand turns her into a one-card sweeper-plus-finisher, which is the entire Blue dream in a single card.
+2. **Tide Shards** (BS4-085, Super Rare Item). The payoff for a loaded hand: "Discard 4 cards. Select up to 2 of your opponent's Cookies. Those Cookies receive 1 damage each. Then, draw up to 4 cards." A two-Blue Item that removes two threats and *refills the four cards you paid* - the cleanest "spend your hand, win the exchange" card in the color.
+3. **Soul Jam: Light of Truth** (BS3-091, Super Rare Item). The dig-and-equip finisher: view the top 3, take up to 2, then equip it to Pure Vanilla Cookie so that Cookie draws a card every time it attacks. This is the card that turns a draw engine into an inevitability machine.
+
+The best payoffs scale with the work you've put in - the recurring "if your hand is five or more / five or less" clauses mean your payoff hits *because* you set it up. The risk is real: misfire the combo, or get your payoff answered, and you've spent ten turns building toward nothing.
 
 > If you can't point to the exact card that ends the game, you don't have a combo deck - you have a pile of cantrips. Build the payoff first, then build the engine that finds it.
 
 ## The Cookies Blue actually wants
 
-![Sorbet Shark Cookie, a playful aquatic Blue character that fits the tempo-and-defense Cookie role a combo deck needs to survive to its payoff turn.](/images/blog/cookie-run-braverse-tcg/best-blue-cards-cookie-run-braverse/sorbet-shark-cookie.webp)
+![Official Sea Fairy Cookie card (BS4-073), an Ultra Rare LV.3 Blue Cookie that deals 1 damage to all opponent Cookies and rewards a full hand with extra attack damage.](/images/blog/cookie-run-braverse-tcg/best-blue-cards-cookie-run-braverse/sea-fairy-cookie-official.webp)
 
-Blue is an effect-first color, but it still has to survive long enough to combo, which means the Cookies it runs have a specific job: buy time and carry effects. Here's what to look for among the Cookies and the non-Cookie cards around them:
+Blue is an effect-first color, but it still has to survive long enough to combo, which means the Cookies it runs have a specific job: buy time, disrupt, and carry effects. Here's what to look for, with the real cards that fill each lane:
 
-| Card role | What Blue wants from it | Why it matters |
+| Card role | Real example | Why it matters |
 | --- | --- | --- |
-| **Defensive Cookies** | Bodies that block and trade, ideally with a draw or cycle skill | Keeps you alive to your payoff turn |
-| **Cookies with card skills** | Attached draw, dig, or recursion on a Cookie | Doubles your engine onto your board |
-| **Dragon Cookies** | A higher-Level payoff threat as a top end | Gives the combo a board-based finish too |
-| **Items** | Cheap cantrips and tutors that don't cost tempo | The glue that chains the combo together |
+| **Disruptive bodies** | Frost Queen Cookie (BS8-083, UR) | Freeze and tempo-denial keeps you alive to your payoff |
+| **Defensive walls** | Cream Soda Cookie (BS7-079, UR) | Soaks attacks and shrinks incoming damage |
+| **Cookies with card skills** | Sorbet Shark Cookie (BS4-077, SR) | Doubles your engine onto your board |
+| **Dragon / top-end** | Lotus Dragon Cookie (BS5-071, UR) | A higher-Level removal payoff as plan B |
 
-The confirmed Blue Dragon Cookie in the current pool is **Lotus Dragon Cookie** from the Arena of Glory starter wave - a higher-Level payoff body that gives a Blue deck a board-based plan B when the pure combo gets answered. The discipline across all of these is the same: a Cookie or Item earns its slot in Blue if it advances the combo, defends the combo, or *is* the combo. A vanilla beater that does neither is a Red card wearing blue. The exact Blue-aligned Cookies, Items, and Dragon Cookie rules in the current pool are worth confirming against the official card database and rulebook; see our deck-building basics guide for how the support ratios work.
+The single best Blue Cookie for *surviving* to your combo is **Frost Queen Cookie** (BS8-083, Ultra Rare, LV.3, 5 HP). Her Freezing Aura skill, for one Blue on play, stops one of your opponent's Cookies from being set active next turn - a clean tempo tax - and her attack deals 3 and then refills your hand back up to three cards. She's a wall, a disruptor, and a draw engine on one body, which is why she's the hero of this list.
+
+**Cream Soda Cookie** (BS7-079, Ultra Rare, LV.2, 4 HP) is the pure defensive anchor: once per turn, when an opponent's Cookie attacks, discard a card to make that Cookie deal -1 damage. In a deck that *wants* cards in the trash, that discard is barely a cost. And the confirmed Blue Dragon Cookie, **Lotus Dragon Cookie** (BS5-071, Ultra Rare, LV.3, 5 HP), is your board-based plan B: discard three or more Blue cards to deal 2 damage to a Cookie, with an attack that draws up to 2 when your hand is small. The discipline across all of these is the same: a Cookie earns its slot in Blue if it advances the combo, defends the combo, or *is* the combo.
 
 ## Cards that look good but underperform
 
 A few archetypes of card consistently fool new Blue players:
 
-- **Pure card advantage with no payoff.** "Draw two" feels great, but if your deck has no way to *win* with the extra cards, you're just postponing the loss. Card advantage is a means, not the plan.
-- **High-cost combo pieces that don't defend.** A flashy payoff that costs your whole turn and leaves you with no board is how a fast Red deck steals the game before you go off. Blue has to survive, then spike.
-- **Narrow combo cards with one use.** A piece that's only good in a specific two-card combo is a liability in your other fifteen draws. Favor flexible cards that filter *or* pay off over rigid single-purpose pieces.
+- **Pure card advantage with no payoff.** Engines like Lime Cookie or Captain Caviar Cookie (ST4-013) feel great, but if your deck has no Sea Fairy or Tide Shards to *win* with the extra cards, you're just postponing the loss. Card advantage is a means, not the plan.
+- **High-cost combo pieces that don't defend.** A flashy three-Blue payoff that costs your whole turn and leaves you with no board is how a fast Red deck steals the game before you go off. That's the case *for* Frost Queen and Cream Soda - bodies that defend while you set up.
+- **Narrow combo cards with one use.** A piece that's only good in a specific two-card combo - say, a Soul Jam that's dead unless you've drawn its exact partner - is a liability in your other fifteen draws. Favor flexible cards that filter *or* pay off over rigid single-purpose pieces.
 
-> Deckbuilding tip: when in doubt, cut the third niche combo piece for another filter card. The most common reason a Blue deck loses is that it never drew its payoff - consistency fixes that, a fourth win condition doesn't.
+> Deckbuilding tip: when in doubt, cut the third niche combo piece for another Sorbet Shark or filter card. The most common reason a Blue deck loses is that it never drew its payoff - consistency fixes that, a fourth win condition doesn't.
 
 ## How many of each to run
 
 A clean Blue combo shell, role by role, looks roughly like this. Treat it as a starting skeleton you tune, not gospel - and remember a legal deck is exactly 60 cards with up to four copies of any card number, at least one Cookie, and up to 16 FLIP cards.
 
-| Role | Rough share of the deck | Notes |
+| Role | Rough share of the deck | Anchor cards |
 | --- | --- | --- |
-| Card-draw engines | A large core block | This is your engine; Blue lives on seeing cards |
-| Cycle / filter pieces | A solid secondary block | Consistency beats raw power in a combo deck |
-| Combo payoffs | A small, deliberate set | Too many clogs your hand; too few and you fizzle |
-| Defensive Cookies | A focused package | Just enough to survive to your payoff turn |
-| FLIP cards | Up to the 16-card cap | Lean toward FLIP cards that draw or stall to buy combo time |
+| Card-draw engines | A large core block | Pure Vanilla, Lime |
+| Cycle / filter pieces | A solid secondary block | Sorbet Shark, Black Raisin |
+| Combo payoffs | A small, deliberate set | Sea Fairy (BS4-073), Tide Shards |
+| Disruptive / defensive Cookies | A focused package | Frost Queen, Cream Soda |
+| FLIP cards | Up to the 16-card cap | Blue FLIP draws like Moon Rabbit Cookie that buy combo time |
 
-The 60-card, four-copy, and 16-FLIP figures are corroborated across sources, but the exact deck-construction limits are worth confirming against the official rulebook before a sanctioned event. For the full rules on ratios and curve, see [deck-building basics](/blog/cookie-run-braverse-tcg/cookie-run-braverse-deck-building-basics), and for a cheaper way into the color, our [budget deck guide](/blog/cookie-run-braverse-tcg/budget-cookie-run-braverse-deck).
+The 60-card, four-copy, and 16-FLIP figures are the standard deck-construction limits; confirm them against the official rulebook before a sanctioned event. For the full rules on ratios and curve, see [deck-building basics](/blog/cookie-run-braverse-tcg/cookie-run-braverse-deck-building-basics), and for a cheaper way into the color, our [budget deck guide](/blog/cookie-run-braverse-tcg/budget-cookie-run-braverse-deck).
 
 ## Quick Action Checklist
 
-- **Build the payoff first.** Decide how your Blue deck actually wins, then build the engine that finds it. No payoff, no deck.
-- **Prioritize draw-per-resource.** Your engine block is the largest part of the deck - cheap, repeatable card advantage is the backbone.
-- **Run real filtering, not just raw draw.** Cycle and dig pieces are what turn your combo from a coin flip into a plan.
-- **Keep enough defense to survive.** Blue has to live to its payoff turn; a few blocking Cookies beat a fourth combo piece.
-- **Don't over-stuff payoffs.** A small, deliberate finisher set is enough - too many clogs your hand.
-- **Confirm card names and stats** against the official database before locking a list - Braverse data is inconsistent across the web, and Blue's best build shifts most with each set.
+- **Build the payoff first.** Decide how your Blue deck actually wins - Sea Fairy's board clear, Tide Shards' two-for-one - then build the engine that finds it.
+- **Lead with Pure Vanilla.** The BS3-088 draw-3-set-1 skill is the best draw-per-resource in the color and the backbone of the deck.
+- **Run real filtering, not just raw draw.** Sorbet Shark and Black Raisin turn your combo from a coin flip into a plan.
+- **Keep enough defense to survive.** Frost Queen and Cream Soda are bodies that buy the turns your combo needs; a few beat a fourth payoff.
+- **Don't over-stuff payoffs.** A small, deliberate finisher set is enough - too many clogs your hand before you've set up.
+- **Mind the "small hand" clauses.** A huge share of Blue draw only fires when your hand is five or fewer; sequence your spends to stay under the line.
 - **Respect the skill floor.** Blue rewards knowing your deck cold. Play your lines slowly until the sequencing is automatic.`,
   faq: [
     {
       question: "What are the best Blue cards in Cookie Run: Braverse?",
       answer:
-        "The best Blue cards are repeatable card-draw engines (Cream Soda Cookie is the confirmed Blue starter anchor), cycle and filter pieces that dig for your combo, a small set of combo payoffs that end the game, and just enough defensive Cookies to survive - including Lotus Dragon Cookie from the Arena of Glory wave as a higher-Level finisher. Confirm exact stats and any newer cards against the official card database, since Braverse data is reported inconsistently.",
+        "The top Blue cards are Frost Queen Cookie (BS8-083) as a freeze-and-refill anchor, Pure Vanilla Cookie (BS3-088) as the best draw engine (draw up to 3, set 1 back), Sea Fairy Cookie (BS4-073) as a board-clear payoff that deals 1 to all opposing Cookies, Sorbet Shark Cookie (BS4-077) as the defining cycle piece, and Tide Shards (BS4-085) as a discard-and-refill removal Item. Cream Soda Cookie (BS7-079) and Lotus Dragon Cookie (BS5-071) round out the defensive and top-end roles.",
     },
     {
       question: "What makes a card good for a Braverse combo deck?",
       answer:
-        "It has to either find your combo faster or hit harder when it lands. The best Blue cards draw real cards, filter or cycle to dig for pieces, turn discarding into fuel for a payoff, or function as the payoff itself. Raw card advantage with no win condition and narrow single-use combo pieces look strong but undercut Blue's plan.",
+        "It has to either find your combo faster or hit harder when it lands. The best Blue cards draw real cards (Pure Vanilla), filter or cycle to dig for pieces (Sorbet Shark), turn discarding into fuel - several Blue effects only draw when your hand is five or fewer - or function as the payoff itself (Sea Fairy, Tide Shards). Raw card advantage with no win condition and narrow single-use combo pieces look strong but undercut Blue's plan.",
     },
     {
       question: "Is Blue good for beginners in Braverse?",
       answer:
-        "Blue has the highest skill floor of the five colors. Its payoff turns require you to know your deck cold and sequence your draws and discards precisely, so most new players are better off learning the game in Red or Green first and coming back to Blue once the fundamentals are automatic.",
+        "Blue has the highest skill floor of the five colors. Its payoff turns require you to know your deck cold and sequence your draws and discards precisely - many of its draw effects only fire when your hand is small enough - so most new players are better off learning the game in Red or Green first and coming back to Blue once the fundamentals are automatic.",
     },
     {
       question: "How many combo payoffs should a Blue deck run?",
       answer:
-        "A small, deliberate set. Too many payoffs clogs your hand with cards you can't cast until you've set up, and too few means you fizzle when your one finisher gets answered. The bulk of the deck should be draw engines and filtering that reliably find the payoff, not more copies of the payoff itself.",
+        "A small, deliberate set. Too many payoffs like Sea Fairy (BS4-073) or Tide Shards clogs your hand with cards you can't cash until you've set up, and too few means you fizzle when your one finisher gets answered. The bulk of the deck should be draw engines (Pure Vanilla) and filtering (Sorbet Shark) that reliably find the payoff.",
     },
     {
       question: "Are Dragon Cookies good in Blue combo?",
       answer:
-        "Lotus Dragon Cookie is the confirmed Blue Dragon Cookie from the Arena of Glory starter wave and works as a higher-Level payoff body - a board-based plan B for when the pure combo gets answered. Dragon Cookies tend to be higher-cost, so run them as a lean top end. Verify the exact Dragon Cookie rules against the official rulebook.",
+        "Lotus Dragon Cookie (BS5-071, Ultra Rare, LV.3) is the confirmed Blue Dragon Cookie and works as a higher-Level removal payoff - discard three or more Blue cards to deal 2 damage to a Cookie, with an attack that draws up to 2 when your hand is small. It's a board-based plan B for when the pure combo gets answered, so run it as a lean top end.",
     },
     {
       question: "Why does my Blue deck keep losing before it combos off?",
       answer:
-        "Usually one of two reasons: not enough defense to survive to the payoff turn, or not enough filtering so the combo never assembles. Add a few blocking Cookies and lean toward cycle/dig pieces over extra niche combo cards. A fast Red deck will punish a Blue deck that does nothing but draw with no board.",
+        "Usually one of two reasons: not enough defense to survive to the payoff turn, or not enough filtering so the combo never assembles. Add disruptive bodies like Frost Queen Cookie (BS8-083) and the defensive Cream Soda Cookie (BS7-079), and lean toward cycle pieces like Sorbet Shark over extra niche combo cards. A fast Red deck will punish a Blue deck that does nothing but draw with no board.",
     },
   ],
   internalLinks: [
@@ -219,14 +238,17 @@ The 60-card, four-copy, and 16-FLIP figures are corroborated across sources, but
     },
   ],
   tldr:
-    "The best Blue cards in Cookie Run: Braverse are the ones that find your combo faster or end the game harder: repeatable card-draw engines (Cream Soda Cookie), cycle and filter pieces that dig for your pieces, a small set of combo payoffs, and just enough defensive Cookies to survive - plus Lotus Dragon Cookie from the Arena of Glory wave as a higher-Level finisher. Avoid pure card advantage with no payoff and narrow single-use combo pieces. Blue has the highest skill floor of the five colors, so consistency and a clear win condition beat raw value. Confirm exact card names and stats against the official card database before locking a list.",
+    "The best Blue cards in Cookie Run: Braverse are the ones that find your combo faster or end the game harder. The headliners: Frost Queen Cookie (BS8-083) freezes and refills to three, Pure Vanilla Cookie (BS3-088) is the best draw engine (draw 3, set 1 back), Sea Fairy Cookie (BS4-073) is a board-clear payoff that deals 1 to every opposing Cookie, Sorbet Shark Cookie (BS4-077) is the defining cycle piece, and Tide Shards (BS4-085) is a discard-and-refill removal Item. Lean on small-hand draw clauses, keep Cream Soda and Lotus Dragon for defense and top end, and avoid pure card advantage with no payoff. Blue has the highest skill floor of the five colors.",
   itemList: {
-    name: "Best Blue Card Roles in Cookie Run: Braverse",
+    name: "Best Blue Cards in Cookie Run: Braverse",
     items: [
-      { name: 'Card-draw engines', description: 'Repeatable, cheap card advantage (e.g. Cream Soda Cookie) that lets a Blue deck see more of itself and assemble its combo first. The backbone of the deck.' },
-      { name: 'Cycle / filter pieces', description: 'Effects that discard, dig, or rearrange to find the right cards - what turns a combo deck from a coin flip into a plan.' },
-      { name: 'Combo payoffs', description: 'The game-ending finishers that convert a stacked hand or loaded trash pile into a single explosive sequence.' },
-      { name: 'Defensive Cookies', description: 'Blocking bodies and Cookies with card skills (plus Lotus Dragon Cookie as a top-end finisher) that keep you alive to your payoff turn.' },
+      { name: 'Frost Queen Cookie (BS8-083)', description: 'Ultra Rare LV.3 disruptive anchor - freeze a Cookie on play, attack for 3 and refill your hand to three. The hero pick: wall, disruptor, and draw engine in one body.' },
+      { name: 'Pure Vanilla Cookie (BS3-088)', description: 'Ultra Rare LV.3 draw engine - one Blue to draw up to 3 and set 1 card back on top. The best draw-per-resource in the color.' },
+      { name: 'Sea Fairy Cookie (BS4-073)', description: 'Ultra Rare LV.3 board-clear payoff - deals 1 damage to all opposing Cookies, with an attack that hits harder when your hand is full.' },
+      { name: 'Sorbet Shark Cookie (BS4-077)', description: 'Super Rare LV.1 cycle piece - loops itself to the bottom of the deck to draw up to 2 when your hand is small. The defining Blue filter.' },
+      { name: 'Tide Shards (BS4-085)', description: 'Super Rare Item payoff - discard 4 to deal 1 to two Cookies, then draw 4 back. A clean two-for-one that refills what it spends.' },
+      { name: 'Cream Soda Cookie (BS7-079)', description: 'Ultra Rare LV.2 defensive wall - discard a card to make an attacking Cookie deal -1 damage, buying time for the combo.' },
+      { name: 'Lotus Dragon Cookie (BS5-071)', description: 'Ultra Rare LV.3 Blue Dragon Cookie - discard three-plus Blue cards for 2 damage, a board-based plan B finisher.' },
     ],
   },
 };

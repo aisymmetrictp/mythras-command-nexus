@@ -14,24 +14,24 @@ export const braverseFlipMechanic: BlogPost = {
   featuredImagePrompt:
     "A Cookie Run: Braverse Cookie card standing over a face-down stack of HP cards, one of them caught mid-flip and glowing as it reveals a FLIP effect, dramatic combat lighting on a dark playmat.",
   heroImage:
-    '/images/blog/cookie-run-braverse-tcg/cookie-run-braverse-flip-mechanic/gingerbrave.webp',
+    '/images/blog/cookie-run-braverse-tcg/cookie-run-braverse-flip-mechanic/licorice-cookie-flip.webp',
   heroImageAlt:
-    'GingerBrave, a Cookie whose face-down HP stack can hide FLIP cards that fire when the Cookie takes damage in Cookie Run: Braverse.',
+    'Official Licorice Cookie card (BS8-001), a FLIP-type card whose flip ability "Draw up to 1 card from your deck" fires when it is flipped face-up in a Cookie Run: Braverse HP stack.',
   imageSources: [
     {
-      src: '/images/blog/cookie-run-braverse-tcg/cookie-run-braverse-flip-mechanic/gingerbrave.webp',
-      sourceUrl: 'https://cookierun.fandom.com/wiki/File:GingerBrave.png',
-      license: 'Fandom CC-BY-SA',
+      src: '/images/blog/cookie-run-braverse-tcg/cookie-run-braverse-flip-mechanic/licorice-cookie-flip.webp',
+      sourceUrl: 'https://cookierunbraverse.com/data/en_storage/_cC48RpFCSabeQ-2GhbfJw.webp',
+      license: 'Card art © Devsisters Corp.; via cookierunbraverse.com official card database',
     },
     {
-      src: '/images/blog/cookie-run-braverse-tcg/cookie-run-braverse-flip-mechanic/pitaya-dragon-cookie.webp',
-      sourceUrl: 'https://cookierun.fandom.com/wiki/File:Pitaya_Dragon_Cookie.png',
-      license: 'Fandom CC-BY-SA',
+      src: '/images/blog/cookie-run-braverse-tcg/cookie-run-braverse-flip-mechanic/schwarzwalder-flip.webp',
+      sourceUrl: 'https://cookierunbraverse.com/data/en_storage/RMJwK8k7XyxJTVR-MNUv0A.webp',
+      license: 'Card art © Devsisters Corp.; via cookierunbraverse.com official card database',
     },
     {
-      src: '/images/blog/cookie-run-braverse-tcg/cookie-run-braverse-flip-mechanic/dark-cacao-cookie.webp',
-      sourceUrl: 'https://cookierun.fandom.com/wiki/File:Dark_Cacao_Cookie.png',
-      license: 'Fandom CC-BY-SA',
+      src: '/images/blog/cookie-run-braverse-tcg/cookie-run-braverse-flip-mechanic/moon-rabbit-cookie-flip.webp',
+      sourceUrl: 'https://cookierunbraverse.com/data/en_storage/8dBTHODW_ePawjN22FpO9g.webp',
+      license: 'Card art © Devsisters Corp.; via cookierunbraverse.com official card database',
     },
   ],
   publishDate: '2026-05-30T00:00:00.000Z',
@@ -65,13 +65,17 @@ This is a deep dive on FLIP: what it is, exactly when and how it triggers, why i
 
 ## What FLIP actually is
 
-Start with the thing most newcomers get wrong: FLIP is not a card type. Braverse has four card types - Cookie, Item, Trap, and Stage - and FLIP is a *property* that certain cards carry on top of being one of those types. A card can be a Cookie and a FLIP card, or an Item and a FLIP card. The FLIP property is a triggered effect that fires when the card gets flipped face-up from a specific place: a Cookie's HP stack.
+Here's the thing that trips people up, and it's worth getting precise: in Braverse, "FLIP" wears two hats. It's both a **card type** *and* an **ability** - and understanding that split is the whole key to the mechanic.
 
-So a FLIP card has two lives. Sitting in your hand or on the board, it behaves like its base type. But tucked face-down beneath a Cookie as one of that Cookie's hit points, it's a hidden landmine - and when damage flips it face-up, its FLIP effect goes off. That dual nature is the whole trick, and it's why "what card type is this?" is only half the question in Braverse. The other half is "is it also a FLIP card, and where is it right now?"
+On one hand, FLIP is a dedicated card type, sitting right alongside Cookie, Item, Trap, Stage, and the others - the official card database lists over 240 cards whose type literally *is* FLIP. These are cards built specifically to live in an HP stack: a card like **Licorice Cookie** (a FLIP-type card) carries the FLIP ability "Draw up to 1 card from your deck," and **Schwarzwälder** (also a FLIP type) carries "Discard 1 card. The Cookie with this card attached for HP gains +1 HP." They have an attack line too, but their reason to exist is the effect that fires from the HP stack.
+
+On the other hand, FLIP is also an ability that some *regular Cookies* carry on top of being a Cookie. The clearest example is **Sorbet Shark Cookie** (a Cookie, not a FLIP-type card) which still carries the flip ability "Draw up to 1 card from your deck." So a Cookie can do its normal Cookie things on the board *and* fire a flip effect if it ends up buried face-down in someone's HP stack. That's why "what card type is this?" is only half the question in Braverse. The other half is "does it carry a FLIP ability, and where is it right now?"
+
+The unifying idea, whether it's a FLIP-type card or a Cookie with a flip ability: the flip effect is a triggered effect that fires when the card gets flipped face-up from one specific place - a Cookie's HP stack. Sitting in your hand or attacking on the board, the card behaves normally. Tucked face-down beneath a Cookie as one of its hit points, it's a hidden landmine, and when damage flips it face-up, the effect goes off. That dual nature - type and ability - is the whole trick.
 
 ## How an HP stack works
 
-![GingerBrave standing over the kind of face-down HP stack that hides FLIP cards in Cookie Run: Braverse.](/images/blog/cookie-run-braverse-tcg/cookie-run-braverse-flip-mechanic/gingerbrave.webp)
+![Official Licorice Cookie card (BS8-001), a FLIP-type card that draws a card when flipped face-up in an HP stack in Cookie Run: Braverse.](/images/blog/cookie-run-braverse-tcg/cookie-run-braverse-flip-mechanic/licorice-cookie-flip.webp)
 
 To get FLIP, you have to get HP, because the two are the same system. In Braverse, a Cookie's hit points aren't a number on the card - they're a physical stack of cards placed face-down beneath the Cookie from your deck. That stack *is* the Cookie's health.
 
@@ -101,12 +105,12 @@ The most important nuance - and the one most worth confirming - is the precise *
 
 ## Why FLIP changes the whole game
 
-![Pitaya Dragon Cookie, a higher-Level Dragon Cookie whose larger HP stack hides more potential FLIP triggers in Braverse.](/images/blog/cookie-run-braverse-tcg/cookie-run-braverse-flip-mechanic/pitaya-dragon-cookie.webp)
+![Official Schwarzwälder card (BS8-015), a FLIP-type card whose flip ability discards a card to give the Cookie it is buffing +1 HP in Cookie Run: Braverse.](/images/blog/cookie-run-braverse-tcg/cookie-run-braverse-flip-mechanic/schwarzwalder-flip.webp)
 
 Plenty of TCGs have "morph" or face-down cards. What makes FLIP special is that it welds the surprise mechanic directly onto the HP system, so it touches *every* attack in the game. A few things fall out of that:
 
 - **Defense fights back.** You can't swing freely. Attacking into a Cookie risks triggering a FLIP that punishes you - a counter-attack, a removal effect, a card-draw for the defender. Combat stops being a clean math problem.
-- **HP carries hidden information.** A higher-Level Cookie has a bigger HP stack, which means more face-down cards and more potential FLIP triggers waiting inside it. Pitaya Dragon Cookie's beefy stack isn't just more health - it's more unknowns.
+- **HP carries hidden information.** A higher-Level Cookie has a bigger HP stack, which means more face-down cards and more potential FLIP triggers waiting inside it. A high-Level Dragon Cookie's beefy stack isn't just more health - it's more unknowns.
 - **It rewards deckbuilding.** You get to decide how dangerous your Cookies are to attack, by loading your deck with FLIP cards up to a cap of 16. A deck near that cap turns every HP stack into a minefield; a deck with few FLIP cards has predictable, safe-to-attack Cookies.
 - **Bluffing becomes real.** Because nobody knows which HP cards are FLIP cards, your opponent has to play around effects that might not be there - which slows their attacks down even when your stack is harmless.
 
@@ -114,7 +118,7 @@ The net effect is that Braverse combat has a built-in risk layer no amount of bo
 
 ## Building with FLIP cards
 
-FLIP isn't just something that happens to you - it's a deckbuilding axis you control. The rule to anchor on: a deck can run **up to 16 FLIP cards**, and that cap is a layer on top of your normal card-type mix, not a separate slice of the deck. A Cookie or Item can also be a FLIP card, so those 16 slots overlap with cards you were running anyway.
+FLIP isn't just something that happens to you - it's a deckbuilding axis you control. The rule to anchor on: a deck can run **up to 16 cards with a FLIP ability**. That count includes both dedicated FLIP-type cards (like Licorice Cookie or Schwarzwälder) and the regular Cookies that happen to carry a flip ability (like Sorbet Shark Cookie), so the cap is about how many of your cards can fire from an HP stack - not a separate deck slot you have to find room for.
 
 How to think about it by archetype:
 
@@ -131,7 +135,7 @@ The discipline is the same everywhere: a FLIP card earns its slot if the effect 
 
 ## Common FLIP misplays
 
-![Dark Cacao Cookie, a high-Level Purple Cookie whose deep HP stack makes attacking into it a genuine FLIP gamble in Braverse.](/images/blog/cookie-run-braverse-tcg/cookie-run-braverse-flip-mechanic/dark-cacao-cookie.webp)
+![Official Moon Rabbit Cookie card (BS8-080), a Blue FLIP-type card whose flip ability draws a card - the kind of hidden upside a defender's HP stack can hold in Cookie Run: Braverse.](/images/blog/cookie-run-braverse-tcg/cookie-run-braverse-flip-mechanic/moon-rabbit-cookie-flip.webp)
 
 These are the mistakes that cost new players games, in rough order of how often they happen:
 
@@ -149,18 +153,18 @@ If you take one thing to a judge, make it this: the precise timing and ordering 
 
 ## Quick Action Checklist
 
-- **Remember FLIP is a property, not a card type.** A Cookie or Item can also be a FLIP card; it fires when flipped face-up from an HP stack.
+- **Remember FLIP is both a card type and an ability.** There are dedicated FLIP-type cards (Licorice, Schwarzwälder) and regular Cookies that also carry a flip ability (Sorbet Shark); either fires when flipped face-up from an HP stack.
 - **Treat damage as revealing cards, not subtracting a number.** Every hit flips an HP card, and some of those are FLIP cards.
 - **Know whose FLIP fires.** The defender's - the player whose Cookie took the hit. Attacking can set off your opponent's trigger.
 - **Respect deep HP stacks.** High-Level Cookies hide more potential FLIP triggers. Don't autopilot attacks into them.
 - **Build FLIP cards you'd love to see fire defensively.** A scary on-flip effect is worth more than a convenient one.
-- **Mind the 16-FLIP cap as a layer, not a slice.** It overlaps with your normal card types; favor quality triggers over hitting the number.
+- **Mind the 16-FLIP cap.** It counts every card with a flip ability - dedicated FLIP-type cards and flip-carrying Cookies alike; favor quality triggers over hitting the number.
 - **Confirm FLIP timing before a tournament.** The trigger-on-flip is established; the exact ordering is the game's biggest rules ambiguity - check the official rulebook.`,
   faq: [
     {
       question: "What is the FLIP mechanic in Cookie Run: Braverse?",
       answer:
-        "FLIP is a triggered property that certain cards carry on top of being a Cookie, Item, Trap, or Stage - it is not a separate card type. A FLIP card's effect fires when the card is flipped face-up from a Cookie's HP stack, which happens as that Cookie takes damage. Because HP cards sit face-down, attacking a Cookie can set off a hidden FLIP effect for the defender.",
+        "FLIP is both a card type and an ability. There are dedicated FLIP-type cards (like Licorice Cookie and Schwarzwälder) built to live in an HP stack, and there are regular Cookies (like Sorbet Shark Cookie) that also carry a flip ability. Either way, the flip effect fires when the card is flipped face-up from a Cookie's HP stack as that Cookie takes damage, so attacking a Cookie can set off a hidden effect for the defender.",
     },
     {
       question: "When does a FLIP card trigger in Braverse?",
@@ -180,7 +184,7 @@ If you take one thing to a judge, make it this: the precise timing and ordering 
     {
       question: "How many FLIP cards can a Braverse deck run?",
       answer:
-        "Up to 16. The cap is a layer on top of your normal card-type mix rather than a separate slice of the deck, because a Cookie or Item can also be a FLIP card, so those slots overlap. A deck near the cap turns its Cookies' HP stacks into a minefield that makes attacking risky for the opponent.",
+        "Up to 16 cards with a flip ability. That count includes both dedicated FLIP-type cards (like Licorice Cookie) and regular Cookies that carry a flip ability (like Sorbet Shark Cookie), so the cap is really a limit on how many of your cards can fire from an HP stack. A deck near the cap turns its Cookies' HP stacks into a minefield that makes attacking risky for the opponent.",
     },
     {
       question: "What are the most common FLIP misplays?",
@@ -216,5 +220,5 @@ If you take one thing to a judge, make it this: the precise timing and ordering 
     },
   ],
   tldr:
-    "FLIP is Cookie Run: Braverse's signature mechanic and a property certain cards carry - not a fifth card type. A Cookie's HP is a face-down stack of cards beneath it; as the Cookie takes damage, those cards flip face-up one at a time, and any that are FLIP cards trigger their effect the moment they flip. The trigger belongs to the defender, so attacking a Cookie can set off a hidden punishing effect. Decks can run up to 16 FLIP cards, making their Cookies dangerous to attack. The trigger-on-flip is well established; the exact timing relative to combat is the game's biggest rules ambiguity, so confirm it against the official rulebook before a sanctioned event.",
+    "FLIP is Cookie Run: Braverse's signature mechanic, and it's both a card type and an ability. There are dedicated FLIP-type cards (like Licorice Cookie and Schwarzwälder) built to live in an HP stack, plus regular Cookies (like Sorbet Shark Cookie) that also carry a flip ability. A Cookie's HP is a face-down stack of cards beneath it; as the Cookie takes damage, those cards flip face-up one at a time, and any with a flip ability trigger their effect the moment they flip. The trigger belongs to the defender, so attacking a Cookie can set off a hidden punishing effect. Decks can run up to 16 cards with a flip ability, making their Cookies dangerous to attack. The trigger-on-flip is well established; the exact timing relative to combat is the game's biggest rules ambiguity, so confirm it against the official rulebook before a sanctioned event.",
 };

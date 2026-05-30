@@ -13,9 +13,14 @@ export const bestAncientCookiesCrkRanked: BlogPost = {
     "Ancients are the rarest pulls in Cookie Run: Kingdom, and people lump half the Beast cookies in with them by mistake. Here are the seven actual Ancients ranked by real value in May 2026, and a straight answer on whether F2P players should chase them.",
   featuredImagePrompt:
     'Cookie Run Kingdom Ancient cookie lineup, Shadow-tinged epic key art of Pure Vanilla, Hollyberry, Dark Cacao, Golden Cheese, and White Lily standing on a cracked golden dais beneath a stained-glass sky, regal gold and jewel-tone palette, painterly cel-shaded splash art',
-  heroImage: '/images/blog/cookie-run-kingdom/best-ancient-cookies-crk-ranked/shadow-milk-cookie.webp',
-  heroImageAlt: 'Shadow Milk Cookie, a Beast-rarity cookie frequently mistaken for an Ancient in Cookie Run: Kingdom.',
+  heroImage: '/images/blog/cookie-run-kingdom/best-ancient-cookies-crk-ranked/dark-enchantress-cookie.webp',
+  heroImageAlt: 'Dark Enchantress Cookie, the S+ Ancient and highest-ceiling DPS in Cookie Run: Kingdom.',
   imageSources: [
+    {
+      src: '/images/blog/cookie-run-kingdom/best-ancient-cookies-crk-ranked/dark-enchantress-cookie.webp',
+      sourceUrl: 'https://cookierunkingdom.fandom.com/wiki/Dark_Enchantress_Cookie',
+      license: 'Fandom CC-BY-SA',
+    },
     {
       src: '/images/blog/cookie-run-kingdom/best-ancient-cookies-crk-ranked/shadow-milk-cookie.webp',
       sourceUrl: 'https://cookierunkingdom.fandom.com/wiki/Shadow_Milk_Cookie',
@@ -27,8 +32,8 @@ export const bestAncientCookiesCrkRanked: BlogPost = {
       license: 'Fandom CC-BY-SA',
     },
     {
-      src: '/images/blog/cookie-run-kingdom/best-ancient-cookies-crk-ranked/mystic-flour-cookie.webp',
-      sourceUrl: 'https://cookierunkingdom.fandom.com/wiki/Mystic_Flour_Cookie',
+      src: '/images/blog/cookie-run-kingdom/best-ancient-cookies-crk-ranked/dark-cacao-cookie.webp',
+      sourceUrl: 'https://cookierunkingdom.fandom.com/wiki/Dark_Cacao_Cookie',
       license: 'Fandom CC-BY-SA',
     },
   ],
@@ -133,7 +138,7 @@ Why she's S: the damage-reduction aura is a team-wide effect, not a personal one
 
 ## Dark Cacao Cookie — A tier
 
-![Mystic Flour Cookie, a Beast healer often compared against the Ancients but pulled from a separate banner.](/images/blog/cookie-run-kingdom/best-ancient-cookies-crk-ranked/mystic-flour-cookie.webp)
+![Dark Cacao Cookie, the A-tier Charge Ancient and durable bruiser frontliner in Cookie Run: Kingdom.](/images/blog/cookie-run-kingdom/best-ancient-cookies-crk-ranked/dark-cacao-cookie.webp)
 
 A strong Charge frontliner who's a victim of where the meta went. Dark Cacao is a durable bruiser with real damage and crowd control, and Awakened he's genuinely good — the problem is that the current meta rewards fast magic burst and shield-stacking, and a physical-leaning frontliner is fighting an uphill battle against both.
 
