@@ -13,15 +13,15 @@ export const budgetBraverseDeck: BlogPost = {
     "You do not need a wallet full of EXR pulls to play real Braverse. Here's how to build a budget deck that holds its own, what to spend on, and what to ignore until later.",
   featuredImagePrompt:
     "An affordable Cookie Run: Braverse deck spread on a table next to a single Starter Deck box and a small stack of commons, warm friendly lighting, a coin jar in the background to signal budget.",
-  heroImage: '/images/cookies/strawberry-crepe-cookie.png',
-  heroImageAlt: 'Strawberry Crepe Cookie, the cheap aggressive Cookie at the heart of the most budget-friendly Braverse deck.',
+  heroImage: '/images/cookies/gingerbrave.png',
+  heroImageAlt: 'GingerBrave, the cheap aggressive Red Cookie at the heart of the most budget-friendly Braverse deck.',
   imageSources: [
-    { src: '/images/cookies/strawberry-crepe-cookie.png', sourceUrl: 'owned-asset' },
     { src: '/images/cookies/gingerbrave.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/raspberry-cookie.png', sourceUrl: 'owned-asset' },
     { src: '/images/cookies/golden-cheese-cookie.png', sourceUrl: 'owned-asset' },
   ],
   publishDate: '2026-05-29T00:00:00.000Z',
-  lastUpdated: '2026-05-29T00:00:00.000Z',
+  lastUpdated: '2026-05-30T00:00:00.000Z',
   primaryKeyword: 'braverse budget deck',
   secondaryKeywords: [
     'cheap cookie run braverse deck',
@@ -62,7 +62,7 @@ A few things about this game tilt in the budget player's favor:
 
 ## Start with a Starter Deck
 
-![GingerBrave, a cheap early Cookie of the kind a Starter Deck gives you in bulk to anchor a budget build.](/images/cookies/gingerbrave.png)
+![Raspberry Cookie, a cheap low-rarity Red Cookie of the kind a Starter Deck and commons give you in bulk to anchor a budget build.](/images/cookies/raspberry-cookie.png)
 
 The single most cost-effective purchase in Braverse is a Starter Deck. It hands you a legal 60-card shell built around one color, with a sensible curve already assembled. Your budget "deck-building" is really *deck-improving* from that base.
 
@@ -72,7 +72,7 @@ A second tip: if a friend is starting too, buy two *different*-color Starters be
 
 ## The cheapest archetype to build
 
-![Strawberry Crepe Cookie, a low-cost Red attacker - Red aggro is the most budget-friendly archetype to assemble.](/images/cookies/strawberry-crepe-cookie.png)
+![GingerBrave, a low-cost Red attacker - Red aggro is the most budget-friendly archetype to assemble.](/images/cookies/gingerbrave.png)
 
 If your goal is "most game for the least money," build **Red aggro**. It's the most budget-friendly archetype in nearly every TCG, and Braverse is no exception, for structural reasons:
 

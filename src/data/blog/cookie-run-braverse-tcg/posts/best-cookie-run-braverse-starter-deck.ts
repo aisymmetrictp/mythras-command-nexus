@@ -5,7 +5,7 @@ export const bestBraverseStarterDeck: BlogPost = {
   game: 'cookie-run-braverse-tcg',
   category: 'tier-lists',
   topicCluster: 'starter-decks',
-  tags: ['Arena of Glory', 'Red', 'Yellow', 'Green', 'Blue', 'Purple'],
+  tags: ['Starter Decks', 'Red', 'Yellow', 'Green', 'Blue', 'Purple'],
   title: "Best Cookie Run: Braverse Starter Deck for Beginners (Ranked)",
   metaDescription:
     "Which Cookie Run: Braverse Starter Deck should you buy first? We rank all five colors by how beginner-friendly they are, with playstyles, example Cookies, and a buying plan.",
@@ -13,16 +13,16 @@ export const bestBraverseStarterDeck: BlogPost = {
     "All five Cookie Run: Braverse Starter Decks are legal and ready to play - but they're not equally easy to learn. Here's how we'd rank them for a brand-new player, and which one to grab first.",
   featuredImagePrompt:
     "Five Cookie Run: Braverse Starter Deck boxes lined up on a retail shelf in their color order - red, yellow, green, blue, purple - with the red box pulled slightly forward and spotlit as the top pick, clean bright product photography.",
-  heroImage: '/images/cookies/strawberry-crepe-cookie.png',
-  heroImageAlt: 'Strawberry Crepe Cookie, an example Red Cookie from the top-ranked beginner Starter Deck in Braverse.',
+  heroImage: '/images/cookies/pitaya-dragon-cookie.png',
+  heroImageAlt: 'Pitaya Dragon Cookie, a Red Cookie from the Flames of Immortality Starter Deck, representing the top-ranked beginner color in Braverse.',
   imageSources: [
-    { src: '/images/cookies/strawberry-crepe-cookie.png', sourceUrl: 'owned-asset' },
     { src: '/images/cookies/pitaya-dragon-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/strawberry-crepe-cookie.png', sourceUrl: 'owned-asset' },
     { src: '/images/cookies/cream-soda-cookie.png', sourceUrl: 'owned-asset' },
-    { src: '/images/cookies/dark-cacao-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/moonlight-cookie.png', sourceUrl: 'owned-asset' },
   ],
   publishDate: '2026-05-28T00:00:00.000Z',
-  lastUpdated: '2026-05-28T00:00:00.000Z',
+  lastUpdated: '2026-05-30T00:00:00.000Z',
   primaryKeyword: 'best cookie run braverse starter deck',
   secondaryKeywords: [
     'cookie run braverse starter deck ranked',
@@ -30,7 +30,7 @@ export const bestBraverseStarterDeck: BlogPost = {
     'cookie run braverse starter deck for beginners',
     'braverse red starter deck',
     'best braverse starter deck 2026',
-    'cookie run braverse arena of glory starter',
+    'cookie run braverse named starter decks',
   ],
   schemaType: 'BlogPosting',
   updateFrequency: 'quarterly',
@@ -45,7 +45,7 @@ export const bestBraverseStarterDeck: BlogPost = {
     { id: 'yellow-starter-deck', label: 'Yellow Starter Deck', level: 2 },
     { id: 'purple-starter-deck', label: 'Purple Starter Deck', level: 2 },
     { id: 'blue-starter-deck', label: 'Blue Starter Deck', level: 2 },
-    { id: 'should-you-buy-the-arena-of-glory-starters', label: 'Should you buy the Arena of Glory starters?', level: 2 },
+    { id: 'original-decks-or-the-newer-named-starters', label: 'Original decks or the newer named starters?', level: 2 },
     { id: 'what-to-buy-after-your-first-deck', label: 'What to buy after your first deck', level: 2 },
   ],
   content: `Every Cookie Run: Braverse Starter Deck is a complete, legal, 60-card deck you can play out of the box. That's the genuinely great news: there's no wrong purchase, and you don't need to chase singles to have fun. But "all legal" doesn't mean "all equally easy to learn," and if you're buying your *first* deck, you want the one that teaches you the game cleanly and rewards you fastest.
@@ -54,9 +54,9 @@ This ranking is about **beginner-friendliness**, not a competitive power tier li
 
 ## What you get in a Braverse Starter Deck
 
-Each Starter Deck contains a ready-to-play **60-card deck** built around a single color, with a mix of Cookie, Item, Trap, and Stage cards (and FLIP cards baked in). You can sit down and play a full game with one Starter and a friend's. Exact contents and prices vary by wave and shift over time, so check a current retailer before you buy.
+Each Starter Deck contains a ready-to-play **60-card deck** built around a single color, with a mix of Cookie, Item, Trap, and Stage cards (and FLIP cards baked in). You can sit down and play a full game with one Starter and a friend's. Exact contents and prices vary by deck and shift over time, so check a current retailer before you buy.
 
-There have been multiple starter waves since the North American launch on July 11, 2025 - the original five color decks, and a later **Arena of Glory** wave (January 16, 2026) with named featured Cookies. We'll cover that wave below; the color-by-color advice applies either way, since each deck is built around its color's identity.
+There are two generations of Starter Deck now. The **original five** launched alongside the game on October 30, 2024 - one per color (Red, Yellow, Green, Blue, Purple). In early 2026, five **newer named decks** arrived, again one per color: **Flames of Immortality** (red), **Tree of Life** (yellow), **Guardian Winds** (green), **Seas of Fate** (blue), and **Glorious Moonlight** (purple). We'll touch on those below; the color-by-color advice applies to either generation, since each deck is built around its color's identity.
 
 ## How we ranked these
 
@@ -82,21 +82,21 @@ Reminder: rank 5 is not "bad." Blue is excellent - it's just the hardest to pilo
 
 ## Red Starter Deck (best for most beginners)
 
-![Strawberry Crepe Cookie, an aggressive Red Cookie you encounter in Braverse Red Starter products.](/images/cookies/strawberry-crepe-cookie.png)
+![Pitaya Dragon Cookie, an aggressive Red Cookie featured in the Flames of Immortality Red Starter Deck in Braverse.](/images/cookies/pitaya-dragon-cookie.png)
 
 Red is our top pick for a first deck, and it's not close. The game plan is the clearest in the game: play cheap Cookies, attack, push the opponent's Break Area toward a Level total of 10. Because Braverse resources ramp one Support card per turn, the deck that's already attacking early has a real edge - and that's Red.
 
-Red teaches you the core loop (develop, attack, trade) without asking you to memorize a combo or do heavy resource math. You'll make fewer "wait, what was I supposed to do?" mistakes, and you'll see the game's rhythm fastest. Example Cookies you'll encounter in Red products include **Strawberry Crepe Cookie**, plus **Jalapeño Cookie** and **Pitaya Dragon Cookie** in the Arena of Glory wave.
+Red teaches you the core loop (develop, attack, trade) without asking you to memorize a combo or do heavy resource math. You'll make fewer "wait, what was I supposed to do?" mistakes, and you'll see the game's rhythm fastest. Example Cookies you'll encounter in Red products include **Dino-Sour Cookie** and **Espresso Cookie** in the original Red Starter Deck, plus **Pitaya Dragon Cookie**, **Capsaicin Cookie**, and **Habanero Cookie** in the newer Flames of Immortality deck.
 
 **Buy Red if** you want the shortest path from "opened the box" to "actually understand this game."
 
 ## Green Starter Deck
 
-![Pitaya Dragon Cookie, a Dragon Cookie representing the engine-building Green Starter Deck in Braverse.](/images/cookies/pitaya-dragon-cookie.png)
+![Strawberry Crepe Cookie, a Cookie from the Green Starter Deck representing the engine-building Green color in Braverse.](/images/cookies/strawberry-crepe-cookie.png)
 
 Green is our second pick. It's the ramp color: build resources, develop a strong board, and snowball into a midgame where you're simply doing more than your opponent. It's forgiving because falling a little behind early is part of the plan, and it rewards the good habit of sequencing your turns well.
 
-Example Cookies in Green products include **Pudding à la Mode Cookie** and **Longan Dragon Cookie** (Arena of Glory wave). Green is a great pick if you like the feeling of building an engine, and it transitions nicely into more advanced ramp strategies later.
+Example Cookies in Green products include **Strawberry Crepe Cookie** and **Muscle Cookie** in the original Green Starter Deck, plus **Wind Archer Cookie** and **Greenbell Cookie** in the newer Guardian Winds deck. Green is a great pick if you like the feeling of building an engine, and it transitions nicely into more advanced ramp strategies later.
 
 ## Yellow Starter Deck
 
@@ -106,23 +106,23 @@ The catch for a brand-new player is that grindy games are less immediately satis
 
 ## Purple Starter Deck
 
-![Dark Cacao Cookie, the featured Purple Starter Deck Cookie running a trash-based Awakening strategy in Braverse.](/images/cookies/dark-cacao-cookie.png)
+![Moonlight Cookie, the featured Purple Cookie of the Glorious Moonlight Starter Deck in Braverse.](/images/cookies/moonlight-cookie.png)
 
-Purple is the disruption color - resource denial, recursion, and "trash-based" strategies that turn discarded cards into fuel. The Arena of Glory wave features a **Dark Cacao Cookie** trash-based Awakening deck as the Purple option. The Awakening name is well-established, but its exact rules are worth confirming against the official rulebook before a sanctioned event.
+Purple is the disruption color - resource denial, recursion, and "trash-based" strategies that turn discarded cards into fuel. The newer Purple option, the **Glorious Moonlight** deck, is built around **Moonlight Cookie** alongside Cookies like Dreamweaver, Stardust, and Prophet. The original Purple Starter Deck leans on Cookies like Madeleine, String Gummy, and Pilot.
 
 Purple is genuinely fun and very satisfying once it clicks, but it ranks lower for beginners because disruption decks require you to know *what's worth disrupting* - which means you need a feel for the format first. It's a fantastic second or third deck.
 
 ## Blue Starter Deck
 
-![Cream Soda Cookie, an example Cookie from the combo-focused Blue Starter Deck in Braverse.](/images/cookies/cream-soda-cookie.png)
+![Cream Soda Cookie, a Blue Cookie illustrating the combo-focused Blue color in Braverse.](/images/cookies/cream-soda-cookie.png)
 
-Blue is the combo color: draw, cycle, and chain together explosive turns. In skilled hands it's spectacular. For a first deck, though, it has the highest skill floor on this list - its payoff turns require you to know your deck cold and sequence precisely, and a misfired combo can leave you with nothing. Example Cookies in Blue products include **Cream Soda Cookie** and **Lotus Dragon Cookie**.
+Blue is the combo color: draw, cycle, and chain together explosive turns. In skilled hands it's spectacular. For a first deck, though, it has the highest skill floor on this list - its payoff turns require you to know your deck cold and sequence precisely, and a misfired combo can leave you with nothing. Example Cookies in Blue products include **Captain Caviar Cookie** and **Squid Ink Cookie** in the original Blue Starter Deck, plus **Sea Fairy Cookie** and **Aquamarine Cookie** in the newer Seas of Fate deck.
 
 **Buy Blue** when you already understand the game and want a deck that rewards mastery. As a literal first purchase, it's the steepest climb.
 
-## Should you buy the Arena of Glory starters?
+## Original decks or the newer named starters?
 
-The Arena of Glory wave (released January 16, 2026) refreshed the starter lineup with named featured Cookies for each color. If you're buying today, a current-wave starter is a perfectly good entry point and may be easier to find on shelves than older stock. The color advice above still applies - a Red starter is a Red starter.
+In early 2026, each color got a newer named Starter Deck - Flames of Immortality (red), Tree of Life (yellow), Guardian Winds (green), Seas of Fate (blue), and Glorious Moonlight (purple) - alongside the original five from launch. If you're buying today, either generation is a perfectly good entry point, and a newer named deck may be easier to find on shelves than older stock. The color advice above still applies - a Red starter is a Red starter.
 
 A few buying notes:
 
@@ -156,9 +156,9 @@ Then turn to [deck-building basics](/blog/cookie-run-braverse-tcg/cookie-run-bra
         "Two - one for each player. If you're learning with a friend, buy two different colors so your practice games show you how different matchups feel rather than playing a mirror match.",
     },
     {
-      question: "Should I buy the Arena of Glory starter decks?",
+      question: "Should I buy the newer named starter decks?",
       answer:
-        "Yes, they're a fine entry point. The Arena of Glory wave (January 16, 2026) refreshed each color's starter with named featured Cookies. Buy the color whose playstyle appeals to you; for learning, that matters more than which wave it's from.",
+        "Yes, they're a fine entry point. In early 2026 each color got a newer named deck - Flames of Immortality (red), Tree of Life (yellow), Guardian Winds (green), Seas of Fate (blue), and Glorious Moonlight (purple). Buy the color whose playstyle appeals to you; for learning, that matters more than which generation it's from.",
     },
     {
       question: "What's the hardest Braverse starter color to play?",
@@ -198,7 +198,7 @@ Then turn to [deck-building basics](/blog/cookie-run-braverse-tcg/cookie-run-bra
     },
   ],
   tldr:
-    "All five Cookie Run: Braverse Starter Decks are legal, ready-to-play 60-card decks, so there's no wrong purchase. For a first deck, Red is the best pick because its plan - play cheap Cookies and attack - is the clearest and most forgiving. Green ranks second, Yellow third (a great teacher but demands patience), Purple fourth, and Blue fifth (the highest skill floor, best saved for later). The Arena of Glory wave (Jan 16, 2026) refreshed each color's starter with named Cookies and is a fine entry point.",
+    "Every Cookie Run: Braverse Starter Deck is a legal, ready-to-play 60-card deck, so there's no wrong purchase. For a first deck, Red is the best pick because its plan - play cheap Cookies and attack - is the clearest and most forgiving. Green ranks second, Yellow third (a great teacher but demands patience), Purple fourth, and Blue fifth (the highest skill floor, best saved for later). Each color has both an original launch deck and a newer named 2026 deck (Flames of Immortality, Tree of Life, Guardian Winds, Seas of Fate, Glorious Moonlight) - either is a fine entry point.",
   itemList: {
     name: "Cookie Run: Braverse Starter Decks Ranked for Beginners",
     items: [

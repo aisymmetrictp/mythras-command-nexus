@@ -5,16 +5,16 @@ export const braverseSetsReleaseTimeline: BlogPost = {
   game: 'cookie-run-braverse-tcg',
   category: 'set-releases',
   topicCluster: 'set-coverage',
-  tags: ['Brave Beginning', 'Operation Timeguard', 'Age of Heroes and Kingdoms', 'Arena of Glory', 'A Game of Truth and Deceit'],
+  tags: ['Brave Beginning', 'Operation Timeguard', 'Age of Heroes and Kingdoms', 'Arena of Glory', 'The Dark Enchantress War'],
   title: "Every Cookie Run: Braverse Set in Order: Release Timeline & Buying Guide",
   metaDescription:
-    "A clear, up-to-date timeline of every Cookie Run: Braverse set in English release order - Brave Beginning through A Game of Truth and Deceit - with themes, what each added, and what to buy.",
+    "A clear, up-to-date timeline of every Cookie Run: Braverse booster set in release order - Brave Beginning through The Dark Enchantress War - with themes, what each added, and what to buy.",
   excerpt:
-    "Sorting out the Braverse release order is harder than it should be - set codes and card counts conflict everywhere. Here's a clean English-release timeline of every set, what each one added, and which to buy.",
+    "Sorting out the Braverse release order is harder than it should be - the set codes don't run in order. Here's a clean release-date timeline of every booster set, what each one added, and which to buy.",
   featuredImagePrompt:
     "A horizontal timeline graphic of Cookie Run: Braverse booster box art arranged left to right by release date, connected by a glowing golden line with date markers, set against a dark cinematic background.",
   heroImage: '/images/cookies/shadow-milk-cookie.png',
-  heroImageAlt: 'Shadow Milk Cookie, the headline Cookie of the latest Braverse set, A Game of Truth and Deceit.',
+  heroImageAlt: 'Shadow Milk Cookie, the headline Cookie of the Braverse set A Game of Truth and Deceit.',
   imageSources: [
     { src: '/images/cookies/shadow-milk-cookie.png', sourceUrl: 'owned-asset' },
     { src: '/images/cookies/pitaya-dragon-cookie.png', sourceUrl: 'owned-asset' },
@@ -22,7 +22,7 @@ export const braverseSetsReleaseTimeline: BlogPost = {
     { src: '/images/cookies/frost-queen-cookie.png', sourceUrl: 'owned-asset' },
   ],
   publishDate: '2026-05-28T00:00:00.000Z',
-  lastUpdated: '2026-05-28T00:00:00.000Z',
+  lastUpdated: '2026-05-30T00:00:00.000Z',
   primaryKeyword: 'cookie run braverse sets',
   secondaryKeywords: [
     'cookie run braverse sets in order',
@@ -39,121 +39,117 @@ export const braverseSetsReleaseTimeline: BlogPost = {
   toc: [
     { id: 'every-braverse-set-in-release-order', label: 'Every Braverse set in release order', level: 2 },
     { id: 'brave-beginning-the-launch-set', label: 'Brave Beginning (the launch set)', level: 2 },
-    { id: 'operation-timeguard', label: 'Operation Timeguard', level: 2 },
     { id: 'age-of-heroes-and-kingdoms', label: 'Age of Heroes and Kingdoms', level: 2 },
+    { id: 'operation-timeguard', label: 'Operation Timeguard', level: 2 },
     { id: 'arena-of-glory', label: 'Arena of Glory', level: 2 },
+    { id: 'land-of-fire-ruin-realm-of-apathy', label: 'Land of Fire & Ruin, Realm of Apathy', level: 2 },
     { id: 'a-game-of-truth-and-deceit', label: 'A Game of Truth and Deceit', level: 2 },
-    { id: 'whats-coming-next-in-2026', label: 'Coming next in 2026', level: 2 },
-    { id: 'a-note-on-set-codes-and-card-counts', label: 'A note on set codes and card counts', level: 2 },
+    { id: 'paradise-of-passion-sloth-catacombs-of-silence', label: 'Paradise of Passion & Sloth / Catacombs of Silence', level: 2 },
+    { id: 'the-dark-enchantress-war-the-newest-set', label: 'The Dark Enchantress War (the newest set)', level: 2 },
+    { id: 'a-note-on-set-codes', label: 'A note on set codes', level: 2 },
     { id: 'which-set-should-you-buy', label: 'Which set should you buy?', level: 2 },
   ],
-  content: `If you've tried to figure out the Cookie Run: Braverse release order, you've probably hit the same wall we did: set codes, card counts, and even pack configurations are reported inconsistently across retailers, wikis, and regional listings. Part of that is because the game launched in Korea back in 2023 and the English releases don't line up neatly with the original numbering.
+  content: `If you've tried to figure out the Cookie Run: Braverse release order, you've probably hit the same wall we did: set codes and card counts get reported inconsistently across retailers, wikis, and regional listings. Part of that is because the booster product names don't map cleanly onto the underlying set-code numbering, so it's easy to wind up with the sets in the wrong order.
 
-So here's what this guide does: it gives you the **English release order and dates** (the part we can state with confidence), describes what each set added to the game, and is explicit about which details - specifically set codes and exact card counts - you should verify before relying on them. We'll keep this page updated as new sets land.
+So here's what this guide does: it lays out **every booster set in release order, with dates**, describes what each one added to the game, and is explicit about which details - specifically the set codes - don't behave the way you'd expect. We'll keep this page updated as new sets land.
 
 ## Every Braverse set in release order
 
-This is the English-language booster release order as best we can confirm it. Dates are the parts we're confident about; the "what it added" column captures each set's identity.
+Here's the full booster release order, oldest to newest, current through May 2026.
 
-| # | Set | English release | What it added |
+| # | Set | Release date | What it added |
 | --- | --- | --- | --- |
-| 1 | **Brave Beginning** | July 2025 (NA launch) | The foundational set: the five colors and core card pool. |
-| 2 | **Operation Timeguard** | 2025 | Introduced **Dragon Cookie** cards. |
-| 3 | **Age of Heroes and Kingdoms** | October 2025 | Expanded the pool around heroes-and-kingdoms themes. |
-| 4 | **Arena of Glory** | January 16, 2026 | Competitive-focused set; paired with a new starter-deck wave. |
-| 5 | **A Game of Truth and Deceit** | March 27, 2026 | Added **Shadow Milk Cookie** variants and per-color Cookie "skins." |
+| 1 | **Brave Beginning** | October 30, 2024 | The foundational set: the five colors and core card pool. Launched alongside the original five Starter Decks. |
+| 2 | **Age of Heroes and Kingdoms** | March 13, 2025 | Expanded the pool around heroes-and-kingdoms themes. |
+| 3 | **Operation Timeguard** | June 8, 2025 | Leaned into **Dragon Cookie** cards. |
+| 4 | **Arena of Glory** | September 4, 2025 | Competitive-flavored set built around the **Arena** keyword. |
+| 5 | **Land of Fire & Ruin, Realm of Apathy** | October 28, 2025 | The "Beast" set: marquee Cookies like Burning Spice, Mystic Flour, Golden Cheese, and Frost Queen. |
+| 6 | **A Game of Truth and Deceit** | January 29, 2026 | Added **Shadow Milk Cookie** and a wave of new color-spanning Cookies. |
+| 7 | **Paradise of Passion & Sloth / Catacombs of Silence** | March 20, 2026 | A twin-themed expansion across the color pool. |
+| 8 | **The Dark Enchantress War** | May 27, 2026 | The newest set, headlined by the Dark Enchantress storyline. |
 
-Because the North American schedule doesn't match the original Korean set numbering, each set's exact English release date and precise ordering are worth confirming against the official site before you rely on them.
+One quirk to know up front: the set codes you'll see online (BS1, BS3, BS5...) don't run as a tidy 1, 2, 3 sequence, because the card-number prefixes and the booster product names don't line up one-to-one. The release order above is what actually matters - see the note further down for why the codes look the way they do.
 
 ## Brave Beginning (the launch set)
 
-**Brave Beginning** is where the English game starts. It released alongside the North American launch on July 11, 2025, and it's the set that establishes the fundamentals: the five colors, the core Cookies, and the building blocks every later set expands on.
+**Brave Beginning** is where the game starts. It released on **October 30, 2024**, and it's the set that establishes the fundamentals: the five colors, the core Cookies, and the building blocks every later set expands on. It launched alongside the original five color Starter Decks (Red, Yellow, Green, Blue, Purple).
 
-If you're starting out, this is the most "evergreen" set to understand because so much of the game's vocabulary lives here. It's the natural companion to the original five color Starter Decks.
-
-## Operation Timeguard
-
-![Pitaya Dragon Cookie, a Dragon Cookie of the kind introduced to Braverse in the Operation Timeguard set.](/images/cookies/pitaya-dragon-cookie.png)
-
-**Operation Timeguard** is best known for introducing **Dragon Cookie** cards to the game - a new flavor of Cookie that showed up in starter products too (you'll see Dragon Cookies like Pitaya Dragon, Longan Dragon, and Lotus Dragon in the Arena of Glory starter wave). The cards are well-established, but the Dragon Cookie mechanic's exact rules are worth confirming against the official rulebook before a sanctioned event.
-
-A heads-up on this one: Operation Timeguard's set code and card-count listings are some of the most inconsistent we found, likely because of differences between the Korean and English releases. Treat any specific number you see for it with extra suspicion, and confirm Operation Timeguard's English release details and card count against the official site before quoting them.
+If you're starting out, this is the most "evergreen" set to understand because so much of the game's vocabulary lives here.
 
 ## Age of Heroes and Kingdoms
 
-**Age of Heroes and Kingdoms** released in English in **October 2025**, expanding the card pool with a heroes-and-kingdoms theme. It's a meaningful chunk of new cards for deck-builders across all five colors. As with every set, exact card counts vary by source, so confirm the count and contents on the official database before quoting them.
+**Age of Heroes and Kingdoms** released on **March 13, 2025**, expanding the card pool with a heroes-and-kingdoms theme. It's a meaningful chunk of new cards for deck-builders across all five colors, including the first big wave of Ancient Cookies like Golden Cheese and White Lily.
+
+## Operation Timeguard
+
+![Pitaya Dragon Cookie, a Dragon Cookie that anchors Braverse's Operation Timeguard set.](/images/cookies/pitaya-dragon-cookie.png)
+
+**Operation Timeguard** released on **June 8, 2025**, and it's the set that leaned hardest into **Dragon Cookie** cards - you'll find Pitaya Dragon, Longan Dragon, Lotus Dragon, and Ananas Dragon Cookies in its lineup. The Dragon Cookies are well-established, but their exact rules interactions are worth confirming against the official rulebook before a sanctioned event.
 
 ## Arena of Glory
 
-![Dark Cacao Cookie, the Purple featured Cookie of the Arena of Glory starter-deck wave in Braverse.](/images/cookies/dark-cacao-cookie.png)
+**Arena of Glory** landed on **September 4, 2025**, and it's a competitively flavored set built around the **Arena** keyword - a mechanic that rewards cycling Cookies through your support area and battle area. It's where you'll find the Arena versions of Cookies like Chili Pepper, Capsaicin, Kouign-Amann, and Dark Choco.
 
-**Arena of Glory** landed on **January 16, 2026**, and it's a competitively flavored set - fittingly, it came paired with a fresh wave of **Starter Decks** featuring named Cookies for each color:
+## Land of Fire & Ruin, Realm of Apathy
 
-- **Red:** Jalapeño Cookie + Pitaya Dragon Cookie
-- **Yellow:** Kouign-Amann Cookie + Croissant Cookie
-- **Green:** Pudding à la Mode Cookie + Longan Dragon Cookie
-- **Blue:** Cream Soda Cookie + Lotus Dragon Cookie
-- **Purple:** Dark Cacao Cookie (a trash-based Awakening deck)
+![Frost Queen Cookie, one of the marquee Cookies featured in the Land of Fire & Ruin, Realm of Apathy Braverse set.](/images/cookies/frost-queen-cookie.png)
 
-If you're buying a starter today, this is likely the wave you'll find on shelves. See our [best starter deck ranking](/blog/cookie-run-braverse-tcg/best-cookie-run-braverse-starter-deck) for which color to pick.
+**Land of Fire & Ruin, Realm of Apathy** released on **October 28, 2025**, and it's one of the flashiest sets for collectors. It's home to a stacked lineup of marquee Cookies - **Burning Spice, Mystic Flour, Golden Cheese, and Frost Queen** among them - plus the **Beast** keyword and a set of EXTRA Cookies. For collectors, sets like this are where the flashiest Secret-rarity chase cards live - see our [rarities and collecting guide](/blog/cookie-run-braverse-tcg/cookie-run-braverse-rarities-collecting-guide).
 
 ## A Game of Truth and Deceit
 
-![Frost Queen Cookie, one of the marquee featured Cookies in the A Game of Truth and Deceit Braverse set.](/images/cookies/frost-queen-cookie.png)
+**A Game of Truth and Deceit** released on **January 29, 2026**. It's the set headlined by **Shadow Milk Cookie**, alongside a wave of new Cookies spanning the color pool. The theme and featured Cookies are well-established, but the full card list is worth confirming against the official database before you rely on it.
 
-The most recent set at the time of writing, **A Game of Truth and Deceit**, released on **March 27, 2026**. It's a flashy one thematically: it introduces **Shadow Milk Cookie** variants and per-color Cookie "skins" with new mechanics, and features a lineup of marquee Cookies including **Burning Spice, Mystic Flour, Golden Cheese, Dark Cacao, and Frost Queen**. The theme and featured Cookies are well-established, but the rules of the new "skin" mechanics and the full card list are worth confirming against the official site before you rely on them.
+## Paradise of Passion & Sloth / Catacombs of Silence
 
-For collectors, the marquee Cookies in a set like this are usually where the flashiest Secret-rarity chase cards live - see our [rarities and collecting guide](/blog/cookie-run-braverse-tcg/cookie-run-braverse-rarities-collecting-guide).
+**Paradise of Passion & Sloth / Catacombs of Silence** released on **March 20, 2026** - a twin-themed expansion (the slash in the name reflects its dual concept) that added cards across all five colors. It's recent enough that sealed product is still easy to find.
 
-## What's coming next in 2026
+## The Dark Enchantress War (the newest set)
 
-Devsisters has signaled more Braverse product for 2026: reporting points to **two additional booster sets** later in the year (one mid-year, one toward the end), with the later set expected to arrive alongside another starter-deck release. There have also been teasers around **Legendary Pets** debuting in new starter decks.
+![Dark Cacao Cookie, who returns among the lineup of Braverse's newest set, The Dark Enchantress War.](/images/cookies/dark-cacao-cookie.png)
 
-Treat all of this as a roadmap, not a shipped fact - announced products slip, change names, and shift dates, so confirm whether any of these 2026 products have actually released, and their final names and dates, before relying on them. We'll fold them into the timeline above as they land.
+**The Dark Enchantress War** is the newest booster set, released on **May 27, 2026**, built around the Dark Enchantress storyline. As the freshest set, it's where the latest Secret-rarity chase Cookies are, and sealed product is most available right after release.
 
-## A note on set codes and card counts
+## A note on set codes
 
-Two things you'll see online that we deliberately did **not** put in the table above:
+Here's the thing about the set codes you'll see online (BS1, BS3, BS5, and so on): they do **not** run as a clean 1, 2, 3 sequence that matches release order. The card-number prefixes (you'll even spot BS2, BS4, and BS6 numbers in the database) are waves and sub-sets that don't map one-to-one onto the booster product names. So if you try to order the sets by their code numbers, you'll get it wrong.
 
-- **Set codes (like BS1-BS10).** These exist, but the English release order does **not** track the codes in ascending order - the codes come from the original Korean numbering, and the English market released sets in a different sequence. Mapping a code to an English set without confirming it is a recipe for being wrong, so check the canonical English set-code mapping on the official site first.
-- **Exact card counts.** Listings disagree, sometimes wildly, on how many "regular" and "hidden" cards each set contains - probably due to region and printing differences. We won't print a count we can't stand behind, so check per-set card counts on the official card database before quoting them.
-
-If you need these specifics, the official card database at play.cookieruntcg.com/cards is the source of truth. This is exactly the kind of detail we'll keep refreshed here so you don't have to chase conflicting numbers.
+The release-date order in the table above is the reliable way to think about it. If you want to dig into specific card numbers or counts, the official card database at play.cookieruntcg.com/cards is the source of truth, and it's exactly the kind of detail we'll keep refreshed here so you don't have to chase conflicting numbers.
 
 ## Which set should you buy?
 
 A practical buying order for different goals:
 
-- **Brand new and want to play?** Start with a current **Starter Deck** (the Arena of Glory wave), not loose boosters. You get a full deck immediately.
+- **Brand new and want to play?** Start with a **Starter Deck**, not loose boosters. You get a full deck immediately. There are ten to choose from now: the original five color decks, plus five newer named decks (Flames of Immortality, Tree of Life, Guardian Winds, Seas of Fate, and Glorious Moonlight).
 - **Ready to upgrade your deck?** Buy singles or packs from the **most recent set** your color is supported in - newer sets are easiest to find sealed and keep your collection current.
-- **Collecting the chase cards?** The newest set (currently **A Game of Truth and Deceit**) is where the freshest Secret-rarity Cookies are, and sealed product is most available right after release.
+- **Collecting the chase cards?** The newest set (currently **The Dark Enchantress War**) is where the freshest Secret-rarity Cookies are, and sealed product is most available right after release.
 
 Whatever you buy, pair it with our [deck-building basics](/blog/cookie-run-braverse-tcg/cookie-run-braverse-deck-building-basics) so your new cards actually make your deck better, and check [how to play](/blog/cookie-run-braverse-tcg/how-to-play-cookie-run-braverse) if you're still learning the ropes.`,
   faq: [
     {
       question: "What are the Cookie Run: Braverse sets in order?",
       answer:
-        "In English release order: Brave Beginning (July 2025), Operation Timeguard (2025), Age of Heroes and Kingdoms (October 2025), Arena of Glory (January 16, 2026), and A Game of Truth and Deceit (March 27, 2026). Note that the English release order does not match the original Korean set codes.",
+        "In release order: Brave Beginning (October 2024), Age of Heroes and Kingdoms (March 2025), Operation Timeguard (June 2025), Arena of Glory (September 2025), Land of Fire & Ruin, Realm of Apathy (October 2025), A Game of Truth and Deceit (January 2026), Paradise of Passion & Sloth / Catacombs of Silence (March 2026), and The Dark Enchantress War (May 2026). Note that the set codes don't run in release order.",
     },
     {
       question: "What is the newest Cookie Run: Braverse set?",
       answer:
-        "As of this writing, the most recent set is A Game of Truth and Deceit, released March 27, 2026. It introduces Shadow Milk Cookie variants and per-color Cookie 'skins,' and features Cookies like Burning Spice, Mystic Flour, Golden Cheese, Dark Cacao, and Frost Queen.",
+        "As of this writing, the newest booster set is The Dark Enchantress War, released May 27, 2026, built around the Dark Enchantress storyline. Before it came Paradise of Passion & Sloth / Catacombs of Silence (March 2026) and A Game of Truth and Deceit (January 2026, headlined by Shadow Milk Cookie).",
     },
     {
       question: "Why don't Braverse set codes match the release order?",
       answer:
-        "The set codes (like BS1-BS10) come from the original Korean numbering, but the English market released its sets in a different sequence. That's why a higher code can correspond to an earlier English release. Always confirm a code-to-set mapping on the official site before relying on it.",
+        "The set codes (BS1, BS3, BS5, and so on) are tied to card-number prefixes that don't map one-to-one onto the booster product names - you'll even find BS2, BS4, and BS6 numbers used for waves and sub-sets. Because of that, the codes don't run in release order, so go by release date instead.",
     },
     {
       question: "How many cards are in each Braverse set?",
       answer:
-        "Exact counts are reported inconsistently across sources and likely vary by region and printing, so we don't publish unverified numbers. Check the official card database at play.cookieruntcg.com/cards for the authoritative count of any specific set.",
+        "Card counts vary set to set, and the official card database at play.cookieruntcg.com/cards is the authoritative place to check the count and full checklist for any specific set.",
     },
     {
-      question: "What Braverse sets are coming in 2026?",
+      question: "What Braverse Starter Decks are available?",
       answer:
-        "Reporting points to two more booster sets later in 2026, with the later one expected alongside another starter-deck release, plus teasers about Legendary Pets debuting in new starters. Treat these as an unconfirmed roadmap until they officially release.",
+        "There are ten Starter Decks: the original five color decks (Red, Yellow, Green, Blue, Purple) from launch, plus five newer named decks released in early 2026 - Flames of Immortality (red), Tree of Life (yellow), Guardian Winds (green), Seas of Fate (blue), and Glorious Moonlight (purple).",
     },
   ],
   internalLinks: [
@@ -184,15 +180,18 @@ Whatever you buy, pair it with our [deck-building basics](/blog/cookie-run-brave
     },
   ],
   tldr:
-    "In English release order, the Cookie Run: Braverse sets are Brave Beginning (July 2025), Operation Timeguard (2025, introduced Dragon Cookies), Age of Heroes and Kingdoms (October 2025), Arena of Glory (January 16, 2026, with a new starter wave), and A Game of Truth and Deceit (March 27, 2026, adding Shadow Milk variants). Set codes (BS1-BS10) do not match the English order because they follow the original Korean numbering, and per-set card counts are reported inconsistently - verify both on the official card database.",
+    "In release order, the Cookie Run: Braverse booster sets are Brave Beginning (Oct 2024, the launch set), Age of Heroes and Kingdoms (March 2025), Operation Timeguard (June 2025, the Dragon Cookie set), Arena of Glory (Sept 2025, the Arena keyword), Land of Fire & Ruin, Realm of Apathy (Oct 2025, with marquee Cookies like Burning Spice and Frost Queen), A Game of Truth and Deceit (Jan 2026, headlined by Shadow Milk Cookie), Paradise of Passion & Sloth / Catacombs of Silence (March 2026), and the newest, The Dark Enchantress War (May 2026). The set codes (BS1, BS3, BS5...) don't run in release order, so go by release date instead.",
   itemList: {
-    name: "Cookie Run: Braverse Sets in English Release Order",
+    name: "Cookie Run: Braverse Booster Sets in Release Order",
     items: [
-      { name: 'Brave Beginning', description: 'July 2025 launch set; establishes the five colors and core card pool.' },
-      { name: 'Operation Timeguard', description: '2025; introduced Dragon Cookie cards.' },
-      { name: 'Age of Heroes and Kingdoms', description: 'October 2025; expanded the pool with a heroes-and-kingdoms theme.' },
-      { name: 'Arena of Glory', description: 'January 16, 2026; competitive set paired with a new starter-deck wave.' },
-      { name: 'A Game of Truth and Deceit', description: 'March 27, 2026; added Shadow Milk Cookie variants and per-color Cookie skins.' },
+      { name: 'Brave Beginning', description: 'October 30, 2024 launch set; establishes the five colors and core card pool.' },
+      { name: 'Age of Heroes and Kingdoms', description: 'March 13, 2025; expanded the pool with a heroes-and-kingdoms theme.' },
+      { name: 'Operation Timeguard', description: 'June 8, 2025; the Dragon Cookie set.' },
+      { name: 'Arena of Glory', description: 'September 4, 2025; competitive set built around the Arena keyword.' },
+      { name: 'Land of Fire & Ruin, Realm of Apathy', description: 'October 28, 2025; the Beast set, with marquee Cookies like Burning Spice, Mystic Flour, Golden Cheese, and Frost Queen.' },
+      { name: 'A Game of Truth and Deceit', description: 'January 29, 2026; headlined by Shadow Milk Cookie.' },
+      { name: 'Paradise of Passion & Sloth / Catacombs of Silence', description: 'March 20, 2026; a twin-themed expansion across the color pool.' },
+      { name: 'The Dark Enchantress War', description: 'May 27, 2026; the newest set, built around the Dark Enchantress storyline.' },
     ],
   },
 };

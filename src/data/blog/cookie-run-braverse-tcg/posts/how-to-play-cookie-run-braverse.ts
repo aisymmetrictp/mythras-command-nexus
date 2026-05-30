@@ -19,7 +19,7 @@ export const howToPlayBraverse: BlogPost = {
     { src: '/images/cookies/strawberry-crepe-cookie.png', sourceUrl: 'owned-asset' },
   ],
   publishDate: '2026-05-28T00:00:00.000Z',
-  lastUpdated: '2026-05-28T00:00:00.000Z',
+  lastUpdated: '2026-05-30T00:00:00.000Z',
   primaryKeyword: 'how to play cookie run braverse',
   secondaryKeywords: [
     'cookie run braverse rules',
@@ -36,7 +36,7 @@ export const howToPlayBraverse: BlogPost = {
   toc: [
     { id: 'what-cookie-run-braverse-is', label: 'What Cookie Run: Braverse is', level: 2 },
     { id: 'what-you-need-to-start', label: 'What you need to start', level: 2 },
-    { id: 'the-four-card-types', label: 'The four card types', level: 2 },
+    { id: 'the-seven-card-types', label: 'The seven card types', level: 2 },
     { id: 'the-play-areas-explained', label: 'The play areas explained', level: 2 },
     { id: 'how-to-set-up-a-game', label: 'How to set up a game', level: 2 },
     { id: 'how-a-turn-works', label: 'How a turn works', level: 2 },
@@ -52,7 +52,7 @@ This guide walks a brand-new player through everything you need to sit down and 
 
 ## What Cookie Run: Braverse is
 
-Cookie Run: Braverse is a two-player paper trading card game from Devsisters, built on the Cookie Run video-game IP. It launched in South Korea in September 2023 and reached North America on July 11, 2025, so the English-language card pool and community are still young and easy to catch up on.
+Cookie Run: Braverse is a two-player paper trading card game from Devsisters, built on the Cookie Run video-game IP. Its first set, Brave Beginning, launched on October 30, 2024, so the English-language card pool and community are still young and easy to catch up on.
 
 The fantasy is simple: you field a team of Cookies who throw down in the Battle Area. You play fighters, swing for damage, spring traps, and stack effects until your opponent runs out of Cookies to deploy or piles up too many fallen ones. The whole thing leans on a clean five-color identity system and one standout twist (FLIP) that gives every match a few "did NOT see that coming" moments.
 
@@ -81,22 +81,25 @@ That's the entire deck-building law. We turn it into actual list decisions in ou
 
 > **Beginner tip:** Don't touch deck-building until you've played 3 to 5 games with a Starter Deck as-is. The pre-built lists are tuned to teach the game, and you'll make far smarter swaps once you understand why each card is there.
 
-## The four card types
+## The seven card types
 
-Almost every card in Braverse is one of four types. Learn these four and you've learned most of the game.
+The official card database lists **seven** card types, not four. Five make up the everyday core you'll see most games - Cookie, FLIP, Item, Trap, and Stage - plus two you'll meet far less often: EXTRA and NPC. Learn the core five and you've learned most of the game.
 
 | Card type | What it does | Where it lives |
 | --- | --- | --- |
 | **Cookie** | Your fighters. Each has a **Level** (1, 2, or 3), **HP**, and attacks/skills with costs. These are the cards that battle. | Battle Area |
+| **FLIP** | Cards built to live inside a Cookie's HP stack and fire a surprise effect when damage flips them face-up. | In a Cookie's HP stack, revealed by damage |
 | **Item** | Boosts, healing, and utility effects you activate by resting Support cards. | Resolved, then to Trash (unless the card says otherwise) |
 | **Trap** | Reactive cards you set ahead of time that trigger when your opponent attacks. | Set in the Support Area, revealed when triggered |
 | **Stage** | Field effects that change the rules of the board while in play. | Stage zone (one active Stage at a time) |
+| **EXTRA** | High-impact Cookies gated behind a board-state condition you have to meet to play them. | Battle Area, once the condition is met |
+| **NPC** | A rare special type with only a handful of cards in the whole database. | Battle Area |
 
-On top of those four, **FLIP cards** are a special subtype: cards that live inside a Cookie's HP stack and fire a surprise effect when damage flips them face-up. More on that below, because FLIP is the mechanic that makes Braverse feel different from Pokemon or Lorcana.
+One important wrinkle: **FLIP is both a card type *and* an ability.** There's a big slice of dedicated FLIP-type cards, but some ordinary Cookies also carry a flip ability - so a card can be a Cookie on the board and still fire a flip effect from an HP stack. More on that below, because FLIP is the mechanic that makes Braverse feel different from Pokemon or Lorcana. For the full breakdown of all seven types, see [card types explained](/blog/cookie-run-braverse-tcg/cookie-run-braverse-card-types-explained).
 
-Cookies are the heart of the game. They go to the **Battle Area**, take and deal damage, and they're the things your opponent has to remove to set up a win. Items, Traps, and Stages are the spice: they protect your Cookies, punish your opponent's plays, and tilt the board.
+Cookies are the heart of the game. They go to the **Battle Area**, take and deal damage, and they're the things your opponent has to remove to set up a win. FLIP, Items, Traps, and Stages are the spice: they protect your Cookies, punish your opponent's plays, and tilt the board.
 
-![Strawberry Crepe Cookie, a Red starter staple and example of an aggressive Battle Area fighter in Cookie Run: Braverse.](/images/cookies/strawberry-crepe-cookie.png)
+![Strawberry Crepe Cookie, an example of an aggressive Battle Area fighter in Cookie Run: Braverse.](/images/cookies/strawberry-crepe-cookie.png)
 
 Color matters too. Braverse uses five colors, each with a clear identity:
 
@@ -262,6 +265,10 @@ When you're ready to start tweaking cards, our [rarities guide](/blog/cookie-run
   internalLinks: [
     { href: '/blog/cookie-run-braverse-tcg', anchor: 'Braverse hub' },
     {
+      href: '/blog/cookie-run-braverse-tcg/cookie-run-braverse-card-types-explained',
+      anchor: 'card types explained',
+    },
+    {
       href: '/blog/cookie-run-braverse-tcg/cookie-run-braverse-colors-explained',
       anchor: 'the 5 colors explained',
     },
@@ -287,7 +294,7 @@ When you're ready to start tweaking cards, our [rarities guide](/blog/cookie-run
     },
   ],
   tldr:
-    "Cookie Run: Braverse is a two-player TCG you can learn in one match. Each player runs a 60-card deck, places Cookie fighters in the Battle Area with their HP represented as a stack of cards underneath, and pays for cards by resting cards in the Support Area (there's no mana). There are four card types plus FLIP cards, five colors, and two ways to win - the main one being to fill the opponent's Break Area to a combined Cookie Level of 10. The signature FLIP mechanic triggers surprise effects when damage flips a hidden card in a Cookie's HP stack. Starter Decks are legal and playable straight out of the box.",
+    "Cookie Run: Braverse is a two-player TCG you can learn in one match. Each player runs a 60-card deck, places Cookie fighters in the Battle Area with their HP represented as a stack of cards underneath, and pays for cards by resting cards in the Support Area (there's no mana). The official database lists seven card types (Cookie, FLIP, Item, Trap, Stage, EXTRA, NPC), five colors, and two ways to win - the main one being to fill the opponent's Break Area to a combined Cookie Level of 10. The signature FLIP mechanic - both a card type and an ability some Cookies carry - triggers surprise effects when damage flips a hidden card in a Cookie's HP stack. Starter Decks are legal and playable straight out of the box.",
   itemList: {
     name: "Cookie Run: Braverse Rules at a Glance",
     items: [
@@ -297,7 +304,7 @@ When you're ready to start tweaking cards, our [rarities guide](/blog/cookie-run
       },
       {
         name: 'Card types',
-        description: 'Four types - Cookie fighters, Items, Traps, and Stages - plus FLIP cards as a special subtype, across five colors.',
+        description: 'Seven types in the official database - Cookie, FLIP, Item, Trap, Stage, EXTRA, and NPC - across five colors. FLIP is both a card type and an ability some Cookies carry.',
       },
       {
         name: 'Setup',

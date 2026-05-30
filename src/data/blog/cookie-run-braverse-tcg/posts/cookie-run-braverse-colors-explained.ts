@@ -23,7 +23,7 @@ export const braverseColorsExplained: BlogPost = {
     { src: '/images/cookies/dark-cacao-cookie.png', sourceUrl: 'owned-asset' },
   ],
   publishDate: '2026-05-28T00:00:00.000Z',
-  lastUpdated: '2026-05-28T00:00:00.000Z',
+  lastUpdated: '2026-05-30T00:00:00.000Z',
   primaryKeyword: 'cookie run braverse colors',
   secondaryKeywords: [
     'cookie run braverse color guide',
@@ -82,7 +82,7 @@ Red is the beginner's best friend and the impatient player's dream. It's the **a
 
 Red wants to get Cookies into the Battle Area early and start chipping the opponent's Break Area total before they've stabilized. Because Braverse resources ramp slowly, being the deck that's already attacking on turn two or three is a real edge. Red decks tend to feature low-cost, high-attack Cookies and effects that push extra damage or remove blockers.
 
-Example Cookies in the current pool include **Strawberry Crepe Cookie** (a Red starter staple) and, from the Arena of Glory wave of starter decks, **Jalapeño Cookie** and **Pitaya Dragon Cookie**.
+Example Cookies in the current pool include **GingerBrave**, the classic one-cost Red aggressor, alongside heavier Red hitters like **Jalapeño Cookie** and **Pitaya Dragon Cookie**.
 
 **Play Red if** you like dictating the pace, you'd rather make your opponent react than react to them, and you don't mind the occasional game where you run out of gas. Red's weakness is the long game: if a control deck survives your opening, you can fizzle.
 
@@ -102,13 +102,13 @@ Yellow's edge is math. The deck is built to make favorable trades, control the t
 
 Green is the engine-builder. Its whole identity is **growing and managing resources** - getting ahead on your Support Area and Cookies so that, by midgame, you're simply doing more than your opponent every turn.
 
-Green decks tend to play a strong foundation early and then snowball: once a Green player is ramped, their Cookies and effects start to overwhelm. Example Cookies in the current pool include **Pudding à la Mode Cookie** and **Longan Dragon Cookie** from the Arena of Glory starter wave.
+Green decks tend to play a strong foundation early and then snowball: once a Green player is ramped, their Cookies and effects start to overwhelm. Example Cookies in the current pool include **Pudding à la Mode Cookie** and **Longan Dragon Cookie**.
 
 **Play Green if** you like the satisfaction of building a machine and then watching it run. Green rewards good sequencing and punishes opponents who can't close before your engine comes online. Its weakness is the same as any ramp strategy: a fast aggro deck can punish the turns you spend building instead of defending.
 
 ## Blue: draw and combo
 
-![Cream Soda Cookie, a Blue starter Cookie that embodies the color's card-cycling, combo-focused playstyle in Braverse.](/images/cookies/cream-soda-cookie.png)
+![Cream Soda Cookie, a Blue Cookie that embodies the color's card-cycling, combo-focused playstyle in Braverse.](/images/cookies/cream-soda-cookie.png)
 
 Blue is the brain color. It's about **card cycling, hand manipulation, and explosive combo turns** - drawing deep, setting up, and then unleashing a sequence that does far more than the resources should allow.
 
@@ -122,7 +122,7 @@ Blue often turns a downside into an upside: effects that discard or cycle cards 
 
 Purple is the spoiler. It values **Cookie skills over raw stats** and wins by **denying resources and recurring threats** - making your opponent's plan fall apart while yours keeps coming back. Purple is the home of "trash-based" strategies that turn used and discarded cards into fuel.
 
-The headline example is **Dark Cacao Cookie**, featured in the Arena of Glory starter wave as a trash-based Awakening deck. The Awakening name is well-established, but its exact rules are worth confirming against the official rulebook before a sanctioned event.
+The headline example is **Dark Cacao Cookie**, a trash-based Awakening payoff. The Awakening name is well-established, but its exact rules are worth confirming against the official rulebook before a sanctioned event.
 
 **Play Purple if** you enjoy frustrating your opponent, you like grindy attrition games, and you find recursion (getting your good cards back) more satisfying than raw aggression. Purple's weakness is speed and consistency: disruption is great, but you still need a clock to actually win.
 

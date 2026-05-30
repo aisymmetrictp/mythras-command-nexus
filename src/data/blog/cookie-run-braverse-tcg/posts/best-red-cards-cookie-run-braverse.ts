@@ -13,15 +13,15 @@ export const bestRedCardsBraverse: BlogPost = {
     "Red is the aggression color, and a Red deck lives or dies on whether its cards close before the opponent stabilizes. Here's how to evaluate Red cards and which ones are worth building around.",
   featuredImagePrompt:
     "A blazing-red Cookie Run: Braverse Cookie card mid-attack, flame trails behind it, with two more red cards fanned beside it against a dark studio backdrop lit with warm orange light.",
-  heroImage: '/images/cookies/strawberry-crepe-cookie.png',
-  heroImageAlt: 'Strawberry Crepe Cookie, a fast low-cost attacker that anchors Red aggro decks in Cookie Run: Braverse.',
+  heroImage: '/images/cookies/gingerbrave.png',
+  heroImageAlt: 'GingerBrave, the cheap one-cost Red Cookie that anchors Red aggro decks in Cookie Run: Braverse.',
   imageSources: [
-    { src: '/images/cookies/strawberry-crepe-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/gingerbrave.png', sourceUrl: 'owned-asset' },
     { src: '/images/cookies/pitaya-dragon-cookie.png', sourceUrl: 'owned-asset' },
     { src: '/images/cookies/capsaicin-cookie.png', sourceUrl: 'owned-asset' },
   ],
   publishDate: '2026-05-29T00:00:00.000Z',
-  lastUpdated: '2026-05-29T00:00:00.000Z',
+  lastUpdated: '2026-05-30T00:00:00.000Z',
   primaryKeyword: 'best braverse red cards',
   secondaryKeywords: [
     'best red cards cookie run braverse',
@@ -69,11 +69,11 @@ We're grouping by *role*, not by raw power, because role is what survives a meta
 
 ## The cheap early attackers
 
-![Strawberry Crepe Cookie, a low-cost aggressive Red Cookie that exemplifies the cheap early attacker role in Braverse.](/images/cookies/strawberry-crepe-cookie.png)
+![GingerBrave, a one-cost aggressive Red Cookie that exemplifies the cheap early attacker role in Braverse.](/images/cookies/gingerbrave.png)
 
 These are the cards that make Red, Red. The whole point of the color is to have a threat on the table before your opponent is ready, and that starts with low-cost Cookies that hit above their weight.
 
-**Strawberry Crepe Cookie** is the confirmed anchor here - a Red staple built for early board pressure. From the Arena of Glory starter wave (reportedly launched in early 2026), **Jalapeño Cookie** is the named Red featured Cookie and slots into this same aggressive role. The role these fill is consistent across every aggro deck: drop a cheap body, start attacking, and force the opponent to react to you instead of executing their own plan.
+**GingerBrave** is the confirmed anchor here - a one-cost, 2-HP Red Cookie (BS1-014) that attacks for 2 and can pump itself, the archetypal cheap body Red wants in its opening hand. **Chili Pepper Cookie** (BS7-013, a Red Arena Cookie from the Arena of Glory booster) and **Snapdragon Cookie** (BS3-006) fill the same low-curve slot. The role these fill is consistent across every aggro deck: drop a cheap body, start attacking, and force the opponent to react to you instead of executing their own plan.
 
 What you're looking for in this slot, set after set, is the best cost-to-attack ratio you can find, ideally with a relevant keyword or a small on-attack effect. Exact cost and attack values vary by printing, so confirm the current Red one- and two-cost Cookies against the official card database before locking in a list.
 
@@ -85,7 +85,9 @@ What you're looking for in this slot, set after set, is the best cost-to-attack 
 
 By the mid-game, your cheap attackers have either traded away or been answered. The mid-curve is where Red keeps the pressure on with bigger bodies and effects that push extra damage.
 
-**Pitaya Dragon Cookie** is the confirmed Red Dragon Cookie from the Arena of Glory starter wave, and Dragon Cookies generally sit higher on the curve as payoff threats. The mid-curve is also where you want your damage-amplifying effects: cards that let a Cookie attack again, deal damage directly, or punch through a defender. These are the cards that convert a board stall into actual Break Area progress.
+**Pitaya Dragon Cookie** is the confirmed Red Dragon Cookie (BS5-013 from the Operation Timeguard booster, with an earlier printing in Age of Heroes and Kingdoms), and Dragon Cookies generally sit higher on the curve as payoff threats. The mid-curve is also where you want your damage-amplifying effects: cards that let a Cookie attack again, deal damage directly, or punch through a defender. These are the cards that convert a board stall into actual Break Area progress.
+
+**Jalapeño Cookie** (BS7-018, a Red Arena Cookie from the Arena of Glory booster) is the other shape of this slot: a higher-cost body whose attack swings hard and tacks on extra damage to an opponent's Cookie when another Arena Cookie is alongside it. That's the trade the mid-curve makes - more cost for a swing that actually closes.
 
 The trap to avoid here is over-loading the top of your curve. Red is not a midrange deck wearing a costume - if your three-, four-, and five-cost slots get crowded, you've slowed your own clock. Keep the mid-curve lean and pointed at damage. The current Red mid-curve Cookies and damage-pushing effects are worth confirming against the official card database, and Dragon Cookie rules in particular against the official rulebook.
 
@@ -148,7 +150,7 @@ The 60-card, four-copy, and 16-FLIP figures are corroborated across sources, but
     {
       question: "What are the best Red cards in Cookie Run: Braverse?",
       answer:
-        "The best Red cards are cheap, high-attack Cookies for early pressure (Strawberry Crepe Cookie is a confirmed staple, and Jalapeño Cookie leads the Arena of Glory Red starter), mid-curve damage pushers like Pitaya Dragon Cookie, and a small package of reach effects that deal damage without attacking. Confirm exact stats and any newer cards against the official card database, since Braverse data is reported inconsistently.",
+        "The best Red cards are cheap, high-attack Cookies for early pressure (GingerBrave is a confirmed one-cost staple, with Chili Pepper Cookie and Snapdragon Cookie in the same slot), mid-curve damage pushers like Pitaya Dragon Cookie and Jalapeño Cookie, and a small package of reach effects that deal damage without attacking. Confirm exact stats and any newer cards against the official card database, since Braverse data is reported inconsistently.",
     },
     {
       question: "What makes a card good for a Braverse aggro deck?",
@@ -173,7 +175,7 @@ The 60-card, four-copy, and 16-FLIP figures are corroborated across sources, but
     {
       question: "Are Dragon Cookies good in Red aggro?",
       answer:
-        "Pitaya Dragon Cookie is the confirmed Red Dragon Cookie from the Arena of Glory starter wave and fits the mid-curve payoff role. Dragon Cookies tend to be higher-cost threats, so run them as a lean top end rather than crowding your curve. Verify the exact Dragon Cookie rules against the official rulebook.",
+        "Pitaya Dragon Cookie is the confirmed Red Dragon Cookie (from the Operation Timeguard booster, with an earlier Age of Heroes printing) and fits the mid-curve payoff role. Dragon Cookies tend to be higher-cost threats, so run them as a lean top end rather than crowding your curve. Verify the exact Dragon Cookie rules against the official rulebook.",
     },
   ],
   internalLinks: [
@@ -208,12 +210,12 @@ The 60-card, four-copy, and 16-FLIP figures are corroborated across sources, but
     },
   ],
   tldr:
-    "The best Red cards in Cookie Run: Braverse are the ones that make the game end faster: cheap, high-attack Cookies for early pressure (Strawberry Crepe Cookie, plus Jalapeño Cookie from the Arena of Glory Red starter), lean mid-curve damage pushers (Pitaya Dragon Cookie), a small package of reach effects that deal damage without attacking, and only support cards that speed the kill. Avoid big bombs and slow value engines. Confirm exact card names and stats against the official card database before locking a list.",
+    "The best Red cards in Cookie Run: Braverse are the ones that make the game end faster: cheap, high-attack Cookies for early pressure (GingerBrave, Chili Pepper Cookie, Snapdragon Cookie), lean mid-curve damage pushers (Pitaya Dragon Cookie, Jalapeño Cookie), a small package of reach effects that deal damage without attacking, and only support cards that speed the kill. Avoid big bombs and slow value engines. Confirm exact card names and stats against the official card database before locking a list.",
   itemList: {
     name: "Best Red Card Roles in Cookie Run: Braverse",
     items: [
-      { name: 'Cheap early attackers', description: 'Low-cost, high-attack Cookies (e.g. Strawberry Crepe, Jalapeño) that start pressure on turn one or two. The engine of the deck.' },
-      { name: 'Mid-curve damage pushers', description: 'Bigger threats and damage-amplifying effects (e.g. Pitaya Dragon Cookie) that keep the clock running into the mid-game.' },
+      { name: 'Cheap early attackers', description: 'Low-cost, high-attack Cookies (e.g. GingerBrave, Chili Pepper, Snapdragon) that start pressure on turn one or two. The engine of the deck.' },
+      { name: 'Mid-curve damage pushers', description: 'Bigger threats and damage-amplifying effects (e.g. Pitaya Dragon Cookie, Jalapeño Cookie) that keep the clock running into the mid-game.' },
       { name: 'Reach / finishers', description: 'Direct or non-attack damage that closes stalled games by pushing the last Levels into the Break Area.' },
       { name: 'Tempo support', description: 'Cheap damage-pushing Items, punishing Traps, and cheap attack buffs - only cards that speed the kill.' },
     ],

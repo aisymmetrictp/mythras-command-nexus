@@ -8,7 +8,7 @@ export const braverseRaritiesCollectingGuide: BlogPost = {
   tags: ['Collecting'],
   title: "Cookie Run: Braverse Rarities & Collecting Guide: Every Card Tier Explained",
   metaDescription:
-    "A complete guide to Cookie Run: Braverse rarities - from Common to Extra Rare plus the Secret alt-art tiers - how booster boxes are configured, and a smart collecting strategy.",
+    "A complete guide to Cookie Run: Braverse rarities - Common through Ultra Rare, the Secret alt-art tiers, plus EXR, GXR, and Promotion cards - and a smart collecting strategy.",
   excerpt:
     "Confused by SR, UR, EXR, and those shiny Secret cards? Here's the full Cookie Run: Braverse rarity ladder, what 'hidden' cards are, how boxes are packed, and how to collect without overspending.",
   featuredImagePrompt:
@@ -20,7 +20,7 @@ export const braverseRaritiesCollectingGuide: BlogPost = {
     { src: '/images/cookies/shadow-milk-cookie.png', sourceUrl: 'owned-asset' },
   ],
   publishDate: '2026-05-28T00:00:00.000Z',
-  lastUpdated: '2026-05-28T00:00:00.000Z',
+  lastUpdated: '2026-05-30T00:00:00.000Z',
   primaryKeyword: 'cookie run braverse rarities',
   secondaryKeywords: [
     'cookie run braverse rarity guide',
@@ -52,7 +52,7 @@ One promise up front: we don't invent prices or pull rates. Card values move con
 
 Braverse uses a tiered rarity system that should feel familiar if you've collected any modern TCG: a run of standard rarities for the base set, then a smaller pool of premium "Secret" alt-art versions for collectors to chase.
 
-Here's the ladder, from most common to rarest:
+Here's the ladder, roughly from most common to rarest:
 
 | Tier | Abbreviation | Roughly how special |
 | --- | --- | --- |
@@ -61,16 +61,18 @@ Here's the ladder, from most common to rarest:
 | Rare | R | Your standard "rare slot" cards |
 | Super Rare | SR | Premium pulls, often foiled |
 | Ultra Rare | UR | High-end chase cards |
-| Extra Rare | EXR | Top of the standard ladder |
 | Secret Rare | SEC | Full-art / alt-art chase |
 | Secret Super Rare | SSR | Rarer alt-art chase |
 | Secret Ultra Rare | SUR | The rarest alt-art chase |
+| Extra Rare | EXR | Special chase rarity (very limited) |
+| Genesis Extra Rare | GXR | The rarest of all - a single card carries it |
+| Promotion | P | Event, tournament, and product-promo cards |
 
-Treatments can be added or renamed set to set, so the exact rarity ladder, abbreviations, and ordering are worth confirming against the official site and the latest set before you rely on them.
+A couple of notes on the odd ones out: **EXR** and **GXR** aren't really part of the "regular" base ladder - they're special chase rarities, and GXR is so exclusive that exactly one card in the whole game has it. **Promotion (P)** cards come from events, tournaments, and product bundles rather than booster packs, so you won't pull them from a box. Treatments can be added or renamed set to set, so confirm the exact rarity ladder against the official site and the latest set before you rely on it.
 
 ## Standard rarities, from Common to Extra Rare
 
-The first six tiers - **Common (C)** through **Extra Rare (EXR)** - make up the "regular" cards of a set. These are the cards you build decks with. A few things worth knowing:
+The everyday tiers - **Common (C)** through **Ultra Rare (UR)**, plus the special **Extra Rare (EXR)** - make up the cards you actually build decks with. A few things worth knowing:
 
 - **Rarity is not the same as power.** Plenty of Commons and Uncommons are deck staples, and a card being SR or UR doesn't automatically make it better in a 60-card list. Build around what a card *does*, not its symbol.
 - **Higher rarities are usually foiled or specially treated**, which is part of why they're prized even when a cheaper copy plays identically.
@@ -129,14 +131,14 @@ None of this is expensive, and it's the difference between a collection that hol
 
 This section is clearly labeled opinion, because anything about future value is speculation - and we won't pretend otherwise.
 
-Cookie Run: Braverse has a few things working in its favor as a collectible: a beloved, well-established Cookie Run IP, an English market that's still young (the North American launch was July 11, 2025), a steady release schedule, and an active organized-play scene that crowned its first World Champion in April 2026. Those are healthy signs for a TCG's longevity.
+Cookie Run: Braverse has a few things working in its favor as a collectible: a beloved, well-established Cookie Run IP, a game that's still young (the first set, Brave Beginning, launched October 30, 2024), a steady release schedule that's already produced eight booster sets, and an active organized-play scene. Those are healthy signs for a TCG's longevity.
 
 That said: **collect because you enjoy it, not as an investment.** TCG "investing" is a great way to lose money and the fun at the same time. If you love the Cookies and the game, the chase cards are a delightful bonus. If you're buying purely hoping prices rise, you're gambling - so size your spending accordingly. For what's actually out there to collect, see our [set release timeline](/blog/cookie-run-braverse-tcg/cookie-run-braverse-sets-release-timeline), and if you're collecting to play, [deck-building basics](/blog/cookie-run-braverse-tcg/cookie-run-braverse-deck-building-basics) helps you turn pulls into a real deck.`,
   faq: [
     {
       question: "What are the rarities in Cookie Run: Braverse?",
       answer:
-        "The standard ladder runs Common (C), Uncommon (U), Rare (R), Super Rare (SR), Ultra Rare (UR), and Extra Rare (EXR). On top of that are the Secret alt-art chase tiers: Secret Rare (SEC), Secret Super Rare (SSR), and Secret Ultra Rare (SUR). Verify the exact ladder against the latest set, as treatments can change.",
+        "The everyday ladder runs Common (C), Uncommon (U), Rare (R), Super Rare (SR), and Ultra Rare (UR). On top of that are the Secret alt-art chase tiers - Secret Rare (SEC), Secret Super Rare (SSR), and Secret Ultra Rare (SUR) - plus the special chase rarities Extra Rare (EXR) and Genesis Extra Rare (GXR, carried by a single card). Promotion (P) cards round things out from events and bundles. Verify the exact ladder against the latest set, as treatments can change.",
     },
     {
       question: "What are 'hidden' cards in a Braverse set?",
@@ -183,19 +185,21 @@ That said: **collect because you enjoy it, not as an investment.** TCG "investin
     },
   ],
   tldr:
-    "Cookie Run: Braverse cards run from Common (C) up through Uncommon, Rare, Super Rare (SR), Ultra Rare (UR), and Extra Rare (EXR), with premium full-art chase cards in the Secret tiers: Secret Rare (SEC), Secret Super Rare (SSR), and Secret Ultra Rare (SUR). 'Hidden' cards in set listings are that premium alt-art pool. Current English booster boxes hold 28 packs of 9 cards. For building decks, buy singles; for collecting, chase boxes - but collect for enjoyment, not as an investment.",
+    "Cookie Run: Braverse cards run from Common (C) up through Uncommon, Rare, Super Rare (SR), and Ultra Rare (UR), with premium full-art chase cards in the Secret tiers: Secret Rare (SEC), Secret Super Rare (SSR), and Secret Ultra Rare (SUR). On top of that sit the special chase rarities Extra Rare (EXR) and Genesis Extra Rare (GXR, on a single card), plus Promotion (P) cards from events. 'Hidden' cards in set listings are that premium alt-art pool. For building decks, buy singles; for collecting, chase boxes - but collect for enjoyment, not as an investment.",
   itemList: {
-    name: "Cookie Run: Braverse Rarity Tiers (Common to Secret Ultra Rare)",
+    name: "Cookie Run: Braverse Rarity Tiers",
     items: [
       { name: 'Common (C)', description: 'The most frequent cards; the backbone of every pack.' },
       { name: 'Uncommon (U)', description: 'Slightly less frequent than commons.' },
       { name: 'Rare (R)', description: 'Standard rare-slot cards.' },
       { name: 'Super Rare (SR)', description: 'Premium pulls, often with foil treatments.' },
       { name: 'Ultra Rare (UR)', description: 'High-end chase cards.' },
-      { name: 'Extra Rare (EXR)', description: 'The top of the standard rarity ladder.' },
       { name: 'Secret Rare (SEC)', description: 'Full-art / alternate-art collector chase cards.' },
       { name: 'Secret Super Rare (SSR)', description: 'Rarer alt-art chase treatment.' },
       { name: 'Secret Ultra Rare (SUR)', description: 'The rarest alt-art chase treatment.' },
+      { name: 'Extra Rare (EXR)', description: 'A special, very limited chase rarity.' },
+      { name: 'Genesis Extra Rare (GXR)', description: 'The single rarest treatment in the game - just one card carries it.' },
+      { name: 'Promotion (P)', description: 'Event, tournament, and product-promo cards, not pulled from booster packs.' },
     ],
   },
 };

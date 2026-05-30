@@ -13,16 +13,16 @@ export const braverseDeckArchetypes: BlogPost = {
     "Every Braverse deck is chasing one of five game plans. Here's what Aggro, Control, Ramp, Combo, and Disruption each want, how to pilot them, and how they beat (and lose to) each other.",
   featuredImagePrompt:
     "A strategic overhead diagram of five Cookie Run: Braverse decks arranged in a circle by color, with glowing arrows between them showing the matchup triangle of which archetype beats which, dark tactical background with gold accents.",
-  heroImage: '/images/cookies/strawberry-crepe-cookie.png',
-  heroImageAlt: 'Strawberry Crepe Cookie, a fast attacker representing the low-skill-floor Aggro (Red) archetype in Braverse.',
+  heroImage: '/images/cookies/gingerbrave.png',
+  heroImageAlt: 'GingerBrave, a fast cheap Red attacker representing the low-skill-floor Aggro (Red) archetype in Braverse.',
   imageSources: [
-    { src: '/images/cookies/strawberry-crepe-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/gingerbrave.png', sourceUrl: 'owned-asset' },
     { src: '/images/cookies/golden-cheese-cookie.png', sourceUrl: 'owned-asset' },
     { src: '/images/cookies/cream-soda-cookie.png', sourceUrl: 'owned-asset' },
     { src: '/images/cookies/dark-cacao-cookie.png', sourceUrl: 'owned-asset' },
   ],
   publishDate: '2026-05-28T00:00:00.000Z',
-  lastUpdated: '2026-05-28T00:00:00.000Z',
+  lastUpdated: '2026-05-30T00:00:00.000Z',
   primaryKeyword: 'cookie run braverse deck archetypes',
   secondaryKeywords: [
     'cookie run braverse archetypes',
@@ -73,7 +73,7 @@ Color and archetype aren't a perfect one-to-one lock - decks can blend, and mult
 
 ## Aggro (Red)
 
-![Strawberry Crepe Cookie, a cheap hard-hitting attacker that typifies the Aggro (Red) archetype in Braverse.](/images/cookies/strawberry-crepe-cookie.png)
+![GingerBrave, a cheap hard-hitting Red Cookie that typifies the Aggro (Red) archetype in Braverse.](/images/cookies/gingerbrave.png)
 
 **The plan:** flood the board with cheap, hard-hitting Cookies and start filling the opponent's Break Area immediately. Because Braverse resources ramp one Support card per turn, the deck that's already attacking on turns two and three has a real head start.
 
@@ -137,7 +137,7 @@ A careful caveat first: the best public competitive data for Braverse is **commu
 
 With that said, community reporting from 2025 SEA tournaments has frequently shown **Control (Yellow)** as one of the strongest and most-played archetypes, with some regional finals skewing heavily Yellow, while other regions (such as Indonesia) showed a more diverse field with **Purple** well-represented. The meta shifts with each new set, so check current competitive standings and any North American results before treating this as settled.
 
-What this means for you: a grindy, value-oriented metagame rewards clean play and punishes greed - which is good news, because those are skills that transfer to every archetype. The arrival of the first World Championship in April 2026 also means more high-level data is starting to exist; we'll fold confirmed results into our coverage as they're verified. For the product side of meta shifts, see our [set release timeline](/blog/cookie-run-braverse-tcg/cookie-run-braverse-sets-release-timeline).
+What this means for you: a grindy, value-oriented metagame rewards clean play and punishes greed - which is good news, because those are skills that transfer to every archetype. As more high-level tournament results emerge, we'll fold confirmed findings into our coverage as they're verified. For the product side of meta shifts, see our [set release timeline](/blog/cookie-run-braverse-tcg/cookie-run-braverse-sets-release-timeline).
 
 ## Picking an archetype to main
 
