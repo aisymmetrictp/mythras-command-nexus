@@ -33,6 +33,10 @@ yarn-error.log*
 # env files (can opt-in for committing if needed)
 .env*
 
+# YouTube optimizer — generated proposal dumps + original-description backups
+scripts/youtube/proposals/
+scripts/youtube/backups/
+
 # vercel
 .vercel
 
