@@ -8,7 +8,7 @@ import { ASSISTANT_CONFIG } from '@/lib/assistant/config';
 import type { ChatMessage as ChatMessageType } from '@/lib/assistant';
 import ChatMessage from './ChatMessage';
 import ChatInput from './ChatInput';
-import SuggestedPrompts from './SuggestedPrompts';
+import SuggestedPrompts, { type PromptGameContext } from './SuggestedPrompts';
 
 interface Props {
   /** When `embed` is true, renders inline (used by /assistant page). Otherwise floating widget. */
@@ -47,8 +47,12 @@ export default function ChatWidget({ embed }: Props) {
 
   // Game context lets SuggestedPrompts show CRK / MTG / mixed starter prompts
   // based on the page the user opened the widget on.
-  const gameContext: 'crk' | 'mtg' | 'mixed' =
+  const gameContext: PromptGameContext =
     pathname?.includes('/magic-the-gathering') ? 'mtg' :
+    pathname?.includes('/roblox') ? 'roblox' :
+    pathname?.includes('/pubg') ? 'pubg' :
+    pathname?.includes('/fortnite') ? 'fortnite' :
+    pathname?.includes('/minecraft') ? 'minecraft' :
     (pathname?.includes('/cookie-run-kingdom') ||
       pathname?.startsWith('/gear-guide') ||
       pathname?.startsWith('/cake-tower')) ? 'crk' :
@@ -176,10 +180,11 @@ export default function ChatWidget({ embed }: Props) {
           <div className="space-y-5">
             <div className="rounded-xl border border-[#D4A853]/15 bg-[#0c0c18]/60 p-4 text-sm text-[#c8c8d4] leading-relaxed">
               <p>
-                Hey! I answer from what&apos;s actually on Mythras — <strong className="text-white">Cookie Run: Kingdom</strong> guides
-                (builds, team comps, tier lists, codes) and <strong className="text-white">Magic: The Gathering</strong> guides
-                (color staples, Standard meta, Pro Tour decks, set tier lists). I won&apos;t invent patch details,
-                codes, card prices, or release info that aren&apos;t in our content. If I don&apos;t know I&apos;ll
+                Hey! I answer from what&apos;s actually on Mythras — guides for{' '}
+                <strong className="text-white">Cookie Run: Kingdom</strong>, <strong className="text-white">Magic: The Gathering</strong>,{' '}
+                <strong className="text-white">Roblox</strong>, <strong className="text-white">PUBG</strong>,{' '}
+                <strong className="text-white">Fortnite</strong>, and <strong className="text-white">Minecraft</strong>. I won&apos;t
+                invent patch details, codes, prices, or release info that aren&apos;t in our content. If I don&apos;t know I&apos;ll
                 point you at the closest guide.
               </p>
             </div>
@@ -217,7 +222,15 @@ export default function ChatWidget({ embed }: Props) {
             ? 'Tip: ask by color, format (Commander, Standard, Modern), set name, or deck archetype.'
             : gameContext === 'crk'
             ? 'Tip: ask by Cookie name, mode (Arena, Guild Battle, Cake Tower), or system (toppings, beascuits, codes).'
-            : 'Tip: ask about CRK (Cookies, builds, modes) or MTG (colors, formats, decks, sets).'}
+            : gameContext === 'roblox'
+            ? 'Tip: ask about getting started, Robux, Roblox Studio, or the best games to play.'
+            : gameContext === 'pubg'
+            ? 'Tip: ask about weapons, loadouts, landing spots, or settings and sensitivity.'
+            : gameContext === 'fortnite'
+            ? 'Tip: ask about building, landing spots, weapons, or your best settings.'
+            : gameContext === 'minecraft'
+            ? 'Tip: ask about survival, enchantments, redstone, seeds, or building.'
+            : 'Tip: ask about any game we cover — Cookie Run, MTG, Roblox, PUBG, Fortnite, or Minecraft.'}
         </div>
       </div>
     </>

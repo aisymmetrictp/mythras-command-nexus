@@ -1,9 +1,11 @@
 'use client';
 
+export type PromptGameContext = 'crk' | 'mtg' | 'roblox' | 'pubg' | 'fortnite' | 'minecraft' | 'mixed';
+
 interface Props {
   onPick: (prompt: string) => void;
-  /** 'crk' | 'mtg' | 'mixed' — derived from the current page path by the parent. */
-  gameContext?: 'crk' | 'mtg' | 'mixed';
+  /** Derived from the current page path by the parent. */
+  gameContext?: PromptGameContext;
 }
 
 const CRK_PROMPTS = [
@@ -24,24 +26,63 @@ const MTG_PROMPTS = [
   { label: 'What should I read next?', emoji: '📰' },
 ];
 
-const MIXED_PROMPTS = [
-  { label: 'Best beginner Cookies?', emoji: '🌱' },
-  { label: 'Current MTG Standard meta?', emoji: '🃏' },
-  { label: 'What toppings should I use?', emoji: '🫐' },
-  { label: 'Best blue cards in MTG?', emoji: '💧' },
-  { label: 'Explain Beascuits', emoji: '🍪' },
+const ROBLOX_PROMPTS = [
+  { label: 'Best Roblox games right now?', emoji: '🎮' },
+  { label: 'How do I get Robux safely?', emoji: '💰' },
+  { label: 'How do I start in Roblox Studio?', emoji: '🛠️' },
+  { label: 'Beginner guide to Roblox?', emoji: '🌱' },
+  { label: 'Best games to play with friends?', emoji: '👥' },
   { label: 'What should I read next?', emoji: '📰' },
 ];
 
+const PUBG_PROMPTS = [
+  { label: 'Best weapons in PUBG?', emoji: '🏆' },
+  { label: 'Best loadout and attachments?', emoji: '🎯' },
+  { label: 'Where should I land?', emoji: '🪂' },
+  { label: 'Beginner survival tips?', emoji: '🌱' },
+  { label: 'Best settings and sensitivity?', emoji: '🎚️' },
+  { label: 'What should I read next?', emoji: '📰' },
+];
+
+const FORTNITE_PROMPTS = [
+  { label: 'Fortnite building basics?', emoji: '🧱' },
+  { label: 'Best landing spots?', emoji: '🚌' },
+  { label: 'Weapon tier list?', emoji: '🏆' },
+  { label: 'Best settings for Fortnite?', emoji: '🎚️' },
+  { label: 'Beginner guide to Fortnite?', emoji: '🌱' },
+  { label: 'What should I read next?', emoji: '📰' },
+];
+
+const MINECRAFT_PROMPTS = [
+  { label: 'Best enchantments, ranked?', emoji: '✨' },
+  { label: 'Redstone basics?', emoji: '🔴' },
+  { label: 'Best Minecraft seeds?', emoji: '🌍' },
+  { label: 'Survival guide for beginners?', emoji: '🌱' },
+  { label: 'Top building tips?', emoji: '🏠' },
+  { label: 'What should I read next?', emoji: '📰' },
+];
+
+const MIXED_PROMPTS = [
+  { label: 'Best beginner Cookies?', emoji: '🌱' },
+  { label: 'Current MTG Standard meta?', emoji: '🃏' },
+  { label: 'Best Minecraft enchantments?', emoji: '✨' },
+  { label: 'Fortnite building basics?', emoji: '🧱' },
+  { label: 'Best Roblox games right now?', emoji: '🎮' },
+  { label: 'What should I read next?', emoji: '📰' },
+];
+
+const PROMPTS: Record<PromptGameContext, { label: string; emoji: string }[]> = {
+  crk: CRK_PROMPTS, mtg: MTG_PROMPTS, roblox: ROBLOX_PROMPTS,
+  pubg: PUBG_PROMPTS, fortnite: FORTNITE_PROMPTS, minecraft: MINECRAFT_PROMPTS, mixed: MIXED_PROMPTS,
+};
+const LABELS: Record<PromptGameContext, string> = {
+  crk: 'Try asking · CRK', mtg: 'Try asking · MTG', roblox: 'Try asking · Roblox',
+  pubg: 'Try asking · PUBG', fortnite: 'Try asking · Fortnite', minecraft: 'Try asking · Minecraft', mixed: 'Try asking',
+};
+
 export default function SuggestedPrompts({ onPick, gameContext = 'mixed' }: Props) {
-  const prompts =
-    gameContext === 'mtg' ? MTG_PROMPTS :
-    gameContext === 'crk' ? CRK_PROMPTS :
-    MIXED_PROMPTS;
-  const label =
-    gameContext === 'mtg' ? 'Try asking · MTG' :
-    gameContext === 'crk' ? 'Try asking · CRK' :
-    'Try asking';
+  const prompts = PROMPTS[gameContext] ?? MIXED_PROMPTS;
+  const label = LABELS[gameContext] ?? 'Try asking';
 
   return (
     <div>

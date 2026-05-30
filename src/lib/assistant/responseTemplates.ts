@@ -33,15 +33,31 @@ function answerOpener(): string {
   return openers[Math.floor(Math.random() * openers.length)];
 }
 
-function pathGame(path?: string): 'crk' | 'mtg' | undefined {
+type GameKey = 'crk' | 'mtg' | 'roblox' | 'pubg' | 'fortnite' | 'minecraft';
+
+function pathGame(path?: string): GameKey | undefined {
   if (!path) return undefined;
   if (path.includes('/magic-the-gathering') || path.includes('/mtg')) return 'mtg';
+  if (path.includes('/roblox')) return 'roblox';
+  if (path.includes('/pubg-battlegrounds') || path.includes('/pubg')) return 'pubg';
+  if (path.includes('/fortnite')) return 'fortnite';
+  if (path.includes('/minecraft')) return 'minecraft';
   if (
     path.includes('/cookie-run-kingdom') ||
     path.startsWith('/gear-guide') ||
     path.startsWith('/cake-tower')
   ) return 'crk';
   return undefined;
+}
+
+// True when the message clearly references a non-CRK game, so the generic CRK
+// intents below stand down and the query falls through to search (which finds
+// the right indexed post).
+function mentionsOtherGame(msg: string): boolean {
+  return /\b(roblox|robux|pubg|battlegrounds|fortnite|minecraft|redstone|enchantment)\b/i.test(msg);
+}
+function isNonCrkGame(game: GameKey | undefined): boolean {
+  return game === 'mtg' || game === 'roblox' || game === 'pubg' || game === 'fortnite' || game === 'minecraft';
 }
 
 function detectCookieMention(msg: string): ContentIndexItem | undefined {
@@ -89,7 +105,7 @@ function intentCrkTierList(): Intent {
     match: (msg, path) => {
       const game = pathGame(path);
       const generic = containsAny(msg, ['tier list', 'best cookies', 'meta cookies', 'top cookies', 'who is the best cookie']);
-      return generic && game !== 'mtg';
+      return generic && !isNonCrkGame(game) && !mentionsOtherGame(msg);
     },
     build: () => {
       const links = findByKeywords(['cookie run kingdom tier list', 'crk meta', 'best cookies']).map(toRecommendedLink);
@@ -152,7 +168,7 @@ function intentCrkBeginner(): Intent {
     match: (msg, path) => {
       const game = pathGame(path);
       const generic = containsAny(msg, ['beginner', 'new player', 'just started', 'starter', 'reroll', 'where do i start', 'getting started']);
-      return generic && game !== 'mtg';
+      return generic && !isNonCrkGame(game) && !mentionsOtherGame(msg);
     },
     build: () => {
       const links = findByKeywords(['reroll', 'beginner', 'starting cookies', 'progression']).map(toRecommendedLink);
@@ -495,13 +511,20 @@ function intentWhatToRead(): Intent {
     match: msg => containsAny(msg, ['what should i read', 'what next', 'recommend', 'suggest a guide', 'show me guides', 'latest']),
     build: (_msg, path) => {
       const game = pathGame(path);
-      const all = topInCategory('blog', 6);
-      const filtered = game
-        ? all.filter(r => (game === 'crk' ? r.item.id.includes('cookie-run-kingdom') : r.item.id.includes('magic-the-gathering') || r.item.href.includes('/magic-the-gathering/')))
-        : all;
+      const slugByGame: Record<GameKey, string> = {
+        crk: 'cookie-run-kingdom', mtg: 'magic-the-gathering', roblox: 'roblox',
+        pubg: 'pubg-battlegrounds', fortnite: 'fortnite', minecraft: 'minecraft',
+      };
+      const nameByGame: Record<GameKey, string> = {
+        crk: 'Cookie Run: Kingdom', mtg: 'MTG', roblox: 'Roblox',
+        pubg: 'PUBG', fortnite: 'Fortnite', minecraft: 'Minecraft',
+      };
+      const slug = game ? slugByGame[game] : undefined;
+      const all = topInCategory('blog', 8);
+      const filtered = slug ? all.filter(r => r.item.href.includes(`/blog/${slug}/`)) : all;
       const links = (filtered.length > 0 ? filtered : all).slice(0, 5).map(toRecommendedLink);
       return {
-        answer: `${answerOpener()} ${game === 'mtg' ? 'Latest MTG guides on the blog' : game === 'crk' ? 'Latest Cookie Run: Kingdom guides on the blog' : 'Latest guides across both games'}, freshest first.\n\n${joinLinks(links)}`,
+        answer: `${answerOpener()} ${game ? `Latest ${nameByGame[game]} guides on the blog` : 'Latest guides across all our games'}, freshest first.\n\n${joinLinks(links)}`,
         recommendedLinks: links,
         matchedTopics: ['blog', 'navigation'],
         confidence: 0.85,
@@ -551,7 +574,7 @@ export function buildSearchFallback(message: string): AssistantResponse {
   return {
     answer: high
       ? `${answerOpener()} I'm not 100% sure I caught your exact question, but these guides look like a strong match.\n\n${joinLinks(links)}`
-      : `I don't have a perfect match for that on the site yet, but these are the closest guides I can point you at:\n\n${joinLinks(links)}\n\nIf this isn't what you're after, try asking about a specific Cookie (CRK) or color/format (MTG), or browse the glossaries.`,
+      : `I don't have a perfect match for that on the site yet, but these are the closest guides I can point you at:\n\n${joinLinks(links)}\n\nIf this isn't what you're after, try asking about a specific game — a Cookie or build (CRK), a color or format (MTG), or a topic in Roblox, PUBG, Fortnite, or Minecraft — or browse the blog.`,
     recommendedLinks: links,
     matchedTopics: ['search'],
     confidence: high ? 0.6 : 0.35,
@@ -562,9 +585,9 @@ export function buildSearchFallback(message: string): AssistantResponse {
 export function buildMissingContent(_message: string): AssistantResponse {
   const links = topInCategory('blog', 3).map(toRecommendedLink);
   return {
-    answer: `I don't have content on that yet. I won't guess at current patch details, codes, card prices, ban statuses, or release info that aren't on the site — but here's where to browse for what we do have:\n\n- **[Mythras Blog](/blog)** — every published guide across CRK and MTG, fresh-first\n- **[CRK Gear Guide](/gear-guide)** — builds for 167+ Cookies\n- **[CRK Glossary](/glossary/cookie-run-kingdom)** and **[MTG Glossary](/glossary/magic-the-gathering)** — term definitions\n\n${links.length > 0 ? '**Latest:**\n' + joinLinks(links) : ''}`,
+    answer: `I don't have content on that yet. I won't guess at current patch details, codes, card prices, ban statuses, or release info that aren't on the site — but here's where to browse for what we do have:\n\n- **[Mythras Blog](/blog)** — every published guide across all our games (CRK, MTG, Roblox, PUBG, Fortnite, Minecraft), fresh-first\n- **[CRK Gear Guide](/gear-guide)** — builds for 167+ Cookies\n- **[CRK Glossary](/glossary/cookie-run-kingdom)** and **[MTG Glossary](/glossary/magic-the-gathering)** — term definitions\n\n${links.length > 0 ? '**Latest:**\n' + joinLinks(links) : ''}`,
     recommendedLinks: [
-      { title: 'Mythras Blog', href: '/blog', summary: 'All published guides across CRK and MTG.', score: 0.5 },
+      { title: 'Mythras Blog', href: '/blog', summary: 'All published guides across every game we cover.', score: 0.5 },
       { title: 'CRK Gear Guide', href: '/gear-guide', summary: 'Build guides for 167+ Cookies.', score: 0.5 },
       { title: 'MTG Blog Hub', href: '/blog/magic-the-gathering', summary: 'All MTG guides, freshest first.', score: 0.5 },
       ...links,
@@ -577,7 +600,7 @@ export function buildMissingContent(_message: string): AssistantResponse {
 
 export function buildGreeting(): AssistantResponse {
   return {
-    answer: `Hey! I'm the Mythras assistant. I answer from what's actually on the site — **Cookie Run: Kingdom** guides (builds, team comps, tier lists, codes) and **Magic: The Gathering** guides (color staples, Standard meta, Pro Tour decks, set tier lists). Ask me anything, or try one of the suggested prompts below.`,
+    answer: `Hey! I'm the Mythras assistant. I answer from what's actually on the site, across every game we cover — **Cookie Run: Kingdom**, **Magic: The Gathering**, **Roblox**, **PUBG: Battlegrounds**, **Fortnite**, and **Minecraft**. Builds, tier lists, beginner guides, meta, and more. Ask me anything, or try one of the suggested prompts below.`,
     recommendedLinks: [],
     matchedTopics: ['greeting'],
     confidence: 1,

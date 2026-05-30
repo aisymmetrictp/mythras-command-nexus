@@ -19,7 +19,7 @@ export const localRetrievalProvider: AssistantProvider = {
     const raw = req.message.trim();
     if (raw.length === 0) {
       return {
-        answer: 'Ask me a question — toppings, team comps, tier list, codes, anything Cookie Run: Kingdom.',
+        answer: 'Ask me a question about any game we cover — Cookie Run: Kingdom, MTG, Roblox, PUBG, Fortnite, or Minecraft. Builds, tier lists, beginner guides, and more.',
         recommendedLinks: [],
         matchedTopics: [],
         confidence: 1,

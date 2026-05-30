@@ -7,13 +7,13 @@ import ChatWidget from '@/components/assistant/ChatWidget';
 import { BreadcrumbSchema, WebPageSchema } from '@/components/StructuredData';
 
 export const metadata: Metadata = {
-  title: 'Mythras Assistant — Ask Anything About Cookie Run: Kingdom',
+  title: 'Mythras Assistant — Ask Anything About Your Games',
   description:
-    'A site-content-powered chat assistant that answers Cookie Run: Kingdom questions, recommends guides, and helps you find builds, team comps, tier lists, and codes on Mythras.',
+    'A site-content-powered chat assistant that recommends Mythras guides across Cookie Run: Kingdom, Magic: The Gathering, Roblox, PUBG, Fortnite, and Minecraft — builds, tier lists, beginner guides, meta, and more.',
   alternates: { canonical: 'https://gamertagmythras.com/assistant' },
   openGraph: {
-    title: 'Mythras Assistant — Ask Anything About Cookie Run: Kingdom',
-    description: 'Site-content-powered chat assistant for Cookie Run: Kingdom.',
+    title: 'Mythras Assistant — Ask Anything About Your Games',
+    description: 'Site-content-powered chat assistant for CRK, MTG, Roblox, PUBG, Fortnite, and Minecraft.',
     url: 'https://gamertagmythras.com/assistant',
     type: 'website',
   },
@@ -24,7 +24,7 @@ export default function AssistantPage() {
     <>
       <WebPageSchema
         name="Mythras Assistant"
-        description="Chat assistant for Cookie Run: Kingdom guides on gamertagmythras.com."
+        description="Chat assistant for gaming guides on gamertagmythras.com — Cookie Run: Kingdom, MTG, Roblox, PUBG, Fortnite, and Minecraft."
         url="https://gamertagmythras.com/assistant"
       />
       <BreadcrumbSchema
@@ -46,12 +46,12 @@ export default function AssistantPage() {
               <span className="text-[#D4A853] text-sm font-semibold tracking-wider uppercase">Mythras Assistant</span>
             </div>
             <h1 className="text-4xl md:text-6xl font-bold text-white mb-5 tracking-tight" style={{ fontFamily: 'var(--font-display)' }}>
-              Ask anything about CRK
+              Ask anything about your games
             </h1>
             <p className="text-lg text-[#c8c8d4] leading-relaxed max-w-2xl mx-auto">
-              The assistant answers from what&apos;s actually live on Mythras. Cookie builds, team comps, tier
-              lists, codes, Cake Tower strategy. If I don&apos;t have it, I&apos;ll say so and point you at the
-              closest guide rather than guess.
+              The assistant answers from what&apos;s actually live on Mythras — across Cookie Run: Kingdom, Magic:
+              The Gathering, Roblox, PUBG, Fortnite, and Minecraft. Builds, tier lists, beginner guides, meta,
+              and more. If I don&apos;t have it, I&apos;ll say so and point you at the closest guide rather than guess.
             </p>
           </section>
 
