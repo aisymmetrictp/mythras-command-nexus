@@ -37,6 +37,9 @@ yarn-error.log*
 scripts/youtube/proposals/
 scripts/youtube/backups/
 
+# Claude Code — local machine settings (permissions etc.); never share
+.claude/settings.local.json
+
 # vercel
 .vercel
 

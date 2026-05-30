@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "mythras-dev",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev", "--prefix", "mythras-command-nexus"],
+      "port": 3000
+    },
+    {
+      "name": "mythras-static",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["-y", "serve", "mythras-command-nexus/out", "-l", "4545"],
+      "port": 4545
+    }
+  ]
+}
