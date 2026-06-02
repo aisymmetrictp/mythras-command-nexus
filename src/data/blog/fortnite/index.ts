@@ -6,6 +6,8 @@ import { bestFortniteSettings } from './posts/best-fortnite-settings';
 import { fortniteWeaponTierList } from './posts/fortnite-weapon-tier-list';
 import { fortniteEditingGuide } from './posts/fortnite-editing-guide';
 import { fortniteAimTrainingGuide } from './posts/fortnite-aim-training-guide';
+import { fortniteZeroBuildGuide } from './posts/fortnite-zero-build-guide';
+import { fortniteEndgameStrategy } from './posts/fortnite-endgame-strategy';
 
 export const FORTNITE_POSTS: BlogPost[] = [
   fortniteBeginnersGuide,
@@ -15,4 +17,6 @@ export const FORTNITE_POSTS: BlogPost[] = [
   fortniteWeaponTierList,
   fortniteEditingGuide,
   fortniteAimTrainingGuide,
+  fortniteZeroBuildGuide,
+  fortniteEndgameStrategy,
 ];

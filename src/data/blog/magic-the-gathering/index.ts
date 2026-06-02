@@ -18,6 +18,8 @@ import { bestPlaneswalkersMtg } from './posts/best-planeswalkers-magic-the-gathe
 import { mtgMulliganGuideLondonMulligan } from './posts/mtg-mulligan-guide-london-mulligan';
 import { mtgLimitedDraftGuideBeginners } from './posts/mtg-limited-draft-guide-beginners';
 import { bestCounterspellsMtg } from './posts/best-counterspells-mtg';
+import { bestBoardWipesMtg } from './posts/best-board-wipes-mtg';
+import { mtgModernFormatGuide } from './posts/mtg-modern-format-guide';
 
 export const MTG_POSTS: BlogPost[] = [
   bestWhiteCardsMtg,
@@ -39,4 +41,6 @@ export const MTG_POSTS: BlogPost[] = [
   mtgMulliganGuideLondonMulligan,
   mtgLimitedDraftGuideBeginners,
   bestCounterspellsMtg,
+  bestBoardWipesMtg,
+  mtgModernFormatGuide,
 ];

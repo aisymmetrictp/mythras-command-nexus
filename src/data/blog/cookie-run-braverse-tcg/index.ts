@@ -12,6 +12,8 @@ import { budgetBraverseDeck } from './posts/budget-cookie-run-braverse-deck';
 import { braverseCardTypesExplained } from './posts/cookie-run-braverse-card-types-explained';
 import { bestBlueCardsBraverse } from './posts/best-blue-cards-cookie-run-braverse';
 import { braverseFlipMechanic } from './posts/cookie-run-braverse-flip-mechanic';
+import { bestGreenCardsBraverse } from './posts/best-green-cards-cookie-run-braverse';
+import { bestYellowCardsBraverse } from './posts/best-yellow-cards-cookie-run-braverse';
 
 export const BRAVERSE_POSTS: BlogPost[] = [
   howToPlayBraverse,
@@ -27,4 +29,6 @@ export const BRAVERSE_POSTS: BlogPost[] = [
   braverseCardTypesExplained,
   bestBlueCardsBraverse,
   braverseFlipMechanic,
+  bestGreenCardsBraverse,
+  bestYellowCardsBraverse,
 ];

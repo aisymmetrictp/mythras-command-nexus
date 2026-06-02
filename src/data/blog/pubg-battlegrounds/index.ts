@@ -6,6 +6,8 @@ import { bestPubgLandingSpots } from './posts/best-pubg-landing-spots';
 import { pubgSettingsSensitivityGuide } from './posts/pubg-settings-sensitivity-guide';
 import { pubgRecoilControlGuide } from './posts/pubg-recoil-control-guide';
 import { bestPubgMapsRanked } from './posts/best-pubg-maps-ranked';
+import { pubgEndgameCircleStrategy } from './posts/pubg-endgame-circle-strategy';
+import { bestPubgVehicles } from './posts/best-pubg-vehicles';
 
 export const PUBG_POSTS: BlogPost[] = [
   pubgBeginnersGuide,
@@ -15,4 +17,6 @@ export const PUBG_POSTS: BlogPost[] = [
   pubgSettingsSensitivityGuide,
   pubgRecoilControlGuide,
   bestPubgMapsRanked,
+  pubgEndgameCircleStrategy,
+  bestPubgVehicles,
 ];

@@ -26,6 +26,8 @@ import { beastYeastBossCounters } from './posts/beast-yeast-boss-counters';
 import { f2pCrystalOptimization } from './posts/f2p-crystal-optimization';
 import { bestCrkSupportCookiesRanked } from './posts/best-crk-support-cookies-ranked';
 import { bestAncientCookiesCrkRanked } from './posts/best-ancient-cookies-crk-ranked';
+import { bestCrkTankCookiesRanked } from './posts/best-crk-tank-cookies-ranked';
+import { shadowMilkCookieToppingsBuild } from './posts/shadow-milk-cookie-toppings-build';
 
 export const CRK_POSTS: BlogPost[] = [
   crkCodes,
@@ -55,4 +57,6 @@ export const CRK_POSTS: BlogPost[] = [
   f2pCrystalOptimization,
   bestCrkSupportCookiesRanked,
   bestAncientCookiesCrkRanked,
+  bestCrkTankCookiesRanked,
+  shadowMilkCookieToppingsBuild,
 ];
