@@ -22,6 +22,8 @@ import { bestBoardWipesMtg } from './posts/best-board-wipes-mtg';
 import { mtgModernFormatGuide } from './posts/mtg-modern-format-guide';
 import { mtgPioneerFormatGuide } from './posts/mtg-pioneer-format-guide';
 import { bestCardDrawCommanderMtg } from './posts/best-card-draw-commander-mtg';
+import { bestRampSpellsCommanderMtg } from './posts/best-ramp-spells-commander-mtg';
+import { bestCommandersForBeginnersMtg } from './posts/best-commanders-for-beginners-mtg';
 
 export const MTG_POSTS: BlogPost[] = [
   bestWhiteCardsMtg,
@@ -47,4 +49,6 @@ export const MTG_POSTS: BlogPost[] = [
   mtgModernFormatGuide,
   mtgPioneerFormatGuide,
   bestCardDrawCommanderMtg,
+  bestRampSpellsCommanderMtg,
+  bestCommandersForBeginnersMtg,
 ];

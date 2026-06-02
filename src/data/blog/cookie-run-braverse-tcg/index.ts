@@ -16,6 +16,8 @@ import { bestGreenCardsBraverse } from './posts/best-green-cards-cookie-run-brav
 import { bestYellowCardsBraverse } from './posts/best-yellow-cards-cookie-run-braverse';
 import { bestPurpleCardsBraverse } from './posts/best-purple-cards-cookie-run-braverse';
 import { bestBraverseCardsRanked } from './posts/best-cookie-run-braverse-cards-ranked';
+import { braverseBlackPureCards } from './posts/cookie-run-braverse-black-pure-cards';
+import { bestBraverseSoulJamCards } from './posts/best-cookie-run-braverse-soul-jam-cards';
 
 export const BRAVERSE_POSTS: BlogPost[] = [
   howToPlayBraverse,
@@ -35,4 +37,6 @@ export const BRAVERSE_POSTS: BlogPost[] = [
   bestYellowCardsBraverse,
   bestPurpleCardsBraverse,
   bestBraverseCardsRanked,
+  braverseBlackPureCards,
+  bestBraverseSoulJamCards,
 ];

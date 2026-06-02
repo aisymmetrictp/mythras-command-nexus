@@ -10,6 +10,8 @@ import { fortniteZeroBuildGuide } from './posts/fortnite-zero-build-guide';
 import { fortniteEndgameStrategy } from './posts/fortnite-endgame-strategy';
 import { fortniteBoxFightingGuide } from './posts/fortnite-box-fighting-guide';
 import { fortniteRotationGuide } from './posts/fortnite-rotation-guide';
+import { bestFortniteKeybinds } from './posts/best-fortnite-keybinds';
+import { fortniteMovementGuide } from './posts/fortnite-movement-guide';
 
 export const FORTNITE_POSTS: BlogPost[] = [
   fortniteBeginnersGuide,
@@ -23,4 +25,6 @@ export const FORTNITE_POSTS: BlogPost[] = [
   fortniteEndgameStrategy,
   fortniteBoxFightingGuide,
   fortniteRotationGuide,
+  bestFortniteKeybinds,
+  fortniteMovementGuide,
 ];

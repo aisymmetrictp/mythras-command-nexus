@@ -12,6 +12,8 @@ import { minecraftNetherGuide } from './posts/minecraft-nether-guide';
 import { bestMinecraftFarms } from './posts/best-minecraft-farms';
 import { howToFindNetheriteMinecraft } from './posts/how-to-find-netherite-minecraft';
 import { minecraftPotionBrewingGuide } from './posts/minecraft-potion-brewing-guide';
+import { minecraftVillagerTradingGuide } from './posts/minecraft-villager-trading-guide';
+import { minecraftTamingBreedingGuide } from './posts/minecraft-taming-breeding-guide';
 
 export const MINECRAFT_POSTS: BlogPost[] = [
   minecraftSurvivalGuideBeginners,
@@ -25,4 +27,6 @@ export const MINECRAFT_POSTS: BlogPost[] = [
   bestMinecraftFarms,
   howToFindNetheriteMinecraft,
   minecraftPotionBrewingGuide,
+  minecraftVillagerTradingGuide,
+  minecraftTamingBreedingGuide,
 ];

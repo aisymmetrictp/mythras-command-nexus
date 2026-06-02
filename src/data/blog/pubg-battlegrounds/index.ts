@@ -10,6 +10,8 @@ import { pubgEndgameCircleStrategy } from './posts/pubg-endgame-circle-strategy'
 import { bestPubgVehicles } from './posts/best-pubg-vehicles';
 import { pubgSquadStrategy } from './posts/pubg-squad-strategy';
 import { pubgThrowablesUtilityGuide } from './posts/pubg-throwables-utility-guide';
+import { bestPubgAssaultRifles } from './posts/best-pubg-assault-rifles';
+import { pubgLootingInventoryGuide } from './posts/pubg-looting-inventory-guide';
 
 export const PUBG_POSTS: BlogPost[] = [
   pubgBeginnersGuide,
@@ -23,4 +25,6 @@ export const PUBG_POSTS: BlogPost[] = [
   bestPubgVehicles,
   pubgSquadStrategy,
   pubgThrowablesUtilityGuide,
+  bestPubgAssaultRifles,
+  pubgLootingInventoryGuide,
 ];
