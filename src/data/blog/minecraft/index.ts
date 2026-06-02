@@ -10,6 +10,8 @@ import { howToFindDiamondsMinecraft } from './posts/how-to-find-diamonds-minecra
 import { howToBeatTheEnderDragon } from './posts/how-to-beat-the-ender-dragon';
 import { minecraftNetherGuide } from './posts/minecraft-nether-guide';
 import { bestMinecraftFarms } from './posts/best-minecraft-farms';
+import { howToFindNetheriteMinecraft } from './posts/how-to-find-netherite-minecraft';
+import { minecraftPotionBrewingGuide } from './posts/minecraft-potion-brewing-guide';
 
 export const MINECRAFT_POSTS: BlogPost[] = [
   minecraftSurvivalGuideBeginners,
@@ -21,4 +23,6 @@ export const MINECRAFT_POSTS: BlogPost[] = [
   howToBeatTheEnderDragon,
   minecraftNetherGuide,
   bestMinecraftFarms,
+  howToFindNetheriteMinecraft,
+  minecraftPotionBrewingGuide,
 ];

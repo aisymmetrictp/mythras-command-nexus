@@ -8,6 +8,8 @@ import { pubgRecoilControlGuide } from './posts/pubg-recoil-control-guide';
 import { bestPubgMapsRanked } from './posts/best-pubg-maps-ranked';
 import { pubgEndgameCircleStrategy } from './posts/pubg-endgame-circle-strategy';
 import { bestPubgVehicles } from './posts/best-pubg-vehicles';
+import { pubgSquadStrategy } from './posts/pubg-squad-strategy';
+import { pubgThrowablesUtilityGuide } from './posts/pubg-throwables-utility-guide';
 
 export const PUBG_POSTS: BlogPost[] = [
   pubgBeginnersGuide,
@@ -19,4 +21,6 @@ export const PUBG_POSTS: BlogPost[] = [
   bestPubgMapsRanked,
   pubgEndgameCircleStrategy,
   bestPubgVehicles,
+  pubgSquadStrategy,
+  pubgThrowablesUtilityGuide,
 ];

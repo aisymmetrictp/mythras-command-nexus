@@ -28,6 +28,8 @@ import { bestCrkSupportCookiesRanked } from './posts/best-crk-support-cookies-ra
 import { bestAncientCookiesCrkRanked } from './posts/best-ancient-cookies-crk-ranked';
 import { bestCrkTankCookiesRanked } from './posts/best-crk-tank-cookies-ranked';
 import { shadowMilkCookieToppingsBuild } from './posts/shadow-milk-cookie-toppings-build';
+import { bestEpicCookiesCrkRanked } from './posts/best-epic-cookies-crk-ranked';
+import { seaFairyCookieToppingsBuild } from './posts/sea-fairy-cookie-toppings-build';
 
 export const CRK_POSTS: BlogPost[] = [
   crkCodes,
@@ -59,4 +61,6 @@ export const CRK_POSTS: BlogPost[] = [
   bestAncientCookiesCrkRanked,
   bestCrkTankCookiesRanked,
   shadowMilkCookieToppingsBuild,
+  bestEpicCookiesCrkRanked,
+  seaFairyCookieToppingsBuild,
 ];
