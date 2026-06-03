@@ -18,6 +18,8 @@ import { bestPurpleCardsBraverse } from './posts/best-purple-cards-cookie-run-br
 import { bestBraverseCardsRanked } from './posts/best-cookie-run-braverse-cards-ranked';
 import { braverseBlackPureCards } from './posts/cookie-run-braverse-black-pure-cards';
 import { bestBraverseSoulJamCards } from './posts/best-cookie-run-braverse-soul-jam-cards';
+import { bestBraverseItemTrapStageCards } from './posts/best-braverse-item-trap-stage-cards';
+import { bestDarkEnchantressWarCards } from './posts/best-dark-enchantress-war-cards';
 
 export const BRAVERSE_POSTS: BlogPost[] = [
   howToPlayBraverse,
@@ -39,4 +41,6 @@ export const BRAVERSE_POSTS: BlogPost[] = [
   bestBraverseCardsRanked,
   braverseBlackPureCards,
   bestBraverseSoulJamCards,
+  bestBraverseItemTrapStageCards,
+  bestDarkEnchantressWarCards,
 ];

@@ -12,6 +12,8 @@ import { pubgSquadStrategy } from './posts/pubg-squad-strategy';
 import { pubgThrowablesUtilityGuide } from './posts/pubg-throwables-utility-guide';
 import { bestPubgAssaultRifles } from './posts/best-pubg-assault-rifles';
 import { pubgLootingInventoryGuide } from './posts/pubg-looting-inventory-guide';
+import { bestPubgSniperRifles } from './posts/best-pubg-sniper-rifles';
+import { pubgMovementPositioningGuide } from './posts/pubg-movement-positioning-guide';
 
 export const PUBG_POSTS: BlogPost[] = [
   pubgBeginnersGuide,
@@ -27,4 +29,6 @@ export const PUBG_POSTS: BlogPost[] = [
   pubgThrowablesUtilityGuide,
   bestPubgAssaultRifles,
   pubgLootingInventoryGuide,
+  bestPubgSniperRifles,
+  pubgMovementPositioningGuide,
 ];
