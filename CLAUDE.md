@@ -111,3 +111,21 @@ Default response flow:
 2. Announce the agents you're about to dispatch.
 3. Run the pipeline.
 4. Show the final post inline (or as a file) and ask if they want revisions.
+
+---
+
+## End-of-Batch Publish Routine (run after every blog batch)
+
+After the writer agents finish and their posts are registered, run this exact sequence from `mythras-command-nexus/` before calling a batch done:
+
+1. **Verify TOC:** `node scripts/verify-blog-toc.js` → must report `Total issues: 0`. (Apostrophe TOC `label`s must be single-quoted with `\'`, never double-quoted, or the verifier false-flags them.)
+2. **Strip placeholders:** grep the new posts for `[verify` / `[confirm` / `[todo` (case-insensitive) — there must be none.
+3. **Confirm images exist:** every `/images/...` path referenced by the new posts must exist in `public/` (missing public images don't fail the build but 404 live).
+4. **Update sitemap:** append each new post URL to `public/sitemap.xml` — it's a MANUAL file (no `app/sitemap.ts`).
+5. **Refresh AI-crawler files:** `node scripts/seo/generate-llms.js` → regenerates `public/llms.txt` + `public/llms-full.txt` from live post data (all 7 games, freshest-first). Never hand-edit these.
+6. **Build:** `npm run build` (exit 0; confirm the new `out/blog/<game>/<slug>.html` files exist).
+7. **Deploy:** `netlify deploy --prod --dir=out --no-build` (the `--no-build` is REQUIRED).
+8. **Ping crawlers:** `node scripts/seo/indexnow-submit.js --latest=<N>` (N = posts added this batch) → notifies Bing/Yandex/Seznam/Naver via IndexNow. The key file `public/<32hex>.txt` must already be deployed; a first-of-day submit can 403 `SiteVerificationNotCompleted` — wait ~1 min and retry. Google is NOT on IndexNow (robots.txt→sitemap handles discovery; optional manual GSC sitemap resubmit for speed).
+9. **Commit + push:** `git add` the new posts/images/sitemap/llms files → commit → `git push origin master`.
+
+Fact-check discipline: Braverse posts against the official card DB (`https://cookierunbraverse.com/data/json/cardList_en.json`, 1,992 cards); MTG card legality via Scryfall; CRK facts via the Fandom wiki.
