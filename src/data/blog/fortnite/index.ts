@@ -14,6 +14,8 @@ import { bestFortniteKeybinds } from './posts/best-fortnite-keybinds';
 import { fortniteMovementGuide } from './posts/fortnite-movement-guide';
 import { fortniteAdvancedBuildingTechniques } from './posts/fortnite-advanced-building-techniques';
 import { howToGetBetterAtFortnite } from './posts/how-to-get-better-at-fortnite';
+import { fortniteTeamPlayGuide } from './posts/fortnite-team-play-guide';
+import { fortniteMatsManagementGuide } from './posts/fortnite-mats-management-guide';
 
 export const FORTNITE_POSTS: BlogPost[] = [
   fortniteBeginnersGuide,
@@ -31,4 +33,6 @@ export const FORTNITE_POSTS: BlogPost[] = [
   fortniteMovementGuide,
   fortniteAdvancedBuildingTechniques,
   howToGetBetterAtFortnite,
+  fortniteTeamPlayGuide,
+  fortniteMatsManagementGuide,
 ];

@@ -26,6 +26,8 @@ import { bestRampSpellsCommanderMtg } from './posts/best-ramp-spells-commander-m
 import { bestCommandersForBeginnersMtg } from './posts/best-commanders-for-beginners-mtg';
 import { mtgPauperFormatGuide } from './posts/mtg-pauper-format-guide';
 import { bestTutorsCommanderMtg } from './posts/best-tutors-commander-mtg';
+import { bestEquipmentMtg } from './posts/best-equipment-mtg';
+import { mtgColorPieExplained } from './posts/mtg-color-pie-explained';
 
 export const MTG_POSTS: BlogPost[] = [
   bestWhiteCardsMtg,
@@ -55,4 +57,6 @@ export const MTG_POSTS: BlogPost[] = [
   bestCommandersForBeginnersMtg,
   mtgPauperFormatGuide,
   bestTutorsCommanderMtg,
+  bestEquipmentMtg,
+  mtgColorPieExplained,
 ];

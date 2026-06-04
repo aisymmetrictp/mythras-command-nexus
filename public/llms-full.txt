@@ -1,6 +1,6 @@
 # Mythras // The Multiverse — Full Content Directory
 
-> Comprehensive site directory for AI systems indexing gamertagmythras.com. Includes every published blog post with title, summary, and canonical URL across all seven games, plus the gear-guide structure and major site sections. 143 blog posts total.
+> Comprehensive site directory for AI systems indexing gamertagmythras.com. Includes every published blog post with title, summary, and canonical URL across all seven games, plus the gear-guide structure and major site sections. 157 blog posts total.
 
 ## About the publisher
 
@@ -8,7 +8,13 @@ Mythras // The Multiverse is an independent gaming creator brand operated by an 
 
 Editorial guarantee: every guide is written by the Mythras team and fact-checked against authoritative sources before publishing (Scryfall for MTG legality, the official Cookie Run: Braverse card database, and the game wikis). Posts include their refresh cadence so readers know how often the information is updated.
 
-## Cookie Run: Kingdom — full blog post list (35)
+## Cookie Run: Kingdom — full blog post list (37)
+
+### best-beginner-cookies-crk
+Best Cookie Run: Kingdom Cookies for Beginners, Ranked. The best beginner cookies in Cookie Run: Kingdom for June 2026, ranked by early-game value. The farmable Epics and Rares a new or F2P player should build first. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/best-beginner-cookies-crk
+
+### wind-archer-cookie-toppings-build
+Wind Archer Cookie Toppings Build & Guide. Wind Archer Cookie build guide for June 2026: the topping spread, substat priorities, beascuit and tart picks, Magic Candy notes, and his best Arena teams. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/wind-archer-cookie-toppings-build
 
 ### best-crk-tank-cookies-ranked
 Best Tank Cookies in Cookie Run: Kingdom, Ranked. The best Defense-class tank cookies in CRK ranked for June 2026. Hollyberry, Financier, Wildberry, Milk and more, scored across Arena, Guild Battle, and PvE. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/best-crk-tank-cookies-ranked
@@ -115,7 +121,13 @@ Timekeeper Cookie — Best Toppings, Beascuits & Team Comps. The complete Timeke
 ### timeline-of-fate-update-guide
 Is the Timeline of Fate Update Worth It? Beginner-to-Endgame Guide to CRK v7.4. Honest breakdown of Cookie Run: Kingdom v7.4 Timeline of Fate Act 2 — Timekeeper, Ash Salt, 6-star Legendaries, Arcade Arena, Unstable Timeline, and which players should actually log in. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/timeline-of-fate-update-guide
 
-## Cookie Run: Braverse — full blog post list (21)
+## Cookie Run: Braverse — full blog post list (23)
+
+### best-arena-of-glory-cards-braverse
+Best Cards from Cookie Run: Braverse — Arena of Glory. A set review of Cookie Run: Braverse's Arena of Glory booster (BS7): the standout Arena cards ranked by color and role, with real cost, HP, and skill text. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/best-arena-of-glory-cards-braverse
+
+### best-dragon-cards-cookie-run-braverse
+Best Dragon Cards in Cookie Run: Braverse, Ranked. The five Dragon Cookies in Cookie Run: Braverse ranked by power and role - one per color, all Ultra Rare, with real cost, HP, and skill text from the database. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/best-dragon-cards-cookie-run-braverse
 
 ### best-braverse-item-trap-stage-cards
 Best Cookie Run: Braverse Item, Trap & Stage Cards, Ranked. The best non-Cookie cards in Cookie Run: Braverse, ranked - the Items, Traps, and Stages that quietly win games, from Wind Gems to Tide Shards and beyond. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/best-braverse-item-trap-stage-cards
@@ -180,7 +192,13 @@ Every Cookie Run: Braverse Set in Order: Release Timeline & Buying Guide. A clea
 ### how-to-play-cookie-run-braverse
 How to Play Cookie Run: Braverse - A Complete Beginner Guide. Learn how to play Cookie Run: Braverse from scratch: the card types, game setup, turn phases, the rest-to-pay cost system, the FLIP mechanic, and both win conditions explained for new players. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/how-to-play-cookie-run-braverse
 
-## Magic: The Gathering — full blog post list (27)
+## Magic: The Gathering — full blog post list (29)
+
+### best-equipment-mtg
+Best Equipment in Magic: The Gathering, Ranked. The best Equipment in MTG, ranked for Commander with format notes. Skullclamp, Umezawa’s Jitte, the Swords cycle, Batterskull, Lightning Greaves and more. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-equipment-mtg
+
+### mtg-color-pie-explained
+The MTG Color Pie, Explained: What Each Color Does. The MTG color pie explained: what White, Blue, Black, Red, and Green each do well, their weaknesses, the philosophy, and what two-color pairs feel like. URL: https://gamertagmythras.com/blog/magic-the-gathering/mtg-color-pie-explained
 
 ### best-board-wipes-mtg
 Best Board Wipes in Magic: The Gathering, Ranked. The best board wipes in MTG ranked for Commander and eternal play. Toxic Deluge, Wrath of God, Blasphemous Act, Farewell, Cyclonic Rift, and when to run each. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-board-wipes-mtg
@@ -263,7 +281,13 @@ How Nathan Steuer Won Pro Tour Strixhaven With Selesnya Landfall. Nathan Steuer 
 ### standard-post-ban-meta-may-2026
 Standard After the May 2026 Ban Wave — What to Brew Now That Cori-Steel Is Gone. MTG Standard after the May 18, 2026 ban wave: all 10 banned cards, the new tier 1 decks, three brewing directions, and which cards just got way better. URL: https://gamertagmythras.com/blog/magic-the-gathering/standard-post-ban-meta-may-2026
 
-## Minecraft — full blog post list (15)
+## Minecraft — full blog post list (17)
+
+### best-minecraft-shaders
+Best Minecraft Shaders to Install Right Now. The best Minecraft shaders ranked by looks and FPS: Complementary, BSL, SEUS, Sildur's and more, plus how to install them with Iris. Java-focused guide. URL: https://gamertagmythras.com/blog/minecraft/best-minecraft-shaders
+
+### how-to-beat-the-wither
+How to Beat the Wither in Minecraft. How to spawn and beat the Wither in Minecraft: the soul sand spawn recipe, gear prep, arena strategy, the big Java vs Bedrock difference, and the beacon payoff. URL: https://gamertagmythras.com/blog/minecraft/how-to-beat-the-wither
 
 ### best-minecraft-farms
 Best Minecraft Farms to Build First. The best Minecraft farms to build first, ranked by value: XP/mob, iron, food, raid, and gunpowder farms — what each one unlocks and how the mechanics work. URL: https://gamertagmythras.com/blog/minecraft/best-minecraft-farms
@@ -310,7 +334,13 @@ Redstone Basics: A Beginner's Guide to Minecraft's Wiring. Redstone basics expla
 ### minecraft-survival-guide-beginners
 Minecraft Survival Guide for Beginners — Surviving Your First Days. A no-fluff Minecraft survival guide for beginners. The exact first-day tool chain, how to survive night one, and what to prioritize before mobs find you. URL: https://gamertagmythras.com/blog/minecraft/minecraft-survival-guide-beginners
 
-## Roblox — full blog post list (15)
+## Roblox — full blog post list (17)
+
+### best-free-roblox-games
+Best Free Roblox Games to Play Right Now. The best free Roblox games right now — Brookhaven, Blox Fruits, Grow a Garden, Steal a Brainrot, DOORS and more. The genuinely great free-to-play standouts. URL: https://gamertagmythras.com/blog/roblox/best-free-roblox-games
+
+### best-roblox-survival-games
+Best Roblox Survival Games to Play Right Now. The best Roblox survival games right now — 99 Nights in the Forest, Booga Booga Reborn, Apocalypse Rising 2, Flood Escape 2 and more, and who each is for. URL: https://gamertagmythras.com/blog/roblox/best-roblox-survival-games
 
 ### best-roblox-anime-games
 Best Roblox Anime Games to Play Right Now. The best Roblox anime games right now — Blox Fruits, Anime Vanguards, Anime Defenders, Jujutsu Infinite and more. What each one is and which to start with. URL: https://gamertagmythras.com/blog/roblox/best-roblox-anime-games
@@ -357,7 +387,13 @@ Beginner's Guide to Roblox: Everything a New Player Needs. New to Roblox? Set up
 ### roblox-studio-basics
 Roblox Studio Basics: Make Your First Game. Build and publish your first Roblox game in an afternoon. Roblox Studio basics — templates, parts, the Explorer, your first Luau script, testing, and going live. URL: https://gamertagmythras.com/blog/roblox/roblox-studio-basics
 
-## Fortnite — full blog post list (15)
+## Fortnite — full blog post list (17)
+
+### fortnite-mats-management-guide
+Fortnite Mats and Resource Management Guide. Stop running out of mats in Fortnite: farming efficiently, the 500-per-type cap, wood vs brick vs metal, when to build vs save, and managing heals and ammo. URL: https://gamertagmythras.com/blog/fortnite/fortnite-mats-management-guide
+
+### fortnite-team-play-guide
+Fortnite Squad Play Guide: How to Win as a Team. Win more squad games in Fortnite: roles, callouts, when to split vs group, reboots, focus-firing, sharing mats and heals, and third-partying as a team. URL: https://gamertagmythras.com/blog/fortnite/fortnite-team-play-guide
 
 ### best-fortnite-keybinds
 Best Fortnite Keybinds for Building (PC & Controller). The best Fortnite building keybinds for PC and controller: wall, ramp, floor, cone, edit, and reset binds that keep your hands on movement so you build faster. URL: https://gamertagmythras.com/blog/fortnite/best-fortnite-keybinds
@@ -404,7 +440,13 @@ Fortnite Editing Guide: How to Edit Faster and Cleaner. Edit faster in Fortnite:
 ### fortnite-weapon-tier-list
 Fortnite Weapon Tier List: How to Rank Any Loot Pool. A Fortnite weapon tier list that survives every season: how to rank guns by class and range, build a balanced loadout, and judge new weapons the moment they drop. URL: https://gamertagmythras.com/blog/fortnite/fortnite-weapon-tier-list
 
-## PUBG: Battlegrounds — full blog post list (15)
+## PUBG: Battlegrounds — full blog post list (17)
+
+### best-pubg-smgs
+Best PUBG SMGs, Ranked. Every PUBG SMG ranked — Vector, UMP45, MP5K, Micro UZI, PP-19 Bizon, P90 — by close-range damage, control, and early-game value, with the best use for each. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/best-pubg-smgs
+
+### pubg-audio-guide
+PUBG Audio Guide: How to Win Fights With Sound. Win more PUBG fights with sound — read footsteps, gunfire direction, vehicle, glass, and door cues, plus the audio settings and headphones that turn ears into information. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-audio-guide
 
 ### best-pubg-assault-rifles
 Best PUBG Assault Rifles, Ranked. Every PUBG assault rifle ranked — M416, Beryl, AKM, AUG, ACE32, Groza and the rest — by recoil, fire rate, ammo, and availability, with the best use for each. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/best-pubg-assault-rifles
