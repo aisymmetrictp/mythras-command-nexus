@@ -28,6 +28,8 @@ import { mtgPauperFormatGuide } from './posts/mtg-pauper-format-guide';
 import { bestTutorsCommanderMtg } from './posts/best-tutors-commander-mtg';
 import { bestEquipmentMtg } from './posts/best-equipment-mtg';
 import { mtgColorPieExplained } from './posts/mtg-color-pie-explained';
+import { bestEnchantmentsMtg } from './posts/best-enchantments-mtg';
+import { mtgCombatExplained } from './posts/mtg-combat-explained';
 
 export const MTG_POSTS: BlogPost[] = [
   bestWhiteCardsMtg,
@@ -59,4 +61,6 @@ export const MTG_POSTS: BlogPost[] = [
   bestTutorsCommanderMtg,
   bestEquipmentMtg,
   mtgColorPieExplained,
+  bestEnchantmentsMtg,
+  mtgCombatExplained,
 ];

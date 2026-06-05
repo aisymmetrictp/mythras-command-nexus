@@ -16,6 +16,8 @@ import { fortniteAdvancedBuildingTechniques } from './posts/fortnite-advanced-bu
 import { howToGetBetterAtFortnite } from './posts/how-to-get-better-at-fortnite';
 import { fortniteTeamPlayGuide } from './posts/fortnite-team-play-guide';
 import { fortniteMatsManagementGuide } from './posts/fortnite-mats-management-guide';
+import { fortniteControllerSettings } from './posts/fortnite-controller-settings';
+import { fortnitePerformanceFpsGuide } from './posts/fortnite-performance-fps-guide';
 
 export const FORTNITE_POSTS: BlogPost[] = [
   fortniteBeginnersGuide,
@@ -35,4 +37,6 @@ export const FORTNITE_POSTS: BlogPost[] = [
   howToGetBetterAtFortnite,
   fortniteTeamPlayGuide,
   fortniteMatsManagementGuide,
+  fortniteControllerSettings,
+  fortnitePerformanceFpsGuide,
 ];

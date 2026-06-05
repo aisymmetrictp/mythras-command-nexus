@@ -22,6 +22,8 @@ import { bestBraverseItemTrapStageCards } from './posts/best-braverse-item-trap-
 import { bestDarkEnchantressWarCards } from './posts/best-dark-enchantress-war-cards';
 import { bestDragonCardsBraverse } from './posts/best-dragon-cards-cookie-run-braverse';
 import { bestArenaOfGloryCardsBraverse } from './posts/best-arena-of-glory-cards-braverse';
+import { bestAncientCardsCookieRunBraverse } from './posts/best-ancient-cards-cookie-run-braverse';
+import { bestOperationTimeguardCardsBraverse } from './posts/best-operation-timeguard-cards-braverse';
 
 export const BRAVERSE_POSTS: BlogPost[] = [
   howToPlayBraverse,
@@ -47,4 +49,6 @@ export const BRAVERSE_POSTS: BlogPost[] = [
   bestDarkEnchantressWarCards,
   bestDragonCardsBraverse,
   bestArenaOfGloryCardsBraverse,
+  bestAncientCardsCookieRunBraverse,
+  bestOperationTimeguardCardsBraverse,
 ];

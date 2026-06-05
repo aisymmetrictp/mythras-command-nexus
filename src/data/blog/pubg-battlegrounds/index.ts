@@ -16,6 +16,8 @@ import { bestPubgSniperRifles } from './posts/best-pubg-sniper-rifles';
 import { pubgMovementPositioningGuide } from './posts/pubg-movement-positioning-guide';
 import { bestPubgSmgs } from './posts/best-pubg-smgs';
 import { pubgAudioGuide } from './posts/pubg-audio-guide';
+import { bestPubgShotguns } from './posts/best-pubg-shotguns';
+import { pubgHealingBoostGuide } from './posts/pubg-healing-boost-guide';
 
 export const PUBG_POSTS: BlogPost[] = [
   pubgBeginnersGuide,
@@ -35,4 +37,6 @@ export const PUBG_POSTS: BlogPost[] = [
   pubgMovementPositioningGuide,
   bestPubgSmgs,
   pubgAudioGuide,
+  bestPubgShotguns,
+  pubgHealingBoostGuide,
 ];
