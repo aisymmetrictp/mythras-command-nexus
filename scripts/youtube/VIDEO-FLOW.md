@@ -22,9 +22,11 @@ Claude builds the Canva thumbnail. All local except the Canva step.
    - `transcript.txt` — the local transcript
    - `frames/frame-1..5.jpg` — candidate thumbnail stills (1280px, at smart timestamps)
    - `thumbnail-brief.txt` — the punchy hook + brief for the Canva step
-4. Ask Claude: **"make the Canva thumbnail for `<name>`"** → it generates an on-brand
-   `youtube_thumbnail` in Canva from the hook + brand kit, exports a PNG, and gives you
-   the editable Canva link (drop your favorite gameplay frame in to finish).
+4. Ask Claude: **"make the Canva thumbnail for `<name>`"** → it `copy-design`s your
+   standard Mythras thumbnail template in Canva, swaps the hook text + character art +
+   your chosen gameplay frame, exports a PNG, and gives you the editable Canva link.
+   **Requires the Canva connector to be signed in as the Gamertag Mythras account
+   (`gamertagmythras@gmail.com`), not the AISymmetric one.**
 5. Upload to YouTube, paste the title + description, set the thumbnail.
 
 ## Knobs (env in scripts/youtube/.env)

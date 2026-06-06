@@ -125,7 +125,7 @@ async function processVideo(env, file, footer) {
   fs.writeFileSync(path.join(outDir, 'titles.txt'), (g.titles || []).map((t, i) => `${i + 1}. ${t}`).join('\n'), 'utf8');
   fs.writeFileSync(path.join(outDir, 'description.txt'), description, 'utf8');
   fs.writeFileSync(path.join(outDir, 'thumbnail-brief.txt'),
-    `Hook: ${g.thumbnailHook || ''}\nTitle: ${(g.titles || [])[0] || name}\nGame: Cookie Run: Kingdom\nBrand kit: kAGp0PZ4kMU\nFrames: out/${slug}/frames/\n\nAsk Claude: "make the Canva thumbnail for ${slug}"`, 'utf8');
+    `Hook: ${g.thumbnailHook || ''}\nTitle: ${(g.titles || [])[0] || name}\nGame: Cookie Run: Kingdom\nFrames: out/${slug}/frames/\nThumbnail: Claude copies the standard Mythras thumbnail template in Canva (copy-design), swaps the hook text + character art + a chosen frame, then exports the PNG. (Canva connector must be signed in as the Gamertag Mythras account.)\n\nAsk Claude: "make the Canva thumbnail for ${slug}"`, 'utf8');
 
   // 4) candidate thumbnail frames at smart spots (skip the dead start/end)
   const pcts = [0.12, 0.28, 0.44, 0.60, 0.76];
