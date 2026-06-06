@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { ALL_POSTS, getPostBySlug, getRelatedPosts } from '@/data/blog/blogIndex';
-import { getGameBySlug } from '@/data/blog/games';
+import { getGameBySlug, isGameHidden } from '@/data/blog/games';
 import BlogPostBody from '@/components/blog/BlogPostBody';
 
 export function generateStaticParams() {
@@ -40,6 +40,8 @@ export async function generateMetadata({ params }: { params: Promise<{ game: str
       images: [ogImage],
     },
     alternates: { canonical: url },
+    // Temporarily de-indexed while the site is reviewed on its Cookie Run core.
+    ...(isGameHidden(post.game) ? { robots: { index: false, follow: true } } : {}),
   };
 }
 

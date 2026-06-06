@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { ACTIVE_GAMES, getGameBySlug } from '@/data/blog/games';
+import { ACTIVE_GAMES, getGameBySlug, isGameHidden } from '@/data/blog/games';
 import { getPostsByGame, getTagsForGame } from '@/data/blog/blogIndex';
 import { BLOG_CATEGORIES } from '@/data/blog/categories';
 import BlogBrowser, { type BrowsePost } from '@/components/blog/BlogBrowser';
@@ -27,6 +27,7 @@ export async function generateMetadata({ params }: { params: Promise<{ game: str
     openGraph: { title, description, url, type: 'website' },
     twitter: { title, description },
     alternates: { canonical: url },
+    ...(isGameHidden(g.slug) ? { robots: { index: false, follow: true } } : {}),
   };
 }
 

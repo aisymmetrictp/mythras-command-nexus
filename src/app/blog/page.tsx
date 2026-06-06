@@ -1,6 +1,6 @@
 import Link from 'next/link';
-import { ALL_POSTS } from '@/data/blog/blogIndex';
-import { ACTIVE_GAMES } from '@/data/blog/games';
+import { ALL_POSTS, VISIBLE_POSTS } from '@/data/blog/blogIndex';
+import { VISIBLE_GAMES } from '@/data/blog/games';
 import { BLOG_CATEGORIES } from '@/data/blog/categories';
 import BlogCard from '@/components/blog/BlogCard';
 import { WebPageSchema, BreadcrumbSchema } from '@/components/StructuredData';
@@ -8,8 +8,8 @@ import { WebPageSchema, BreadcrumbSchema } from '@/components/StructuredData';
 // Build the "Latest Articles" feed by interleaving top posts from each active game,
 // so no single game's date cluster shoulders the others off the visible slice.
 function buildInterleavedRecent(perGameLimit = 3): typeof ALL_POSTS {
-  const perGame = ACTIVE_GAMES.map(g =>
-    ALL_POSTS.filter(p => p.game === g.slug).slice(0, perGameLimit)
+  const perGame = VISIBLE_GAMES.map(g =>
+    VISIBLE_POSTS.filter(p => p.game === g.slug).slice(0, perGameLimit)
   );
   const out: typeof ALL_POSTS = [];
   for (let i = 0; i < perGameLimit; i++) {
@@ -61,8 +61,8 @@ export default function BlogIndexPage() {
           <div className="h-px flex-1 bg-gradient-to-r from-[#D4A853]/30 to-transparent" />
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
-          {ACTIVE_GAMES.map(game => {
-            const postsForGame = ALL_POSTS.filter(p => p.game === game.slug);
+          {VISIBLE_GAMES.map(game => {
+            const postsForGame = VISIBLE_POSTS.filter(p => p.game === game.slug);
             return (
               <Link
                 key={game.slug}
@@ -111,7 +111,7 @@ export default function BlogIndexPage() {
         </div>
         <div className="grid grid-cols-2 md:grid-cols-3 gap-3">
           {BLOG_CATEGORIES.map(cat => {
-            const count = ALL_POSTS.filter(p => p.category === cat.slug).length;
+            const count = VISIBLE_POSTS.filter(p => p.category === cat.slug).length;
             return (
               <div
                 key={cat.slug}

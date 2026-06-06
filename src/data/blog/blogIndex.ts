@@ -1,4 +1,5 @@
 import type { BlogPost, BlogPostListItem } from './blogTypes';
+import { HIDDEN_GAME_SLUGS } from './games';
 import { CRK_POSTS } from './cookie-run-kingdom';
 import { MTG_POSTS } from './magic-the-gathering';
 import { BRAVERSE_POSTS } from './cookie-run-braverse-tcg';
@@ -16,6 +17,10 @@ export const ALL_POSTS: BlogPost[] = [
   ...FORTNITE_POSTS,
   ...MINECRAFT_POSTS,
 ].sort((a, b) => new Date(b.publishDate).getTime() - new Date(a.publishDate).getTime());
+
+/** Posts whose game is currently indexed/discoverable (excludes hidden games).
+ *  Use for the blog index feed, sitemap, and llms.txt — NOT for page builds. */
+export const VISIBLE_POSTS: BlogPost[] = ALL_POSTS.filter(p => !HIDDEN_GAME_SLUGS.has(p.game));
 
 export function getPostsByGame(gameSlug: string): BlogPost[] {
   return ALL_POSTS.filter(p => p.game === gameSlug);

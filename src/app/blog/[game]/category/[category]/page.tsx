@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { ACTIVE_GAMES, getGameBySlug } from '@/data/blog/games';
+import { ACTIVE_GAMES, getGameBySlug, isGameHidden } from '@/data/blog/games';
 import {
   getPostsByCategory,
   getCategorySlugsForGame,
@@ -42,6 +42,7 @@ export async function generateMetadata({
     openGraph: { title, description, url, type: 'website' },
     twitter: { title, description },
     alternates: { canonical: url },
+    ...(isGameHidden(g.slug) ? { robots: { index: false, follow: true } } : {}),
   };
 }
 

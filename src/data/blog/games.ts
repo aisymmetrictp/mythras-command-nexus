@@ -78,3 +78,24 @@ export function getGameBySlug(slug: string): Game | undefined {
 }
 
 export const ACTIVE_GAMES: Game[] = GAMES.filter(g => g.active);
+
+// --- Indexing gate (AdSense focus) -------------------------------------------
+// Games temporarily hidden from discovery + de-indexed while we get the site
+// approved on its strongest, original-media-backed vertical (Cookie Run). Their
+// pages still BUILD (so re-enabling is instant) but are emitted noindex and
+// removed from the nav, the blog index, the sitemap, and llms.txt.
+// To restore everything after approval: empty this set.
+export const HIDDEN_GAME_SLUGS = new Set<string>([
+  'magic-the-gathering',
+  'minecraft',
+  'roblox',
+  'fortnite',
+  'pubg-battlegrounds',
+]);
+
+export function isGameHidden(slug: string): boolean {
+  return HIDDEN_GAME_SLUGS.has(slug);
+}
+
+/** Active games that are also currently indexed/discoverable (drives nav + blog index). */
+export const VISIBLE_GAMES: Game[] = ACTIVE_GAMES.filter(g => !HIDDEN_GAME_SLUGS.has(g.slug));

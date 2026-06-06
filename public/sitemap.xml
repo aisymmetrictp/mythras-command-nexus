@@ -193,90 +193,6 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/best-white-cards-magic-the-gathering</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>quarterly</changefreq>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/best-blue-cards-magic-the-gathering</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>quarterly</changefreq>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/best-black-cards-magic-the-gathering</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>quarterly</changefreq>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/best-red-cards-magic-the-gathering</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>quarterly</changefreq>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/best-green-cards-magic-the-gathering</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>quarterly</changefreq>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/standard-post-ban-meta-may-2026</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/selesnya-landfall-pro-tour-strixhaven-winning-deck</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>quarterly</changefreq>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/secrets-of-strixhaven-best-standard-cards</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>quarterly</changefreq>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/best-lands-commander-mtg</loc>
-    <lastmod>2026-05-27</lastmod>
-    <changefreq>quarterly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/mtg-commander-format-guide-how-to-start</loc>
-    <lastmod>2026-05-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/best-budget-commander-decks-under-100</loc>
-    <lastmod>2026-05-27</lastmod>
-    <changefreq>quarterly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/best-removal-spells-mtg</loc>
-    <lastmod>2026-05-28</lastmod>
-    <changefreq>quarterly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/mtg-deck-archetypes-explained</loc>
-    <lastmod>2026-05-28</lastmod>
-    <changefreq>quarterly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/how-to-build-a-commander-deck</loc>
-    <lastmod>2026-05-28</lastmod>
-    <changefreq>quarterly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>https://gamertagmythras.com/blog/cookie-run-braverse-tcg</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -362,36 +278,6 @@
   </url>
   <url>
     <loc>https://gamertagmythras.com/blog/cookie-run-kingdom/category/tier-lists</loc>
-    <lastmod>2026-05-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/category/deck-guides</loc>
-    <lastmod>2026-05-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/category/card-guides</loc>
-    <lastmod>2026-05-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/category/format-guides</loc>
-    <lastmod>2026-05-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/category/set-releases</loc>
-    <lastmod>2026-05-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/category/beginner-guides</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -1693,24 +1579,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/best-mana-rocks-commander-mtg</loc>
-    <lastmod>2026-05-29</lastmod>
-    <changefreq>quarterly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/best-planeswalkers-magic-the-gathering</loc>
-    <lastmod>2026-05-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/mtg-mulligan-guide-london-mulligan</loc>
-    <lastmod>2026-05-29</lastmod>
-    <changefreq>quarterly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://gamertagmythras.com/blog/cookie-run-braverse-tcg/best-red-cards-cookie-run-braverse</loc>
     <lastmod>2026-05-29</lastmod>
     <changefreq>quarterly</changefreq>
@@ -1735,117 +1603,9 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gamertagmythras.com/blog/roblox/category/beginner-guides</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/roblox/category/tier-lists</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/roblox/category/game-guides</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/roblox/category/tips-tricks</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/roblox/roblox-beginners-guide</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/roblox/best-roblox-games</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/roblox/how-to-get-robux</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/roblox/roblox-studio-basics</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/roblox/best-roblox-games-with-friends</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://gamertagmythras.com/blog/pubg-battlegrounds</loc>
     <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/pubg-battlegrounds/category/beginner-guides</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/pubg-battlegrounds/category/tier-lists</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/pubg-battlegrounds/category/game-guides</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/pubg-battlegrounds/category/tips-tricks</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-beginners-guide</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/pubg-battlegrounds/best-pubg-weapons-tier-list</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/pubg-battlegrounds/best-pubg-loadouts</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/pubg-battlegrounds/best-pubg-landing-spots</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-settings-sensitivity-guide</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
@@ -1855,117 +1615,9 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gamertagmythras.com/blog/fortnite/category/beginner-guides</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/fortnite/category/tier-lists</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/fortnite/category/game-guides</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/fortnite/category/tips-tricks</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/fortnite/fortnite-beginners-guide</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/fortnite/fortnite-building-basics</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/fortnite/best-fortnite-landing-spots</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/fortnite/best-fortnite-settings</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/fortnite/fortnite-weapon-tier-list</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://gamertagmythras.com/blog/minecraft</loc>
     <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/minecraft/category/beginner-guides</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/minecraft/category/tier-lists</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/minecraft/category/game-guides</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/minecraft/category/tips-tricks</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/minecraft/minecraft-survival-guide-beginners</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/minecraft/best-minecraft-enchantments</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/minecraft/minecraft-redstone-basics</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/minecraft/best-minecraft-seeds</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/minecraft/minecraft-building-tips</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
@@ -1976,18 +1628,6 @@
   </url>
   <url>
     <loc>https://gamertagmythras.com/blog/cookie-run-kingdom/best-ancient-cookies-crk-ranked</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/mtg-limited-draft-guide-beginners</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/best-counterspells-mtg</loc>
     <lastmod>2026-05-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2005,54 +1645,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gamertagmythras.com/blog/roblox/best-roblox-horror-games</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/roblox/how-to-make-a-roblox-game</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-recoil-control-guide</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/pubg-battlegrounds/best-pubg-maps-ranked</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/fortnite/fortnite-editing-guide</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/fortnite/fortnite-aim-training-guide</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/minecraft/how-to-find-diamonds-minecraft</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/minecraft/how-to-beat-the-ender-dragon</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://gamertagmythras.com/blog/cookie-run-kingdom/best-crk-tank-cookies-ranked</loc>
     <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -2060,18 +1652,6 @@
   </url>
   <url>
     <loc>https://gamertagmythras.com/blog/cookie-run-kingdom/shadow-milk-cookie-toppings-build</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/best-board-wipes-mtg</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/mtg-modern-format-guide</loc>
     <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2089,54 +1669,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gamertagmythras.com/blog/roblox/best-roblox-tycoon-games</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/roblox/best-roblox-simulator-games</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-endgame-circle-strategy</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/pubg-battlegrounds/best-pubg-vehicles</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/fortnite/fortnite-zero-build-guide</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/fortnite/fortnite-endgame-strategy</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/minecraft/minecraft-nether-guide</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/minecraft/best-minecraft-farms</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://gamertagmythras.com/blog/cookie-run-kingdom/best-epic-cookies-crk-ranked</loc>
     <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -2144,18 +1676,6 @@
   </url>
   <url>
     <loc>https://gamertagmythras.com/blog/cookie-run-kingdom/sea-fairy-cookie-toppings-build</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/mtg-pioneer-format-guide</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/best-card-draw-commander-mtg</loc>
     <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2173,54 +1693,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gamertagmythras.com/blog/roblox/best-roblox-anime-games</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/roblox/best-roblox-rpg-games</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-squad-strategy</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-throwables-utility-guide</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/fortnite/fortnite-box-fighting-guide</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/fortnite/fortnite-rotation-guide</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/minecraft/how-to-find-netherite-minecraft</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/minecraft/minecraft-potion-brewing-guide</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://gamertagmythras.com/blog/cookie-run-kingdom/best-legendary-cookies-crk-ranked</loc>
     <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -2228,18 +1700,6 @@
   </url>
   <url>
     <loc>https://gamertagmythras.com/blog/cookie-run-kingdom/burning-spice-cookie-toppings-build</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/best-ramp-spells-commander-mtg</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/best-commanders-for-beginners-mtg</loc>
     <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2257,54 +1717,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gamertagmythras.com/blog/roblox/best-roblox-tower-defense-games</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/roblox/best-roblox-fps-games</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/pubg-battlegrounds/best-pubg-assault-rifles</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-looting-inventory-guide</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/fortnite/best-fortnite-keybinds</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/fortnite/fortnite-movement-guide</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/minecraft/minecraft-villager-trading-guide</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/minecraft/minecraft-taming-breeding-guide</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://gamertagmythras.com/blog/cookie-run-kingdom/mystic-flour-cookie-toppings-build</loc>
     <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -2312,18 +1724,6 @@
   </url>
   <url>
     <loc>https://gamertagmythras.com/blog/cookie-run-kingdom/crk-awakening-guide</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/mtg-pauper-format-guide</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/best-tutors-commander-mtg</loc>
     <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2341,54 +1741,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gamertagmythras.com/blog/roblox/best-roblox-roleplay-games</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/roblox/best-roblox-obby-games</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/pubg-battlegrounds/best-pubg-sniper-rifles</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-movement-positioning-guide</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/fortnite/fortnite-advanced-building-techniques</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/fortnite/how-to-get-better-at-fortnite</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/minecraft/best-minecraft-mods</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/minecraft/minecraft-biomes-guide</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://gamertagmythras.com/blog/cookie-run-kingdom/wind-archer-cookie-toppings-build</loc>
     <lastmod>2026-06-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -2396,18 +1748,6 @@
   </url>
   <url>
     <loc>https://gamertagmythras.com/blog/cookie-run-kingdom/best-beginner-cookies-crk</loc>
-    <lastmod>2026-06-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/best-equipment-mtg</loc>
-    <lastmod>2026-06-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/mtg-color-pie-explained</loc>
     <lastmod>2026-06-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2425,54 +1765,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gamertagmythras.com/blog/roblox/best-roblox-survival-games</loc>
-    <lastmod>2026-06-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/roblox/best-free-roblox-games</loc>
-    <lastmod>2026-06-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/pubg-battlegrounds/best-pubg-smgs</loc>
-    <lastmod>2026-06-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-audio-guide</loc>
-    <lastmod>2026-06-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/fortnite/fortnite-team-play-guide</loc>
-    <lastmod>2026-06-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/fortnite/fortnite-mats-management-guide</loc>
-    <lastmod>2026-06-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/minecraft/best-minecraft-shaders</loc>
-    <lastmod>2026-06-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/minecraft/how-to-beat-the-wither</loc>
-    <lastmod>2026-06-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://gamertagmythras.com/blog/cookie-run-kingdom/eternal-sugar-cookie-toppings-build</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -2480,18 +1772,6 @@
   </url>
   <url>
     <loc>https://gamertagmythras.com/blog/cookie-run-kingdom/best-crk-pve-teams</loc>
-    <lastmod>2026-06-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/best-enchantments-mtg</loc>
-    <lastmod>2026-06-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/mtg-combat-explained</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2509,54 +1789,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gamertagmythras.com/blog/roblox/best-roblox-story-games</loc>
-    <lastmod>2026-06-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/roblox/best-roblox-fighting-games</loc>
-    <lastmod>2026-06-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/pubg-battlegrounds/best-pubg-shotguns</loc>
-    <lastmod>2026-06-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-healing-boost-guide</loc>
-    <lastmod>2026-06-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/fortnite/fortnite-controller-settings</loc>
-    <lastmod>2026-06-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/fortnite/fortnite-performance-fps-guide</loc>
-    <lastmod>2026-06-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/minecraft/minecraft-armor-guide</loc>
-    <lastmod>2026-06-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/minecraft/minecraft-trial-chambers-guide</loc>
-    <lastmod>2026-06-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://gamertagmythras.com/blog/cookie-run-kingdom/silent-salt-cookie-toppings-build</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -2564,18 +1796,6 @@
   </url>
   <url>
     <loc>https://gamertagmythras.com/blog/cookie-run-kingdom/crk-gacha-pull-guide</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/mtg-legacy-format-guide</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/magic-the-gathering/mtg-keywords-explained</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2592,52 +1812,3 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/roblox/best-roblox-racing-games</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/roblox/best-roblox-games-for-kids</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/pubg-battlegrounds/best-pubg-dmrs</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-tpp-vs-fpp-guide</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/fortnite/fortnite-warmup-practice-guide</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/fortnite/fortnite-ranked-guide</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/minecraft/minecraft-elytra-guide</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gamertagmythras.com/blog/minecraft/minecraft-hostile-mobs-guide</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-</urlset>

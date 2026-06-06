@@ -5,7 +5,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import Link from 'next/link';
 import Image from 'next/image';
 import { channels } from '@/data/mockData';
-import { ACTIVE_GAMES } from '@/data/blog/games';
+import { VISIBLE_GAMES } from '@/data/blog/games';
 
 const channelYouTubeUrls: Record<string, string> = {
   cookierun: 'https://www.youtube.com/channel/UCGp83Usm4riRWlAYa9F2diQ',
@@ -133,7 +133,7 @@ export default function Navbar() {
               <div className="border-t border-[#D4A853]/10 pt-2 mt-2" />
               <div className="pt-2 pb-1 px-3 text-xs font-semibold text-[#D4A853]/60 uppercase tracking-wider">Blog</div>
               <MobileLink href="/blog" label="📰 All Articles" onClick={() => setMobileOpen(false)} />
-              {ACTIVE_GAMES.map(game => (
+              {VISIBLE_GAMES.map(game => (
                 <MobileLink
                   key={game.slug}
                   href={`/blog/${game.slug}`}
@@ -240,7 +240,7 @@ function BlogDropdown() {
             <div className="px-4 pt-3 pb-1.5">
               <span className="text-[10px] font-bold tracking-[0.15em] uppercase text-[#D4A853]/50">Browse by Game</span>
             </div>
-            {ACTIVE_GAMES.map(game => (
+            {VISIBLE_GAMES.map(game => (
               <Link
                 key={game.slug}
                 href={`/blog/${game.slug}`}
