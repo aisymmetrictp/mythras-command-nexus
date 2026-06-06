@@ -20,6 +20,8 @@ import { bestRobloxSurvivalGames } from './posts/best-roblox-survival-games';
 import { bestFreeRobloxGames } from './posts/best-free-roblox-games';
 import { bestRobloxStoryGames } from './posts/best-roblox-story-games';
 import { bestRobloxFightingGames } from './posts/best-roblox-fighting-games';
+import { bestRobloxRacingGames } from './posts/best-roblox-racing-games';
+import { bestRobloxGamesForKids } from './posts/best-roblox-games-for-kids';
 
 export const ROBLOX_POSTS: BlogPost[] = [
   robloxBeginnersGuide,
@@ -41,4 +43,6 @@ export const ROBLOX_POSTS: BlogPost[] = [
   bestFreeRobloxGames,
   bestRobloxStoryGames,
   bestRobloxFightingGames,
+  bestRobloxRacingGames,
+  bestRobloxGamesForKids,
 ];

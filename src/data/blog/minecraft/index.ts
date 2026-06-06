@@ -20,6 +20,8 @@ import { bestMinecraftShaders } from './posts/best-minecraft-shaders';
 import { howToBeatTheWither } from './posts/how-to-beat-the-wither';
 import { minecraftArmorGuide } from './posts/minecraft-armor-guide';
 import { minecraftTrialChambersGuide } from './posts/minecraft-trial-chambers-guide';
+import { minecraftElytraGuide } from './posts/minecraft-elytra-guide';
+import { minecraftHostileMobsGuide } from './posts/minecraft-hostile-mobs-guide';
 
 export const MINECRAFT_POSTS: BlogPost[] = [
   minecraftSurvivalGuideBeginners,
@@ -41,4 +43,6 @@ export const MINECRAFT_POSTS: BlogPost[] = [
   howToBeatTheWither,
   minecraftArmorGuide,
   minecraftTrialChambersGuide,
+  minecraftElytraGuide,
+  minecraftHostileMobsGuide,
 ];

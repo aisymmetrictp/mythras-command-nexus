@@ -38,6 +38,8 @@ import { windArcherCookieToppingsBuild } from './posts/wind-archer-cookie-toppin
 import { bestBeginnerCookiesCrk } from './posts/best-beginner-cookies-crk';
 import { eternalSugarCookieToppingsBuild } from './posts/eternal-sugar-cookie-toppings-build';
 import { bestCrkPveTeams } from './posts/best-crk-pve-teams';
+import { silentSaltCookieToppingsBuild } from './posts/silent-salt-cookie-toppings-build';
+import { crkGachaPullGuide } from './posts/crk-gacha-pull-guide';
 
 export const CRK_POSTS: BlogPost[] = [
   crkCodes,
@@ -79,4 +81,6 @@ export const CRK_POSTS: BlogPost[] = [
   bestBeginnerCookiesCrk,
   eternalSugarCookieToppingsBuild,
   bestCrkPveTeams,
+  silentSaltCookieToppingsBuild,
+  crkGachaPullGuide,
 ];
