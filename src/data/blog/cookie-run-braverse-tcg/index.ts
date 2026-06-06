@@ -26,6 +26,8 @@ import { bestAncientCardsCookieRunBraverse } from './posts/best-ancient-cards-co
 import { bestOperationTimeguardCardsBraverse } from './posts/best-operation-timeguard-cards-braverse';
 import { bestBeastCardsBraverse } from './posts/best-beast-cards-cookie-run-braverse';
 import { bestBraveBeginningCardsBraverse } from './posts/best-brave-beginning-cards-braverse';
+import { bestAgeOfHeroesCardsBraverse } from './posts/best-age-of-heroes-cards-braverse';
+import { braverseMulliganGuide } from './posts/cookie-run-braverse-mulligan-guide';
 
 export const BRAVERSE_POSTS: BlogPost[] = [
   howToPlayBraverse,
@@ -55,4 +57,6 @@ export const BRAVERSE_POSTS: BlogPost[] = [
   bestOperationTimeguardCardsBraverse,
   bestBeastCardsBraverse,
   bestBraveBeginningCardsBraverse,
+  bestAgeOfHeroesCardsBraverse,
+  braverseMulliganGuide,
 ];

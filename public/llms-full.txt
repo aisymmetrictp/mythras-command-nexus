@@ -1,6 +1,6 @@
 # Mythras // The Multiverse — Full Content Directory
 
-> Comprehensive site directory for AI systems indexing gamertagmythras.com. Includes every published blog post with title, summary, and canonical URL across all seven games, plus the gear-guide structure and major site sections. 68 blog posts total.
+> Comprehensive site directory for AI systems indexing gamertagmythras.com. Includes every published blog post with title, summary, and canonical URL across all seven games, plus the gear-guide structure and major site sections. 72 blog posts total.
 
 ## About the publisher
 
@@ -8,10 +8,16 @@ Mythras // The Multiverse is an independent gaming creator brand operated by an 
 
 Editorial guarantee: every guide is written by the Mythras team and fact-checked against authoritative sources before publishing (Scryfall for MTG legality, the official Cookie Run: Braverse card database, and the game wikis). Posts include their refresh cadence so readers know how often the information is updated.
 
-## Cookie Run: Kingdom — full blog post list (41)
+## Cookie Run: Kingdom — full blog post list (43)
 
 ### crk-gacha-pull-guide
 Cookie Run: Kingdom Gacha Guide: When to Pull and When to Save. How the Cookie Run: Kingdom gacha actually works: rate-up banners, Soulstones vs the Mileage Shop, the no-real-pity reality, and exactly when to pull or save. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/crk-gacha-pull-guide
+
+### frost-queen-cookie-toppings-build
+Frost Queen Cookie Toppings Build & Guide. Frost Queen Cookie build guide for June 2026: the cooldown topping spread, substat priorities, beascuit and tart picks, Crystal Jam notes, and team comps. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/frost-queen-cookie-toppings-build
+
+### hollyberry-cookie-toppings-build
+Hollyberry Cookie Toppings Build & Guide. Hollyberry Cookie build guide for June 2026: the DMG Resist topping spread, substat priorities, beascuit and tart picks, the Awakened form, and team comps. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/hollyberry-cookie-toppings-build
 
 ### silent-salt-cookie-toppings-build
 Silent Salt Cookie Toppings Build & Guide. Silent Salt Cookie build guide for June 2026: the ATK-and-cooldown topping spread, substat priorities, beascuit and tart picks, Magic Candy, and team comps. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/silent-salt-cookie-toppings-build
@@ -133,13 +139,19 @@ Timekeeper Cookie — Best Toppings, Beascuits & Team Comps. The complete Timeke
 ### timeline-of-fate-update-guide
 Is the Timeline of Fate Update Worth It? Beginner-to-Endgame Guide to CRK v7.4. Honest breakdown of Cookie Run: Kingdom v7.4 Timeline of Fate Act 2 — Timekeeper, Ash Salt, 6-star Legendaries, Arcade Arena, Unstable Timeline, and which players should actually log in. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/timeline-of-fate-update-guide
 
-## Cookie Run: Braverse — full blog post list (27)
+## Cookie Run: Braverse — full blog post list (29)
+
+### best-age-of-heroes-cards-braverse
+Best Cards from Cookie Run: Braverse — Age of Heroes and Kingdoms. A set review of Age of Heroes and Kingdoms for Cookie Run: Braverse: the five Ancient Cookies, the alt-win Stage, the best Beasts, and the cards worth owning. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/best-age-of-heroes-cards-braverse
 
 ### best-beast-cards-cookie-run-braverse
 Best Beast Cards in Cookie Run: Braverse, Ranked. The five Beast Cookies in Cookie Run: Braverse ranked - Shadow Milk, Burning Spice, Mystic Flour, Eternal Sugar, Silent Salt - with real cost, HP and skills. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/best-beast-cards-cookie-run-braverse
 
 ### best-brave-beginning-cards-braverse
 Best Cards from Cookie Run: Braverse — Brave Beginning. A set review of Brave Beginning (BS1), the first Cookie Run: Braverse set - the standout Cookies still worth owning, ranked with real cost, HP, and skill text. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/best-brave-beginning-cards-braverse
+
+### cookie-run-braverse-mulligan-guide
+Cookie Run: Braverse Mulligan and Opening Hand Guide. How to evaluate and mulligan your opening hand in Cookie Run: Braverse: Cookie count, Level curve, Support fuel, color balance, and the keepable-hand checklist. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/cookie-run-braverse-mulligan-guide
 
 ### best-ancient-cards-cookie-run-braverse
 Best Ancient Cards in Cookie Run: Braverse, Ranked. The best Ancient Cookies in Cookie Run: Braverse, ranked across all colors: Hollyberry, Golden Cheese, Pure Vanilla, White Lily, Dark Cacao - with real stats. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/best-ancient-cards-cookie-run-braverse

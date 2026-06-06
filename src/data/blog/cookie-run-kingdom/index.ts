@@ -40,6 +40,8 @@ import { eternalSugarCookieToppingsBuild } from './posts/eternal-sugar-cookie-to
 import { bestCrkPveTeams } from './posts/best-crk-pve-teams';
 import { silentSaltCookieToppingsBuild } from './posts/silent-salt-cookie-toppings-build';
 import { crkGachaPullGuide } from './posts/crk-gacha-pull-guide';
+import { hollyberryCookieToppingsBuild } from './posts/hollyberry-cookie-toppings-build';
+import { frostQueenCookieToppingsBuild } from './posts/frost-queen-cookie-toppings-build';
 
 export const CRK_POSTS: BlogPost[] = [
   crkCodes,
@@ -83,4 +85,6 @@ export const CRK_POSTS: BlogPost[] = [
   bestCrkPveTeams,
   silentSaltCookieToppingsBuild,
   crkGachaPullGuide,
+  hollyberryCookieToppingsBuild,
+  frostQueenCookieToppingsBuild,
 ];

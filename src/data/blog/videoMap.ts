@@ -11,6 +11,10 @@ export const VIDEO_MAP: Record<string, PostVideo> = {
     "id": "JeLyNsZ3mSI",
     "title": "Eternal Sugar Cookie Gear Guide | Cookie Run Kingdom"
   },
+  "hollyberry-cookie-toppings-build": {
+    "id": "rB5wqOWBVLw",
+    "title": "Awakened Hollyberry Aegis Cookie Gear Guide | Cookie Run Kingdom"
+  },
   "sea-fairy-cookie-toppings-build": {
     "id": "doDl71tioXw",
     "title": "Sea Fairy Cookie Gear Guide | Cookie Run Kingdom"
