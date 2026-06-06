@@ -32,6 +32,8 @@ import { bestEnchantmentsMtg } from './posts/best-enchantments-mtg';
 import { mtgCombatExplained } from './posts/mtg-combat-explained';
 import { mtgLegacyFormatGuide } from './posts/mtg-legacy-format-guide';
 import { mtgKeywordsExplained } from './posts/mtg-keywords-explained';
+import { mtgStackPriorityExplained } from './posts/mtg-stack-priority-explained';
+import { mtgManaBaseGuide } from './posts/mtg-mana-base-guide';
 
 export const MTG_POSTS: BlogPost[] = [
   bestWhiteCardsMtg,
@@ -67,4 +69,6 @@ export const MTG_POSTS: BlogPost[] = [
   mtgCombatExplained,
   mtgLegacyFormatGuide,
   mtgKeywordsExplained,
+  mtgStackPriorityExplained,
+  mtgManaBaseGuide,
 ];

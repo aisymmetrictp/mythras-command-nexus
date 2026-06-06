@@ -20,6 +20,8 @@ import { fortniteControllerSettings } from './posts/fortnite-controller-settings
 import { fortnitePerformanceFpsGuide } from './posts/fortnite-performance-fps-guide';
 import { fortniteWarmupPracticeGuide } from './posts/fortnite-warmup-practice-guide';
 import { fortniteRankedGuide } from './posts/fortnite-ranked-guide';
+import { fortniteControllerVsKeyboard } from './posts/fortnite-controller-vs-keyboard';
+import { fortniteGameSenseGuide } from './posts/fortnite-game-sense-guide';
 
 export const FORTNITE_POSTS: BlogPost[] = [
   fortniteBeginnersGuide,
@@ -43,4 +45,6 @@ export const FORTNITE_POSTS: BlogPost[] = [
   fortnitePerformanceFpsGuide,
   fortniteWarmupPracticeGuide,
   fortniteRankedGuide,
+  fortniteControllerVsKeyboard,
+  fortniteGameSenseGuide,
 ];
