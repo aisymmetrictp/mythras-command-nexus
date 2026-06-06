@@ -9,8 +9,8 @@ import { BreadcrumbSchema, WebPageSchema, PersonSchema } from '@/components/Stru
 
 export const metadata: Metadata = {
   title: 'About Mythras',
-  description:
-    'Mythras // The Multiverse is a gaming creator brand built around five YouTube channels, deep Cookie Run: Kingdom guides, and a multi-game expansion across MTG, Pokemon, and Lorcana. Meet the team behind gamertagmythras.com.',
+    description:
+    'Mythras // The Multiverse is a gaming creator brand built around a multi-channel YouTube presence, a deep Cookie Run: Kingdom gear database, and written strategy guides across Cookie Run: Kingdom, Cookie Run: Braverse, Magic: The Gathering, Minecraft, Roblox, Fortnite, and PUBG. Meet the creator behind gamertagmythras.com.',
   alternates: { canonical: 'https://gamertagmythras.com/about' },
   openGraph: {
     title: 'About Mythras // The Multiverse',
@@ -116,26 +116,31 @@ export default function AboutPage() {
                   for Decadent Choco Tower and Endless Strawberry Tower with team comps and floor-by-floor tips.
                 </li>
                 <li>
-                  <strong><Link href="/blog">Blog</Link></strong> — weekly tier lists, patch overviews, new
-                  Cookie deep-dives, team build guides, and the running codes list for Cookie Run: Kingdom.
+                  <strong><Link href="/blog">Blog</Link></strong> — tier lists, patch and set breakdowns,
+                  build and deck guides, and beginner walkthroughs across seven games: Cookie Run: Kingdom,
+                  Cookie Run: Braverse, Magic: The Gathering, Minecraft, Roblox, Fortnite, and PUBG.
                 </li>
                 <li>
-                  <strong><Link href="/#content-hub">Video hub</Link></strong> — every guide on the site is
-                  paired with the corresponding gameplay video from the appropriate channel.
+                  <strong><Link href="/#content-hub">Video hub</Link></strong> — where we&apos;ve covered a
+                  topic on the channel, the matching gameplay video is embedded right in the guide so you can
+                  watch the strategy in action, not just read it.
                 </li>
               </ul>
             </Section>
 
             <Section title="How we work">
               <p>
-                Every gear build, team comp, and tier ranking on this site comes from actual gameplay testing —
-                usually documented on video first, then written up here with the build math and reasoning.
-                When we&apos;re not sure about something, we say so. When the meta shifts, we update the post
-                and the <em>Last updated</em> date.
+                Our Cookie Run: Kingdom builds, comps, and tier rankings come from actual gameplay testing —
+                often documented on video first, then written up here with the build math and reasoning. For
+                the other games we cover, guides are written in-house and fact-checked against official sources
+                and each game&apos;s own data — Scryfall for Magic: The Gathering card legality, the official
+                Cookie Run: Braverse card database, and the game wikis and patch notes for the rest. When
+                we&apos;re not sure about something, we say so, and we update the <em>Last updated</em> date
+                when the meta shifts.
               </p>
               <p>
-                We don&apos;t pay for traffic. We don&apos;t republish other sites&apos; guides. Every long-form
-                article is written from scratch by the Mythras team based on our own play.
+                We don&apos;t pay for traffic and we don&apos;t republish other sites&apos; guides — every
+                article is written and fact-checked in-house.
               </p>
             </Section>
 

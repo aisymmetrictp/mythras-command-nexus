@@ -6,6 +6,8 @@ import BlogMarkdown from './BlogMarkdown';
 import BlogTOC from './BlogTOC';
 import BlogFAQ from './BlogFAQ';
 import BlogCard from './BlogCard';
+import YouTubeEmbed from './YouTubeEmbed';
+import { VIDEO_MAP } from '@/data/blog/videoMap';
 import { BreadcrumbSchema, FAQSchema, ItemListSchema, MYTHRAS_PERSON_ID, MYTHRAS_ORG_ID } from '@/components/StructuredData';
 
 type Props = { post: BlogPost; related: BlogPost[] };
@@ -22,6 +24,7 @@ export default function BlogPostBody({ post, related }: Props) {
   const game = getGameBySlug(post.game);
   const category = getCategoryBySlug(post.category);
   const url = `https://gamertagmythras.com/blog/${post.game}/${post.slug}`;
+  const video = VIDEO_MAP[post.slug];
 
   const blogPostingJsonLd: Record<string, unknown> = {
     '@context': 'https://schema.org',
@@ -117,7 +120,7 @@ export default function BlogPostBody({ post, related }: Props) {
           <span className="text-[#55556a]">·</span>
           <span>{post.readingTimeMin} min read</span>
           <span className="text-[#55556a]">·</span>
-          <span>By <strong className="text-[#D4A853]">Mythras</strong></span>
+          <span>By <Link href="/about" className="text-[#D4A853] hover:text-[#F0C850] font-medium">Mythras</Link></span>
         </div>
       </header>
 
@@ -150,6 +153,7 @@ export default function BlogPostBody({ post, related }: Props) {
             </p>
           </aside>
         )}
+        {video && <YouTubeEmbed id={video.id} title={video.title} />}
         <BlogTOC toc={post.toc} />
         <BlogMarkdown content={post.content} />
         <BlogFAQ faqs={post.faq} />
@@ -196,6 +200,23 @@ export default function BlogPostBody({ post, related }: Props) {
             </ul>
           </section>
         )}
+
+        <aside className="my-12 rounded-xl border border-[#D4A853]/20 bg-[#0c0c18]/60 p-5 flex gap-4 items-start">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="/images/mythras-logo-new.png" alt="Mythras" width={56} height={56} className="rounded-full border border-[#D4A853]/30 shrink-0" />
+          <div className="text-sm text-[#c8c8d4] leading-relaxed">
+            <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-[#D4A853]/70 mb-1">Written by</div>
+            <p className="text-white font-semibold mb-1">Mythras</p>
+            <p>
+              Mythras has been making gaming strategy content since 2022 across a multi-channel YouTube
+              presence with thousands of gameplay videos. Every guide here comes from hands-on play and
+              testing — not aggregated from other sites.{' '}
+              <Link href="/about" className="text-[#D4A853] hover:text-[#F0C850]">More about Mythras</Link>
+              {' '}·{' '}
+              <a href="https://www.youtube.com/@cookierunmythras" target="_blank" rel="noopener noreferrer" className="text-[#D4A853] hover:text-[#F0C850]">YouTube</a>
+            </p>
+          </div>
+        </aside>
 
         <footer className="my-12 pt-6 border-t border-[#D4A853]/15 text-sm text-[#9999aa]">
           Last updated <strong className="text-white font-medium">{formatDate(post.lastUpdated)}</strong>.
