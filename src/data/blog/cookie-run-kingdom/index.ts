@@ -42,6 +42,8 @@ import { silentSaltCookieToppingsBuild } from './posts/silent-salt-cookie-toppin
 import { crkGachaPullGuide } from './posts/crk-gacha-pull-guide';
 import { hollyberryCookieToppingsBuild } from './posts/hollyberry-cookie-toppings-build';
 import { frostQueenCookieToppingsBuild } from './posts/frost-queen-cookie-toppings-build';
+import { blackPearlCookieToppingsBuild } from './posts/black-pearl-cookie-toppings-build';
+import { crkKingdomBuildingGuide } from './posts/crk-kingdom-building-guide';
 
 export const CRK_POSTS: BlogPost[] = [
   crkCodes,
@@ -87,4 +89,6 @@ export const CRK_POSTS: BlogPost[] = [
   crkGachaPullGuide,
   hollyberryCookieToppingsBuild,
   frostQueenCookieToppingsBuild,
+  blackPearlCookieToppingsBuild,
+  crkKingdomBuildingGuide,
 ];

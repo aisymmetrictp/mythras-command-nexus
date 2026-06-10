@@ -22,6 +22,8 @@ import { fortniteWarmupPracticeGuide } from './posts/fortnite-warmup-practice-gu
 import { fortniteRankedGuide } from './posts/fortnite-ranked-guide';
 import { fortniteControllerVsKeyboard } from './posts/fortnite-controller-vs-keyboard';
 import { fortniteGameSenseGuide } from './posts/fortnite-game-sense-guide';
+import { fortniteAudioSettingsGuide } from './posts/fortnite-audio-settings-guide';
+import { fortniteStormSurgeGuide } from './posts/fortnite-storm-surge-guide';
 
 export const FORTNITE_POSTS: BlogPost[] = [
   fortniteBeginnersGuide,
@@ -47,4 +49,6 @@ export const FORTNITE_POSTS: BlogPost[] = [
   fortniteRankedGuide,
   fortniteControllerVsKeyboard,
   fortniteGameSenseGuide,
+  fortniteAudioSettingsGuide,
+  fortniteStormSurgeGuide,
 ];

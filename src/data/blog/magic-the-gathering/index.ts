@@ -34,6 +34,8 @@ import { mtgLegacyFormatGuide } from './posts/mtg-legacy-format-guide';
 import { mtgKeywordsExplained } from './posts/mtg-keywords-explained';
 import { mtgStackPriorityExplained } from './posts/mtg-stack-priority-explained';
 import { mtgManaBaseGuide } from './posts/mtg-mana-base-guide';
+import { bestArtifactsMtg } from './posts/best-artifacts-mtg';
+import { mtgSideboardingGuide } from './posts/mtg-sideboarding-guide';
 
 export const MTG_POSTS: BlogPost[] = [
   bestWhiteCardsMtg,
@@ -71,4 +73,6 @@ export const MTG_POSTS: BlogPost[] = [
   mtgKeywordsExplained,
   mtgStackPriorityExplained,
   mtgManaBaseGuide,
+  bestArtifactsMtg,
+  mtgSideboardingGuide,
 ];
