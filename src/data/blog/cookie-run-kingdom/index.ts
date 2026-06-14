@@ -44,6 +44,8 @@ import { hollyberryCookieToppingsBuild } from './posts/hollyberry-cookie-topping
 import { frostQueenCookieToppingsBuild } from './posts/frost-queen-cookie-toppings-build';
 import { blackPearlCookieToppingsBuild } from './posts/black-pearl-cookie-toppings-build';
 import { crkKingdomBuildingGuide } from './posts/crk-kingdom-building-guide';
+import { stormbringerCookieToppingsBuild } from './posts/stormbringer-cookie-toppings-build';
+import { crkWorldExplorationGuide } from './posts/crk-world-exploration-guide';
 
 export const CRK_POSTS: BlogPost[] = [
   crkCodes,
@@ -91,4 +93,6 @@ export const CRK_POSTS: BlogPost[] = [
   frostQueenCookieToppingsBuild,
   blackPearlCookieToppingsBuild,
   crkKingdomBuildingGuide,
+  stormbringerCookieToppingsBuild,
+  crkWorldExplorationGuide,
 ];

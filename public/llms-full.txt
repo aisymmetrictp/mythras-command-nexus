@@ -1,6 +1,6 @@
 # Mythras // The Multiverse — Full Content Directory
 
-> Comprehensive site directory for AI systems indexing gamertagmythras.com. Includes every published blog post with title, summary, and canonical URL across all seven games, plus the gear-guide structure and major site sections. 76 blog posts total.
+> Comprehensive site directory for AI systems indexing gamertagmythras.com. Includes every published blog post with title, summary, and canonical URL across all seven games, plus the gear-guide structure and major site sections. 80 blog posts total.
 
 ## About the publisher
 
@@ -8,7 +8,13 @@ Mythras // The Multiverse is an independent gaming creator brand operated by an 
 
 Editorial guarantee: every guide is written by the Mythras team and fact-checked against authoritative sources before publishing (Scryfall for MTG legality, the official Cookie Run: Braverse card database, and the game wikis). Posts include their refresh cadence so readers know how often the information is updated.
 
-## Cookie Run: Kingdom — full blog post list (45)
+## Cookie Run: Kingdom — full blog post list (47)
+
+### crk-world-exploration-guide
+Cookie Run: Kingdom World Exploration Guide. How Cookie Run: Kingdom World Exploration works: stages, the star system, Story/Dark/Master Mode, the rewards each drops, and why it gates your account. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/crk-world-exploration-guide
+
+### stormbringer-cookie-toppings-build
+Stormbringer Cookie Toppings Build & Guide. Stormbringer Cookie build guide for June 2026: toppings, the CRIT% Supercharge threshold, substats, beascuit and tart picks, Magic Candy, and her best teams. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/stormbringer-cookie-toppings-build
 
 ### black-pearl-cookie-toppings-build
 Black Pearl Cookie Toppings Build & Guide. Black Pearl Cookie build guide for June 2026: the topping spread, substat priorities, beascuit and tart picks, Magic Candy notes, and her best team comps. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/black-pearl-cookie-toppings-build
@@ -145,7 +151,13 @@ Timekeeper Cookie — Best Toppings, Beascuits & Team Comps. The complete Timeke
 ### timeline-of-fate-update-guide
 Is the Timeline of Fate Update Worth It? Beginner-to-Endgame Guide to CRK v7.4. Honest breakdown of Cookie Run: Kingdom v7.4 Timeline of Fate Act 2 — Timekeeper, Ash Salt, 6-star Legendaries, Arcade Arena, Unstable Timeline, and which players should actually log in. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/timeline-of-fate-update-guide
 
-## Cookie Run: Braverse — full blog post list (31)
+## Cookie Run: Braverse — full blog post list (33)
+
+### best-paradise-sloth-cards-braverse
+Best Cards from Cookie Run: Braverse — Paradise of Passion & Sloth. A set review of Paradise of Passion & Sloth (BS10) for Cookie Run: Braverse: the two new Beasts, the best Ancients, both Soul Jams, and what to chase by color. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/best-paradise-sloth-cards-braverse
+
+### cookie-run-braverse-win-conditions
+Cookie Run: Braverse Win Conditions Explained. Both ways to win Cookie Run: Braverse: filling the opponent's Break Area to Level 10 and starving them of Cookies. How to build toward each and read the board. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/cookie-run-braverse-win-conditions
 
 ### best-truth-and-deceit-cards-braverse
 Best Cards from Cookie Run: Braverse — A Game of Truth and Deceit. A set review of A Game of Truth and Deceit (BS9) for Cookie Run: Braverse: the five Shadow Milk Beasts, the best Ancients, the Soul Jam, and what to chase. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/best-truth-and-deceit-cards-braverse

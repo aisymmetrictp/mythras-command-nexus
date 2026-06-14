@@ -36,6 +36,8 @@ import { mtgStackPriorityExplained } from './posts/mtg-stack-priority-explained'
 import { mtgManaBaseGuide } from './posts/mtg-mana-base-guide';
 import { bestArtifactsMtg } from './posts/best-artifacts-mtg';
 import { mtgSideboardingGuide } from './posts/mtg-sideboarding-guide';
+import { bestCommanderCombosMtg } from './posts/best-commander-combos-mtg';
+import { mtgDeckbuildingRatios } from './posts/mtg-deckbuilding-ratios';
 
 export const MTG_POSTS: BlogPost[] = [
   bestWhiteCardsMtg,
@@ -75,4 +77,6 @@ export const MTG_POSTS: BlogPost[] = [
   mtgManaBaseGuide,
   bestArtifactsMtg,
   mtgSideboardingGuide,
+  bestCommanderCombosMtg,
+  mtgDeckbuildingRatios,
 ];

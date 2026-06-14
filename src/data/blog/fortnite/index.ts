@@ -24,6 +24,8 @@ import { fortniteControllerVsKeyboard } from './posts/fortnite-controller-vs-key
 import { fortniteGameSenseGuide } from './posts/fortnite-game-sense-guide';
 import { fortniteAudioSettingsGuide } from './posts/fortnite-audio-settings-guide';
 import { fortniteStormSurgeGuide } from './posts/fortnite-storm-surge-guide';
+import { fortniteStretchedResolutionGuide } from './posts/fortnite-stretched-resolution-guide';
+import { fortniteTermsGlossary } from './posts/fortnite-terms-glossary';
 
 export const FORTNITE_POSTS: BlogPost[] = [
   fortniteBeginnersGuide,
@@ -51,4 +53,6 @@ export const FORTNITE_POSTS: BlogPost[] = [
   fortniteGameSenseGuide,
   fortniteAudioSettingsGuide,
   fortniteStormSurgeGuide,
+  fortniteStretchedResolutionGuide,
+  fortniteTermsGlossary,
 ];

@@ -24,6 +24,8 @@ import { bestPubgLmgs } from './posts/best-pubg-lmgs';
 import { pubgPeekingGuide } from './posts/pubg-peeking-guide';
 import { pubgRankedGuide } from './posts/pubg-ranked-guide';
 import { pubgAttachmentsGuide } from './posts/pubg-attachments-guide';
+import { bestPubgPistols } from './posts/best-pubg-pistols';
+import { pubgCalloutsGlossary } from './posts/pubg-callouts-glossary';
 
 export const PUBG_POSTS: BlogPost[] = [
   pubgBeginnersGuide,
@@ -51,4 +53,6 @@ export const PUBG_POSTS: BlogPost[] = [
   pubgPeekingGuide,
   pubgRankedGuide,
   pubgAttachmentsGuide,
+  bestPubgPistols,
+  pubgCalloutsGlossary,
 ];

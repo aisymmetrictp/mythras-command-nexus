@@ -26,6 +26,8 @@ import { minecraftOceanMonumentGuide } from './posts/minecraft-ocean-monument-gu
 import { bestMinecraftTexturePacks } from './posts/best-minecraft-texture-packs';
 import { minecraftWoodlandMansionGuide } from './posts/minecraft-woodland-mansion-guide';
 import { minecraftCommandBlocksGuide } from './posts/minecraft-command-blocks-guide';
+import { minecraftBeaconGuide } from './posts/minecraft-beacon-guide';
+import { minecraftMiningGuide } from './posts/minecraft-mining-guide';
 
 export const MINECRAFT_POSTS: BlogPost[] = [
   minecraftSurvivalGuideBeginners,
@@ -53,4 +55,6 @@ export const MINECRAFT_POSTS: BlogPost[] = [
   bestMinecraftTexturePacks,
   minecraftWoodlandMansionGuide,
   minecraftCommandBlocksGuide,
+  minecraftBeaconGuide,
+  minecraftMiningGuide,
 ];
