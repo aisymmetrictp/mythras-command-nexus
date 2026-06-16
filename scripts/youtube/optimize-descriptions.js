@@ -162,21 +162,19 @@ async function buildDescription(token, env, video, canonicalFooter) {
   const transcript = await getTranscript(token, video.id);
   // Strip any summary a prior run prepended (everything before our divider) for idempotency.
   let body = current.includes(DIVIDER) ? current.split(DIVIDER).slice(1).join(DIVIDER).trim() : current.trim();
-  // Upgrade older videos that lack the modern footer by appending the canonical one.
-  let footerAdded = false;
-  if (canonicalFooter && !body.includes(FOOTER_MARKER)) {
-    body = `${body}\n\n${canonicalFooter}`.trim();
-    footerAdded = true;
-  }
-  let summary = null, next;
-  if (transcript) {
-    summary = await summarize(env, video.snippet.title, transcript);
-    next = `${summary}\n\n${DIVIDER}\n\n${body}`.trim();
-  } else {
-    next = body; // no captions: at most the footer upgrade
-  }
-  // YouTube rejects descriptions containing angle brackets — strip them defensively.
+  let summary = null;
+  if (transcript) summary = await summarize(env, video.snippet.title, transcript);
+  // Assemble: [summary + divider +] existing body [+ canonical footer if it lacks one].
+  const head = summary ? `${summary}\n\n${DIVIDER}\n\n` : '';
+  let footerBlock = (canonicalFooter && !body.includes(FOOTER_MARKER)) ? `\n\n${canonicalFooter}` : '';
+  let footerAdded = footerBlock !== '';
+  let next = `${head}${body}${footerBlock}`.trim();
+  // YouTube hard-limits descriptions to 5000 chars. If over, drop the appended
+  // footer first (keep the summary + the creator's body), then hard-trim the tail.
+  if (next.length > 5000 && footerBlock) { footerBlock = ''; footerAdded = false; next = `${head}${body}`.trim(); }
+  // YouTube also rejects angle brackets — strip them defensively.
   next = next.replace(/[<>]/g, '');
+  if (next.length > 5000) next = next.slice(0, 4999).trim();
   const changed = next.trim() !== current.trim();
   const note = !transcript
     ? (footerAdded ? 'no captions (footer upgrade only)' : 'no captions — unchanged')
