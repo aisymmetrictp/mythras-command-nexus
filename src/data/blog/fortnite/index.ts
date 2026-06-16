@@ -26,6 +26,8 @@ import { fortniteAudioSettingsGuide } from './posts/fortnite-audio-settings-guid
 import { fortniteStormSurgeGuide } from './posts/fortnite-storm-surge-guide';
 import { fortniteStretchedResolutionGuide } from './posts/fortnite-stretched-resolution-guide';
 import { fortniteTermsGlossary } from './posts/fortnite-terms-glossary';
+import { fortniteReloadModeGuide } from './posts/fortnite-reload-mode-guide';
+import { fortniteLoadoutPriorityGuide } from './posts/fortnite-loadout-priority-guide';
 
 export const FORTNITE_POSTS: BlogPost[] = [
   fortniteBeginnersGuide,
@@ -55,4 +57,6 @@ export const FORTNITE_POSTS: BlogPost[] = [
   fortniteStormSurgeGuide,
   fortniteStretchedResolutionGuide,
   fortniteTermsGlossary,
+  fortniteReloadModeGuide,
+  fortniteLoadoutPriorityGuide,
 ];

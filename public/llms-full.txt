@@ -1,6 +1,6 @@
 # Mythras // The Multiverse — Full Content Directory
 
-> Comprehensive site directory for AI systems indexing gamertagmythras.com. Includes every published blog post with title, summary, and canonical URL across all seven games, plus the gear-guide structure and major site sections. 80 blog posts total.
+> Comprehensive site directory for AI systems indexing gamertagmythras.com. Includes every published blog post with title, summary, and canonical URL across all seven games, plus the gear-guide structure and major site sections. 241 blog posts total.
 
 ## About the publisher
 
@@ -8,7 +8,13 @@ Mythras // The Multiverse is an independent gaming creator brand operated by an 
 
 Editorial guarantee: every guide is written by the Mythras team and fact-checked against authoritative sources before publishing (Scryfall for MTG legality, the official Cookie Run: Braverse card database, and the game wikis). Posts include their refresh cadence so readers know how often the information is updated.
 
-## Cookie Run: Kingdom — full blog post list (47)
+## Cookie Run: Kingdom — full blog post list (49)
+
+### crk-cookie-rarity-explained
+Cookie Run: Kingdom Cookie Rarities Explained. Every Cookie Run: Kingdom rarity explained: Common, Rare, Epic, Super Epic, Legendary, Ancient, Dragon, Beast, and Special — what each means for power, pulls, and where to invest. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/crk-cookie-rarity-explained
+
+### crunchy-chip-cookie-toppings-build
+Crunchy Chip Cookie Toppings Build & Guide. Crunchy Chip Cookie build guide for June 2026: best toppings, the CRIT-vs-Almond debate, substats, beascuit, Magic Candy, and the teams where his wolf actually matters. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/crunchy-chip-cookie-toppings-build
 
 ### crk-world-exploration-guide
 Cookie Run: Kingdom World Exploration Guide. How Cookie Run: Kingdom World Exploration works: stages, the star system, Story/Dark/Master Mode, the rewards each drops, and why it gates your account. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/crk-world-exploration-guide
@@ -151,7 +157,13 @@ Timekeeper Cookie — Best Toppings, Beascuits & Team Comps. The complete Timeke
 ### timeline-of-fate-update-guide
 Is the Timeline of Fate Update Worth It? Beginner-to-Endgame Guide to CRK v7.4. Honest breakdown of Cookie Run: Kingdom v7.4 Timeline of Fate Act 2 — Timekeeper, Ash Salt, 6-star Legendaries, Arcade Arena, Unstable Timeline, and which players should actually log in. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/timeline-of-fate-update-guide
 
-## Cookie Run: Braverse — full blog post list (33)
+## Cookie Run: Braverse — full blog post list (35)
+
+### best-cookie-run-braverse-beginner-cards
+Best Cookie Run: Braverse Cards for Beginners. The most accessible high-impact Cookie Run: Braverse cards for new players: cheap one-cost staples and easy payoffs across all five colors, with real examples. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/best-cookie-run-braverse-beginner-cards
+
+### cookie-run-braverse-tournament-guide
+Cookie Run: Braverse Tournament & Competitive Guide. How to prep for competitive Cookie Run: Braverse: deck selection, the archetypes, tech and sideboard thinking, practice, and the mistakes that lose games. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/cookie-run-braverse-tournament-guide
 
 ### best-paradise-sloth-cards-braverse
 Best Cards from Cookie Run: Braverse — Paradise of Passion & Sloth. A set review of Paradise of Passion & Sloth (BS10) for Cookie Run: Braverse: the two new Beasts, the best Ancients, both Soul Jams, and what to chase by color. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/best-paradise-sloth-cards-braverse
@@ -251,6 +263,487 @@ Every Cookie Run: Braverse Set in Order: Release Timeline & Buying Guide. A clea
 
 ### how-to-play-cookie-run-braverse
 How to Play Cookie Run: Braverse - A Complete Beginner Guide. Learn how to play Cookie Run: Braverse from scratch: the card types, game setup, turn phases, the rest-to-pay cost system, the FLIP mechanic, and both win conditions explained for new players. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/how-to-play-cookie-run-braverse
+
+## Magic: The Gathering — full blog post list (41)
+
+### best-commander-staples-mtg
+Best Commander Staples Every Deck Wants, Ranked. The best Commander staples ranked by category: ramp, card draw, removal, protection, and lands. The near-universal EDH includes every deck quietly runs. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-commander-staples-mtg
+
+### mtg-color-pairs-guide
+MTG Two-Color Guild Guide: Every Color Pair Explained. The ten MTG two-color guilds explained: Azorius, Dimir, Rakdos, Gruul, Selesnya, Orzhov, Izzet, Golgari, Boros, and Simic — identity, strengths, and strategies. URL: https://gamertagmythras.com/blog/magic-the-gathering/mtg-color-pairs-guide
+
+### best-commander-combos-mtg
+Best Two-Card Combos in Commander, Ranked. The best two-card infinite combos in Commander, ranked: Thassa's Oracle, Mikaeus + Triskelion, Isochron Scepter, Kiki-Jiki, and the key ban-list caveats. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-commander-combos-mtg
+
+### mtg-deckbuilding-ratios
+MTG Deckbuilding Guide: Land and Spell Ratios. How many lands in an MTG deck? Land counts by format (Commander ~37, 60-card 17-24, Limited 17), the ramp/draw/removal/threat skeleton, and the mana curve. URL: https://gamertagmythras.com/blog/magic-the-gathering/mtg-deckbuilding-ratios
+
+### best-artifacts-mtg
+Best Artifacts in Magic: The Gathering, Ranked. The best artifacts in MTG, ranked across Commander and eternal formats. The One Ring, Skullclamp, Smuggler’s Copter, Crucible of Worlds and more, with legality. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-artifacts-mtg
+
+### mtg-sideboarding-guide
+MTG Sideboarding Guide: How to Win Games 2 and 3. A complete MTG sideboarding guide. How sideboards work, building a 15, what to bring in and cut, common SB cards by archetype, and play/draw and mulligan tips. URL: https://gamertagmythras.com/blog/magic-the-gathering/mtg-sideboarding-guide
+
+### mtg-keywords-explained
+MTG Keyword Abilities Explained: From Flying to Ward. Every common MTG keyword ability in plain English: flying, trample, deathtouch, lifelink, vigilance, first strike, haste, hexproof, ward, menace, and more. URL: https://gamertagmythras.com/blog/magic-the-gathering/mtg-keywords-explained
+
+### mtg-legacy-format-guide
+Magic: The Gathering Legacy Format Guide: Where to Start. New to MTG Legacy? What the eternal format is, the dual lands and Reserved List, Force of Will, the archetypes, and how to get in via proxies and Magic Online. URL: https://gamertagmythras.com/blog/magic-the-gathering/mtg-legacy-format-guide
+
+### mtg-mana-base-guide
+MTG Mana Base Guide: How to Build Your Lands. An MTG mana base guide: how many lands to run, counting color pips, dual/fetch/shock/fast lands, utility lands, and how Commander differs from 60-card decks. URL: https://gamertagmythras.com/blog/magic-the-gathering/mtg-mana-base-guide
+
+### mtg-stack-priority-explained
+How the Stack and Priority Work in Magic: The Gathering. How the stack and priority work in MTG: LIFO resolution, casting in response, holding priority, triggers, and state-based actions, with examples from the rules. URL: https://gamertagmythras.com/blog/magic-the-gathering/mtg-stack-priority-explained
+
+### best-enchantments-mtg
+Best Enchantments in Magic: The Gathering, Ranked. The best enchantments in MTG, ranked for Commander and eternal formats. Rhystic Study, Smothering Tithe, Sylvan Library, Doubling Season, Necropotence and more. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-enchantments-mtg
+
+### mtg-combat-explained
+How Combat Works in Magic: The Gathering, Explained. How combat works in MTG, step by step: declare attackers and blockers, combat damage, first strike, double strike, trample, deathtouch, and the stack in combat. URL: https://gamertagmythras.com/blog/magic-the-gathering/mtg-combat-explained
+
+### best-equipment-mtg
+Best Equipment in Magic: The Gathering, Ranked. The best Equipment in MTG, ranked for Commander with format notes. Skullclamp, Umezawa’s Jitte, the Swords cycle, Batterskull, Lightning Greaves and more. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-equipment-mtg
+
+### mtg-color-pie-explained
+The MTG Color Pie, Explained: What Each Color Does. The MTG color pie explained: what White, Blue, Black, Red, and Green each do well, their weaknesses, the philosophy, and what two-color pairs feel like. URL: https://gamertagmythras.com/blog/magic-the-gathering/mtg-color-pie-explained
+
+### best-board-wipes-mtg
+Best Board Wipes in Magic: The Gathering, Ranked. The best board wipes in MTG ranked for Commander and eternal play. Toxic Deluge, Wrath of God, Blasphemous Act, Farewell, Cyclonic Rift, and when to run each. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-board-wipes-mtg
+
+### best-card-draw-commander-mtg
+Best Card Draw Spells in Commander, Ranked. The best card draw in MTG Commander, ranked. Rhystic Study, Mystic Remora, Sylvan Library, Esper Sentinel, Necropotence, Skullclamp, and how much to run. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-card-draw-commander-mtg
+
+### best-commanders-for-beginners-mtg
+Best Commanders for Beginners, Ranked. The best beginner commanders in MTG, ranked. Krenko, Talrand, Edgar Markov, and the forgiving legends and precon faces that teach Commander the right way. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-commanders-for-beginners-mtg
+
+### best-ramp-spells-commander-mtg
+Best Ramp Spells in Commander, Ranked. The best mana ramp in MTG Commander, ranked. Cultivate, Kodama's Reach, Three Visits, Nature's Lore, Birds of Paradise, mana dorks, and how much ramp to run. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-ramp-spells-commander-mtg
+
+### best-tutors-commander-mtg
+Best Tutors in Commander, Ranked. The best tutors in MTG Commander, ranked. Demonic Tutor, Vampiric Tutor, Mystical Tutor, Enlightened Tutor, Worldly Tutor, Diabolic Intent, and how many to run. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-tutors-commander-mtg
+
+### mtg-modern-format-guide
+Magic: The Gathering Modern Format Guide: Where to Start. New to MTG Modern? What the format is, the card pool, the banned list, the five archetype families, and how to get into Modern without going broke in 2026. URL: https://gamertagmythras.com/blog/magic-the-gathering/mtg-modern-format-guide
+
+### mtg-pauper-format-guide
+Magic: The Gathering Pauper Format Guide: Where to Start. New to MTG Pauper? What commons-only Magic is, why it is the cheapest real format, the meta pillars, the banned list, and how to build your first deck in 2026. URL: https://gamertagmythras.com/blog/magic-the-gathering/mtg-pauper-format-guide
+
+### mtg-pioneer-format-guide
+Magic: The Gathering Pioneer Format Guide: Where to Start. New to MTG Pioneer? What the format is, the Return to Ravnica-forward card pool, the banned list, the archetype families, and how to get in cheaply in 2026. URL: https://gamertagmythras.com/blog/magic-the-gathering/mtg-pioneer-format-guide
+
+### best-counterspells-mtg
+Best Counterspells in Magic: The Gathering, Ranked. The best counterspells in MTG ranked for Commander, Legacy, and Modern. Force of Will, Mana Drain, Counterspell, and when hard counters beat soft ones. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-counterspells-mtg
+
+### mtg-limited-draft-guide-beginners
+How to Draft: An MTG Limited Guide for Beginners. Learn how to draft Magic: The Gathering Limited. Reading signals, BREAD, the 17-land 23-spell rule, staying two colors, and the beginner mistakes to avoid. URL: https://gamertagmythras.com/blog/magic-the-gathering/mtg-limited-draft-guide-beginners
+
+### best-mana-rocks-commander-mtg
+Best Mana Rocks in Commander (2026) — The Ramp Artifacts Every EDH Deck Wants. The best mana rocks in MTG Commander for 2026. Sol Ring, Arcane Signet, the Talisman cycle, and exactly how many ramp artifacts your EDH deck should run. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-mana-rocks-commander-mtg
+
+### best-planeswalkers-magic-the-gathering
+Best Planeswalkers in Magic: The Gathering (2026) — A Cross-Format Tier List. The best planeswalkers in MTG for 2026, tiered across Commander, Modern, and Legacy. Wrenn and Six, The Wandering Emperor, Teferi, and the walkers that actually win games. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-planeswalkers-magic-the-gathering
+
+### mtg-mulligan-guide-london-mulligan
+MTG Mulligan Guide (2026) — How the London Mulligan Works and When to Take It. A complete MTG mulligan guide for 2026. How the London mulligan works, when to keep or ship a hand, and the land-count rules of thumb that win games before you draw a card. URL: https://gamertagmythras.com/blog/magic-the-gathering/mtg-mulligan-guide-london-mulligan
+
+### best-removal-spells-mtg
+Best Removal Spells in MTG (2026) — Every Color Ranked. The best removal spells in MTG for 2026, ranked by color for Commander. Swords, Cyclonic Rift, Toxic Deluge, Bolt and the budget picks that punch up. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-removal-spells-mtg
+
+### how-to-build-a-commander-deck
+How to Build a Commander Deck — The 10/10/10 Template. Learn how to build a Commander deck with the 10/10/10 template: 37 lands, 10 ramp, 10 card draw, 10 removal. A simple skeleton for a winning EDH deck. URL: https://gamertagmythras.com/blog/magic-the-gathering/how-to-build-a-commander-deck
+
+### mtg-deck-archetypes-explained
+MTG Deck Archetypes Explained — Aggro, Midrange, Control & Combo. Aggro, midrange, control, and combo are the four pillars every MTG deck is built on. Learn the gameplans, the curves, and which one fits how you play. URL: https://gamertagmythras.com/blog/magic-the-gathering/mtg-deck-archetypes-explained
+
+### best-budget-commander-decks-under-100
+Best Budget Commander Decks Under $100 (2026) — 7 Lists That Actually Win. Seven budget Commander decks under $100 for 2026. Krenko Goblins, Talrand Spellslinger, Edgar Markov Vampires, Lathril Elves, plus two-color and tribal options under $50 and $30. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-budget-commander-decks-under-100
+
+### best-lands-commander-mtg
+Best Lands in MTG Commander (2026) — Fixing, Utility, and How Many to Run. The best lands in MTG Commander for 2026. Fetchlands, shocklands, triomes, utility staples, Cabal Coffers, and how many lands a Commander deck should actually run. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-lands-commander-mtg
+
+### mtg-commander-format-guide-how-to-start
+MTG Commander Format Guide — How to Start Playing EDH (2026). New to MTG Commander? Here are the deckbuilding rules, color identity, life total, command zone, commander damage, Rule 0, and the best first commanders to start with in 2026. URL: https://gamertagmythras.com/blog/magic-the-gathering/mtg-commander-format-guide-how-to-start
+
+### best-black-cards-magic-the-gathering
+Best Black Cards in Magic: The Gathering (2026) — Tutors, Removal & Commander Staples. The best black cards in MTG ranked for 2026. Tutors, removal, draw engines, and reanimation staples for Commander, Modern, and what survives in Standard. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-black-cards-magic-the-gathering
+
+### best-blue-cards-magic-the-gathering
+Best Blue Cards in Magic: The Gathering (2026) — Counterspells, Card Draw & Control Staples. The best blue cards in MTG for 2026. Force of Will, Rhystic Study, Cyclonic Rift, and the blue staples every Commander and control player should be running. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-blue-cards-magic-the-gathering
+
+### best-green-cards-magic-the-gathering
+Best Green Cards in Magic: The Gathering (2026) — Ramp, Big Creatures & Commander Staples. The best green cards in MTG for 2026: ramp dorks, Cultivate-style spells, land-matters payoffs, Craterhoof finishers, and what survived post-ban Standard. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-green-cards-magic-the-gathering
+
+### best-red-cards-magic-the-gathering
+Best Red Cards in Magic: The Gathering (2026) — Burn, Wheels & Commander Staples. The best red cards in MTG for 2026. Lightning Bolt, Wheel of Fortune, Ragavan, and the burn, wheel, and equipment staples that define red across every format. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-red-cards-magic-the-gathering
+
+### best-white-cards-magic-the-gathering
+Best White Cards in Magic: The Gathering (2026) — Commander Staples & Format Standouts. The best white cards in MTG for 2026. Esper Sentinel, Smothering Tithe, Farewell, and the white staples that finally give the color real win-condition pressure. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-white-cards-magic-the-gathering
+
+### secrets-of-strixhaven-best-standard-cards
+Secrets of Strixhaven Tier List — 20 Cards That Actually Matter. Secrets of Strixhaven tier list for Standard (May 2026). The 20 SSH cards that survived the bans and define the post-ban meta, ranked S through B with honest takes. URL: https://gamertagmythras.com/blog/magic-the-gathering/secrets-of-strixhaven-best-standard-cards
+
+### selesnya-landfall-pro-tour-strixhaven-winning-deck
+How Nathan Steuer Won Pro Tour Strixhaven With Selesnya Landfall. Nathan Steuer won Pro Tour Strixhaven on Selesnya Landfall in an Izzet meta. Decklist breakdown, sideboard plan, and how to tune it post-bans for paper Standard. URL: https://gamertagmythras.com/blog/magic-the-gathering/selesnya-landfall-pro-tour-strixhaven-winning-deck
+
+### standard-post-ban-meta-may-2026
+Standard After the May 2026 Ban Wave — What to Brew Now That Cori-Steel Is Gone. MTG Standard after the May 18, 2026 ban wave: all 10 banned cards, the new tier 1 decks, three brewing directions, and which cards just got way better. URL: https://gamertagmythras.com/blog/magic-the-gathering/standard-post-ban-meta-may-2026
+
+## Minecraft — full blog post list (29)
+
+### minecraft-allay-guide
+Minecraft Allay Guide: Item Sorting and Duplication. Minecraft allay guide: where to find allays, how to free and use them, item collection with note blocks, and duplication via dancing and amethyst shards. URL: https://gamertagmythras.com/blog/minecraft/minecraft-allay-guide
+
+### minecraft-archaeology-guide
+Minecraft Archaeology Guide: Sniffer, Brushes & Trail Ruins. Minecraft archaeology guide: craft the brush, dig suspicious sand and gravel in trail ruins and desert temples, collect pottery sherds, and hatch a Sniffer. URL: https://gamertagmythras.com/blog/minecraft/minecraft-archaeology-guide
+
+### minecraft-beacon-guide
+Minecraft Beacon Guide: How to Build and Power One. How to build and power a Minecraft beacon: the nether star from the Wither, the pyramid tiers (9/34/83/164 blocks), effects, range, and the regen option. URL: https://gamertagmythras.com/blog/minecraft/minecraft-beacon-guide
+
+### minecraft-mining-guide
+Minecraft Mining Guide: Best Levels for Every Ore. The best Y level for every Minecraft ore in 1.18+: diamond at Y -59, iron at 15 and 232, gold at -16, copper at 48, plus branch vs strip mining and Fortune. URL: https://gamertagmythras.com/blog/minecraft/minecraft-mining-guide
+
+### minecraft-command-blocks-guide
+Minecraft Command Blocks Guide for Beginners. A beginner Minecraft command blocks guide: how to get one with /give, the three types (impulse, chain, repeat), conditional and redstone modes, plus builds. URL: https://gamertagmythras.com/blog/minecraft/minecraft-command-blocks-guide
+
+### minecraft-woodland-mansion-guide
+Minecraft Woodland Mansion Guide: Loot, Vindicators & the Totem. How to find and clear a Minecraft woodland mansion: explorer maps, vindicators, evokers and vexes, the Totem of Undying, secret loot rooms, and a safe plan. URL: https://gamertagmythras.com/blog/minecraft/minecraft-woodland-mansion-guide
+
+### best-minecraft-texture-packs
+Best Minecraft Texture Packs to Try. The best Minecraft texture packs ranked: Faithful, vanilla-plus, and high-res picks, what each changes, performance cost, and how to install (Java + Bedrock). URL: https://gamertagmythras.com/blog/minecraft/best-minecraft-texture-packs
+
+### minecraft-elytra-guide
+Minecraft Elytra Guide: How to Get Wings and Fly. How to get the elytra in Minecraft: reach the outer End, find an End ship, grab the wings, equip them, and fly with firework rockets. Java vs Bedrock included. URL: https://gamertagmythras.com/blog/minecraft/minecraft-elytra-guide
+
+### minecraft-hostile-mobs-guide
+Minecraft Hostile Mobs Guide: Every Threat and How to Beat It. A Minecraft hostile mobs guide to the threats that actually matter — creeper, skeleton, enderman, witch, phantom, warden, and more — with how to counter each one. URL: https://gamertagmythras.com/blog/minecraft/minecraft-hostile-mobs-guide
+
+### minecraft-ocean-monument-guide
+Minecraft Ocean Monument Guide: Guardians, Loot & Conduits. How to find and beat a Minecraft ocean monument: 3 elder guardians, Mining Fatigue, the milk trick, draining vs conduit, sponge and gold loot, and conduits. URL: https://gamertagmythras.com/blog/minecraft/minecraft-ocean-monument-guide
+
+### minecraft-armor-guide
+Minecraft Armor Guide: Netherite, Trims & Best Setups. Minecraft armor guide: every tier from leather to netherite, how to upgrade with smithing templates, armor toughness and knockback resistance, plus armor trims and best enchant setups. URL: https://gamertagmythras.com/blog/minecraft/minecraft-armor-guide
+
+### minecraft-trial-chambers-guide
+Minecraft Trial Chambers Guide: Loot, Mobs & the Mace. Minecraft Trial Chambers guide: how to find them, how trial spawners and ominous trials work, vaults and trial keys, the Breeze and Bogged mobs, and crafting the Mace from a heavy core. URL: https://gamertagmythras.com/blog/minecraft/minecraft-trial-chambers-guide
+
+### best-minecraft-shaders
+Best Minecraft Shaders to Install Right Now. The best Minecraft shaders ranked by looks and FPS: Complementary, BSL, SEUS, Sildur's and more, plus how to install them with Iris. Java-focused guide. URL: https://gamertagmythras.com/blog/minecraft/best-minecraft-shaders
+
+### how-to-beat-the-wither
+How to Beat the Wither in Minecraft. How to spawn and beat the Wither in Minecraft: the soul sand spawn recipe, gear prep, arena strategy, the big Java vs Bedrock difference, and the beacon payoff. URL: https://gamertagmythras.com/blog/minecraft/how-to-beat-the-wither
+
+### best-minecraft-farms
+Best Minecraft Farms to Build First. The best Minecraft farms to build first, ranked by value: XP/mob, iron, food, raid, and gunpowder farms — what each one unlocks and how the mechanics work. URL: https://gamertagmythras.com/blog/minecraft/best-minecraft-farms
+
+### best-minecraft-mods
+Best Minecraft Mods to Install Right Now. The best Minecraft mods worth installing: Sodium and Iris for FPS, JEI and Xaero's for QoL, Create for content. Java-focused, with Fabric vs Forge loader notes. URL: https://gamertagmythras.com/blog/minecraft/best-minecraft-mods
+
+### how-to-find-netherite-minecraft
+How to Find Netherite in Minecraft (Fast). The fastest way to find netherite in Minecraft: the best Y level for ancient debris, bed and TNT mining methods, smelting to scrap, and what to upgrade first. URL: https://gamertagmythras.com/blog/minecraft/how-to-find-netherite-minecraft
+
+### minecraft-biomes-guide
+Minecraft Biomes Guide: Every Biome Worth Finding. A Minecraft biomes guide to the ones that matter: the resources, mobs, and structures each holds, plus the rare biomes worth seeking. Java and Bedrock notes. URL: https://gamertagmythras.com/blog/minecraft/minecraft-biomes-guide
+
+### minecraft-nether-guide
+Minecraft Nether Guide: How to Survive and Thrive. A full Minecraft Nether guide: the gear to pack, what each biome throws at you, finding fortresses and bastions, mining netherite, and getting out alive. URL: https://gamertagmythras.com/blog/minecraft/minecraft-nether-guide
+
+### minecraft-potion-brewing-guide
+Minecraft Potion Brewing Guide: Every Potion Worth Making. A Minecraft brewing guide: the brewing stand workflow, the Awkward base, key ingredients, the potions worth making, and Redstone/Glowstone/Gunpowder modifiers. URL: https://gamertagmythras.com/blog/minecraft/minecraft-potion-brewing-guide
+
+### minecraft-taming-breeding-guide
+How to Tame and Breed Every Animal in Minecraft. How to tame and breed every animal in Minecraft: which mobs are tameable vs breedable, the exact foods each one needs, and the practical payoff of each. URL: https://gamertagmythras.com/blog/minecraft/minecraft-taming-breeding-guide
+
+### minecraft-villager-trading-guide
+Minecraft Villager Trading Guide: Best Trades and Setups. A Minecraft villager trading guide: how professions and leveling work, the best trades to chase, zombie-curing discounts, and a simple trading hall setup. URL: https://gamertagmythras.com/blog/minecraft/minecraft-villager-trading-guide
+
+### best-minecraft-enchantments
+Best Minecraft Enchantments, Ranked — The Ones Worth Your XP. The best Minecraft enchantments ranked by tier, with max levels verified against the wiki. Mending, Protection, Efficiency, Fortune, and the ones to skip. URL: https://gamertagmythras.com/blog/minecraft/best-minecraft-enchantments
+
+### best-minecraft-seeds
+Best Minecraft Seeds — Spawns Worth Starting On. The best Minecraft seeds for villages, diamonds, and dramatic spawns, with edition and version tags. How to use a seed and why the same number differs on Java vs Bedrock. URL: https://gamertagmythras.com/blog/minecraft/best-minecraft-seeds
+
+### how-to-beat-the-ender-dragon
+How to Beat the Ender Dragon: A Complete Guide. A complete Ender Dragon guide: the prep checklist, finding the stronghold and End portal, destroying the End crystals, the fight phases, and the elytra route. URL: https://gamertagmythras.com/blog/minecraft/how-to-beat-the-ender-dragon
+
+### how-to-find-diamonds-minecraft
+How to Find Diamonds in Minecraft (Fast). The fastest reliable way to find diamonds in Minecraft: the best Y level, branch vs strip mining, the tools that speed it up, and the lava mistakes to avoid. URL: https://gamertagmythras.com/blog/minecraft/how-to-find-diamonds-minecraft
+
+### minecraft-building-tips
+Top Minecraft Building Tips — Stop Building Dirt Boxes. Top Minecraft building tips to fix flat, boxy houses: block palettes, depth and texture, roof angles with stairs and slabs, and the techniques that make builds look pro. URL: https://gamertagmythras.com/blog/minecraft/minecraft-building-tips
+
+### minecraft-redstone-basics
+Redstone Basics: A Beginner's Guide to Minecraft's Wiring. Redstone basics explained for beginners: signal strength, dust, torches, repeaters, comparators, and pistons. Build your first doors and contraptions in Minecraft. URL: https://gamertagmythras.com/blog/minecraft/minecraft-redstone-basics
+
+### minecraft-survival-guide-beginners
+Minecraft Survival Guide for Beginners — Surviving Your First Days. A no-fluff Minecraft survival guide for beginners. The exact first-day tool chain, how to survive night one, and what to prioritize before mobs find you. URL: https://gamertagmythras.com/blog/minecraft/minecraft-survival-guide-beginners
+
+## Roblox — full blog post list (29)
+
+### best-roblox-escape-games
+Best Roblox Escape Games to Play Right Now. The best Roblox escape games ranked — DOORS, Flee the Facility, Piggy, Apeirophobia and Escape Room — sorted by whether you outrun a monster or beat a lock. URL: https://gamertagmythras.com/blog/roblox/best-roblox-escape-games
+
+### best-roblox-games-2026
+Best Roblox Games to Play in 2026 (All Genres). The best Roblox games to play in 2026 across every genre — Steal a Brainrot, Grow a Garden, Blox Fruits, Brookhaven, DOORS and the top pick in each lane. URL: https://gamertagmythras.com/blog/roblox/best-roblox-games-2026
+
+### best-roblox-building-games
+Best Roblox Building & Creative Games. The best Roblox building and creative games — Welcome to Bloxburg, Build a Boat for Treasure, Theme Park Tycoon 2, Plane Crazy and more, ranked by build depth. URL: https://gamertagmythras.com/blog/roblox/best-roblox-building-games
+
+### best-roblox-open-world-games
+Best Roblox Open World Games to Play Right Now. The best Roblox open world games right now — Blox Fruits, Arcane Odyssey, Jailbreak, Brookhaven, Fisch and more, ranked by how good the world really is. URL: https://gamertagmythras.com/blog/roblox/best-roblox-open-world-games
+
+### best-roblox-adventure-games
+Best Roblox Adventure Games to Play Right Now. The best Roblox adventure games right now — Blox Fruits, Arcane Odyssey, Fisch, Deepwoken, Vesteria and more, ranked by how good the exploration actually is. URL: https://gamertagmythras.com/blog/roblox/best-roblox-adventure-games
+
+### best-roblox-sports-games
+Best Roblox Sports Games to Play Right Now. The best Roblox sports games right now — Blue Lock Rivals, Basketball Zero, Volleyball Legends, NFL Universe Football and more, ranked by how they play. URL: https://gamertagmythras.com/blog/roblox/best-roblox-sports-games
+
+### best-roblox-games-for-kids
+Best Roblox Games for Kids (Safe and Fun). The best Roblox games for kids — Adopt Me, Brookhaven, Tower of Hell, Pet Simulator 99 and more — plus a clear guide to Roblox Kids and Select account safety. URL: https://gamertagmythras.com/blog/roblox/best-roblox-games-for-kids
+
+### best-roblox-pet-games
+Best Roblox Pet Games to Play Right Now. The best Roblox pet games right now — Adopt Me, Pet Simulator 99, Overlook Bay 2, Wild Horse Islands, Creatures of Sonaria — and which one fits how you play. URL: https://gamertagmythras.com/blog/roblox/best-roblox-pet-games
+
+### best-roblox-puzzle-games
+Best Roblox Puzzle Games to Play Right Now. The best Roblox puzzle games right now — Escape Room, Murder Mystery 2, Word Bomb, Build A Boat for Treasure and more, and which kind of brain each one tests. URL: https://gamertagmythras.com/blog/roblox/best-roblox-puzzle-games
+
+### best-roblox-racing-games
+Best Roblox Racing Games to Play Right Now. The best Roblox racing games right now — Driving Empire, Midnight Racing: Tokyo, Vehicle Legends, Drive World, Car Dealership Tycoon and more, ranked by feel. URL: https://gamertagmythras.com/blog/roblox/best-roblox-racing-games
+
+### best-roblox-fighting-games
+Best Roblox Fighting Games to Play Right Now. The best Roblox fighting games right now — The Strongest Battlegrounds, Jujutsu Shenanigans, Untitled Boxing Game, Blade Ball, Fruit Battlegrounds and more. URL: https://gamertagmythras.com/blog/roblox/best-roblox-fighting-games
+
+### best-roblox-story-games
+Best Roblox Story Games to Play Right Now. The best Roblox story games right now — The Mimic, Entry Point, Murder Mystery 2, Field Trip Z, Break In 2, Camping and Bloxburg. What each one actually is. URL: https://gamertagmythras.com/blog/roblox/best-roblox-story-games
+
+### best-free-roblox-games
+Best Free Roblox Games to Play Right Now. The best free Roblox games right now — Brookhaven, Blox Fruits, Grow a Garden, Steal a Brainrot, DOORS and more. The genuinely great free-to-play standouts. URL: https://gamertagmythras.com/blog/roblox/best-free-roblox-games
+
+### best-roblox-survival-games
+Best Roblox Survival Games to Play Right Now. The best Roblox survival games right now — 99 Nights in the Forest, Booga Booga Reborn, Apocalypse Rising 2, Flood Escape 2 and more, and who each is for. URL: https://gamertagmythras.com/blog/roblox/best-roblox-survival-games
+
+### best-roblox-anime-games
+Best Roblox Anime Games to Play Right Now. The best Roblox anime games right now — Blox Fruits, Anime Vanguards, Anime Defenders, Jujutsu Infinite and more. What each one is and which to start with. URL: https://gamertagmythras.com/blog/roblox/best-roblox-anime-games
+
+### best-roblox-fps-games
+Best Roblox FPS Games to Play Right Now. The best Roblox FPS games right now — RIVALS, Phantom Forces, Arsenal, Bad Business and more. What each shooter plays like and which one fits your style. URL: https://gamertagmythras.com/blog/roblox/best-roblox-fps-games
+
+### best-roblox-obby-games
+Best Roblox Obby Games to Play Right Now. The best Roblox obby games ranked from beginner-friendly to brutal — Mega Easy Obby, Tower of Hell, Eternal Towers of Hell and more, plus what makes one great. URL: https://gamertagmythras.com/blog/roblox/best-roblox-obby-games
+
+### best-roblox-roleplay-games
+Best Roblox Roleplay Games to Play Right Now. The best Roblox roleplay games right now — Brookhaven, Adopt Me, Bloxburg, Berry Avenue and Livetopia. What each one really is and exactly who it is for. URL: https://gamertagmythras.com/blog/roblox/best-roblox-roleplay-games
+
+### best-roblox-rpg-games
+Best Roblox RPG Games to Play Right Now. The best Roblox RPG games right now — Arcane Odyssey, Swordburst 2, World Zero, Vesteria, Dungeon Quest and more. What each one is and which to start with. URL: https://gamertagmythras.com/blog/roblox/best-roblox-rpg-games
+
+### best-roblox-simulator-games
+Best Roblox Simulator Games to Play Right Now. The best Roblox simulator games right now — Pet Simulator 99, Bee Swarm, Fisch, Arm Wrestle Simulator and more. Which grinds respect your time, which to skip. URL: https://gamertagmythras.com/blog/roblox/best-roblox-simulator-games
+
+### best-roblox-tower-defense-games
+Best Roblox Tower Defense Games to Play Right Now. The best Roblox tower defense games right now — Tower Defense Simulator, Toilet Tower Defense, TDX, ASTD X and more. What each one does and which to start with. URL: https://gamertagmythras.com/blog/roblox/best-roblox-tower-defense-games
+
+### best-roblox-tycoon-games
+Best Roblox Tycoon Games to Play Right Now. The best Roblox tycoon games right now — Theme Park Tycoon 2, Retail Tycoon 2, Lumber Tycoon 2 and more. What each one does well and which to start with. URL: https://gamertagmythras.com/blog/roblox/best-roblox-tycoon-games
+
+### best-roblox-games-with-friends
+Best Roblox Games to Play With Friends. The best Roblox games to play with friends — co-op horror, roleplay, party chaos, and grinders that get better with a group. Plus how to actually get into the same server. URL: https://gamertagmythras.com/blog/roblox/best-roblox-games-with-friends
+
+### best-roblox-games
+Best Roblox Games to Play in 2026. The best Roblox games to play in 2026, sorted by genre — the experiences with real player counts and staying power, not algorithm bait. What to play and what to skip. URL: https://gamertagmythras.com/blog/roblox/best-roblox-games
+
+### best-roblox-horror-games
+Best Roblox Horror Games to Play Right Now. The best Roblox horror games right now — DOORS, Pressure, Apeirophobia, The Mimic, Specter and more. What makes each scary, and whether to play solo or co-op. URL: https://gamertagmythras.com/blog/roblox/best-roblox-horror-games
+
+### how-to-get-robux
+How to Get Robux Safely (Legit Ways + Scams to Avoid). Every legit way to get Robux in 2026 — buying smart, earning through creation, Microsoft Rewards, and subscriptions — plus the "free Robux" scams that steal your account. URL: https://gamertagmythras.com/blog/roblox/how-to-get-robux
+
+### how-to-make-a-roblox-game
+How to Make a Roblox Game: From Idea to Published. A realistic beginner roadmap for making a Roblox game — Studio setup, the build loop, Luau basics, testing, publishing, and the honest truth about money. URL: https://gamertagmythras.com/blog/roblox/how-to-make-a-roblox-game
+
+### roblox-beginners-guide
+Beginner's Guide to Roblox: Everything a New Player Needs. New to Roblox? Set up your account safely, find good games instead of slop, understand Robux without overpaying, and lock down the settings that actually matter. URL: https://gamertagmythras.com/blog/roblox/roblox-beginners-guide
+
+### roblox-studio-basics
+Roblox Studio Basics: Make Your First Game. Build and publish your first Roblox game in an afternoon. Roblox Studio basics — templates, parts, the Explorer, your first Luau script, testing, and going live. URL: https://gamertagmythras.com/blog/roblox/roblox-studio-basics
+
+## Fortnite — full blog post list (29)
+
+### fortnite-loadout-priority-guide
+Fortnite Loadout Priority: What to Grab First. Build a winning Fortnite inventory: weapon roles for close, mid, and long range, plus heals, mobility, and mats — what to pick up first and what to drop. URL: https://gamertagmythras.com/blog/fortnite/fortnite-loadout-priority-guide
+
+### fortnite-reload-mode-guide
+Fortnite Reload Mode Guide: Fast Respawns, Faster Wins. How Fortnite Reload works: reboot cards, respawning teammates, a smaller faster map, and the aggressive playstyle that actually wins it. A full mode breakdown. URL: https://gamertagmythras.com/blog/fortnite/fortnite-reload-mode-guide
+
+### fortnite-stretched-resolution-guide
+Fortnite Stretched Resolution Guide: Is It Worth It?. Fortnite stretched resolution explained: the FOV and visibility trade-offs, the FPS truth, how to set it, why it is banned in ranked, and who should bother. URL: https://gamertagmythras.com/blog/fortnite/fortnite-stretched-resolution-guide
+
+### fortnite-terms-glossary
+Fortnite Terms and Slang Glossary for Beginners. Confused by Fortnite slang? A beginner glossary of the terms you actually hear — cranking 90s, W-key, box up, high ground, third-party, no-fill, ape, and more. URL: https://gamertagmythras.com/blog/fortnite/fortnite-terms-glossary
+
+### fortnite-audio-settings-guide
+Fortnite Audio Settings Guide: Hear Every Footstep. The Fortnite audio settings that actually matter: Visualize Sound Effects, 3D headphones/HRTF, sound channels, music off, plus how to read footsteps and builds. URL: https://gamertagmythras.com/blog/fortnite/fortnite-audio-settings-guide
+
+### fortnite-storm-surge-guide
+Fortnite Storm Surge Explained: Why You're Taking Damage. Fortnite Storm Surge explained: what it is, why you suddenly take damage when alive, how the damage threshold works per zone, and how to avoid getting surged. URL: https://gamertagmythras.com/blog/fortnite/fortnite-storm-surge-guide
+
+### fortnite-controller-vs-keyboard
+Fortnite Controller vs Keyboard & Mouse: Which Should You Use?. Controller vs keyboard and mouse in Fortnite: aim assist vs raw precision, edit speed, input-based matchmaking, what pros use, and how to pick by your goal. URL: https://gamertagmythras.com/blog/fortnite/fortnite-controller-vs-keyboard
+
+### fortnite-game-sense-guide
+Fortnite Game Sense Guide: Reading Fights and the Lobby. Fortnite game sense guide: when to fight vs disengage, reading third parties, lobby and storm awareness, info from sounds and builds, and playing the numbers. URL: https://gamertagmythras.com/blog/fortnite/fortnite-game-sense-guide
+
+### fortnite-ranked-guide
+Fortnite Ranked Guide: How Ranks Work and How to Climb. How Fortnite Ranked works: every tier from Bronze to Unreal, how placement and elims earn points, why Build and Zero Build are separate, and how to climb. URL: https://gamertagmythras.com/blog/fortnite/fortnite-ranked-guide
+
+### fortnite-warmup-practice-guide
+Fortnite Warm-Up & Practice Routine: Drills That Actually Help. A real Fortnite warm-up and practice routine: aim drills, edit courses, build and edit reps, the Creative map types that matter, and mechanics vs game sense. URL: https://gamertagmythras.com/blog/fortnite/fortnite-warmup-practice-guide
+
+### fortnite-controller-settings
+Best Fortnite Controller Settings & Aim Assist Guide. Best Fortnite controller settings: linear vs exponential, deadzones, sensitivity, aim assist strength, Builder Pro binds, claw and paddles, explained. URL: https://gamertagmythras.com/blog/fortnite/fortnite-controller-settings
+
+### fortnite-performance-fps-guide
+Fortnite Performance Guide: Best Settings for High FPS. Get max FPS and low input lag in Fortnite on PC: Performance Mode, view distance, effects, the right framerate cap, plus GPU and CPU tweaks that actually help. URL: https://gamertagmythras.com/blog/fortnite/fortnite-performance-fps-guide
+
+### fortnite-mats-management-guide
+Fortnite Mats and Resource Management Guide. Stop running out of mats in Fortnite: farming efficiently, the 500-per-type cap, wood vs brick vs metal, when to build vs save, and managing heals and ammo. URL: https://gamertagmythras.com/blog/fortnite/fortnite-mats-management-guide
+
+### fortnite-team-play-guide
+Fortnite Squad Play Guide: How to Win as a Team. Win more squad games in Fortnite: roles, callouts, when to split vs group, reboots, focus-firing, sharing mats and heals, and third-partying as a team. URL: https://gamertagmythras.com/blog/fortnite/fortnite-team-play-guide
+
+### best-fortnite-keybinds
+Best Fortnite Keybinds for Building (PC & Controller). The best Fortnite building keybinds for PC and controller: wall, ramp, floor, cone, edit, and reset binds that keep your hands on movement so you build faster. URL: https://gamertagmythras.com/blog/fortnite/best-fortnite-keybinds
+
+### fortnite-advanced-building-techniques
+Fortnite Advanced Building: 90s, Tunneling, and Ramp Rushes. Go past the basics: master 90s, tunneling, ramp and wall rushes, retakes, and building for height in Fortnite — the build techniques that win real fights. URL: https://gamertagmythras.com/blog/fortnite/fortnite-advanced-building-techniques
+
+### fortnite-box-fighting-guide
+Fortnite Box Fighting Guide: How to Win 1v1 Build Fights. Win Fortnite 1v1 build fights: how to box up, the core edits (door, window, cone), piece control, taking walls, and tunneling someone down for the kill. URL: https://gamertagmythras.com/blog/fortnite/fortnite-box-fighting-guide
+
+### fortnite-endgame-strategy
+Fortnite Endgame Guide: Winning the Final Circles. Win more Fortnite Victory Royales: how to play the final circles — positioning, high ground, rotations, mat and heal management, and reading the last fights. URL: https://gamertagmythras.com/blog/fortnite/fortnite-endgame-strategy
+
+### fortnite-movement-guide
+Fortnite Movement Guide: Sprint, Mantle, Slide, and Reset. Master Fortnite movement: tactical sprint, mantling, sliding, hurdling, and jump-resets — how the movement toolkit wins fights and speeds up your rotations. URL: https://gamertagmythras.com/blog/fortnite/fortnite-movement-guide
+
+### fortnite-rotation-guide
+Fortnite Rotation Guide: How to Move and Take Zone. Stop dying in the open: how to rotate in Fortnite, read the zone, beat the storm, use mobility, and decide when to hold vs take zone in Build and Zero Build. URL: https://gamertagmythras.com/blog/fortnite/fortnite-rotation-guide
+
+### fortnite-zero-build-guide
+Fortnite Zero Build Guide: How to Win Without Building. Win Fortnite Zero Build without a single wall: how to use natural cover, sprint and mantle, manage shields, third-party smartly, and read the no-build meta. URL: https://gamertagmythras.com/blog/fortnite/fortnite-zero-build-guide
+
+### how-to-get-better-at-fortnite
+How to Get Better at Fortnite: A Complete Improvement Roadmap. An honest, ordered roadmap to get better at Fortnite: settings, aim, building and editing, game sense and rotations, plus VOD review and Creative practice. URL: https://gamertagmythras.com/blog/fortnite/how-to-get-better-at-fortnite
+
+### best-fortnite-landing-spots
+Best Fortnite Landing Spots: How to Drop for the Win. Where to land in Fortnite for loot and survival. The principles behind a great drop spot, how to read the bus, and why your landing decides the whole match. URL: https://gamertagmythras.com/blog/fortnite/best-fortnite-landing-spots
+
+### best-fortnite-settings
+Best Fortnite Settings for PC & Console. The Fortnite settings that actually matter: FPS and graphics for max frames, sensitivity you can tune yourself, edit-mode multipliers, and keybinds for PC and console. URL: https://gamertagmythras.com/blog/fortnite/best-fortnite-settings
+
+### fortnite-aim-training-guide
+How to Improve Your Aim in Fortnite: A Practical Guide. Improve your Fortnite aim for real: sensitivity tuning, tracking vs flicking, aiming while building, a Creative warmup routine, and the gear that actually matters. URL: https://gamertagmythras.com/blog/fortnite/fortnite-aim-training-guide
+
+### fortnite-beginners-guide
+Fortnite Beginner's Guide: Modes, Basics & First Wins. A no-fluff Fortnite beginner guide: which mode to start in, the core loop, looting, the storm, and the survival habits that get you your first Victory Royale. URL: https://gamertagmythras.com/blog/fortnite/fortnite-beginners-guide
+
+### fortnite-building-basics
+Fortnite Building Basics: The Fundamentals. Learn Fortnite building from zero: the four pieces, Builder Pro keybinds, the wall-ramp-floor box, the 90, edits, and the drills that build real muscle memory. URL: https://gamertagmythras.com/blog/fortnite/fortnite-building-basics
+
+### fortnite-editing-guide
+Fortnite Editing Guide: How to Edit Faster and Cleaner. Edit faster in Fortnite: edit-on-release timing, the window/door/cone-peek/ramp-redirect edits, keybind setup, and Creative drills that turn editing into reflex. URL: https://gamertagmythras.com/blog/fortnite/fortnite-editing-guide
+
+### fortnite-weapon-tier-list
+Fortnite Weapon Tier List: How to Rank Any Loot Pool. A Fortnite weapon tier list that survives every season: how to rank guns by class and range, build a balanced loadout, and judge new weapons the moment they drop. URL: https://gamertagmythras.com/blog/fortnite/fortnite-weapon-tier-list
+
+## PUBG: Battlegrounds — full blog post list (29)
+
+### pubg-advanced-tips
+PUBG Advanced Tips: Habits That Win More Games. The high-impact PUBG habits that separate good players from average ones — positioning, third-party timing, inventory discipline, sound, and circle math. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-advanced-tips
+
+### pubg-care-package-guide
+PUBG Care Package & Airdrop Guide: What's Worth the Risk. What spawns in PUBG airdrops — AWM, Groza, Mk14, AUG, M249 — plus the Level 3 gear, when to contest a care package, when to skip it, and how to bait one. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-care-package-guide
+
+### best-pubg-pistols
+Best PUBG Pistols and Sidearms, Ranked. Every PUBG pistol and sidearm ranked — P18C, Skorpion, Deagle, P1911, P92, R45, R1895 — by their real job: winning the first 30 seconds before you find a rifle. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/best-pubg-pistols
+
+### pubg-callouts-glossary
+PUBG Callouts and Terms Glossary for Squad Play. A plain-English PUBG glossary for squad play: compass callouts, knocked, third-party, hot drop, pushing, rotating, and the slang new players need. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-callouts-glossary
+
+### pubg-attachments-guide
+Best PUBG Attachments: Muzzles, Grips & Scopes. The best PUBG attachments by slot — muzzle, grip, magazine, stock, and scope — with the top picks per weapon class and the exact order to grab them when looting. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-attachments-guide
+
+### pubg-ranked-guide
+PUBG Ranked Guide: How to Climb the Tiers. How PUBG Ranked actually works — the tiers, RP, why placement beats kills, the playstyle that climbs, the mistakes that tank your rank, and squad coordination. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-ranked-guide
+
+### best-pubg-dmrs
+Best PUBG DMRs (Marksman Rifles), Ranked. Every PUBG DMR ranked — SLR, Mk14, SKS, Mini14, QBU, Mk12, VSS, Dragunov — by role, control, and availability, plus how DMRs differ from ARs and bolt snipers. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/best-pubg-dmrs
+
+### best-pubg-lmgs
+Best PUBG LMGs, Ranked. PUBG light machine guns ranked — M249, DP-28, and MG3 — by role, suppression power, ammo, and availability, plus exactly when an LMG beats an assault rifle. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/best-pubg-lmgs
+
+### pubg-peeking-guide
+PUBG Peeking and Crosshair Placement Guide. Lean-peeking, crosshair placement, jiggle-peeking, holding angles vs wide-peeking, and cover discipline — the PUBG combat fundamentals that win fights. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-peeking-guide
+
+### pubg-tpp-vs-fpp-guide
+PUBG TPP vs FPP: Which Mode Should You Play?. PUBG TPP vs FPP explained — the real difference between third- and first-person, the corner-peeking meta, which is more competitive, queue and region notes. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-tpp-vs-fpp-guide
+
+### best-pubg-shotguns
+Best PUBG Shotguns, Ranked. Every PUBG shotgun ranked — S12K, DBS, S686, S1897, O12 and the Sawed-Off — by close-range one-shot potential, fire rate, and reload speed, with the best use for each. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/best-pubg-shotguns
+
+### pubg-healing-boost-guide
+PUBG Healing and Boost Items Guide. Master PUBG healing and boost items — bandages, first aid kit, med kit, energy drink, painkillers, adrenaline syringe — with the 75 HP cap, boost-bar tiers, and when to use each. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-healing-boost-guide
+
+### best-pubg-smgs
+Best PUBG SMGs, Ranked. Every PUBG SMG ranked — Vector, UMP45, MP5K, Micro UZI, PP-19 Bizon, P90 — by close-range damage, control, and early-game value, with the best use for each. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/best-pubg-smgs
+
+### pubg-audio-guide
+PUBG Audio Guide: How to Win Fights With Sound. Win more PUBG fights with sound — read footsteps, gunfire direction, vehicle, glass, and door cues, plus the audio settings and headphones that turn ears into information. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-audio-guide
+
+### best-pubg-assault-rifles
+Best PUBG Assault Rifles, Ranked. Every PUBG assault rifle ranked — M416, Beryl, AKM, AUG, ACE32, Groza and the rest — by recoil, fire rate, ammo, and availability, with the best use for each. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/best-pubg-assault-rifles
+
+### best-pubg-sniper-rifles
+Best PUBG Sniper Rifles, Ranked. Every PUBG sniper and marksman rifle ranked — AWM, Kar98k, M24, Mosin, SLR, Mk14, SKS, Mini14 — by role, damage, and availability, bolt-action vs DMR. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/best-pubg-sniper-rifles
+
+### best-pubg-vehicles
+Best PUBG Vehicles, Ranked. Every PUBG vehicle ranked by speed, durability, and rotation utility — BRDM-2, Coupe RB, UAZ, Dacia, motorcycle, Pickup, boats, and which to grab when. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/best-pubg-vehicles
+
+### pubg-endgame-circle-strategy
+PUBG Endgame Guide: How to Win the Final Circles. How to win PUBG final circles: zone prediction, rotations, cover discipline, and beating the third-party game to turn a top-10 finish into a chicken dinner. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-endgame-circle-strategy
+
+### pubg-looting-inventory-guide
+PUBG Looting & Inventory Management Guide. Loot faster and carry the right stuff in PUBG: what to prioritize, how to manage inventory space, attachment triage, and the heal-versus-throwable balance. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-looting-inventory-guide
+
+### pubg-movement-positioning-guide
+PUBG Movement and Positioning Guide. Lean-peeking, cover usage, cresting ridges, crossing open ground, holding angles, and third-party awareness — the PUBG positioning fundamentals that keep you alive. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-movement-positioning-guide
+
+### pubg-squad-strategy
+PUBG Squad Strategy: How to Win More Games as a Team. PUBG squad strategy that wins games: roles, callout comms, drop coordination, trading and reviving, crossfires, and how four players move the circle as one. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-squad-strategy
+
+### pubg-throwables-utility-guide
+Best PUBG Throwables: Grenades, Smokes & Utility Guide. A practical PUBG throwables guide: how to cook frags, run smoke rotations, clear rooms with Molotovs, blind with stuns, and use the map-specific utility items. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-throwables-utility-guide
+
+### best-pubg-landing-spots
+Best PUBG Landing Spots & Hot Drops. The best PUBG: Battlegrounds landing spots and hot drops on Erangel and Miramar — high-loot zones, safe outskirts, and how to pick a drop based on the flight path. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/best-pubg-landing-spots
+
+### best-pubg-loadouts
+Best PUBG Loadouts & Attachments. The best PUBG: Battlegrounds loadouts and attachment priorities — AR + DMR combos, which muzzle, grip, stock, and mag to grab, and what each attachment actually does. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/best-pubg-loadouts
+
+### best-pubg-maps-ranked
+Best PUBG Maps, Ranked. Every live PUBG map ranked by how fun it is and how good it is for ranking up — Erangel, Taego, Miramar, Rondo, Deston, Vikendi, Sanhok, and the small maps. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/best-pubg-maps-ranked
+
+### best-pubg-weapons-tier-list
+Best Weapons in PUBG: Tier List. A PUBG: Battlegrounds weapon tier list ranked by what actually wins fights — assault rifles, DMRs, snipers, and SMGs, plus how to read the meta yourself. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/best-pubg-weapons-tier-list
+
+### pubg-beginners-guide
+PUBG Beginner's Guide: Survive Your First Matches. New to PUBG: Battlegrounds? Learn the drop, looting, the blue zone, sound cues, and the positioning habits that keep you alive past the first five minutes. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-beginners-guide
+
+### pubg-recoil-control-guide
+PUBG Recoil Control Guide: Master Every Spray Pattern. How PUBG recoil really works, the muzzle and grip attachments that tame it, the pull-down technique, per-weapon spray notes, and a training-range routine. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-recoil-control-guide
+
+### pubg-settings-sensitivity-guide
+PUBG Settings & Sensitivity Guide. Dial in PUBG: Battlegrounds settings and sensitivity — DPI, general and scope sensitivity, FOV, graphics for visibility, audio, and keybinds that win gunfights. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-settings-sensitivity-guide
 
 ## Site systems
 

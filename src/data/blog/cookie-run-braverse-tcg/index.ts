@@ -32,6 +32,8 @@ import { bestTruthAndDeceitCardsBraverse } from './posts/best-truth-and-deceit-c
 import { braverseCombosSynergies } from './posts/cookie-run-braverse-combos-synergies';
 import { bestParadiseSlothCardsBraverse } from './posts/best-paradise-sloth-cards-braverse';
 import { braverseWinConditions } from './posts/cookie-run-braverse-win-conditions';
+import { bestBraverseBeginnerCards } from './posts/best-cookie-run-braverse-beginner-cards';
+import { braverseTournamentGuide } from './posts/cookie-run-braverse-tournament-guide';
 
 export const BRAVERSE_POSTS: BlogPost[] = [
   howToPlayBraverse,
@@ -67,4 +69,6 @@ export const BRAVERSE_POSTS: BlogPost[] = [
   braverseCombosSynergies,
   bestParadiseSlothCardsBraverse,
   braverseWinConditions,
+  bestBraverseBeginnerCards,
+  braverseTournamentGuide,
 ];

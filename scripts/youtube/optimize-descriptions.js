@@ -175,6 +175,8 @@ async function buildDescription(token, env, video, canonicalFooter) {
   } else {
     next = body; // no captions: at most the footer upgrade
   }
+  // YouTube rejects descriptions containing angle brackets — strip them defensively.
+  next = next.replace(/[<>]/g, '');
   const changed = next.trim() !== current.trim();
   const note = !transcript
     ? (footerAdded ? 'no captions (footer upgrade only)' : 'no captions — unchanged')
@@ -262,7 +264,12 @@ async function main() {
       catch (e) { if (e.message === 'QUOTA_EXCEEDED') { console.error('⚠ YouTube API quota exhausted — stopping. Resume after it resets (~midnight Pacific).'); break; } throw e; }
       const { next, changed, note } = built;
       if (!changed) { console.log(`– skipped ${v.id} (${note})`); continue; }
-      await updateDescription(token, v, next);
+      try {
+        await updateDescription(token, v, next);
+      } catch (e) {
+        console.error(`✗ skipped ${v.id} — update rejected: ${(e.message || e).slice(0, 160)}`);
+        continue;
+      }
       console.log(`✓ updated ${v.id} [${note}] — ${v.snippet.title}`);
       n++;
       await new Promise(r => setTimeout(r, 300));

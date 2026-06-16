@@ -71,7 +71,7 @@ function readPosts(gameSlug) {
 
 // Hidden/de-indexed games — keep in sync with HIDDEN_GAME_SLUGS in src/data/blog/games.ts.
 // Excluded from llms.txt + llms-full.txt while the site is reviewed on its Cookie Run core.
-const HIDDEN = new Set(['magic-the-gathering', 'minecraft', 'roblox', 'fortnite', 'pubg-battlegrounds']);
+const HIDDEN = new Set([]); // all games live/indexed — keep in sync with HIDDEN_GAME_SLUGS in games.ts
 const allByGame = GAMES.filter(g => !HIDDEN.has(g.slug)).map(g => ({ ...g, posts: readPosts(g.slug) }));
 const totalPosts = allByGame.reduce((n, g) => n + g.posts.length, 0);
 
