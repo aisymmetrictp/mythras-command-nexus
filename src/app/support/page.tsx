@@ -95,7 +95,7 @@ export default function SupportPage() {
                 </div>
                 <div className="flex-1 text-center md:text-left">
                   <div className="flex flex-wrap justify-center md:justify-start gap-2 mb-3">
-                    <Badge>Limited run of 50</Badge>
+                    <Badge>In stock</Badge>
                     <Badge>Original fan art</Badge>
                     <Badge>Hand-signed by Mythras</Badge>
                   </div>
@@ -104,12 +104,12 @@ export default function SupportPage() {
                   </h3>
                   <div className="flex items-baseline gap-2 justify-center md:justify-start mb-3">
                     <span className="text-3xl font-bold text-[#D4A853]" style={{ fontFamily: 'var(--font-display)' }}>$25</span>
-                    <span className="text-sm text-[#9999aa]">each · hand-signed · 1 of 50</span>
+                    <span className="text-sm text-[#9999aa]">each · hand-signed · in stock</span>
                   </div>
                   <p className="text-[#c8c8d4] leading-relaxed mb-4">
                     A custom, hand-designed collector card illustrated by Mythras — the golden lion himself, rendered
                     in full TCG style and <strong className="text-white">hand-signed by Mythras</strong> on every copy.
-                    Only 50 exist. It&apos;s a fan-made art collectible, not an official or tournament-playable card.
+                    In stock and ready to ship. It&apos;s a fan-made art collectible, not an official or tournament-playable card.
                   </p>
                   <div className="flex flex-col sm:flex-row gap-3 justify-center md:justify-start">
                     <a
