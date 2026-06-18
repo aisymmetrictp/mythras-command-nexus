@@ -30,6 +30,8 @@ import { fortniteReloadModeGuide } from './posts/fortnite-reload-mode-guide';
 import { fortniteLoadoutPriorityGuide } from './posts/fortnite-loadout-priority-guide';
 import { fortniteModesOverview } from './posts/fortnite-modes-overview';
 import { fortniteVictoryCrownGuide } from './posts/fortnite-victory-crown-guide';
+import { fortniteHealingItemsTierList } from './posts/fortnite-healing-items-tier-list';
+import { fortniteXpLevelingGuide } from './posts/fortnite-xp-leveling-guide';
 
 export const FORTNITE_POSTS: BlogPost[] = [
   fortniteBeginnersGuide,
@@ -63,4 +65,6 @@ export const FORTNITE_POSTS: BlogPost[] = [
   fortniteLoadoutPriorityGuide,
   fortniteModesOverview,
   fortniteVictoryCrownGuide,
+  fortniteHealingItemsTierList,
+  fortniteXpLevelingGuide,
 ];

@@ -50,6 +50,8 @@ import { crunchyChipCookieToppingsBuild } from './posts/crunchy-chip-cookie-topp
 import { crkCookieRarityExplained } from './posts/crk-cookie-rarity-explained';
 import { blackSapphireCookieToppingsBuild } from './posts/black-sapphire-cookie-toppings-build';
 import { crkDailyChecklist } from './posts/crk-daily-checklist';
+import { goldenCheeseCookieToppingsBuild } from './posts/golden-cheese-cookie-toppings-build';
+import { darkCacaoCookieToppingsBuild } from './posts/dark-cacao-cookie-toppings-build';
 
 export const CRK_POSTS: BlogPost[] = [
   crkCodes,
@@ -103,4 +105,6 @@ export const CRK_POSTS: BlogPost[] = [
   crkCookieRarityExplained,
   blackSapphireCookieToppingsBuild,
   crkDailyChecklist,
+  goldenCheeseCookieToppingsBuild,
+  darkCacaoCookieToppingsBuild,
 ];
