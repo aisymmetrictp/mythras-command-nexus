@@ -1,0 +1,2173 @@
+{
+ "generated": "2026-06-18",
+ "total": 269,
+ "byGame": {
+  "cookie-run-kingdom": [
+   {
+    "slug": "crk-beginner-mistakes-to-avoid",
+    "title": "10 Cookie Run: Kingdom Beginner Mistakes That Stall Your Account",
+    "topicCluster": "beginner",
+    "primaryKeyword": "cookie run kingdom beginner mistakes",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-24"
+   },
+   {
+    "slug": "ash-salt-cookie-toppings",
+    "title": "Ash Salt Cookie — Best Toppings, Beascuit & Team Comps",
+    "topicCluster": "cookie-deep-dive",
+    "primaryKeyword": "ash salt cookie best toppings",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-24"
+   },
+   {
+    "slug": "beast-cookies-ranked-worth-pulling",
+    "title": "Beast Cookies Tier List — Which Beast Cookies Are Actually Worth Pulling?",
+    "topicCluster": "beast-cookies",
+    "primaryKeyword": "beast cookies tier list crk",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-24"
+   },
+   {
+    "slug": "beast-yeast-boss-counters",
+    "title": "Beast-Yeast Boss Counters — Best Teams for Every Boss",
+    "topicCluster": "beast-yeast",
+    "primaryKeyword": "beast yeast boss counters",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-29"
+   },
+   {
+    "slug": "best-ancient-cookies-crk-ranked",
+    "title": "Best Ancient Cookies in Cookie Run: Kingdom, Ranked (May 2026)",
+    "topicCluster": "ancient-cookies-tier-list",
+    "primaryKeyword": "best ancient cookies crk",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "best-beginner-cookies-crk",
+    "title": "Best Cookie Run: Kingdom Cookies for Beginners, Ranked",
+    "topicCluster": "beginner-cookies-ranked",
+    "primaryKeyword": "best beginner cookies crk",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-04"
+   },
+   {
+    "slug": "best-crk-pve-teams",
+    "title": "Best Cookie Run: Kingdom Teams for PvE (Story & World Exploration)",
+    "topicCluster": "pve-teams",
+    "primaryKeyword": "best crk pve teams",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-05"
+   },
+   {
+    "slug": "best-crk-dps-cookies-ranked",
+    "title": "Best CRK DPS Cookies Ranked (May 2026) — Who Actually Hits",
+    "topicCluster": "dps-tier-list",
+    "primaryKeyword": "best crk dps cookies",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-28"
+   },
+   {
+    "slug": "best-crk-healers-ranked",
+    "title": "Best CRK Healers Ranked (May 2026) — Sugar Swan, Pure Vanilla & The Whole Tier List",
+    "topicCluster": "healer-tier-list",
+    "primaryKeyword": "best crk healers",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-27"
+   },
+   {
+    "slug": "best-epic-cookies-crk-ranked",
+    "title": "Best Epic Cookies in Cookie Run: Kingdom, Ranked",
+    "topicCluster": "epic-cookies-tier-list",
+    "primaryKeyword": "best epic cookies crk",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "best-f2p-arena-team",
+    "title": "Best F2P Arena Team (June 2026) — A Diamond-Tier Comp Without a Single Legendary Pull",
+    "topicCluster": "arena-meta",
+    "primaryKeyword": "best f2p arena team CRK",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-24"
+   },
+   {
+    "slug": "best-legendary-cookies-crk-ranked",
+    "title": "Best Legendary Cookies in Cookie Run: Kingdom, Ranked",
+    "topicCluster": "legendary-cookies-tier-list",
+    "primaryKeyword": "best legendary cookies crk",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "best-crk-support-cookies-ranked",
+    "title": "Best Support Cookies in Cookie Run: Kingdom, Ranked (May 2026)",
+    "topicCluster": "support-tier-list",
+    "primaryKeyword": "best crk support cookies",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "best-crk-tank-cookies-ranked",
+    "title": "Best Tank Cookies in Cookie Run: Kingdom, Ranked",
+    "topicCluster": "tank-tier-list",
+    "primaryKeyword": "best crk tank cookies",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "black-pearl-cookie-toppings-build",
+    "title": "Black Pearl Cookie Toppings Build & Guide",
+    "topicCluster": "black-pearl-build",
+    "primaryKeyword": "black pearl cookie toppings",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-07"
+   },
+   {
+    "slug": "black-sapphire-cookie-toppings-build",
+    "title": "Black Sapphire Cookie Toppings Build & Guide",
+    "topicCluster": "black-sapphire-build",
+    "primaryKeyword": "black sapphire cookie toppings",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-17"
+   },
+   {
+    "slug": "burning-spice-cookie-toppings-build",
+    "title": "Burning Spice Cookie Toppings Build & Guide",
+    "topicCluster": "burning-spice-build",
+    "primaryKeyword": "burning spice cookie toppings",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "crk-awakening-guide",
+    "title": "Cookie Run: Kingdom Awakening Guide: Who to Awaken First",
+    "topicCluster": "awakening-strategy",
+    "primaryKeyword": "cookie run kingdom awakening",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "crk-beast-yeast-guide",
+    "title": "Cookie Run: Kingdom Beast-Yeast Guide — Episode Runs, Boss Comps & Investment Path",
+    "topicCluster": "beast-yeast",
+    "primaryKeyword": "cookie run kingdom beast yeast guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-24"
+   },
+   {
+    "slug": "cookie-run-kingdom-codes",
+    "title": "Cookie Run: Kingdom Codes (May 2026) — All Active Codes & Free Rewards",
+    "topicCluster": "codes",
+    "primaryKeyword": "cookie run kingdom codes",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-23"
+   },
+   {
+    "slug": "crk-cookie-rarity-explained",
+    "title": "Cookie Run: Kingdom Cookie Rarities Explained",
+    "topicCluster": "cookie-rarity-explained",
+    "primaryKeyword": "cookie run kingdom rarities explained",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-11"
+   },
+   {
+    "slug": "crk-daily-checklist",
+    "title": "Cookie Run: Kingdom Daily Checklist: What to Do Every Day",
+    "topicCluster": "daily-routine",
+    "primaryKeyword": "cookie run kingdom daily checklist",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-17"
+   },
+   {
+    "slug": "crk-gacha-pull-guide",
+    "title": "Cookie Run: Kingdom Gacha Guide: When to Pull and When to Save",
+    "topicCluster": "gacha-economy",
+    "primaryKeyword": "cookie run kingdom gacha guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-06"
+   },
+   {
+    "slug": "crk-kingdom-building-guide",
+    "title": "Cookie Run: Kingdom Kingdom Building & Production Guide",
+    "topicCluster": "kingdom-management",
+    "primaryKeyword": "cookie run kingdom building guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-07"
+   },
+   {
+    "slug": "cookie-run-kingdom-reroll-guide",
+    "title": "Cookie Run: Kingdom Reroll Guide (May 2026) — Best Starting Cookies & How to Reroll Fast",
+    "topicCluster": "reroll",
+    "primaryKeyword": "cookie run kingdom reroll guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-23"
+   },
+   {
+    "slug": "cookie-run-kingdom-treasures-guide",
+    "title": "Cookie Run: Kingdom Treasures Guide — How Treasures Work & Which to Build First",
+    "topicCluster": "systems-explainer",
+    "primaryKeyword": "cookie run kingdom treasures guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-24"
+   },
+   {
+    "slug": "crk-world-exploration-guide",
+    "title": "Cookie Run: Kingdom World Exploration Guide",
+    "topicCluster": "progression",
+    "primaryKeyword": "cookie run kingdom world exploration",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-10"
+   },
+   {
+    "slug": "cookiechat-affection-guide",
+    "title": "CookieChat & Affection System Explained — Every Cookie's Favorite Gift",
+    "topicCluster": "cookiechat",
+    "primaryKeyword": "cookiechat affection gift list",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-23"
+   },
+   {
+    "slug": "beascuit-tier-list",
+    "title": "CRK Beascuit Tier List — Every Type Ranked (2026)",
+    "topicCluster": "beascuits",
+    "primaryKeyword": "beascuit tier list crk",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-29"
+   },
+   {
+    "slug": "f2p-crystal-optimization",
+    "title": "CRK F2P Crystal Guide — Save vs Spend Decision Tree",
+    "topicCluster": "f2p-economy",
+    "primaryKeyword": "crk f2p crystal guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-29"
+   },
+   {
+    "slug": "crk-magic-candy-priority-guide",
+    "title": "CRK Magic Candy Priority Guide (May 2026) — Which Cookies to Upgrade First",
+    "topicCluster": "magic-candy",
+    "primaryKeyword": "crk magic candy priority",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-27"
+   },
+   {
+    "slug": "cookie-run-kingdom-tier-list",
+    "title": "CRK Tier List May 2026 — PvE & PvP Rankings (Post-Timeline of Fate)",
+    "topicCluster": "tier-list",
+    "primaryKeyword": "cookie run kingdom tier list",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-23"
+   },
+   {
+    "slug": "crk-toppings-guide",
+    "title": "CRK Toppings Guide (2026) — Every Set + Reroll Strategy",
+    "topicCluster": "toppings",
+    "primaryKeyword": "crk toppings guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-28"
+   },
+   {
+    "slug": "crunchy-chip-cookie-toppings-build",
+    "title": "Crunchy Chip Cookie Toppings Build & Guide",
+    "topicCluster": "crunchy-chip-build",
+    "primaryKeyword": "crunchy chip cookie toppings",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-11"
+   },
+   {
+    "slug": "dark-cacao-cookie-toppings-build",
+    "title": "Dark Cacao Cookie Toppings Build & Guide",
+    "topicCluster": "dark-cacao-build",
+    "primaryKeyword": "dark cacao cookie toppings",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-18"
+   },
+   {
+    "slug": "dark-enchantress-cookie-toppings-build",
+    "title": "Dark Enchantress Cookie Toppings & Build Guide (May 2026)",
+    "topicCluster": "dark-enchantress-build",
+    "primaryKeyword": "dark enchantress cookie toppings",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-27"
+   },
+   {
+    "slug": "decadent-choco-tower-walkthrough",
+    "title": "Decadent Choco Tower Walkthrough (2026) — Floor Strategy & Comp Picks",
+    "topicCluster": "cake-tower",
+    "primaryKeyword": "decadent choco tower guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-24"
+   },
+   {
+    "slug": "eternal-sugar-cookie-toppings-build",
+    "title": "Eternal Sugar Cookie Toppings Build & Guide",
+    "topicCluster": "eternal-sugar-build",
+    "primaryKeyword": "eternal sugar cookie toppings",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-05"
+   },
+   {
+    "slug": "frost-queen-cookie-toppings-build",
+    "title": "Frost Queen Cookie Toppings Build & Guide",
+    "topicCluster": "frost-queen-build",
+    "primaryKeyword": "frost queen cookie toppings",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-06"
+   },
+   {
+    "slug": "golden-cheese-cookie-toppings-build",
+    "title": "Golden Cheese Cookie Toppings Build & Guide",
+    "topicCluster": "golden-cheese-build",
+    "primaryKeyword": "golden cheese cookie toppings",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-18"
+   },
+   {
+    "slug": "guild-battle-teams",
+    "title": "Guild Battle Teams (May 2026) — Best Comps for All 4 Bosses",
+    "topicCluster": "guild-battle",
+    "primaryKeyword": "guild battle teams cookie run kingdom",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-23"
+   },
+   {
+    "slug": "hollyberry-cookie-toppings-build",
+    "title": "Hollyberry Cookie Toppings Build & Guide",
+    "topicCluster": "hollyberry-build",
+    "primaryKeyword": "hollyberry cookie toppings",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-06"
+   },
+   {
+    "slug": "timeline-of-fate-update-guide",
+    "title": "Is the Timeline of Fate Update Worth It? Beginner-to-Endgame Guide to CRK v7.4",
+    "topicCluster": "patch-overview",
+    "primaryKeyword": "timeline of fate update guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-23"
+   },
+   {
+    "slug": "kingdom-arena-meta-team",
+    "title": "Kingdom Arena Meta Team (May 2026) — The Comp Topping Diamond+",
+    "topicCluster": "arena-meta",
+    "primaryKeyword": "kingdom arena meta team May 2026",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-23"
+   },
+   {
+    "slug": "mystic-flour-cookie-toppings-build",
+    "title": "Mystic Flour Cookie Toppings Build & Guide",
+    "topicCluster": "mystic-flour-build",
+    "primaryKeyword": "mystic flour cookie toppings",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "pure-vanilla-awakened-toppings",
+    "title": "Pure Vanilla Cookie (Awakened) — Best Toppings, Beascuit & Team Comps",
+    "topicCluster": "cookie-deep-dive",
+    "primaryKeyword": "pure vanilla cookie awakened toppings",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-24"
+   },
+   {
+    "slug": "sea-fairy-cookie-toppings-build",
+    "title": "Sea Fairy Cookie Toppings Build & Guide",
+    "topicCluster": "sea-fairy-build",
+    "primaryKeyword": "sea fairy cookie toppings",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "shadow-milk-cookie-toppings-build",
+    "title": "Shadow Milk Cookie Toppings Build & Guide",
+    "topicCluster": "shadow-milk-build",
+    "primaryKeyword": "shadow milk cookie toppings",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "silent-salt-cookie-toppings-build",
+    "title": "Silent Salt Cookie Toppings Build & Guide",
+    "topicCluster": "silent-salt-build",
+    "primaryKeyword": "silent salt cookie toppings",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-06"
+   },
+   {
+    "slug": "stormbringer-cookie-toppings-build",
+    "title": "Stormbringer Cookie Toppings Build & Guide",
+    "topicCluster": "stormbringer-build",
+    "primaryKeyword": "stormbringer cookie toppings",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-10"
+   },
+   {
+    "slug": "sugar-swan-cookie-toppings-build",
+    "title": "Sugar Swan Cookie Toppings & Build Guide (May 2026)",
+    "topicCluster": "sugar-swan-build",
+    "primaryKeyword": "sugar swan cookie toppings",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-28"
+   },
+   {
+    "slug": "timekeeper-toppings",
+    "title": "Timekeeper Cookie — Best Toppings, Beascuits & Team Comps",
+    "topicCluster": "cookie-deep-dive",
+    "primaryKeyword": "timekeeper cookie best toppings",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-23"
+   },
+   {
+    "slug": "wind-archer-cookie-toppings-build",
+    "title": "Wind Archer Cookie Toppings Build & Guide",
+    "topicCluster": "wind-archer-build",
+    "primaryKeyword": "wind archer cookie toppings",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-04"
+   }
+  ],
+  "cookie-run-braverse-tcg": [
+   {
+    "slug": "cookie-run-braverse-beginner-mistakes",
+    "title": "10 Cookie Run: Braverse Beginner Mistakes (and How to Fix Them)",
+    "topicCluster": "fundamentals",
+    "primaryKeyword": "cookie run braverse beginner mistakes",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-28"
+   },
+   {
+    "slug": "best-ancient-cards-cookie-run-braverse",
+    "title": "Best Ancient Cards in Cookie Run: Braverse, Ranked",
+    "topicCluster": "card-evaluation",
+    "primaryKeyword": "best ancient cards cookie run braverse",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-05"
+   },
+   {
+    "slug": "best-arena-cards-cookie-run-braverse",
+    "title": "Best Arena Cards in Cookie Run: Braverse, Ranked",
+    "topicCluster": "card-evaluation",
+    "primaryKeyword": "best braverse arena cards",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-18"
+   },
+   {
+    "slug": "best-beast-cards-cookie-run-braverse",
+    "title": "Best Beast Cards in Cookie Run: Braverse, Ranked",
+    "topicCluster": "card-evaluation",
+    "primaryKeyword": "best beast cards cookie run braverse",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-06"
+   },
+   {
+    "slug": "best-blue-cards-cookie-run-braverse",
+    "title": "Best Blue Cards in Cookie Run: Braverse, Ranked",
+    "topicCluster": "card-evaluation",
+    "primaryKeyword": "best braverse blue cards",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "best-truth-and-deceit-cards-braverse",
+    "title": "Best Cards from Cookie Run: Braverse — A Game of Truth and Deceit",
+    "topicCluster": "set-coverage",
+    "primaryKeyword": "best a game of truth and deceit cards",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-07"
+   },
+   {
+    "slug": "best-age-of-heroes-cards-braverse",
+    "title": "Best Cards from Cookie Run: Braverse — Age of Heroes and Kingdoms",
+    "topicCluster": "set-coverage",
+    "primaryKeyword": "best age of heroes and kingdoms cards",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-06"
+   },
+   {
+    "slug": "best-arena-of-glory-cards-braverse",
+    "title": "Best Cards from Cookie Run: Braverse — Arena of Glory",
+    "topicCluster": "set-coverage",
+    "primaryKeyword": "best arena of glory cards braverse",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-04"
+   },
+   {
+    "slug": "best-brave-beginning-cards-braverse",
+    "title": "Best Cards from Cookie Run: Braverse — Brave Beginning",
+    "topicCluster": "card-evaluation",
+    "primaryKeyword": "best brave beginning cards braverse",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-06"
+   },
+   {
+    "slug": "best-operation-timeguard-cards-braverse",
+    "title": "Best Cards from Cookie Run: Braverse — Operation Timeguard",
+    "topicCluster": "set-coverage",
+    "primaryKeyword": "best operation timeguard cards",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-05"
+   },
+   {
+    "slug": "best-paradise-sloth-cards-braverse",
+    "title": "Best Cards from Cookie Run: Braverse — Paradise of Passion & Sloth",
+    "topicCluster": "set-coverage",
+    "primaryKeyword": "best paradise of passion and sloth cards",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-10"
+   },
+   {
+    "slug": "best-dark-enchantress-war-cards",
+    "title": "Best Cards from Cookie Run: Braverse — The Dark Enchantress War",
+    "topicCluster": "set-coverage",
+    "primaryKeyword": "best dark enchantress war cards",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "best-cookie-run-braverse-beginner-cards",
+    "title": "Best Cookie Run: Braverse Cards for Beginners",
+    "topicCluster": "card-evaluation",
+    "primaryKeyword": "best cookie run braverse beginner cards",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-11"
+   },
+   {
+    "slug": "best-cookie-run-braverse-cards-ranked",
+    "title": "Best Cookie Run: Braverse Cards Overall, Ranked",
+    "topicCluster": "card-evaluation",
+    "primaryKeyword": "best cookie run braverse cards",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "best-braverse-item-trap-stage-cards",
+    "title": "Best Cookie Run: Braverse Item, Trap & Stage Cards, Ranked",
+    "topicCluster": "card-evaluation",
+    "primaryKeyword": "best braverse item trap stage cards",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "best-cookie-run-braverse-soul-jam-cards",
+    "title": "Best Cookie Run: Braverse Soul Jam Cards, Ranked",
+    "topicCluster": "card-evaluation",
+    "primaryKeyword": "best braverse soul jam cards",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "best-cookie-run-braverse-starter-deck",
+    "title": "Best Cookie Run: Braverse Starter Deck for Beginners (Ranked)",
+    "topicCluster": "starter-decks",
+    "primaryKeyword": "best cookie run braverse starter deck",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "best-dragon-cards-cookie-run-braverse",
+    "title": "Best Dragon Cards in Cookie Run: Braverse, Ranked",
+    "topicCluster": "card-evaluation",
+    "primaryKeyword": "best dragon cards cookie run braverse",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-04"
+   },
+   {
+    "slug": "best-green-cards-cookie-run-braverse",
+    "title": "Best Green Cards in Cookie Run: Braverse, Ranked",
+    "topicCluster": "card-evaluation",
+    "primaryKeyword": "best braverse green cards",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "best-purple-cards-cookie-run-braverse",
+    "title": "Best Purple Cards in Cookie Run: Braverse, Ranked",
+    "topicCluster": "card-evaluation",
+    "primaryKeyword": "best braverse purple cards",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "best-red-cards-cookie-run-braverse",
+    "title": "Best Red Cards in Cookie Run: Braverse (Aggro Staples Worth Building Around)",
+    "topicCluster": "card-evaluation",
+    "primaryKeyword": "best braverse red cards",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "best-yellow-cards-cookie-run-braverse",
+    "title": "Best Yellow Cards in Cookie Run: Braverse, Ranked",
+    "topicCluster": "card-evaluation",
+    "primaryKeyword": "best braverse yellow cards",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "cookie-run-braverse-black-pure-cards",
+    "title": "Cookie Run: Braverse Black & Pure Cards, Explained",
+    "topicCluster": "card-evaluation",
+    "primaryKeyword": "cookie run braverse black and pure cards",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "cookie-run-braverse-card-types-explained",
+    "title": "Cookie Run: Braverse Card Types Explained: Cookie, FLIP, Item, Trap, Stage, EXTRA & NPC",
+    "topicCluster": "fundamentals",
+    "primaryKeyword": "cookie run braverse card types",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "cookie-run-braverse-colors-explained",
+    "title": "Cookie Run: Braverse Colors Explained: What Red, Yellow, Green, Blue & Purple Do",
+    "topicCluster": "fundamentals",
+    "primaryKeyword": "cookie run braverse colors",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "cookie-run-braverse-combos-synergies",
+    "title": "Cookie Run: Braverse Combos and Synergies Guide",
+    "topicCluster": "deck-building",
+    "primaryKeyword": "cookie run braverse combos",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-07"
+   },
+   {
+    "slug": "cookie-run-braverse-deck-archetypes",
+    "title": "Cookie Run: Braverse Deck Archetypes Explained: Aggro, Control, Combo & More",
+    "topicCluster": "deck-building",
+    "primaryKeyword": "cookie run braverse deck archetypes",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "cookie-run-braverse-deck-building-basics",
+    "title": "Cookie Run: Braverse Deck-Building Basics: How to Build Your First 60",
+    "topicCluster": "deck-building",
+    "primaryKeyword": "cookie run braverse deck building",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-28"
+   },
+   {
+    "slug": "cookie-run-braverse-faq",
+    "title": "Cookie Run: Braverse FAQ: Common Questions Answered",
+    "topicCluster": "fundamentals",
+    "primaryKeyword": "cookie run braverse faq",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-17"
+   },
+   {
+    "slug": "cookie-run-braverse-glossary",
+    "title": "Cookie Run: Braverse Glossary: Every Term Explained",
+    "topicCluster": "fundamentals",
+    "primaryKeyword": "cookie run braverse glossary",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-17"
+   },
+   {
+    "slug": "cookie-run-braverse-keywords-explained",
+    "title": "Cookie Run: Braverse Keywords & Abilities Explained",
+    "topicCluster": "rules-mechanics",
+    "primaryKeyword": "cookie run braverse keywords",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-18"
+   },
+   {
+    "slug": "cookie-run-braverse-mulligan-guide",
+    "title": "Cookie Run: Braverse Mulligan and Opening Hand Guide",
+    "topicCluster": "fundamentals",
+    "primaryKeyword": "cookie run braverse mulligan",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-06"
+   },
+   {
+    "slug": "cookie-run-braverse-rarities-collecting-guide",
+    "title": "Cookie Run: Braverse Rarities & Collecting Guide: Every Card Tier Explained",
+    "topicCluster": "collecting",
+    "primaryKeyword": "cookie run braverse rarities",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "cookie-run-braverse-tournament-guide",
+    "title": "Cookie Run: Braverse Tournament & Competitive Guide",
+    "topicCluster": "competitive-play",
+    "primaryKeyword": "cookie run braverse tournament guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-11"
+   },
+   {
+    "slug": "cookie-run-braverse-win-conditions",
+    "title": "Cookie Run: Braverse Win Conditions Explained",
+    "topicCluster": "fundamentals",
+    "primaryKeyword": "cookie run braverse win conditions",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-10"
+   },
+   {
+    "slug": "cookie-run-braverse-sets-release-timeline",
+    "title": "Every Cookie Run: Braverse Set in Order: Release Timeline & Buying Guide",
+    "topicCluster": "set-coverage",
+    "primaryKeyword": "cookie run braverse sets",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "budget-cookie-run-braverse-deck",
+    "title": "How to Build a Budget Cookie Run: Braverse Deck (Competitive on a Shoestring)",
+    "topicCluster": "deck-building",
+    "primaryKeyword": "braverse budget deck",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "how-to-play-cookie-run-braverse",
+    "title": "How to Play Cookie Run: Braverse - A Complete Beginner Guide",
+    "topicCluster": "fundamentals",
+    "primaryKeyword": "how to play cookie run braverse",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "cookie-run-braverse-flip-mechanic",
+    "title": "The FLIP Mechanic in Cookie Run: Braverse, Explained",
+    "topicCluster": "fundamentals",
+    "primaryKeyword": "cookie run braverse flip mechanic",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   }
+  ],
+  "magic-the-gathering": [
+   {
+    "slug": "best-artifacts-mtg",
+    "title": "Best Artifacts in Magic: The Gathering, Ranked",
+    "topicCluster": "commander-staples",
+    "primaryKeyword": "best artifacts mtg",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-07"
+   },
+   {
+    "slug": "best-black-cards-magic-the-gathering",
+    "title": "Best Black Cards in Magic: The Gathering (2026) — Tutors, Removal & Commander Staples",
+    "topicCluster": "best-cards-by-color",
+    "primaryKeyword": "best black cards mtg",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-24"
+   },
+   {
+    "slug": "best-blue-cards-magic-the-gathering",
+    "title": "Best Blue Cards in Magic: The Gathering (2026) — Counterspells, Card Draw & Control Staples",
+    "topicCluster": "best-cards-by-color",
+    "primaryKeyword": "best blue cards mtg",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-24"
+   },
+   {
+    "slug": "best-board-wipes-mtg",
+    "title": "Best Board Wipes in Magic: The Gathering, Ranked",
+    "topicCluster": "board-wipes",
+    "primaryKeyword": "best board wipes mtg",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "best-budget-commander-decks-under-100",
+    "title": "Best Budget Commander Decks Under $100 (2026) — 7 Lists That Actually Win",
+    "topicCluster": "budget-commander",
+    "primaryKeyword": "best budget commander decks",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-27"
+   },
+   {
+    "slug": "best-card-draw-commander-mtg",
+    "title": "Best Card Draw Spells in Commander, Ranked",
+    "topicCluster": "commander-staples",
+    "primaryKeyword": "best card draw commander",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "best-commander-staples-mtg",
+    "title": "Best Commander Staples Every Deck Wants, Ranked",
+    "topicCluster": "commander-staples",
+    "primaryKeyword": "best commander staples",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-11"
+   },
+   {
+    "slug": "best-commanders-for-beginners-mtg",
+    "title": "Best Commanders for Beginners, Ranked",
+    "topicCluster": "commander-format",
+    "primaryKeyword": "best commanders for beginners",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "best-counterspells-mtg",
+    "title": "Best Counterspells in Magic: The Gathering, Ranked",
+    "topicCluster": "counterspells",
+    "primaryKeyword": "best counterspells mtg",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "best-enchantments-mtg",
+    "title": "Best Enchantments in Magic: The Gathering, Ranked",
+    "topicCluster": "commander-staples",
+    "primaryKeyword": "best enchantments mtg",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-05"
+   },
+   {
+    "slug": "best-equipment-mtg",
+    "title": "Best Equipment in Magic: The Gathering, Ranked",
+    "topicCluster": "commander-staples",
+    "primaryKeyword": "best equipment mtg",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-04"
+   },
+   {
+    "slug": "best-graveyard-recursion-commander-mtg",
+    "title": "Best Graveyard Recursion Spells in Commander, Ranked",
+    "topicCluster": "commander-staples",
+    "primaryKeyword": "best graveyard recursion commander",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-18"
+   },
+   {
+    "slug": "best-green-cards-magic-the-gathering",
+    "title": "Best Green Cards in Magic: The Gathering (2026) — Ramp, Big Creatures & Commander Staples",
+    "topicCluster": "best-cards-by-color",
+    "primaryKeyword": "best green cards mtg",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-24"
+   },
+   {
+    "slug": "best-lands-commander-mtg",
+    "title": "Best Lands in MTG Commander (2026) — Fixing, Utility, and How Many to Run",
+    "topicCluster": "mana-base",
+    "primaryKeyword": "best lands commander mtg",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-27"
+   },
+   {
+    "slug": "best-mana-dorks-mtg",
+    "title": "Best Mana Dorks in Commander, Ranked",
+    "topicCluster": "commander-staples",
+    "primaryKeyword": "best mana dorks commander",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-17"
+   },
+   {
+    "slug": "best-mana-rocks-commander-mtg",
+    "title": "Best Mana Rocks in Commander (2026) — The Ramp Artifacts Every EDH Deck Wants",
+    "topicCluster": "commander-staples",
+    "primaryKeyword": "best mana rocks commander",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-29"
+   },
+   {
+    "slug": "best-planeswalkers-magic-the-gathering",
+    "title": "Best Planeswalkers in Magic: The Gathering (2026) — A Cross-Format Tier List",
+    "topicCluster": "planeswalkers",
+    "primaryKeyword": "best planeswalkers mtg",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-29"
+   },
+   {
+    "slug": "best-ramp-spells-commander-mtg",
+    "title": "Best Ramp Spells in Commander, Ranked",
+    "topicCluster": "commander-staples",
+    "primaryKeyword": "best ramp spells commander",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "best-red-cards-magic-the-gathering",
+    "title": "Best Red Cards in Magic: The Gathering (2026) — Burn, Wheels & Commander Staples",
+    "topicCluster": "best-cards-by-color",
+    "primaryKeyword": "best red cards mtg",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-24"
+   },
+   {
+    "slug": "best-removal-spells-mtg",
+    "title": "Best Removal Spells in MTG (2026) — Every Color Ranked",
+    "topicCluster": "removal",
+    "primaryKeyword": "best removal spells mtg",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-28"
+   },
+   {
+    "slug": "best-tutors-commander-mtg",
+    "title": "Best Tutors in Commander, Ranked",
+    "topicCluster": "commander-staples",
+    "primaryKeyword": "best tutors commander",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "best-commander-combos-mtg",
+    "title": "Best Two-Card Combos in Commander, Ranked",
+    "topicCluster": "commander-combos",
+    "primaryKeyword": "best commander combos",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-10"
+   },
+   {
+    "slug": "best-white-cards-magic-the-gathering",
+    "title": "Best White Cards in Magic: The Gathering (2026) — Commander Staples & Format Standouts",
+    "topicCluster": "best-cards-by-color",
+    "primaryKeyword": "best white cards mtg",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-24"
+   },
+   {
+    "slug": "mtg-combat-explained",
+    "title": "How Combat Works in Magic: The Gathering, Explained",
+    "topicCluster": "archetypes",
+    "primaryKeyword": "how combat works mtg",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-05"
+   },
+   {
+    "slug": "selesnya-landfall-pro-tour-strixhaven-winning-deck",
+    "title": "How Nathan Steuer Won Pro Tour Strixhaven With Selesnya Landfall",
+    "topicCluster": "pro-tour-decks",
+    "primaryKeyword": "pro tour secrets of strixhaven winning deck",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-24"
+   },
+   {
+    "slug": "mtg-stack-priority-explained",
+    "title": "How the Stack and Priority Work in Magic: The Gathering",
+    "topicCluster": "rules-basics",
+    "primaryKeyword": "how the stack works mtg",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-06"
+   },
+   {
+    "slug": "how-to-build-a-commander-deck",
+    "title": "How to Build a Commander Deck — The 10/10/10 Template",
+    "topicCluster": "commander-format",
+    "primaryKeyword": "how to build a commander deck",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-28"
+   },
+   {
+    "slug": "mtg-limited-draft-guide-beginners",
+    "title": "How to Draft: An MTG Limited Guide for Beginners",
+    "topicCluster": "limited-draft",
+    "primaryKeyword": "how to draft mtg",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "mtg-legacy-format-guide",
+    "title": "Magic: The Gathering Legacy Format Guide: Where to Start",
+    "topicCluster": "legacy-format",
+    "primaryKeyword": "mtg legacy format guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-06"
+   },
+   {
+    "slug": "mtg-modern-format-guide",
+    "title": "Magic: The Gathering Modern Format Guide: Where to Start",
+    "topicCluster": "modern-format",
+    "primaryKeyword": "mtg modern format guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "mtg-pauper-format-guide",
+    "title": "Magic: The Gathering Pauper Format Guide: Where to Start",
+    "topicCluster": "pauper-format",
+    "primaryKeyword": "mtg pauper format guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "mtg-pioneer-format-guide",
+    "title": "Magic: The Gathering Pioneer Format Guide: Where to Start",
+    "topicCluster": "pioneer-format",
+    "primaryKeyword": "mtg pioneer format guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "mtg-standard-format-guide",
+    "title": "Magic: The Gathering Standard Format Guide: Where to Start",
+    "topicCluster": "standard-format",
+    "primaryKeyword": "mtg standard format guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-18"
+   },
+   {
+    "slug": "mtg-commander-brackets",
+    "title": "MTG Commander Brackets Explained (The Power-Level System)",
+    "topicCluster": "commander-format",
+    "primaryKeyword": "mtg commander brackets",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-17"
+   },
+   {
+    "slug": "mtg-commander-format-guide-how-to-start",
+    "title": "MTG Commander Format Guide — How to Start Playing EDH (2026)",
+    "topicCluster": "commander-format",
+    "primaryKeyword": "mtg commander format guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-27"
+   },
+   {
+    "slug": "mtg-deck-archetypes-explained",
+    "title": "MTG Deck Archetypes Explained — Aggro, Midrange, Control & Combo",
+    "topicCluster": "archetypes",
+    "primaryKeyword": "mtg deck archetypes",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-28"
+   },
+   {
+    "slug": "mtg-deckbuilding-ratios",
+    "title": "MTG Deckbuilding Guide: Land and Spell Ratios",
+    "topicCluster": "deckbuilding-fundamentals",
+    "primaryKeyword": "mtg deckbuilding ratios",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-10"
+   },
+   {
+    "slug": "mtg-keywords-explained",
+    "title": "MTG Keyword Abilities Explained: From Flying to Ward",
+    "topicCluster": "rules-basics",
+    "primaryKeyword": "mtg keyword abilities",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-06"
+   },
+   {
+    "slug": "mtg-mana-base-guide",
+    "title": "MTG Mana Base Guide: How to Build Your Lands",
+    "topicCluster": "mana-base",
+    "primaryKeyword": "mtg mana base guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-06"
+   },
+   {
+    "slug": "mtg-mulligan-guide-london-mulligan",
+    "title": "MTG Mulligan Guide (2026) — How the London Mulligan Works and When to Take It",
+    "topicCluster": "fundamentals",
+    "primaryKeyword": "mtg mulligan guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-29"
+   },
+   {
+    "slug": "mtg-sideboarding-guide",
+    "title": "MTG Sideboarding Guide: How to Win Games 2 and 3",
+    "topicCluster": "fundamentals",
+    "primaryKeyword": "mtg sideboarding guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-07"
+   },
+   {
+    "slug": "mtg-color-pairs-guide",
+    "title": "MTG Two-Color Guild Guide: Every Color Pair Explained",
+    "topicCluster": "archetypes",
+    "primaryKeyword": "mtg two color pairs",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-11"
+   },
+   {
+    "slug": "secrets-of-strixhaven-best-standard-cards",
+    "title": "Secrets of Strixhaven Tier List — 20 Cards That Actually Matter",
+    "topicCluster": "set-review",
+    "primaryKeyword": "secrets of strixhaven best standard cards",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-24"
+   },
+   {
+    "slug": "standard-post-ban-meta-may-2026",
+    "title": "Standard After the May 2026 Ban Wave — What to Brew Now That Cori-Steel Is Gone",
+    "topicCluster": "standard-meta",
+    "primaryKeyword": "standard post ban meta may 2026",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-24"
+   },
+   {
+    "slug": "mtg-color-pie-explained",
+    "title": "The MTG Color Pie, Explained: What Each Color Does",
+    "topicCluster": "archetypes",
+    "primaryKeyword": "mtg color pie",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-04"
+   }
+  ],
+  "minecraft": [
+   {
+    "slug": "best-minecraft-enchantments",
+    "title": "Best Minecraft Enchantments, Ranked — The Ones Worth Your XP",
+    "topicCluster": "minecraft-progression",
+    "primaryKeyword": "best minecraft enchantments",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "best-minecraft-farms",
+    "title": "Best Minecraft Farms to Build First",
+    "topicCluster": "minecraft-progression",
+    "primaryKeyword": "best minecraft farms",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "best-minecraft-mods",
+    "title": "Best Minecraft Mods to Install Right Now",
+    "topicCluster": "minecraft-worlds",
+    "primaryKeyword": "best minecraft mods",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "best-minecraft-seeds",
+    "title": "Best Minecraft Seeds — Spawns Worth Starting On",
+    "topicCluster": "minecraft-worlds",
+    "primaryKeyword": "best minecraft seeds",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "best-minecraft-shaders",
+    "title": "Best Minecraft Shaders to Install Right Now",
+    "topicCluster": "minecraft-worlds",
+    "primaryKeyword": "best minecraft shaders",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-04"
+   },
+   {
+    "slug": "best-minecraft-texture-packs",
+    "title": "Best Minecraft Texture Packs to Try",
+    "topicCluster": "minecraft-worlds",
+    "primaryKeyword": "best minecraft texture packs",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-06"
+   },
+   {
+    "slug": "how-to-beat-the-ender-dragon",
+    "title": "How to Beat the Ender Dragon: A Complete Guide",
+    "topicCluster": "minecraft-progression",
+    "primaryKeyword": "how to beat the ender dragon",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "how-to-beat-the-wither",
+    "title": "How to Beat the Wither in Minecraft",
+    "topicCluster": "minecraft-progression",
+    "primaryKeyword": "how to beat the wither",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-04"
+   },
+   {
+    "slug": "how-to-find-diamonds-minecraft",
+    "title": "How to Find Diamonds in Minecraft (Fast)",
+    "topicCluster": "minecraft-progression",
+    "primaryKeyword": "how to find diamonds in minecraft",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "how-to-find-netherite-minecraft",
+    "title": "How to Find Netherite in Minecraft (Fast)",
+    "topicCluster": "minecraft-progression",
+    "primaryKeyword": "how to find netherite in minecraft",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "minecraft-taming-breeding-guide",
+    "title": "How to Tame and Breed Every Animal in Minecraft",
+    "topicCluster": "minecraft-survival",
+    "primaryKeyword": "how to tame and breed animals in minecraft",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "minecraft-allay-guide",
+    "title": "Minecraft Allay Guide: Item Sorting and Duplication",
+    "topicCluster": "minecraft-automation",
+    "primaryKeyword": "minecraft allay guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-11"
+   },
+   {
+    "slug": "minecraft-archaeology-guide",
+    "title": "Minecraft Archaeology Guide: Sniffer, Brushes & Trail Ruins",
+    "topicCluster": "minecraft-exploration",
+    "primaryKeyword": "minecraft archaeology guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-11"
+   },
+   {
+    "slug": "minecraft-armor-guide",
+    "title": "Minecraft Armor Guide: Netherite, Trims & Best Setups",
+    "topicCluster": "minecraft-progression",
+    "primaryKeyword": "minecraft armor guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-05"
+   },
+   {
+    "slug": "minecraft-beacon-guide",
+    "title": "Minecraft Beacon Guide: How to Build and Power One",
+    "topicCluster": "minecraft-progression",
+    "primaryKeyword": "minecraft beacon guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-10"
+   },
+   {
+    "slug": "minecraft-bees-honey-guide",
+    "title": "Minecraft Bees & Honey Guide: Hives, Farms & Uses",
+    "topicCluster": "minecraft-survival",
+    "primaryKeyword": "minecraft bees and honey guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-17"
+   },
+   {
+    "slug": "minecraft-biomes-guide",
+    "title": "Minecraft Biomes Guide: Every Biome Worth Finding",
+    "topicCluster": "minecraft-worlds",
+    "primaryKeyword": "minecraft biomes guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "minecraft-command-blocks-guide",
+    "title": "Minecraft Command Blocks Guide for Beginners",
+    "topicCluster": "minecraft-redstone",
+    "primaryKeyword": "minecraft command blocks guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-07"
+   },
+   {
+    "slug": "minecraft-elytra-guide",
+    "title": "Minecraft Elytra Guide: How to Get Wings and Fly",
+    "topicCluster": "minecraft-progression",
+    "primaryKeyword": "minecraft elytra guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-06"
+   },
+   {
+    "slug": "minecraft-fishing-guide",
+    "title": "Minecraft Fishing Guide: Loot Tables, Enchants & AFK Farms",
+    "topicCluster": "minecraft-survival",
+    "primaryKeyword": "minecraft fishing guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-18"
+   },
+   {
+    "slug": "minecraft-food-hunger-guide",
+    "title": "Minecraft Food & Hunger Guide: Saturation, Best Foods & Regen",
+    "topicCluster": "minecraft-survival",
+    "primaryKeyword": "minecraft food and hunger guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-18"
+   },
+   {
+    "slug": "minecraft-hostile-mobs-guide",
+    "title": "Minecraft Hostile Mobs Guide: Every Threat and How to Beat It",
+    "topicCluster": "minecraft-progression",
+    "primaryKeyword": "minecraft hostile mobs guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-06"
+   },
+   {
+    "slug": "minecraft-mining-guide",
+    "title": "Minecraft Mining Guide: Best Levels for Every Ore",
+    "topicCluster": "minecraft-progression",
+    "primaryKeyword": "minecraft mining guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-10"
+   },
+   {
+    "slug": "minecraft-nether-guide",
+    "title": "Minecraft Nether Guide: How to Survive and Thrive",
+    "topicCluster": "minecraft-progression",
+    "primaryKeyword": "minecraft nether guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "minecraft-ocean-monument-guide",
+    "title": "Minecraft Ocean Monument Guide: Guardians, Loot & Conduits",
+    "topicCluster": "minecraft-worlds",
+    "primaryKeyword": "minecraft ocean monument guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-06"
+   },
+   {
+    "slug": "minecraft-potion-brewing-guide",
+    "title": "Minecraft Potion Brewing Guide: Every Potion Worth Making",
+    "topicCluster": "minecraft-progression",
+    "primaryKeyword": "minecraft potion brewing guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "minecraft-survival-guide-beginners",
+    "title": "Minecraft Survival Guide for Beginners — Surviving Your First Days",
+    "topicCluster": "minecraft-survival",
+    "primaryKeyword": "minecraft survival guide for beginners",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "minecraft-trial-chambers-guide",
+    "title": "Minecraft Trial Chambers Guide: Loot, Mobs & the Mace",
+    "topicCluster": "minecraft-progression",
+    "primaryKeyword": "minecraft trial chambers guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-05"
+   },
+   {
+    "slug": "minecraft-villager-trading-guide",
+    "title": "Minecraft Villager Trading Guide: Best Trades and Setups",
+    "topicCluster": "minecraft-progression",
+    "primaryKeyword": "minecraft villager trading guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "minecraft-woodland-mansion-guide",
+    "title": "Minecraft Woodland Mansion Guide: Loot, Vindicators & the Totem",
+    "topicCluster": "minecraft-worlds",
+    "primaryKeyword": "minecraft woodland mansion guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-07"
+   },
+   {
+    "slug": "minecraft-xp-guide",
+    "title": "Minecraft XP Guide: Fastest Ways to Level Up",
+    "topicCluster": "minecraft-progression",
+    "primaryKeyword": "minecraft xp guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-17"
+   },
+   {
+    "slug": "minecraft-redstone-basics",
+    "title": "Redstone Basics: A Beginner's Guide to Minecraft's Wiring",
+    "topicCluster": "minecraft-redstone",
+    "primaryKeyword": "minecraft redstone basics",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "minecraft-building-tips",
+    "title": "Top Minecraft Building Tips — Stop Building Dirt Boxes",
+    "topicCluster": "minecraft-building",
+    "primaryKeyword": "minecraft building tips",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   }
+  ],
+  "roblox": [
+   {
+    "slug": "roblox-beginners-guide",
+    "title": "Beginner's Guide to Roblox: Everything a New Player Needs",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "roblox beginners guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "best-free-roblox-games",
+    "title": "Best Free Roblox Games to Play Right Now",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best free roblox games",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-04"
+   },
+   {
+    "slug": "best-roblox-adventure-games",
+    "title": "Best Roblox Adventure Games to Play Right Now",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best roblox adventure games",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-07"
+   },
+   {
+    "slug": "best-roblox-anime-games",
+    "title": "Best Roblox Anime Games to Play Right Now",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best roblox anime games",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "best-roblox-building-games",
+    "title": "Best Roblox Building & Creative Games",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best roblox building games",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-10"
+   },
+   {
+    "slug": "best-roblox-clicker-games",
+    "title": "Best Roblox Clicker Games",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best roblox clicker games",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-18"
+   },
+   {
+    "slug": "best-roblox-escape-games",
+    "title": "Best Roblox Escape Games to Play Right Now",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best roblox escape games",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-11"
+   },
+   {
+    "slug": "best-roblox-fighting-games",
+    "title": "Best Roblox Fighting Games to Play Right Now",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best roblox fighting games",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-05"
+   },
+   {
+    "slug": "best-roblox-fps-games",
+    "title": "Best Roblox FPS Games to Play Right Now",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best roblox fps games",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "best-roblox-games-for-kids",
+    "title": "Best Roblox Games for Kids (Safe and Fun)",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best roblox games for kids",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-06"
+   },
+   {
+    "slug": "best-roblox-games",
+    "title": "Best Roblox Games to Play in 2026",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best roblox games",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "best-roblox-games-2026",
+    "title": "Best Roblox Games to Play in 2026 (All Genres)",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best roblox games to play 2026",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-11"
+   },
+   {
+    "slug": "best-roblox-games-with-friends",
+    "title": "Best Roblox Games to Play With Friends",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best roblox games to play with friends",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "best-roblox-horror-games",
+    "title": "Best Roblox Horror Games to Play Right Now",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best roblox horror games",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "best-roblox-idle-games",
+    "title": "Best Roblox Idle & AFK Games",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best roblox idle games",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-17"
+   },
+   {
+    "slug": "best-roblox-obby-games",
+    "title": "Best Roblox Obby Games to Play Right Now",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best roblox obby games",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "best-roblox-open-world-games",
+    "title": "Best Roblox Open World Games to Play Right Now",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best roblox open world games",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-10"
+   },
+   {
+    "slug": "best-roblox-pet-games",
+    "title": "Best Roblox Pet Games to Play Right Now",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best roblox pet games",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-06"
+   },
+   {
+    "slug": "best-roblox-puzzle-games",
+    "title": "Best Roblox Puzzle Games to Play Right Now",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best roblox puzzle games",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-06"
+   },
+   {
+    "slug": "best-roblox-pvp-games",
+    "title": "Best Roblox PvP Games",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best roblox pvp games",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-18"
+   },
+   {
+    "slug": "best-roblox-racing-games",
+    "title": "Best Roblox Racing Games to Play Right Now",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best roblox racing games",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-06"
+   },
+   {
+    "slug": "best-roblox-roleplay-games",
+    "title": "Best Roblox Roleplay Games to Play Right Now",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best roblox roleplay games",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "best-roblox-rpg-games",
+    "title": "Best Roblox RPG Games to Play Right Now",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best roblox rpg games",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "best-roblox-simulator-games",
+    "title": "Best Roblox Simulator Games to Play Right Now",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best roblox simulator games",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "best-roblox-sports-games",
+    "title": "Best Roblox Sports Games to Play Right Now",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best roblox sports games",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-07"
+   },
+   {
+    "slug": "best-roblox-story-games",
+    "title": "Best Roblox Story Games to Play Right Now",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best roblox story games",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-05"
+   },
+   {
+    "slug": "best-roblox-strategy-games",
+    "title": "Best Roblox Strategy Games to Play Right Now",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best roblox strategy games",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-17"
+   },
+   {
+    "slug": "best-roblox-survival-games",
+    "title": "Best Roblox Survival Games to Play Right Now",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best roblox survival games",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-04"
+   },
+   {
+    "slug": "best-roblox-tower-defense-games",
+    "title": "Best Roblox Tower Defense Games to Play Right Now",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best roblox tower defense games",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "best-roblox-tycoon-games",
+    "title": "Best Roblox Tycoon Games to Play Right Now",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best roblox tycoon games",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "how-to-get-robux",
+    "title": "How to Get Robux Safely (Legit Ways + Scams to Avoid)",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "how to get robux",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "how-to-make-a-roblox-game",
+    "title": "How to Make a Roblox Game: From Idea to Published",
+    "topicCluster": "roblox-creation",
+    "primaryKeyword": "how to make a roblox game",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "roblox-studio-basics",
+    "title": "Roblox Studio Basics: Make Your First Game",
+    "topicCluster": "roblox-creation",
+    "primaryKeyword": "roblox studio basics",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   }
+  ],
+  "fortnite": [
+   {
+    "slug": "fortnite-controller-settings",
+    "title": "Best Fortnite Controller Settings & Aim Assist Guide",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite controller settings",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-05"
+   },
+   {
+    "slug": "best-fortnite-keybinds",
+    "title": "Best Fortnite Keybinds for Building (PC & Controller)",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "best fortnite keybinds",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "best-fortnite-landing-spots",
+    "title": "Best Fortnite Landing Spots: How to Drop for the Win",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "best fortnite landing spots",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "best-fortnite-settings",
+    "title": "Best Fortnite Settings for PC & Console",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "best fortnite settings",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "fortnite-advanced-building-techniques",
+    "title": "Fortnite Advanced Building: 90s, Tunneling, and Ramp Rushes",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite advanced building techniques",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "fortnite-audio-settings-guide",
+    "title": "Fortnite Audio Settings Guide: Hear Every Footstep",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite audio settings",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-07"
+   },
+   {
+    "slug": "fortnite-beginners-guide",
+    "title": "Fortnite Beginner's Guide: Modes, Basics & First Wins",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite beginners guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "fortnite-box-fighting-guide",
+    "title": "Fortnite Box Fighting Guide: How to Win 1v1 Build Fights",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite box fighting guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "fortnite-building-basics",
+    "title": "Fortnite Building Basics: The Fundamentals",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite building basics",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "fortnite-controller-vs-keyboard",
+    "title": "Fortnite Controller vs Keyboard & Mouse: Which Should You Use?",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite controller vs keyboard",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-06"
+   },
+   {
+    "slug": "fortnite-editing-guide",
+    "title": "Fortnite Editing Guide: How to Edit Faster and Cleaner",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite editing guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "fortnite-endgame-strategy",
+    "title": "Fortnite Endgame Guide: Winning the Final Circles",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite endgame guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "fortnite-modes-overview",
+    "title": "Fortnite Game Modes Explained: BR, Zero Build, Reload, Festival & More",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite game modes explained",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-17"
+   },
+   {
+    "slug": "fortnite-game-sense-guide",
+    "title": "Fortnite Game Sense Guide: Reading Fights and the Lobby",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite game sense",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-06"
+   },
+   {
+    "slug": "fortnite-healing-items-tier-list",
+    "title": "Fortnite Healing Items Tier List: What to Carry and When",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite healing items tier list",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-18"
+   },
+   {
+    "slug": "fortnite-loadout-priority-guide",
+    "title": "Fortnite Loadout Priority: What to Grab First",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite loadout priority",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-11"
+   },
+   {
+    "slug": "fortnite-mats-management-guide",
+    "title": "Fortnite Mats and Resource Management Guide",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite mats management",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-04"
+   },
+   {
+    "slug": "fortnite-movement-guide",
+    "title": "Fortnite Movement Guide: Sprint, Mantle, Slide, and Reset",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite movement guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "fortnite-performance-fps-guide",
+    "title": "Fortnite Performance Guide: Best Settings for High FPS",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite performance settings",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-05"
+   },
+   {
+    "slug": "fortnite-ranked-guide",
+    "title": "Fortnite Ranked Guide: How Ranks Work and How to Climb",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite ranked guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-06"
+   },
+   {
+    "slug": "fortnite-reload-mode-guide",
+    "title": "Fortnite Reload Mode Guide: Fast Respawns, Faster Wins",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite reload mode guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-11"
+   },
+   {
+    "slug": "fortnite-rotation-guide",
+    "title": "Fortnite Rotation Guide: How to Move and Take Zone",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite rotation guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "fortnite-team-play-guide",
+    "title": "Fortnite Squad Play Guide: How to Win as a Team",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite squad play guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-04"
+   },
+   {
+    "slug": "fortnite-storm-surge-guide",
+    "title": "Fortnite Storm Surge Explained: Why You're Taking Damage",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite storm surge",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-07"
+   },
+   {
+    "slug": "fortnite-stretched-resolution-guide",
+    "title": "Fortnite Stretched Resolution Guide: Is It Worth It?",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite stretched resolution",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-10"
+   },
+   {
+    "slug": "fortnite-terms-glossary",
+    "title": "Fortnite Terms and Slang Glossary for Beginners",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite terms",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-10"
+   },
+   {
+    "slug": "fortnite-victory-crown-guide",
+    "title": "Fortnite Victory Crown Guide: How to Get and Keep It",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite victory crown guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-17"
+   },
+   {
+    "slug": "fortnite-warmup-practice-guide",
+    "title": "Fortnite Warm-Up & Practice Routine: Drills That Actually Help",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite warmup routine",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-06"
+   },
+   {
+    "slug": "fortnite-weapon-tier-list",
+    "title": "Fortnite Weapon Tier List: How to Rank Any Loot Pool",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite weapon tier list",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "fortnite-xp-leveling-guide",
+    "title": "Fortnite XP & Leveling Guide: Fastest Ways to Level the Battle Pass",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite xp leveling guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-18"
+   },
+   {
+    "slug": "fortnite-zero-build-guide",
+    "title": "Fortnite Zero Build Guide: How to Win Without Building",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite zero build guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "how-to-get-better-at-fortnite",
+    "title": "How to Get Better at Fortnite: A Complete Improvement Roadmap",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "how to get better at fortnite",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "fortnite-aim-training-guide",
+    "title": "How to Improve Your Aim in Fortnite: A Practical Guide",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "how to improve aim in fortnite",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   }
+  ],
+  "pubg-battlegrounds": [
+   {
+    "slug": "best-pubg-assault-rifles",
+    "title": "Best PUBG Assault Rifles, Ranked",
+    "topicCluster": "pubg-weapons",
+    "primaryKeyword": "best pubg assault rifles",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "pubg-attachments-guide",
+    "title": "Best PUBG Attachments: Muzzles, Grips & Scopes",
+    "topicCluster": "pubg-weapons",
+    "primaryKeyword": "best pubg attachments",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-07"
+   },
+   {
+    "slug": "pubg-console-settings-guide",
+    "title": "Best PUBG Console Settings (PS5 & Xbox)",
+    "topicCluster": "pubg-fundamentals",
+    "primaryKeyword": "pubg console settings",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-17"
+   },
+   {
+    "slug": "best-pubg-dmrs",
+    "title": "Best PUBG DMRs (Marksman Rifles), Ranked",
+    "topicCluster": "pubg-weapons",
+    "primaryKeyword": "best pubg dmrs",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-06"
+   },
+   {
+    "slug": "best-pubg-landing-spots",
+    "title": "Best PUBG Landing Spots & Hot Drops",
+    "topicCluster": "pubg-maps",
+    "primaryKeyword": "best pubg landing spots",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "best-pubg-lmgs",
+    "title": "Best PUBG LMGs, Ranked",
+    "topicCluster": "pubg-weapons",
+    "primaryKeyword": "best pubg lmgs",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-06"
+   },
+   {
+    "slug": "best-pubg-loadouts",
+    "title": "Best PUBG Loadouts & Attachments",
+    "topicCluster": "pubg-weapons",
+    "primaryKeyword": "best pubg loadouts",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "best-pubg-maps-ranked",
+    "title": "Best PUBG Maps, Ranked",
+    "topicCluster": "pubg-maps",
+    "primaryKeyword": "best pubg maps",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "best-pubg-pistols",
+    "title": "Best PUBG Pistols and Sidearms, Ranked",
+    "topicCluster": "pubg-weapons",
+    "primaryKeyword": "best pubg pistols",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-10"
+   },
+   {
+    "slug": "best-pubg-shotguns",
+    "title": "Best PUBG Shotguns, Ranked",
+    "topicCluster": "pubg-weapons",
+    "primaryKeyword": "best pubg shotguns",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-05"
+   },
+   {
+    "slug": "best-pubg-smgs",
+    "title": "Best PUBG SMGs, Ranked",
+    "topicCluster": "pubg-weapons",
+    "primaryKeyword": "best pubg smgs",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-04"
+   },
+   {
+    "slug": "best-pubg-sniper-rifles",
+    "title": "Best PUBG Sniper Rifles, Ranked",
+    "topicCluster": "pubg-weapons",
+    "primaryKeyword": "best pubg sniper rifles",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "pubg-throwables-utility-guide",
+    "title": "Best PUBG Throwables: Grenades, Smokes & Utility Guide",
+    "topicCluster": "pubg-strategy",
+    "primaryKeyword": "pubg throwables guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "best-pubg-vehicles",
+    "title": "Best PUBG Vehicles, Ranked",
+    "topicCluster": "pubg-vehicles",
+    "primaryKeyword": "best pubg vehicles",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "best-pubg-weapons-tier-list",
+    "title": "Best Weapons in PUBG: Tier List",
+    "topicCluster": "pubg-weapons",
+    "primaryKeyword": "pubg weapons tier list",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "pubg-advanced-tips",
+    "title": "PUBG Advanced Tips: Habits That Win More Games",
+    "topicCluster": "pubg-strategy",
+    "primaryKeyword": "pubg advanced tips",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-11"
+   },
+   {
+    "slug": "pubg-audio-guide",
+    "title": "PUBG Audio Guide: How to Win Fights With Sound",
+    "topicCluster": "pubg-fundamentals",
+    "primaryKeyword": "pubg audio guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-04"
+   },
+   {
+    "slug": "pubg-beginners-guide",
+    "title": "PUBG Beginner's Guide: Survive Your First Matches",
+    "topicCluster": "pubg-fundamentals",
+    "primaryKeyword": "pubg beginners guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "pubg-fps-settings-guide",
+    "title": "PUBG Best Graphics Settings for High FPS",
+    "topicCluster": "pubg-fundamentals",
+    "primaryKeyword": "pubg best graphics settings",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-17"
+   },
+   {
+    "slug": "pubg-blue-zone-rotation-guide",
+    "title": "PUBG Blue Zone & Rotation Guide: Beat the Circle",
+    "topicCluster": "pubg-strategy",
+    "primaryKeyword": "pubg blue zone",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-18"
+   },
+   {
+    "slug": "pubg-callouts-glossary",
+    "title": "PUBG Callouts and Terms Glossary for Squad Play",
+    "topicCluster": "pubg-fundamentals",
+    "primaryKeyword": "pubg callouts",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-10"
+   },
+   {
+    "slug": "pubg-care-package-guide",
+    "title": "PUBG Care Package & Airdrop Guide: What's Worth the Risk",
+    "topicCluster": "pubg-strategy",
+    "primaryKeyword": "pubg care package guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-11"
+   },
+   {
+    "slug": "pubg-endgame-circle-strategy",
+    "title": "PUBG Endgame Guide: How to Win the Final Circles",
+    "topicCluster": "pubg-strategy",
+    "primaryKeyword": "pubg endgame strategy",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "pubg-healing-boost-guide",
+    "title": "PUBG Healing and Boost Items Guide",
+    "topicCluster": "pubg-fundamentals",
+    "primaryKeyword": "pubg healing items",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-05"
+   },
+   {
+    "slug": "pubg-looting-inventory-guide",
+    "title": "PUBG Looting & Inventory Management Guide",
+    "topicCluster": "pubg-fundamentals",
+    "primaryKeyword": "pubg looting guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "pubg-movement-positioning-guide",
+    "title": "PUBG Movement and Positioning Guide",
+    "topicCluster": "pubg-fundamentals",
+    "primaryKeyword": "pubg movement and positioning",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "pubg-peeking-guide",
+    "title": "PUBG Peeking and Crosshair Placement Guide",
+    "topicCluster": "pubg-fundamentals",
+    "primaryKeyword": "pubg peeking and crosshair placement",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-06"
+   },
+   {
+    "slug": "pubg-ranked-guide",
+    "title": "PUBG Ranked Guide: How to Climb the Tiers",
+    "topicCluster": "pubg-fundamentals",
+    "primaryKeyword": "pubg ranked guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-07"
+   },
+   {
+    "slug": "pubg-recoil-control-guide",
+    "title": "PUBG Recoil Control Guide: Master Every Spray Pattern",
+    "topicCluster": "pubg-weapons",
+    "primaryKeyword": "pubg recoil control",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "pubg-reviving-dbno-guide",
+    "title": "PUBG Reviving & DBNO Guide: Save Your Squad",
+    "topicCluster": "pubg-strategy",
+    "primaryKeyword": "pubg reviving",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-18"
+   },
+   {
+    "slug": "pubg-settings-sensitivity-guide",
+    "title": "PUBG Settings & Sensitivity Guide",
+    "topicCluster": "pubg-fundamentals",
+    "primaryKeyword": "pubg settings sensitivity guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "pubg-squad-strategy",
+    "title": "PUBG Squad Strategy: How to Win More Games as a Team",
+    "topicCluster": "pubg-strategy",
+    "primaryKeyword": "pubg squad strategy",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "pubg-tpp-vs-fpp-guide",
+    "title": "PUBG TPP vs FPP: Which Mode Should You Play?",
+    "topicCluster": "pubg-fundamentals",
+    "primaryKeyword": "pubg tpp vs fpp",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-06"
+   }
+  ]
+ },
+ "refreshQueue": []
+}
