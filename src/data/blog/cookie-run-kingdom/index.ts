@@ -48,6 +48,8 @@ import { stormbringerCookieToppingsBuild } from './posts/stormbringer-cookie-top
 import { crkWorldExplorationGuide } from './posts/crk-world-exploration-guide';
 import { crunchyChipCookieToppingsBuild } from './posts/crunchy-chip-cookie-toppings-build';
 import { crkCookieRarityExplained } from './posts/crk-cookie-rarity-explained';
+import { blackSapphireCookieToppingsBuild } from './posts/black-sapphire-cookie-toppings-build';
+import { crkDailyChecklist } from './posts/crk-daily-checklist';
 
 export const CRK_POSTS: BlogPost[] = [
   crkCodes,
@@ -99,4 +101,6 @@ export const CRK_POSTS: BlogPost[] = [
   crkWorldExplorationGuide,
   crunchyChipCookieToppingsBuild,
   crkCookieRarityExplained,
+  blackSapphireCookieToppingsBuild,
+  crkDailyChecklist,
 ];

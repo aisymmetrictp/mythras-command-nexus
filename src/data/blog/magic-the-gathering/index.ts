@@ -40,6 +40,8 @@ import { bestCommanderCombosMtg } from './posts/best-commander-combos-mtg';
 import { mtgDeckbuildingRatios } from './posts/mtg-deckbuilding-ratios';
 import { bestCommanderStaplesMtg } from './posts/best-commander-staples-mtg';
 import { mtgColorPairsGuide } from './posts/mtg-color-pairs-guide';
+import { bestManaDorksMtg } from './posts/best-mana-dorks-mtg';
+import { mtgCommanderBrackets } from './posts/mtg-commander-brackets';
 
 export const MTG_POSTS: BlogPost[] = [
   bestWhiteCardsMtg,
@@ -83,4 +85,6 @@ export const MTG_POSTS: BlogPost[] = [
   mtgDeckbuildingRatios,
   bestCommanderStaplesMtg,
   mtgColorPairsGuide,
+  bestManaDorksMtg,
+  mtgCommanderBrackets,
 ];

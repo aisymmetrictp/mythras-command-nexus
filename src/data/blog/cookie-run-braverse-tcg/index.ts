@@ -34,6 +34,8 @@ import { bestParadiseSlothCardsBraverse } from './posts/best-paradise-sloth-card
 import { braverseWinConditions } from './posts/cookie-run-braverse-win-conditions';
 import { bestBraverseBeginnerCards } from './posts/best-cookie-run-braverse-beginner-cards';
 import { braverseTournamentGuide } from './posts/cookie-run-braverse-tournament-guide';
+import { cookieRunBraverseGlossary } from './posts/cookie-run-braverse-glossary';
+import { cookieRunBraverseFaq } from './posts/cookie-run-braverse-faq';
 
 export const BRAVERSE_POSTS: BlogPost[] = [
   howToPlayBraverse,
@@ -71,4 +73,6 @@ export const BRAVERSE_POSTS: BlogPost[] = [
   braverseWinConditions,
   bestBraverseBeginnerCards,
   braverseTournamentGuide,
+  cookieRunBraverseGlossary,
+  cookieRunBraverseFaq,
 ];

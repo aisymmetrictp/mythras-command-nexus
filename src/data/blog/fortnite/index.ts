@@ -28,6 +28,8 @@ import { fortniteStretchedResolutionGuide } from './posts/fortnite-stretched-res
 import { fortniteTermsGlossary } from './posts/fortnite-terms-glossary';
 import { fortniteReloadModeGuide } from './posts/fortnite-reload-mode-guide';
 import { fortniteLoadoutPriorityGuide } from './posts/fortnite-loadout-priority-guide';
+import { fortniteModesOverview } from './posts/fortnite-modes-overview';
+import { fortniteVictoryCrownGuide } from './posts/fortnite-victory-crown-guide';
 
 export const FORTNITE_POSTS: BlogPost[] = [
   fortniteBeginnersGuide,
@@ -59,4 +61,6 @@ export const FORTNITE_POSTS: BlogPost[] = [
   fortniteTermsGlossary,
   fortniteReloadModeGuide,
   fortniteLoadoutPriorityGuide,
+  fortniteModesOverview,
+  fortniteVictoryCrownGuide,
 ];

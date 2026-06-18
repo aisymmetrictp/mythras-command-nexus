@@ -28,6 +28,8 @@ import { bestPubgPistols } from './posts/best-pubg-pistols';
 import { pubgCalloutsGlossary } from './posts/pubg-callouts-glossary';
 import { pubgCarePackageGuide } from './posts/pubg-care-package-guide';
 import { pubgAdvancedTips } from './posts/pubg-advanced-tips';
+import { pubgConsoleSettingsGuide } from './posts/pubg-console-settings-guide';
+import { pubgFpsSettingsGuide } from './posts/pubg-fps-settings-guide';
 
 export const PUBG_POSTS: BlogPost[] = [
   pubgBeginnersGuide,
@@ -59,4 +61,6 @@ export const PUBG_POSTS: BlogPost[] = [
   pubgCalloutsGlossary,
   pubgCarePackageGuide,
   pubgAdvancedTips,
+  pubgConsoleSettingsGuide,
+  pubgFpsSettingsGuide,
 ];
