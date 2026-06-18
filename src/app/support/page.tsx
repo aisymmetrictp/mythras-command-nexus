@@ -85,22 +85,31 @@ export default function SupportPage() {
             <section>
               <SectionHeading>The Mythras Cookie card</SectionHeading>
               <div className="rounded-2xl border border-[#D4A853]/20 bg-[#0c0c18]/60 p-5 md:p-8 flex flex-col md:flex-row gap-6 md:gap-8 items-center">
-                <div className="relative w-44 md:w-56 shrink-0 aspect-[5/7] rounded-xl overflow-hidden border border-[#D4A853]/30 bg-[#12121f]">
-                  <Image src="/images/support/mythras-cookie-card.png" alt="The Mythras Cookie fan-art collectible card — a golden lion Cookie, Level 3, HP 5" fill className="object-cover" sizes="224px" />
+                <div className="flex gap-3 shrink-0 justify-center">
+                  <figure className="relative w-32 md:w-40 aspect-[5/7] rounded-xl overflow-hidden border border-[#D4A853]/30 bg-[#12121f]">
+                    <Image src="/images/support/mythras-cookie-card.webp" alt="The Mythras Cookie collector card front — a golden lion Cookie illustrated by Mythras, Level 3, HP 5" fill className="object-cover" sizes="160px" />
+                  </figure>
+                  <figure className="relative w-32 md:w-40 aspect-[5/7] rounded-xl overflow-hidden border border-[#D4A853]/20 bg-[#12121f]">
+                    <Image src="/images/support/mythras-cookie-card-back.webp" alt="The Mythras Cookie collector card back, in Cookie Run: Braverse style" fill className="object-cover" sizes="160px" />
+                  </figure>
                 </div>
                 <div className="flex-1 text-center md:text-left">
                   <div className="flex flex-wrap justify-center md:justify-start gap-2 mb-3">
                     <Badge>Limited run of 50</Badge>
                     <Badge>Original fan art</Badge>
-                    <Badge>Signed by Mythras</Badge>
+                    <Badge>Hand-signed by Mythras</Badge>
                   </div>
                   <h3 className="text-2xl font-bold text-white mb-2" style={{ fontFamily: 'var(--font-display)' }}>
                     Mythras Cookie — Collector Card
                   </h3>
+                  <div className="flex items-baseline gap-2 justify-center md:justify-start mb-3">
+                    <span className="text-3xl font-bold text-[#D4A853]" style={{ fontFamily: 'var(--font-display)' }}>$15</span>
+                    <span className="text-sm text-[#9999aa]">each · hand-signed · 1 of 50</span>
+                  </div>
                   <p className="text-[#c8c8d4] leading-relaxed mb-4">
                     A custom, hand-designed collector card illustrated by Mythras — the golden lion himself, rendered
-                    in full TCG style. Only 50 physical copies exist. It&apos;s a fan-made art collectible, not an
-                    official or tournament-playable card.
+                    in full TCG style and <strong className="text-white">hand-signed by Mythras</strong> on every copy.
+                    Only 50 exist. It&apos;s a fan-made art collectible, not an official or tournament-playable card.
                   </p>
                   <div className="flex flex-col sm:flex-row gap-3 justify-center md:justify-start">
                     <a
