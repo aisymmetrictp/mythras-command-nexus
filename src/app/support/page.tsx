@@ -103,7 +103,7 @@ export default function SupportPage() {
                     Mythras Cookie — Collector Card
                   </h3>
                   <div className="flex items-baseline gap-2 justify-center md:justify-start mb-3">
-                    <span className="text-3xl font-bold text-[#D4A853]" style={{ fontFamily: 'var(--font-display)' }}>$15</span>
+                    <span className="text-3xl font-bold text-[#D4A853]" style={{ fontFamily: 'var(--font-display)' }}>$25</span>
                     <span className="text-sm text-[#9999aa]">each · hand-signed · 1 of 50</span>
                   </div>
                   <p className="text-[#c8c8d4] leading-relaxed mb-4">
@@ -128,7 +128,9 @@ export default function SupportPage() {
                     </a>
                   </div>
                   <p className="text-xs text-[#666] mt-3">
-                    A proper one-click checkout is in the works. Until then, message us and we&apos;ll sort it out.
+                    A proper one-click checkout is in the works. Until then, reach out on Discord or email{' '}
+                    <a href="mailto:gamertagmythras@gmail.com?subject=Mythras%20Cookie%20Card" className="text-[#D4A853] hover:text-[#F0C850] underline">gamertagmythras@gmail.com</a>{' '}
+                    and we&apos;ll sort it out.
                   </p>
                 </div>
               </div>
