@@ -70,6 +70,7 @@ export default function Footer() {
               <li><Link href="/blog" className="text-sm text-[#9999aa] hover:text-white transition-colors">Blog</Link></li>
               <li><Link href="/gear-guide" className="text-sm text-[#9999aa] hover:text-white transition-colors">Gear Guide</Link></li>
               <li><Link href="/cake-tower" className="text-sm text-[#9999aa] hover:text-white transition-colors">Cake Tower</Link></li>
+              <li><Link href="/support" className="text-sm text-[#9999aa] hover:text-white transition-colors">Support</Link></li>
               <li><Link href="/contact" className="text-sm text-[#9999aa] hover:text-white transition-colors">Contact</Link></li>
             </ul>
           </div>
@@ -87,7 +88,7 @@ export default function Footer() {
             </div>
           </div>
           <p className="text-xs text-[#D4A853]/40 text-center md:text-right">
-            Independent fan site. Not affiliated with Devsisters Corp.
+            Independent fan site. Game trademarks belong to their respective publishers.
           </p>
         </div>
       </div>

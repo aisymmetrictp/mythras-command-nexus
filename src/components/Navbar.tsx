@@ -65,6 +65,7 @@ export default function Navbar() {
             <NavLink href="/#content-hub" label="Videos" />
             <NavLink href="/#schedule" label="Schedule" />
             <NavLink href="/#community" label="Community" />
+            <NavLink href="/support" label="Support" />
           </div>
 
           {/* Live Badge + CTA */}
@@ -145,6 +146,7 @@ export default function Navbar() {
               <MobileLink href="/#content-hub" label="Videos" onClick={() => setMobileOpen(false)} />
               <MobileLink href="/#schedule" label="Schedule" onClick={() => setMobileOpen(false)} />
               <MobileLink href="/#community" label="Community" onClick={() => setMobileOpen(false)} />
+              <MobileLink href="/support" label="💛 Support" onClick={() => setMobileOpen(false)} />
               <div className="pt-3">
                 <LiveBadge />
               </div>
