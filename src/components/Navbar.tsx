@@ -68,9 +68,15 @@ export default function Navbar() {
             <NavLink href="/support" label="Support" />
           </div>
 
-          {/* Live Badge + CTA */}
-          <div className="hidden md:flex items-center gap-4">
+          {/* Live Badge + CTAs */}
+          <div className="hidden md:flex items-center gap-3">
             <LiveBadge />
+            <Link
+              href="/shop"
+              className="px-4 py-2 rounded-lg font-semibold text-sm border border-[#D4A853]/40 text-[#D4A853] hover:bg-[#D4A853]/10 transition-all"
+            >
+              Shop
+            </Link>
             <a
               href="https://discord.gg/mFg8mbxtTS"
               target="_blank"
@@ -114,6 +120,7 @@ export default function Navbar() {
           >
             <div className="px-4 py-4 space-y-2">
               <MobileLink href="/" label="Home" onClick={() => setMobileOpen(false)} />
+              <MobileLink href="/shop" label="🛒 Shop" onClick={() => setMobileOpen(false)} />
               <div className="pt-2 pb-1 px-3 text-xs font-semibold text-[#D4A853]/60 uppercase tracking-wider">Channels</div>
               {channels.map(c => (
                 <MobileLink
