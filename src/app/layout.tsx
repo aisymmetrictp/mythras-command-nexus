@@ -91,13 +91,22 @@ export default function RootLayout({
         </Script>
         <OrganizationSchema />
         <PersonSchema />
-        {/* Hidden form for Netlify build-time form detection */}
+        {/* Hidden forms for Netlify build-time form detection (the real forms are client-rendered) */}
         <form name="contact" data-netlify="true" netlify-honeypot="bot-field" hidden>
           <input name="bot-field" />
           <input name="name" />
           <input name="email" />
           <input name="subject" />
           <textarea name="message" />
+        </form>
+        <form name="shop-reserve" data-netlify="true" netlify-honeypot="bot-field" hidden>
+          <input name="bot-field" />
+          <input name="name" />
+          <input name="email" />
+          <input name="discord" />
+          <input name="product" />
+          <textarea name="message" />
+          <input type="checkbox" name="consent" />
         </form>
         {children}
         <CookieConsent />
