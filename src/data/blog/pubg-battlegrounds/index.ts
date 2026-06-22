@@ -32,6 +32,8 @@ import { pubgConsoleSettingsGuide } from './posts/pubg-console-settings-guide';
 import { pubgFpsSettingsGuide } from './posts/pubg-fps-settings-guide';
 import { pubgBlueZoneRotationGuide } from './posts/pubg-blue-zone-rotation-guide';
 import { pubgRevivingDbnoGuide } from './posts/pubg-reviving-dbno-guide';
+import { pubgErangelMapGuide } from './posts/pubg-erangel-map-guide';
+import { pubgClutch1vxGuide } from './posts/pubg-clutch-1vx-guide';
 
 export const PUBG_POSTS: BlogPost[] = [
   pubgBeginnersGuide,
@@ -67,4 +69,6 @@ export const PUBG_POSTS: BlogPost[] = [
   pubgFpsSettingsGuide,
   pubgBlueZoneRotationGuide,
   pubgRevivingDbnoGuide,
+  pubgErangelMapGuide,
+  pubgClutch1vxGuide,
 ];

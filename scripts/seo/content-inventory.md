@@ -1,6 +1,6 @@
 # Content Inventory & Refresh Queue
 
-_Generated 2026-06-18 · 269 posts across 7 games._
+_Generated 2026-06-21 · 269 posts across 7 games._
 
 Freshness windows (by `lastUpdated`, fallback `publishDate`): **FRESH** <182d · **SOON** 182–365d (refresh-offer window) · **STALE** >365d.
 

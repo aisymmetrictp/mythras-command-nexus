@@ -38,6 +38,8 @@ import { cookieRunBraverseGlossary } from './posts/cookie-run-braverse-glossary'
 import { cookieRunBraverseFaq } from './posts/cookie-run-braverse-faq';
 import { bestArenaCardsBraverse } from './posts/best-arena-cards-cookie-run-braverse';
 import { braverseKeywordsExplained } from './posts/cookie-run-braverse-keywords-explained';
+import { braverseMetaTierList } from './posts/cookie-run-braverse-meta-tier-list';
+import { braverseEnergyGuide } from './posts/cookie-run-braverse-energy-guide';
 
 export const BRAVERSE_POSTS: BlogPost[] = [
   howToPlayBraverse,
@@ -79,4 +81,6 @@ export const BRAVERSE_POSTS: BlogPost[] = [
   cookieRunBraverseFaq,
   bestArenaCardsBraverse,
   braverseKeywordsExplained,
+  braverseMetaTierList,
+  braverseEnergyGuide,
 ];

@@ -52,6 +52,8 @@ import { blackSapphireCookieToppingsBuild } from './posts/black-sapphire-cookie-
 import { crkDailyChecklist } from './posts/crk-daily-checklist';
 import { goldenCheeseCookieToppingsBuild } from './posts/golden-cheese-cookie-toppings-build';
 import { darkCacaoCookieToppingsBuild } from './posts/dark-cacao-cookie-toppings-build';
+import { whiteLilyCookieToppingsBuild } from './posts/white-lily-cookie-toppings-build';
+import { endlessStrawberryTowerWalkthrough } from './posts/endless-strawberry-tower-walkthrough';
 
 export const CRK_POSTS: BlogPost[] = [
   crkCodes,
@@ -107,4 +109,6 @@ export const CRK_POSTS: BlogPost[] = [
   crkDailyChecklist,
   goldenCheeseCookieToppingsBuild,
   darkCacaoCookieToppingsBuild,
+  whiteLilyCookieToppingsBuild,
+  endlessStrawberryTowerWalkthrough,
 ];

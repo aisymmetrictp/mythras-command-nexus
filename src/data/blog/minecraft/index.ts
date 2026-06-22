@@ -34,6 +34,8 @@ import { minecraftXpGuide } from './posts/minecraft-xp-guide';
 import { minecraftBeesHoneyGuide } from './posts/minecraft-bees-honey-guide';
 import { minecraftFishingGuide } from './posts/minecraft-fishing-guide';
 import { minecraftFoodHungerGuide } from './posts/minecraft-food-hunger-guide';
+import { minecraftDeepDarkWardenGuide } from './posts/minecraft-deep-dark-warden-guide';
+import { minecraftRaidsPillagersGuide } from './posts/minecraft-raids-pillagers-guide';
 
 export const MINECRAFT_POSTS: BlogPost[] = [
   minecraftSurvivalGuideBeginners,
@@ -69,4 +71,6 @@ export const MINECRAFT_POSTS: BlogPost[] = [
   minecraftBeesHoneyGuide,
   minecraftFishingGuide,
   minecraftFoodHungerGuide,
+  minecraftDeepDarkWardenGuide,
+  minecraftRaidsPillagersGuide,
 ];
