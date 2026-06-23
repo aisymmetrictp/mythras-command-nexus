@@ -48,6 +48,8 @@ import { mtgBrawlFormatGuide } from './posts/mtg-brawl-format-guide';
 import { bestMtgTokenGeneratorsCommander } from './posts/best-mtg-token-generators-commander';
 import { mtgOathbreakerFormatGuide } from './posts/mtg-oathbreaker-format-guide';
 import { bestMtgAristocratsSacrificeCommander } from './posts/best-mtg-aristocrats-sacrifice-commander';
+import { mtgVintageFormatGuide } from './posts/mtg-vintage-format-guide';
+import { bestMtgFlickerBlinkCommander } from './posts/best-mtg-flicker-blink-commander';
 
 export const MTG_POSTS: BlogPost[] = [
   bestWhiteCardsMtg,
@@ -99,4 +101,6 @@ export const MTG_POSTS: BlogPost[] = [
   bestMtgTokenGeneratorsCommander,
   mtgOathbreakerFormatGuide,
   bestMtgAristocratsSacrificeCommander,
+  mtgVintageFormatGuide,
+  bestMtgFlickerBlinkCommander,
 ];

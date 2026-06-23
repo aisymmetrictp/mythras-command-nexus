@@ -36,6 +36,8 @@ import { pubgErangelMapGuide } from './posts/pubg-erangel-map-guide';
 import { pubgClutch1vxGuide } from './posts/pubg-clutch-1vx-guide';
 import { pubgMiramarMapGuide } from './posts/pubg-miramar-map-guide';
 import { pubgSanhokMapGuide } from './posts/pubg-sanhok-map-guide';
+import { pubgVikendiMapGuide } from './posts/pubg-vikendi-map-guide';
+import { pubgTaegoMapGuide } from './posts/pubg-taego-map-guide';
 
 export const PUBG_POSTS: BlogPost[] = [
   pubgBeginnersGuide,
@@ -75,4 +77,6 @@ export const PUBG_POSTS: BlogPost[] = [
   pubgClutch1vxGuide,
   pubgMiramarMapGuide,
   pubgSanhokMapGuide,
+  pubgVikendiMapGuide,
+  pubgTaegoMapGuide,
 ];

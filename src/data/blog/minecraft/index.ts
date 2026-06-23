@@ -38,6 +38,8 @@ import { minecraftDeepDarkWardenGuide } from './posts/minecraft-deep-dark-warden
 import { minecraftRaidsPillagersGuide } from './posts/minecraft-raids-pillagers-guide';
 import { minecraftEndCitiesGuide } from './posts/minecraft-end-cities-guide';
 import { minecraftTransportationGuide } from './posts/minecraft-transportation-guide';
+import { minecraftRedstoneContraptionsGuide } from './posts/minecraft-redstone-contraptions-guide';
+import { minecraftNetherFortressBastionGuide } from './posts/minecraft-nether-fortress-bastion-guide';
 
 export const MINECRAFT_POSTS: BlogPost[] = [
   minecraftSurvivalGuideBeginners,
@@ -77,4 +79,6 @@ export const MINECRAFT_POSTS: BlogPost[] = [
   minecraftRaidsPillagersGuide,
   minecraftEndCitiesGuide,
   minecraftTransportationGuide,
+  minecraftRedstoneContraptionsGuide,
+  minecraftNetherFortressBastionGuide,
 ];

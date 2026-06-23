@@ -36,6 +36,8 @@ import { fortniteMobilityItemsGuide } from './posts/fortnite-mobility-items-guid
 import { fortniteCashCupsCompetitiveGuide } from './posts/fortnite-cash-cups-competitive-guide';
 import { fortnitePieceControlGuide } from './posts/fortnite-piece-control-guide';
 import { fortniteVbucksItemShopGuide } from './posts/fortnite-vbucks-item-shop-guide';
+import { fortniteTunnelingGuide } from './posts/fortnite-tunneling-guide';
+import { fortniteHighGroundRetakeGuide } from './posts/fortnite-high-ground-retake-guide';
 
 export const FORTNITE_POSTS: BlogPost[] = [
   fortniteBeginnersGuide,
@@ -75,4 +77,6 @@ export const FORTNITE_POSTS: BlogPost[] = [
   fortniteCashCupsCompetitiveGuide,
   fortnitePieceControlGuide,
   fortniteVbucksItemShopGuide,
+  fortniteTunnelingGuide,
+  fortniteHighGroundRetakeGuide,
 ];

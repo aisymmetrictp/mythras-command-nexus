@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-22",
- "total": 283,
+ "generated": "2026-06-23",
+ "total": 297,
  "byGame": {
   "cookie-run-kingdom": [
    {
@@ -164,6 +164,14 @@
     "lastUpdated": "2026-05-23"
    },
    {
+    "slug": "crk-cookie-alliance-guide",
+    "title": "Cookie Run: Kingdom Cookie Alliance Guide — 25-Cookie Comps, Shadow Hex & Relics",
+    "topicCluster": "cookie-alliance",
+    "primaryKeyword": "cookie run kingdom cookie alliance guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-22"
+   },
+   {
     "slug": "crk-cookie-rarity-explained",
     "title": "Cookie Run: Kingdom Cookie Rarities Explained",
     "topicCluster": "cookie-rarity-explained",
@@ -298,6 +306,14 @@
     "primaryKeyword": "decadent choco tower guide",
     "bucket": "FRESH",
     "lastUpdated": "2026-05-24"
+   },
+   {
+    "slug": "elder-faerie-cookie-toppings-build",
+    "title": "Elder Faerie Cookie Toppings Build & Guide",
+    "topicCluster": "elder-faerie-build",
+    "primaryKeyword": "elder faerie cookie toppings",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-22"
    },
    {
     "slug": "endless-strawberry-tower-walkthrough",
@@ -622,6 +638,14 @@
     "lastUpdated": "2026-06-02"
    },
    {
+    "slug": "cookie-run-braverse-aggro-deck-guide",
+    "title": "Cookie Run: Braverse Aggro Deck Guide (Build & Pilot Red Aggro)",
+    "topicCluster": "deck-building",
+    "primaryKeyword": "cookie run braverse aggro deck",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-22"
+   },
+   {
     "slug": "cookie-run-braverse-black-pure-cards",
     "title": "Cookie Run: Braverse Black & Pure Cards, Explained",
     "topicCluster": "card-evaluation",
@@ -734,6 +758,14 @@
     "lastUpdated": "2026-06-11"
    },
    {
+    "slug": "cookie-run-braverse-turn-structure-guide",
+    "title": "Cookie Run: Braverse Turn Structure & Phases Explained",
+    "topicCluster": "rules-mechanics",
+    "primaryKeyword": "cookie run braverse turn structure",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-22"
+   },
+   {
     "slug": "cookie-run-braverse-win-conditions",
     "title": "Cookie Run: Braverse Win Conditions Explained",
     "topicCluster": "fundamentals",
@@ -775,6 +807,14 @@
    }
   ],
   "magic-the-gathering": [
+   {
+    "slug": "best-mtg-aristocrats-sacrifice-commander",
+    "title": "Best Aristocrats & Sacrifice Payoffs in Commander, Ranked",
+    "topicCluster": "aristocrats-sacrifice",
+    "primaryKeyword": "best mtg aristocrats cards",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-22"
+   },
    {
     "slug": "best-artifacts-mtg",
     "title": "Best Artifacts in Magic: The Gathering, Ranked",
@@ -1112,6 +1152,14 @@
     "lastUpdated": "2026-05-29"
    },
    {
+    "slug": "mtg-oathbreaker-format-guide",
+    "title": "MTG Oathbreaker Format Guide: Where to Start",
+    "topicCluster": "oathbreaker-format",
+    "primaryKeyword": "mtg oathbreaker format guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-22"
+   },
+   {
     "slug": "mtg-sideboarding-guide",
     "title": "MTG Sideboarding Guide: How to Win Games 2 and 3",
     "topicCluster": "fundamentals",
@@ -1314,6 +1362,14 @@
     "lastUpdated": "2026-06-06"
    },
    {
+    "slug": "minecraft-end-cities-guide",
+    "title": "Minecraft End Cities Guide: Elytra, Shulkers & End Ships",
+    "topicCluster": "minecraft-exploration",
+    "primaryKeyword": "minecraft end cities guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-22"
+   },
+   {
     "slug": "minecraft-fishing-guide",
     "title": "Minecraft Fishing Guide: Loot Tables, Enchants & AFK Farms",
     "topicCluster": "minecraft-survival",
@@ -1384,6 +1440,14 @@
     "primaryKeyword": "minecraft survival guide for beginners",
     "bucket": "FRESH",
     "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "minecraft-transportation-guide",
+    "title": "Minecraft Transportation Guide: The Fastest Ways to Travel",
+    "topicCluster": "minecraft-survival",
+    "primaryKeyword": "minecraft transportation guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-22"
    },
    {
     "slug": "minecraft-trial-chambers-guide",
@@ -1482,6 +1546,14 @@
     "primaryKeyword": "best roblox clicker games",
     "bucket": "FRESH",
     "lastUpdated": "2026-06-18"
+   },
+   {
+    "slug": "best-roblox-dress-up-games",
+    "title": "Best Roblox Dress-Up & Fashion Games",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best roblox dress up games",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-22"
    },
    {
     "slug": "best-roblox-escape-games",
@@ -1700,6 +1772,14 @@
     "lastUpdated": "2026-05-30"
    },
    {
+    "slug": "roblox-safety-parental-controls-guide",
+    "title": "Roblox Safety & Parental Controls Guide",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "roblox parental controls",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-22"
+   },
+   {
     "slug": "roblox-studio-basics",
     "title": "Roblox Studio Basics: Make Your First Game",
     "topicCluster": "roblox-creation",
@@ -1886,6 +1966,14 @@
     "lastUpdated": "2026-06-05"
    },
    {
+    "slug": "fortnite-piece-control-guide",
+    "title": "Fortnite Piece Control Guide: How to Take and Hold the Wall",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite piece control guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-22"
+   },
+   {
     "slug": "fortnite-ranked-guide",
     "title": "Fortnite Ranked Guide: How Ranks Work and How to Climb",
     "topicCluster": "fortnite-fundamentals",
@@ -1940,6 +2028,14 @@
     "primaryKeyword": "fortnite terms",
     "bucket": "FRESH",
     "lastUpdated": "2026-06-10"
+   },
+   {
+    "slug": "fortnite-vbucks-item-shop-guide",
+    "title": "Fortnite V-Bucks & Item Shop Guide: How the Currency Really Works",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite v-bucks item shop guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-22"
    },
    {
     "slug": "fortnite-victory-crown-guide",
@@ -2216,6 +2312,14 @@
     "lastUpdated": "2026-06-02"
    },
    {
+    "slug": "pubg-miramar-map-guide",
+    "title": "PUBG Miramar Map Guide: Drops, Rotations & Endgame",
+    "topicCluster": "pubg-maps",
+    "primaryKeyword": "pubg miramar map guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-22"
+   },
+   {
     "slug": "pubg-movement-positioning-guide",
     "title": "PUBG Movement and Positioning Guide",
     "topicCluster": "pubg-fundamentals",
@@ -2254,6 +2358,14 @@
     "primaryKeyword": "pubg reviving",
     "bucket": "FRESH",
     "lastUpdated": "2026-06-18"
+   },
+   {
+    "slug": "pubg-sanhok-map-guide",
+    "title": "PUBG Sanhok Map Guide: Drops, Rotations & Endgame",
+    "topicCluster": "pubg-maps",
+    "primaryKeyword": "pubg sanhok map guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-22"
    },
    {
     "slug": "pubg-settings-sensitivity-guide",

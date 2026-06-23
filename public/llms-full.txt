@@ -1,6 +1,6 @@
 # Mythras // The Multiverse — Full Content Directory
 
-> Comprehensive site directory for AI systems indexing gamertagmythras.com. Includes every published blog post with title, summary, and canonical URL across all seven games, plus the gear-guide structure and major site sections. 297 blog posts total.
+> Comprehensive site directory for AI systems indexing gamertagmythras.com. Includes every published blog post with title, summary, and canonical URL across all seven games, plus the gear-guide structure and major site sections. 311 blog posts total.
 
 ## About the publisher
 
@@ -8,7 +8,13 @@ Mythras // The Multiverse is an independent gaming creator brand operated by an 
 
 Editorial guarantee: every guide is written by the Mythras team and fact-checked against authoritative sources before publishing (Scryfall for MTG legality, the official Cookie Run: Braverse card database, and the game wikis). Posts include their refresh cadence so readers know how often the information is updated.
 
-## Cookie Run: Kingdom — full blog post list (57)
+## Cookie Run: Kingdom — full blog post list (59)
+
+### capsaicin-cookie-toppings-build
+Capsaicin Cookie Toppings Build & Guide. Capsaicin Cookie build guide: the Raspberry burst spread vs the Almond bruiser hybrid, substat priorities, beascuit and Magic Candy picks, and team comps. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/capsaicin-cookie-toppings-build
+
+### crk-sugar-gnome-lab-guide
+Cookie Run: Kingdom Sugar Gnome Laboratory Guide. How the Sugar Gnome Laboratory works in Cookie Run: Kingdom — Kingdom vs Cookie tech trees, research costs, the research-speed tricks, and what to unlock first. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/crk-sugar-gnome-lab-guide
 
 ### crk-cookie-alliance-guide
 Cookie Run: Kingdom Cookie Alliance Guide — 25-Cookie Comps, Shadow Hex & Relics. Cookie Run: Kingdom Cookie Alliance guide: how the 5-team mode works, Shadow Hex, Beacon of Valor, treasure reuse, and pushing deeper for better relics. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/crk-cookie-alliance-guide
@@ -181,7 +187,13 @@ Timekeeper Cookie — Best Toppings, Beascuits & Team Comps. The complete Timeke
 ### timeline-of-fate-update-guide
 Is the Timeline of Fate Update Worth It? Beginner-to-Endgame Guide to CRK v7.4. Honest breakdown of Cookie Run: Kingdom v7.4 Timeline of Fate Act 2 — Timekeeper, Ash Salt, 6-star Legendaries, Arcade Arena, Unstable Timeline, and which players should actually log in. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/timeline-of-fate-update-guide
 
-## Cookie Run: Braverse — full blog post list (43)
+## Cookie Run: Braverse — full blog post list (45)
+
+### cookie-run-braverse-control-deck-guide
+Cookie Run: Braverse Control Deck Guide (Build & Pilot Blue/Purple Control). Build and pilot a Blue/Purple control deck in Cookie Run: Braverse: a real 60-card decklist, removal and draw engine, mulligan plan, and how to win late. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/cookie-run-braverse-control-deck-guide
+
+### cookie-run-braverse-midrange-deck-guide
+Cookie Run: Braverse Midrange Deck Guide (Build & Pilot Green/Yellow Midrange). Build and pilot a Green/Yellow midrange deck in Cookie Run: Braverse: a real 60-card decklist, the value game plan, mulligan tips, and how to grind out wins. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/cookie-run-braverse-midrange-deck-guide
 
 ### cookie-run-braverse-aggro-deck-guide
 Cookie Run: Braverse Aggro Deck Guide (Build & Pilot Red Aggro). Build and pilot a Red aggro deck in Cookie Run: Braverse: a real sample Arena decklist, the game plan, mulligan tips, and how to close the game. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/cookie-run-braverse-aggro-deck-guide
@@ -312,7 +324,13 @@ Every Cookie Run: Braverse Set in Order: Release Timeline & Buying Guide. A clea
 ### how-to-play-cookie-run-braverse
 How to Play Cookie Run: Braverse - A Complete Beginner Guide. Learn how to play Cookie Run: Braverse from scratch: the card types, game setup, turn phases, the rest-to-pay cost system, the FLIP mechanic, and both win conditions explained for new players. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/how-to-play-cookie-run-braverse
 
-## Magic: The Gathering — full blog post list (49)
+## Magic: The Gathering — full blog post list (51)
+
+### best-mtg-flicker-blink-commander
+Best Flicker & Blink Cards in MTG Commander, Ranked. The best flicker and blink cards in MTG Commander, ranked: Ephemerate, Restoration Angel, Soulherder, and the ETB payoffs that make blink broken. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-mtg-flicker-blink-commander
+
+### mtg-vintage-format-guide
+Magic: The Gathering Vintage Format Guide: The Power Nine, the Restricted List, and How to Actually Play It. What MTG Vintage really is: the Power Nine, the restricted list vs the banned list, the proxy reality, and how to start playing Vintage in paper and on MTGO. URL: https://gamertagmythras.com/blog/magic-the-gathering/mtg-vintage-format-guide
 
 ### best-mtg-aristocrats-sacrifice-commander
 Best Aristocrats & Sacrifice Payoffs in Commander, Ranked. The best sacrifice outlets and death-trigger payoffs for MTG Commander, ranked. Blood Artist, Ashnod's Altar, Mayhem Devil, Dictate of Erebos and the engine pieces that win. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-mtg-aristocrats-sacrifice-commander
@@ -461,7 +479,13 @@ How Nathan Steuer Won Pro Tour Strixhaven With Selesnya Landfall. Nathan Steuer 
 ### standard-post-ban-meta-may-2026
 Standard After the May 2026 Ban Wave — What to Brew Now That Cori-Steel Is Gone. MTG Standard after the May 18, 2026 ban wave: all 10 banned cards, the new tier 1 decks, three brewing directions, and which cards just got way better. URL: https://gamertagmythras.com/blog/magic-the-gathering/standard-post-ban-meta-may-2026
 
-## Minecraft — full blog post list (37)
+## Minecraft — full blog post list (39)
+
+### minecraft-nether-fortress-bastion-guide
+Minecraft Nether Fortress & Bastion Guide: Loot Safely. How to find and loot Minecraft Nether fortresses (blaze rods, wither skeleton skulls) and bastion remnants (all four types, piglin brutes, bartering) without dying. URL: https://gamertagmythras.com/blog/minecraft/minecraft-nether-fortress-bastion-guide
+
+### minecraft-redstone-contraptions-guide
+Minecraft Redstone Contraptions Guide: Builds That Work. Practical Minecraft redstone contraptions: piston doors, auto-farms, item sorters, hidden doors, flying machines, and observer/comparator clocks that actually work. URL: https://gamertagmythras.com/blog/minecraft/minecraft-redstone-contraptions-guide
 
 ### minecraft-end-cities-guide
 Minecraft End Cities Guide: Elytra, Shulkers & End Ships. How to reach the outer End islands, raid End cities, beat shulkers, grab the elytra and dragon head from an End ship, and loot safely without dying to the void. URL: https://gamertagmythras.com/blog/minecraft/minecraft-end-cities-guide
@@ -574,7 +598,13 @@ Redstone Basics: A Beginner's Guide to Minecraft's Wiring. Redstone basics expla
 ### minecraft-survival-guide-beginners
 Minecraft Survival Guide for Beginners — Surviving Your First Days. A no-fluff Minecraft survival guide for beginners. The exact first-day tool chain, how to survive night one, and what to prioritize before mobs find you. URL: https://gamertagmythras.com/blog/minecraft/minecraft-survival-guide-beginners
 
-## Roblox — full blog post list (37)
+## Roblox — full blog post list (39)
+
+### best-roblox-music-games
+Best Roblox Music & Rhythm Games. The best Roblox music and rhythm games right now — Funky Friday, RoBeats, Sound Space and more, ranked by feel, song library, and how hard they push you. URL: https://gamertagmythras.com/blog/roblox/best-roblox-music-games
+
+### roblox-premium-robux-value-guide
+Roblox Premium & Robux Value Guide: Is It Worth It?. What Roblox Premium actually gets you, how Robux bundles and gift cards work, the monthly stipend, Premium Payouts, and whether the subscription is worth it. URL: https://gamertagmythras.com/blog/roblox/roblox-premium-robux-value-guide
 
 ### best-roblox-dress-up-games
 Best Roblox Dress-Up & Fashion Games. The best Roblox dress-up and fashion games right now — Dress to Impress, Royale High, Fashion Famous and more, ranked by how good the wardrobe and the runway actually are. URL: https://gamertagmythras.com/blog/roblox/best-roblox-dress-up-games
@@ -687,7 +717,13 @@ Beginner's Guide to Roblox: Everything a New Player Needs. New to Roblox? Set up
 ### roblox-studio-basics
 Roblox Studio Basics: Make Your First Game. Build and publish your first Roblox game in an afternoon. Roblox Studio basics — templates, parts, the Explorer, your first Luau script, testing, and going live. URL: https://gamertagmythras.com/blog/roblox/roblox-studio-basics
 
-## Fortnite — full blog post list (37)
+## Fortnite — full blog post list (39)
+
+### fortnite-high-ground-retake-guide
+Fortnite High Ground Retake Guide: Take Back the Top. Master the Fortnite high ground retake: the cone-rush, wall-and-ramp retake, 50/50s, surviving on low ground, and resetting a fight to take the top back. URL: https://gamertagmythras.com/blog/fortnite/fortnite-high-ground-retake-guide
+
+### fortnite-tunneling-guide
+Fortnite Tunneling Guide: Cross Open Ground Without Dying. Master Fortnite tunneling: cone and tarp tunnels, the move-and-rebuild rhythm, double-tunneling, tunneling under pressure, and when to tunnel vs rotate. URL: https://gamertagmythras.com/blog/fortnite/fortnite-tunneling-guide
 
 ### fortnite-piece-control-guide
 Fortnite Piece Control Guide: How to Take and Hold the Wall. Master Fortnite piece control: take and hold the contested wall, the cone-on-wall, refreshing walls, wall-takes, turtling, and winning the build battle. URL: https://gamertagmythras.com/blog/fortnite/fortnite-piece-control-guide
@@ -800,7 +836,13 @@ Fortnite Editing Guide: How to Edit Faster and Cleaner. Edit faster in Fortnite:
 ### fortnite-weapon-tier-list
 Fortnite Weapon Tier List: How to Rank Any Loot Pool. A Fortnite weapon tier list that survives every season: how to rank guns by class and range, build a balanced loadout, and judge new weapons the moment they drop. URL: https://gamertagmythras.com/blog/fortnite/fortnite-weapon-tier-list
 
-## PUBG: Battlegrounds — full blog post list (37)
+## PUBG: Battlegrounds — full blog post list (39)
+
+### pubg-taego-map-guide
+PUBG Taego Map Guide: Comeback BR, Secret Room & Rotations. A full PUBG Taego guide: drops on the 8x8 Korea map, the Comeback BR and Self-AED second chances, the Secret Room key, gliders, rotations and the endgame. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-taego-map-guide
+
+### pubg-vikendi-map-guide
+PUBG Vikendi Map Guide: Drops, Snow Tracks & Rotations. A full PUBG Vikendi guide: the best drops on the 6x6 snow map, the footprints-in-snow tell, the snowmobile, cover, rotations and reading the endgame. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-vikendi-map-guide
 
 ### pubg-miramar-map-guide
 PUBG Miramar Map Guide: Drops, Rotations & Endgame. A full PUBG Miramar guide: best hot and safe drops, the open-desert sightline problem, vehicle and mountain rotations, and reading the 8x8 endgame. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-miramar-map-guide

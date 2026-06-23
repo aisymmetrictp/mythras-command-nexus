@@ -42,6 +42,8 @@ import { braverseMetaTierList } from './posts/cookie-run-braverse-meta-tier-list
 import { braverseEnergyGuide } from './posts/cookie-run-braverse-energy-guide';
 import { braverseTurnStructureGuide } from './posts/cookie-run-braverse-turn-structure-guide';
 import { braverseAggroDeckGuide } from './posts/cookie-run-braverse-aggro-deck-guide';
+import { braverseControlDeckGuide } from './posts/cookie-run-braverse-control-deck-guide';
+import { braverseMidrangeDeckGuide } from './posts/cookie-run-braverse-midrange-deck-guide';
 
 export const BRAVERSE_POSTS: BlogPost[] = [
   howToPlayBraverse,
@@ -87,4 +89,6 @@ export const BRAVERSE_POSTS: BlogPost[] = [
   braverseEnergyGuide,
   braverseTurnStructureGuide,
   braverseAggroDeckGuide,
+  braverseControlDeckGuide,
+  braverseMidrangeDeckGuide,
 ];
