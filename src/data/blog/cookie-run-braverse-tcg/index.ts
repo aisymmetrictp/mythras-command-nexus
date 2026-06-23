@@ -40,6 +40,8 @@ import { bestArenaCardsBraverse } from './posts/best-arena-cards-cookie-run-brav
 import { braverseKeywordsExplained } from './posts/cookie-run-braverse-keywords-explained';
 import { braverseMetaTierList } from './posts/cookie-run-braverse-meta-tier-list';
 import { braverseEnergyGuide } from './posts/cookie-run-braverse-energy-guide';
+import { braverseTurnStructureGuide } from './posts/cookie-run-braverse-turn-structure-guide';
+import { braverseAggroDeckGuide } from './posts/cookie-run-braverse-aggro-deck-guide';
 
 export const BRAVERSE_POSTS: BlogPost[] = [
   howToPlayBraverse,
@@ -83,4 +85,6 @@ export const BRAVERSE_POSTS: BlogPost[] = [
   braverseKeywordsExplained,
   braverseMetaTierList,
   braverseEnergyGuide,
+  braverseTurnStructureGuide,
+  braverseAggroDeckGuide,
 ];

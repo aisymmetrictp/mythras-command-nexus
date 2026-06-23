@@ -54,6 +54,8 @@ import { goldenCheeseCookieToppingsBuild } from './posts/golden-cheese-cookie-to
 import { darkCacaoCookieToppingsBuild } from './posts/dark-cacao-cookie-toppings-build';
 import { whiteLilyCookieToppingsBuild } from './posts/white-lily-cookie-toppings-build';
 import { endlessStrawberryTowerWalkthrough } from './posts/endless-strawberry-tower-walkthrough';
+import { elderFaerieCookieToppingsBuild } from './posts/elder-faerie-cookie-toppings-build';
+import { crkCookieAllianceGuide } from './posts/crk-cookie-alliance-guide';
 
 export const CRK_POSTS: BlogPost[] = [
   crkCodes,
@@ -111,4 +113,6 @@ export const CRK_POSTS: BlogPost[] = [
   darkCacaoCookieToppingsBuild,
   whiteLilyCookieToppingsBuild,
   endlessStrawberryTowerWalkthrough,
+  elderFaerieCookieToppingsBuild,
+  crkCookieAllianceGuide,
 ];

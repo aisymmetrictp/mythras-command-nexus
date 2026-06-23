@@ -34,6 +34,8 @@ import { fortniteHealingItemsTierList } from './posts/fortnite-healing-items-tie
 import { fortniteXpLevelingGuide } from './posts/fortnite-xp-leveling-guide';
 import { fortniteMobilityItemsGuide } from './posts/fortnite-mobility-items-guide';
 import { fortniteCashCupsCompetitiveGuide } from './posts/fortnite-cash-cups-competitive-guide';
+import { fortnitePieceControlGuide } from './posts/fortnite-piece-control-guide';
+import { fortniteVbucksItemShopGuide } from './posts/fortnite-vbucks-item-shop-guide';
 
 export const FORTNITE_POSTS: BlogPost[] = [
   fortniteBeginnersGuide,
@@ -71,4 +73,6 @@ export const FORTNITE_POSTS: BlogPost[] = [
   fortniteXpLevelingGuide,
   fortniteMobilityItemsGuide,
   fortniteCashCupsCompetitiveGuide,
+  fortnitePieceControlGuide,
+  fortniteVbucksItemShopGuide,
 ];

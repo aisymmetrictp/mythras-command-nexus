@@ -46,6 +46,8 @@ import { bestGraveyardRecursionCommanderMtg } from './posts/best-graveyard-recur
 import { mtgStandardFormatGuide } from './posts/mtg-standard-format-guide';
 import { mtgBrawlFormatGuide } from './posts/mtg-brawl-format-guide';
 import { bestMtgTokenGeneratorsCommander } from './posts/best-mtg-token-generators-commander';
+import { mtgOathbreakerFormatGuide } from './posts/mtg-oathbreaker-format-guide';
+import { bestMtgAristocratsSacrificeCommander } from './posts/best-mtg-aristocrats-sacrifice-commander';
 
 export const MTG_POSTS: BlogPost[] = [
   bestWhiteCardsMtg,
@@ -95,4 +97,6 @@ export const MTG_POSTS: BlogPost[] = [
   mtgStandardFormatGuide,
   mtgBrawlFormatGuide,
   bestMtgTokenGeneratorsCommander,
+  mtgOathbreakerFormatGuide,
+  bestMtgAristocratsSacrificeCommander,
 ];

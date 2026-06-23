@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-21",
- "total": 269,
+ "generated": "2026-06-22",
+ "total": 283,
  "byGame": {
   "cookie-run-kingdom": [
    {
@@ -300,6 +300,14 @@
     "lastUpdated": "2026-05-24"
    },
    {
+    "slug": "endless-strawberry-tower-walkthrough",
+    "title": "Endless Strawberry Cake Tower Walkthrough (2026) — Tray Strategy & Comps",
+    "topicCluster": "cake-tower",
+    "primaryKeyword": "endless strawberry cake tower guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-21"
+   },
+   {
     "slug": "eternal-sugar-cookie-toppings-build",
     "title": "Eternal Sugar Cookie Toppings Build & Guide",
     "topicCluster": "eternal-sugar-build",
@@ -418,6 +426,14 @@
     "primaryKeyword": "timekeeper cookie best toppings",
     "bucket": "FRESH",
     "lastUpdated": "2026-05-23"
+   },
+   {
+    "slug": "white-lily-cookie-toppings-build",
+    "title": "White Lily Cookie Toppings Build & Guide",
+    "topicCluster": "white-lily-build",
+    "primaryKeyword": "white lily cookie toppings",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-21"
    },
    {
     "slug": "wind-archer-cookie-toppings-build",
@@ -654,6 +670,14 @@
     "lastUpdated": "2026-05-28"
    },
    {
+    "slug": "cookie-run-braverse-energy-guide",
+    "title": "Cookie Run: Braverse Energy & Leveling Explained",
+    "topicCluster": "rules-mechanics",
+    "primaryKeyword": "cookie run braverse energy",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-21"
+   },
+   {
     "slug": "cookie-run-braverse-faq",
     "title": "Cookie Run: Braverse FAQ: Common Questions Answered",
     "topicCluster": "fundamentals",
@@ -676,6 +700,14 @@
     "primaryKeyword": "cookie run braverse keywords",
     "bucket": "FRESH",
     "lastUpdated": "2026-06-18"
+   },
+   {
+    "slug": "cookie-run-braverse-meta-tier-list",
+    "title": "Cookie Run: Braverse Meta Tier List — Best Decks & Archetypes Ranked",
+    "topicCluster": "meta-analysis",
+    "primaryKeyword": "cookie run braverse meta tier list",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-21"
    },
    {
     "slug": "cookie-run-braverse-mulligan-guide",
@@ -904,6 +936,14 @@
     "lastUpdated": "2026-05-28"
    },
    {
+    "slug": "best-mtg-token-generators-commander",
+    "title": "Best Token Generators in MTG Commander, Ranked",
+    "topicCluster": "token-generators",
+    "primaryKeyword": "best token generators mtg commander",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-21"
+   },
+   {
     "slug": "best-tutors-commander-mtg",
     "title": "Best Tutors in Commander, Ranked",
     "topicCluster": "commander-staples",
@@ -1006,6 +1046,14 @@
     "primaryKeyword": "mtg standard format guide",
     "bucket": "FRESH",
     "lastUpdated": "2026-06-18"
+   },
+   {
+    "slug": "mtg-brawl-format-guide",
+    "title": "MTG Brawl Format Guide: Standard Brawl vs Historic Brawl",
+    "topicCluster": "brawl-format",
+    "primaryKeyword": "mtg brawl format guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-21"
    },
    {
     "slug": "mtg-commander-brackets",
@@ -1250,6 +1298,14 @@
     "lastUpdated": "2026-06-07"
    },
    {
+    "slug": "minecraft-deep-dark-warden-guide",
+    "title": "Minecraft Deep Dark & Warden Guide: Sculk, Cities & Survival",
+    "topicCluster": "minecraft-survival",
+    "primaryKeyword": "minecraft deep dark warden guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-21"
+   },
+   {
     "slug": "minecraft-elytra-guide",
     "title": "Minecraft Elytra Guide: How to Get Wings and Fly",
     "topicCluster": "minecraft-progression",
@@ -1312,6 +1368,14 @@
     "primaryKeyword": "minecraft potion brewing guide",
     "bucket": "FRESH",
     "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "minecraft-raids-pillagers-guide",
+    "title": "Minecraft Raids & Pillagers Guide: Outposts, Waves & Heroes",
+    "topicCluster": "minecraft-survival",
+    "primaryKeyword": "minecraft raids and pillagers guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-21"
    },
    {
     "slug": "minecraft-survival-guide-beginners",
@@ -1492,6 +1556,14 @@
     "lastUpdated": "2026-06-17"
    },
    {
+    "slug": "best-roblox-mobile-games",
+    "title": "Best Roblox Mobile Games That Actually Play Well on Phones",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best roblox mobile games",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-21"
+   },
+   {
     "slug": "best-roblox-obby-games",
     "title": "Best Roblox Obby Games to Play Right Now",
     "topicCluster": "roblox-getting-started",
@@ -1634,6 +1706,14 @@
     "primaryKeyword": "roblox studio basics",
     "bucket": "FRESH",
     "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "roblox-trading-limiteds-guide",
+    "title": "Roblox Trading & Limiteds: How the Item Economy Really Works",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "roblox trading",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-21"
    }
   ],
   "fortnite": [
@@ -1710,6 +1790,14 @@
     "lastUpdated": "2026-05-30"
    },
    {
+    "slug": "fortnite-cash-cups-competitive-guide",
+    "title": "Fortnite Cash Cups & Competitive Guide: How Tournaments Work",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite cash cups guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-21"
+   },
+   {
     "slug": "fortnite-controller-vs-keyboard",
     "title": "Fortnite Controller vs Keyboard & Mouse: Which Should You Use?",
     "topicCluster": "fortnite-fundamentals",
@@ -1772,6 +1860,14 @@
     "primaryKeyword": "fortnite mats management",
     "bucket": "FRESH",
     "lastUpdated": "2026-06-04"
+   },
+   {
+    "slug": "fortnite-mobility-items-guide",
+    "title": "Fortnite Mobility Items Guide: What to Carry and When to Use It",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite mobility items guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-21"
    },
    {
     "slug": "fortnite-movement-guide",
@@ -2080,12 +2176,28 @@
     "lastUpdated": "2026-06-11"
    },
    {
+    "slug": "pubg-clutch-1vx-guide",
+    "title": "PUBG Clutch Guide: How to Win 1vX Fights",
+    "topicCluster": "pubg-strategy",
+    "primaryKeyword": "pubg clutch guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-21"
+   },
+   {
     "slug": "pubg-endgame-circle-strategy",
     "title": "PUBG Endgame Guide: How to Win the Final Circles",
     "topicCluster": "pubg-strategy",
     "primaryKeyword": "pubg endgame strategy",
     "bucket": "FRESH",
     "lastUpdated": "2026-06-02"
+   },
+   {
+    "slug": "pubg-erangel-map-guide",
+    "title": "PUBG Erangel Map Guide: Drops, Rotations & Endgame",
+    "topicCluster": "pubg-maps",
+    "primaryKeyword": "pubg erangel map guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-21"
    },
    {
     "slug": "pubg-healing-boost-guide",

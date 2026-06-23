@@ -34,6 +34,8 @@ import { pubgBlueZoneRotationGuide } from './posts/pubg-blue-zone-rotation-guide
 import { pubgRevivingDbnoGuide } from './posts/pubg-reviving-dbno-guide';
 import { pubgErangelMapGuide } from './posts/pubg-erangel-map-guide';
 import { pubgClutch1vxGuide } from './posts/pubg-clutch-1vx-guide';
+import { pubgMiramarMapGuide } from './posts/pubg-miramar-map-guide';
+import { pubgSanhokMapGuide } from './posts/pubg-sanhok-map-guide';
 
 export const PUBG_POSTS: BlogPost[] = [
   pubgBeginnersGuide,
@@ -71,4 +73,6 @@ export const PUBG_POSTS: BlogPost[] = [
   pubgRevivingDbnoGuide,
   pubgErangelMapGuide,
   pubgClutch1vxGuide,
+  pubgMiramarMapGuide,
+  pubgSanhokMapGuide,
 ];
