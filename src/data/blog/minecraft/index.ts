@@ -40,6 +40,8 @@ import { minecraftEndCitiesGuide } from './posts/minecraft-end-cities-guide';
 import { minecraftTransportationGuide } from './posts/minecraft-transportation-guide';
 import { minecraftRedstoneContraptionsGuide } from './posts/minecraft-redstone-contraptions-guide';
 import { minecraftNetherFortressBastionGuide } from './posts/minecraft-nether-fortress-bastion-guide';
+import { minecraftHorsesMountsGuide } from './posts/minecraft-horses-mounts-guide';
+import { minecraftAnvilRepairingGuide } from './posts/minecraft-anvil-repairing-guide';
 
 export const MINECRAFT_POSTS: BlogPost[] = [
   minecraftSurvivalGuideBeginners,
@@ -81,4 +83,6 @@ export const MINECRAFT_POSTS: BlogPost[] = [
   minecraftTransportationGuide,
   minecraftRedstoneContraptionsGuide,
   minecraftNetherFortressBastionGuide,
+  minecraftHorsesMountsGuide,
+  minecraftAnvilRepairingGuide,
 ];

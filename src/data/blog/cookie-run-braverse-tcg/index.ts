@@ -44,6 +44,8 @@ import { braverseTurnStructureGuide } from './posts/cookie-run-braverse-turn-str
 import { braverseAggroDeckGuide } from './posts/cookie-run-braverse-aggro-deck-guide';
 import { braverseControlDeckGuide } from './posts/cookie-run-braverse-control-deck-guide';
 import { braverseMidrangeDeckGuide } from './posts/cookie-run-braverse-midrange-deck-guide';
+import { braverseComboDeckGuide } from './posts/cookie-run-braverse-combo-deck-guide';
+import { braverseMillDeckGuide } from './posts/cookie-run-braverse-mill-deck-guide';
 
 export const BRAVERSE_POSTS: BlogPost[] = [
   howToPlayBraverse,
@@ -91,4 +93,6 @@ export const BRAVERSE_POSTS: BlogPost[] = [
   braverseAggroDeckGuide,
   braverseControlDeckGuide,
   braverseMidrangeDeckGuide,
+  braverseComboDeckGuide,
+  braverseMillDeckGuide,
 ];

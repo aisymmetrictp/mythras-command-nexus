@@ -50,6 +50,8 @@ import { mtgOathbreakerFormatGuide } from './posts/mtg-oathbreaker-format-guide'
 import { bestMtgAristocratsSacrificeCommander } from './posts/best-mtg-aristocrats-sacrifice-commander';
 import { mtgVintageFormatGuide } from './posts/mtg-vintage-format-guide';
 import { bestMtgFlickerBlinkCommander } from './posts/best-mtg-flicker-blink-commander';
+import { bestMtgLifegainCommander } from './posts/best-mtg-lifegain-commander';
+import { bestMtgExtraTurnSpells } from './posts/best-mtg-extra-turn-spells';
 
 export const MTG_POSTS: BlogPost[] = [
   bestWhiteCardsMtg,
@@ -103,4 +105,6 @@ export const MTG_POSTS: BlogPost[] = [
   bestMtgAristocratsSacrificeCommander,
   mtgVintageFormatGuide,
   bestMtgFlickerBlinkCommander,
+  bestMtgLifegainCommander,
+  bestMtgExtraTurnSpells,
 ];

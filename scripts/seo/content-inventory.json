@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-23",
- "total": 297,
+ "generated": "2026-06-24",
+ "total": 311,
  "byGame": {
   "cookie-run-kingdom": [
    {
@@ -140,6 +140,14 @@
     "lastUpdated": "2026-06-02"
    },
    {
+    "slug": "capsaicin-cookie-toppings-build",
+    "title": "Capsaicin Cookie Toppings Build & Guide",
+    "topicCluster": "capsaicin-build",
+    "primaryKeyword": "capsaicin cookie toppings",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-23"
+   },
+   {
     "slug": "crk-awakening-guide",
     "title": "Cookie Run: Kingdom Awakening Guide: Who to Awaken First",
     "topicCluster": "awakening-strategy",
@@ -210,6 +218,14 @@
     "primaryKeyword": "cookie run kingdom reroll guide",
     "bucket": "FRESH",
     "lastUpdated": "2026-05-23"
+   },
+   {
+    "slug": "crk-sugar-gnome-lab-guide",
+    "title": "Cookie Run: Kingdom Sugar Gnome Laboratory Guide",
+    "topicCluster": "kingdom-management",
+    "primaryKeyword": "sugar gnome laboratory crk",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-23"
    },
    {
     "slug": "cookie-run-kingdom-treasures-guide",
@@ -678,6 +694,14 @@
     "lastUpdated": "2026-06-07"
    },
    {
+    "slug": "cookie-run-braverse-control-deck-guide",
+    "title": "Cookie Run: Braverse Control Deck Guide (Build & Pilot Blue/Purple Control)",
+    "topicCluster": "deck-building",
+    "primaryKeyword": "cookie run braverse control deck",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-23"
+   },
+   {
     "slug": "cookie-run-braverse-deck-archetypes",
     "title": "Cookie Run: Braverse Deck Archetypes Explained: Aggro, Control, Combo & More",
     "topicCluster": "deck-building",
@@ -732,6 +756,14 @@
     "primaryKeyword": "cookie run braverse meta tier list",
     "bucket": "FRESH",
     "lastUpdated": "2026-06-21"
+   },
+   {
+    "slug": "cookie-run-braverse-midrange-deck-guide",
+    "title": "Cookie Run: Braverse Midrange Deck Guide (Build & Pilot Green/Yellow Midrange)",
+    "topicCluster": "deck-building",
+    "primaryKeyword": "cookie run braverse midrange deck",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-23"
    },
    {
     "slug": "cookie-run-braverse-mulligan-guide",
@@ -902,6 +934,14 @@
     "primaryKeyword": "best equipment mtg",
     "bucket": "FRESH",
     "lastUpdated": "2026-06-04"
+   },
+   {
+    "slug": "best-mtg-flicker-blink-commander",
+    "title": "Best Flicker & Blink Cards in MTG Commander, Ranked",
+    "topicCluster": "flicker-blink",
+    "primaryKeyword": "best flicker blink cards commander",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-23"
    },
    {
     "slug": "best-graveyard-recursion-commander-mtg",
@@ -1086,6 +1126,14 @@
     "primaryKeyword": "mtg standard format guide",
     "bucket": "FRESH",
     "lastUpdated": "2026-06-18"
+   },
+   {
+    "slug": "mtg-vintage-format-guide",
+    "title": "Magic: The Gathering Vintage Format Guide: The Power Nine, the Restricted List, and How to Actually Play It",
+    "topicCluster": "vintage-format",
+    "primaryKeyword": "mtg vintage format guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-23"
    },
    {
     "slug": "mtg-brawl-format-guide",
@@ -1402,6 +1450,14 @@
     "lastUpdated": "2026-06-10"
    },
    {
+    "slug": "minecraft-nether-fortress-bastion-guide",
+    "title": "Minecraft Nether Fortress & Bastion Guide: Loot Safely",
+    "topicCluster": "minecraft-survival",
+    "primaryKeyword": "minecraft nether fortress and bastion guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-23"
+   },
+   {
     "slug": "minecraft-nether-guide",
     "title": "Minecraft Nether Guide: How to Survive and Thrive",
     "topicCluster": "minecraft-progression",
@@ -1432,6 +1488,14 @@
     "primaryKeyword": "minecraft raids and pillagers guide",
     "bucket": "FRESH",
     "lastUpdated": "2026-06-21"
+   },
+   {
+    "slug": "minecraft-redstone-contraptions-guide",
+    "title": "Minecraft Redstone Contraptions Guide: Builds That Work",
+    "topicCluster": "minecraft-survival",
+    "primaryKeyword": "minecraft redstone contraptions",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-23"
    },
    {
     "slug": "minecraft-survival-guide-beginners",
@@ -1636,6 +1700,14 @@
     "lastUpdated": "2026-06-21"
    },
    {
+    "slug": "best-roblox-music-games",
+    "title": "Best Roblox Music & Rhythm Games",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best roblox music games",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-23"
+   },
+   {
     "slug": "best-roblox-obby-games",
     "title": "Best Roblox Obby Games to Play Right Now",
     "topicCluster": "roblox-getting-started",
@@ -1770,6 +1842,14 @@
     "primaryKeyword": "how to make a roblox game",
     "bucket": "FRESH",
     "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "roblox-premium-robux-value-guide",
+    "title": "Roblox Premium & Robux Value Guide: Is It Worth It?",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "roblox premium worth it",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-23"
    },
    {
     "slug": "roblox-safety-parental-controls-guide",
@@ -1926,6 +2006,14 @@
     "lastUpdated": "2026-06-18"
    },
    {
+    "slug": "fortnite-high-ground-retake-guide",
+    "title": "Fortnite High Ground Retake Guide: Take Back the Top",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite high ground retake",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-23"
+   },
+   {
     "slug": "fortnite-loadout-priority-guide",
     "title": "Fortnite Loadout Priority: What to Grab First",
     "topicCluster": "fortnite-fundamentals",
@@ -2028,6 +2116,14 @@
     "primaryKeyword": "fortnite terms",
     "bucket": "FRESH",
     "lastUpdated": "2026-06-10"
+   },
+   {
+    "slug": "fortnite-tunneling-guide",
+    "title": "Fortnite Tunneling Guide: Cross Open Ground Without Dying",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite tunneling guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-23"
    },
    {
     "slug": "fortnite-vbucks-item-shop-guide",
@@ -2384,12 +2480,28 @@
     "lastUpdated": "2026-06-02"
    },
    {
+    "slug": "pubg-taego-map-guide",
+    "title": "PUBG Taego Map Guide: Comeback BR, Secret Room & Rotations",
+    "topicCluster": "pubg-maps",
+    "primaryKeyword": "pubg taego map guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-23"
+   },
+   {
     "slug": "pubg-tpp-vs-fpp-guide",
     "title": "PUBG TPP vs FPP: Which Mode Should You Play?",
     "topicCluster": "pubg-fundamentals",
     "primaryKeyword": "pubg tpp vs fpp",
     "bucket": "FRESH",
     "lastUpdated": "2026-06-06"
+   },
+   {
+    "slug": "pubg-vikendi-map-guide",
+    "title": "PUBG Vikendi Map Guide: Drops, Snow Tracks & Rotations",
+    "topicCluster": "pubg-maps",
+    "primaryKeyword": "pubg vikendi map guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-23"
    }
   ]
  },

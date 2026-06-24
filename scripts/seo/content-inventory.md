@@ -1,6 +1,6 @@
 # Content Inventory & Refresh Queue
 
-_Generated 2026-06-23 · 297 posts across 7 games._
+_Generated 2026-06-24 · 311 posts across 7 games._
 
 Freshness windows (by `lastUpdated`, fallback `publishDate`): **FRESH** <182d · **SOON** 182–365d (refresh-offer window) · **STALE** >365d.
 
@@ -10,7 +10,7 @@ Nothing past the 6-month mark yet — the whole library is FRESH.
 
 ## Covered topics by game
 
-### Cookie Run: Kingdom (57)
+### Cookie Run: Kingdom (59)
 
 - **10 Cookie Run: Kingdom Beginner Mistakes That Stall Your Account** — `crk-beginner-mistakes-to-avoid` · cluster: beginner · kw: cookie run kingdom beginner mistakes · upd 2026-05-24 (FRESH)
 - **Ash Salt Cookie — Best Toppings, Beascuit & Team Comps** — `ash-salt-cookie-toppings` · cluster: cookie-deep-dive · kw: ash salt cookie best toppings · upd 2026-05-24 (FRESH)
@@ -29,6 +29,7 @@ Nothing past the 6-month mark yet — the whole library is FRESH.
 - **Black Pearl Cookie Toppings Build & Guide** — `black-pearl-cookie-toppings-build` · cluster: black-pearl-build · kw: black pearl cookie toppings · upd 2026-06-07 (FRESH)
 - **Black Sapphire Cookie Toppings Build & Guide** — `black-sapphire-cookie-toppings-build` · cluster: black-sapphire-build · kw: black sapphire cookie toppings · upd 2026-06-17 (FRESH)
 - **Burning Spice Cookie Toppings Build & Guide** — `burning-spice-cookie-toppings-build` · cluster: burning-spice-build · kw: burning spice cookie toppings · upd 2026-06-02 (FRESH)
+- **Capsaicin Cookie Toppings Build & Guide** — `capsaicin-cookie-toppings-build` · cluster: capsaicin-build · kw: capsaicin cookie toppings · upd 2026-06-23 (FRESH)
 - **Cookie Run: Kingdom Awakening Guide: Who to Awaken First** — `crk-awakening-guide` · cluster: awakening-strategy · kw: cookie run kingdom awakening · upd 2026-06-02 (FRESH)
 - **Cookie Run: Kingdom Beast-Yeast Guide — Episode Runs, Boss Comps & Investment Path** — `crk-beast-yeast-guide` · cluster: beast-yeast · kw: cookie run kingdom beast yeast guide · upd 2026-05-24 (FRESH)
 - **Cookie Run: Kingdom Codes (May 2026) — All Active Codes & Free Rewards** — `cookie-run-kingdom-codes` · cluster: codes · kw: cookie run kingdom codes · upd 2026-05-23 (FRESH)
@@ -38,6 +39,7 @@ Nothing past the 6-month mark yet — the whole library is FRESH.
 - **Cookie Run: Kingdom Gacha Guide: When to Pull and When to Save** — `crk-gacha-pull-guide` · cluster: gacha-economy · kw: cookie run kingdom gacha guide · upd 2026-06-06 (FRESH)
 - **Cookie Run: Kingdom Kingdom Building & Production Guide** — `crk-kingdom-building-guide` · cluster: kingdom-management · kw: cookie run kingdom building guide · upd 2026-06-07 (FRESH)
 - **Cookie Run: Kingdom Reroll Guide (May 2026) — Best Starting Cookies & How to Reroll Fast** — `cookie-run-kingdom-reroll-guide` · cluster: reroll · kw: cookie run kingdom reroll guide · upd 2026-05-23 (FRESH)
+- **Cookie Run: Kingdom Sugar Gnome Laboratory Guide** — `crk-sugar-gnome-lab-guide` · cluster: kingdom-management · kw: sugar gnome laboratory crk · upd 2026-06-23 (FRESH)
 - **Cookie Run: Kingdom Treasures Guide — How Treasures Work & Which to Build First** — `cookie-run-kingdom-treasures-guide` · cluster: systems-explainer · kw: cookie run kingdom treasures guide · upd 2026-05-24 (FRESH)
 - **Cookie Run: Kingdom World Exploration Guide** — `crk-world-exploration-guide` · cluster: progression · kw: cookie run kingdom world exploration · upd 2026-06-10 (FRESH)
 - **CookieChat & Affection System Explained — Every Cookie's Favorite Gift** — `cookiechat-affection-guide` · cluster: cookiechat · kw: cookiechat affection gift list · upd 2026-05-23 (FRESH)
@@ -70,7 +72,7 @@ Nothing past the 6-month mark yet — the whole library is FRESH.
 - **White Lily Cookie Toppings Build & Guide** — `white-lily-cookie-toppings-build` · cluster: white-lily-build · kw: white lily cookie toppings · upd 2026-06-21 (FRESH)
 - **Wind Archer Cookie Toppings Build & Guide** — `wind-archer-cookie-toppings-build` · cluster: wind-archer-build · kw: wind archer cookie toppings · upd 2026-06-04 (FRESH)
 
-### Cookie Run: Braverse (43)
+### Cookie Run: Braverse (45)
 
 - **10 Cookie Run: Braverse Beginner Mistakes (and How to Fix Them)** — `cookie-run-braverse-beginner-mistakes` · cluster: fundamentals · kw: cookie run braverse beginner mistakes · upd 2026-05-28 (FRESH)
 - **Best Ancient Cards in Cookie Run: Braverse, Ranked** — `best-ancient-cards-cookie-run-braverse` · cluster: card-evaluation · kw: best ancient cards cookie run braverse · upd 2026-06-05 (FRESH)
@@ -99,6 +101,7 @@ Nothing past the 6-month mark yet — the whole library is FRESH.
 - **Cookie Run: Braverse Card Types Explained: Cookie, FLIP, Item, Trap, Stage, EXTRA & NPC** — `cookie-run-braverse-card-types-explained` · cluster: fundamentals · kw: cookie run braverse card types · upd 2026-05-30 (FRESH)
 - **Cookie Run: Braverse Colors Explained: What Red, Yellow, Green, Blue & Purple Do** — `cookie-run-braverse-colors-explained` · cluster: fundamentals · kw: cookie run braverse colors · upd 2026-05-30 (FRESH)
 - **Cookie Run: Braverse Combos and Synergies Guide** — `cookie-run-braverse-combos-synergies` · cluster: deck-building · kw: cookie run braverse combos · upd 2026-06-07 (FRESH)
+- **Cookie Run: Braverse Control Deck Guide (Build & Pilot Blue/Purple Control)** — `cookie-run-braverse-control-deck-guide` · cluster: deck-building · kw: cookie run braverse control deck · upd 2026-06-23 (FRESH)
 - **Cookie Run: Braverse Deck Archetypes Explained: Aggro, Control, Combo & More** — `cookie-run-braverse-deck-archetypes` · cluster: deck-building · kw: cookie run braverse deck archetypes · upd 2026-05-30 (FRESH)
 - **Cookie Run: Braverse Deck-Building Basics: How to Build Your First 60** — `cookie-run-braverse-deck-building-basics` · cluster: deck-building · kw: cookie run braverse deck building · upd 2026-05-28 (FRESH)
 - **Cookie Run: Braverse Energy & Leveling Explained** — `cookie-run-braverse-energy-guide` · cluster: rules-mechanics · kw: cookie run braverse energy · upd 2026-06-21 (FRESH)
@@ -106,6 +109,7 @@ Nothing past the 6-month mark yet — the whole library is FRESH.
 - **Cookie Run: Braverse Glossary: Every Term Explained** — `cookie-run-braverse-glossary` · cluster: fundamentals · kw: cookie run braverse glossary · upd 2026-06-17 (FRESH)
 - **Cookie Run: Braverse Keywords & Abilities Explained** — `cookie-run-braverse-keywords-explained` · cluster: rules-mechanics · kw: cookie run braverse keywords · upd 2026-06-18 (FRESH)
 - **Cookie Run: Braverse Meta Tier List — Best Decks & Archetypes Ranked** — `cookie-run-braverse-meta-tier-list` · cluster: meta-analysis · kw: cookie run braverse meta tier list · upd 2026-06-21 (FRESH)
+- **Cookie Run: Braverse Midrange Deck Guide (Build & Pilot Green/Yellow Midrange)** — `cookie-run-braverse-midrange-deck-guide` · cluster: deck-building · kw: cookie run braverse midrange deck · upd 2026-06-23 (FRESH)
 - **Cookie Run: Braverse Mulligan and Opening Hand Guide** — `cookie-run-braverse-mulligan-guide` · cluster: fundamentals · kw: cookie run braverse mulligan · upd 2026-06-06 (FRESH)
 - **Cookie Run: Braverse Rarities & Collecting Guide: Every Card Tier Explained** — `cookie-run-braverse-rarities-collecting-guide` · cluster: collecting · kw: cookie run braverse rarities · upd 2026-05-30 (FRESH)
 - **Cookie Run: Braverse Tournament & Competitive Guide** — `cookie-run-braverse-tournament-guide` · cluster: competitive-play · kw: cookie run braverse tournament guide · upd 2026-06-11 (FRESH)
@@ -116,7 +120,7 @@ Nothing past the 6-month mark yet — the whole library is FRESH.
 - **How to Play Cookie Run: Braverse - A Complete Beginner Guide** — `how-to-play-cookie-run-braverse` · cluster: fundamentals · kw: how to play cookie run braverse · upd 2026-05-30 (FRESH)
 - **The FLIP Mechanic in Cookie Run: Braverse, Explained** — `cookie-run-braverse-flip-mechanic` · cluster: fundamentals · kw: cookie run braverse flip mechanic · upd 2026-05-30 (FRESH)
 
-### Magic: The Gathering (49)
+### Magic: The Gathering (51)
 
 - **Best Aristocrats & Sacrifice Payoffs in Commander, Ranked** — `best-mtg-aristocrats-sacrifice-commander` · cluster: aristocrats-sacrifice · kw: best mtg aristocrats cards · upd 2026-06-22 (FRESH)
 - **Best Artifacts in Magic: The Gathering, Ranked** — `best-artifacts-mtg` · cluster: commander-staples · kw: best artifacts mtg · upd 2026-06-07 (FRESH)
@@ -130,6 +134,7 @@ Nothing past the 6-month mark yet — the whole library is FRESH.
 - **Best Counterspells in Magic: The Gathering, Ranked** — `best-counterspells-mtg` · cluster: counterspells · kw: best counterspells mtg · upd 2026-05-30 (FRESH)
 - **Best Enchantments in Magic: The Gathering, Ranked** — `best-enchantments-mtg` · cluster: commander-staples · kw: best enchantments mtg · upd 2026-06-05 (FRESH)
 - **Best Equipment in Magic: The Gathering, Ranked** — `best-equipment-mtg` · cluster: commander-staples · kw: best equipment mtg · upd 2026-06-04 (FRESH)
+- **Best Flicker & Blink Cards in MTG Commander, Ranked** — `best-mtg-flicker-blink-commander` · cluster: flicker-blink · kw: best flicker blink cards commander · upd 2026-06-23 (FRESH)
 - **Best Graveyard Recursion Spells in Commander, Ranked** — `best-graveyard-recursion-commander-mtg` · cluster: commander-staples · kw: best graveyard recursion commander · upd 2026-06-18 (FRESH)
 - **Best Green Cards in Magic: The Gathering (2026) — Ramp, Big Creatures & Commander Staples** — `best-green-cards-magic-the-gathering` · cluster: best-cards-by-color · kw: best green cards mtg · upd 2026-05-24 (FRESH)
 - **Best Lands in MTG Commander (2026) — Fixing, Utility, and How Many to Run** — `best-lands-commander-mtg` · cluster: mana-base · kw: best lands commander mtg · upd 2026-05-27 (FRESH)
@@ -153,6 +158,7 @@ Nothing past the 6-month mark yet — the whole library is FRESH.
 - **Magic: The Gathering Pauper Format Guide: Where to Start** — `mtg-pauper-format-guide` · cluster: pauper-format · kw: mtg pauper format guide · upd 2026-06-02 (FRESH)
 - **Magic: The Gathering Pioneer Format Guide: Where to Start** — `mtg-pioneer-format-guide` · cluster: pioneer-format · kw: mtg pioneer format guide · upd 2026-06-02 (FRESH)
 - **Magic: The Gathering Standard Format Guide: Where to Start** — `mtg-standard-format-guide` · cluster: standard-format · kw: mtg standard format guide · upd 2026-06-18 (FRESH)
+- **Magic: The Gathering Vintage Format Guide: The Power Nine, the Restricted List, and How to Actually Play It** — `mtg-vintage-format-guide` · cluster: vintage-format · kw: mtg vintage format guide · upd 2026-06-23 (FRESH)
 - **MTG Brawl Format Guide: Standard Brawl vs Historic Brawl** — `mtg-brawl-format-guide` · cluster: brawl-format · kw: mtg brawl format guide · upd 2026-06-21 (FRESH)
 - **MTG Commander Brackets Explained (The Power-Level System)** — `mtg-commander-brackets` · cluster: commander-format · kw: mtg commander brackets · upd 2026-06-17 (FRESH)
 - **MTG Commander Format Guide — How to Start Playing EDH (2026)** — `mtg-commander-format-guide-how-to-start` · cluster: commander-format · kw: mtg commander format guide · upd 2026-05-27 (FRESH)
@@ -168,7 +174,7 @@ Nothing past the 6-month mark yet — the whole library is FRESH.
 - **Standard After the May 2026 Ban Wave — What to Brew Now That Cori-Steel Is Gone** — `standard-post-ban-meta-may-2026` · cluster: standard-meta · kw: standard post ban meta may 2026 · upd 2026-05-24 (FRESH)
 - **The MTG Color Pie, Explained: What Each Color Does** — `mtg-color-pie-explained` · cluster: archetypes · kw: mtg color pie · upd 2026-06-04 (FRESH)
 
-### Minecraft (37)
+### Minecraft (39)
 
 - **Best Minecraft Enchantments, Ranked — The Ones Worth Your XP** — `best-minecraft-enchantments` · cluster: minecraft-progression · kw: best minecraft enchantments · upd 2026-05-30 (FRESH)
 - **Best Minecraft Farms to Build First** — `best-minecraft-farms` · cluster: minecraft-progression · kw: best minecraft farms · upd 2026-06-02 (FRESH)
@@ -195,10 +201,12 @@ Nothing past the 6-month mark yet — the whole library is FRESH.
 - **Minecraft Food & Hunger Guide: Saturation, Best Foods & Regen** — `minecraft-food-hunger-guide` · cluster: minecraft-survival · kw: minecraft food and hunger guide · upd 2026-06-18 (FRESH)
 - **Minecraft Hostile Mobs Guide: Every Threat and How to Beat It** — `minecraft-hostile-mobs-guide` · cluster: minecraft-progression · kw: minecraft hostile mobs guide · upd 2026-06-06 (FRESH)
 - **Minecraft Mining Guide: Best Levels for Every Ore** — `minecraft-mining-guide` · cluster: minecraft-progression · kw: minecraft mining guide · upd 2026-06-10 (FRESH)
+- **Minecraft Nether Fortress & Bastion Guide: Loot Safely** — `minecraft-nether-fortress-bastion-guide` · cluster: minecraft-survival · kw: minecraft nether fortress and bastion guide · upd 2026-06-23 (FRESH)
 - **Minecraft Nether Guide: How to Survive and Thrive** — `minecraft-nether-guide` · cluster: minecraft-progression · kw: minecraft nether guide · upd 2026-06-02 (FRESH)
 - **Minecraft Ocean Monument Guide: Guardians, Loot & Conduits** — `minecraft-ocean-monument-guide` · cluster: minecraft-worlds · kw: minecraft ocean monument guide · upd 2026-06-06 (FRESH)
 - **Minecraft Potion Brewing Guide: Every Potion Worth Making** — `minecraft-potion-brewing-guide` · cluster: minecraft-progression · kw: minecraft potion brewing guide · upd 2026-06-02 (FRESH)
 - **Minecraft Raids & Pillagers Guide: Outposts, Waves & Heroes** — `minecraft-raids-pillagers-guide` · cluster: minecraft-survival · kw: minecraft raids and pillagers guide · upd 2026-06-21 (FRESH)
+- **Minecraft Redstone Contraptions Guide: Builds That Work** — `minecraft-redstone-contraptions-guide` · cluster: minecraft-survival · kw: minecraft redstone contraptions · upd 2026-06-23 (FRESH)
 - **Minecraft Survival Guide for Beginners — Surviving Your First Days** — `minecraft-survival-guide-beginners` · cluster: minecraft-survival · kw: minecraft survival guide for beginners · upd 2026-05-30 (FRESH)
 - **Minecraft Transportation Guide: The Fastest Ways to Travel** — `minecraft-transportation-guide` · cluster: minecraft-survival · kw: minecraft transportation guide · upd 2026-06-22 (FRESH)
 - **Minecraft Trial Chambers Guide: Loot, Mobs & the Mace** — `minecraft-trial-chambers-guide` · cluster: minecraft-progression · kw: minecraft trial chambers guide · upd 2026-06-05 (FRESH)
@@ -208,7 +216,7 @@ Nothing past the 6-month mark yet — the whole library is FRESH.
 - **Redstone Basics: A Beginner's Guide to Minecraft's Wiring** — `minecraft-redstone-basics` · cluster: minecraft-redstone · kw: minecraft redstone basics · upd 2026-05-30 (FRESH)
 - **Top Minecraft Building Tips — Stop Building Dirt Boxes** — `minecraft-building-tips` · cluster: minecraft-building · kw: minecraft building tips · upd 2026-05-30 (FRESH)
 
-### Roblox (37)
+### Roblox (39)
 
 - **Beginner's Guide to Roblox: Everything a New Player Needs** — `roblox-beginners-guide` · cluster: roblox-getting-started · kw: roblox beginners guide · upd 2026-05-30 (FRESH)
 - **Best Free Roblox Games to Play Right Now** — `best-free-roblox-games` · cluster: roblox-getting-started · kw: best free roblox games · upd 2026-06-04 (FRESH)
@@ -227,6 +235,7 @@ Nothing past the 6-month mark yet — the whole library is FRESH.
 - **Best Roblox Horror Games to Play Right Now** — `best-roblox-horror-games` · cluster: roblox-getting-started · kw: best roblox horror games · upd 2026-05-30 (FRESH)
 - **Best Roblox Idle & AFK Games** — `best-roblox-idle-games` · cluster: roblox-getting-started · kw: best roblox idle games · upd 2026-06-17 (FRESH)
 - **Best Roblox Mobile Games That Actually Play Well on Phones** — `best-roblox-mobile-games` · cluster: roblox-getting-started · kw: best roblox mobile games · upd 2026-06-21 (FRESH)
+- **Best Roblox Music & Rhythm Games** — `best-roblox-music-games` · cluster: roblox-getting-started · kw: best roblox music games · upd 2026-06-23 (FRESH)
 - **Best Roblox Obby Games to Play Right Now** — `best-roblox-obby-games` · cluster: roblox-getting-started · kw: best roblox obby games · upd 2026-06-02 (FRESH)
 - **Best Roblox Open World Games to Play Right Now** — `best-roblox-open-world-games` · cluster: roblox-getting-started · kw: best roblox open world games · upd 2026-06-10 (FRESH)
 - **Best Roblox Pet Games to Play Right Now** — `best-roblox-pet-games` · cluster: roblox-getting-started · kw: best roblox pet games · upd 2026-06-06 (FRESH)
@@ -244,11 +253,12 @@ Nothing past the 6-month mark yet — the whole library is FRESH.
 - **Best Roblox Tycoon Games to Play Right Now** — `best-roblox-tycoon-games` · cluster: roblox-getting-started · kw: best roblox tycoon games · upd 2026-06-02 (FRESH)
 - **How to Get Robux Safely (Legit Ways + Scams to Avoid)** — `how-to-get-robux` · cluster: roblox-getting-started · kw: how to get robux · upd 2026-05-30 (FRESH)
 - **How to Make a Roblox Game: From Idea to Published** — `how-to-make-a-roblox-game` · cluster: roblox-creation · kw: how to make a roblox game · upd 2026-05-30 (FRESH)
+- **Roblox Premium & Robux Value Guide: Is It Worth It?** — `roblox-premium-robux-value-guide` · cluster: roblox-getting-started · kw: roblox premium worth it · upd 2026-06-23 (FRESH)
 - **Roblox Safety & Parental Controls Guide** — `roblox-safety-parental-controls-guide` · cluster: roblox-getting-started · kw: roblox parental controls · upd 2026-06-22 (FRESH)
 - **Roblox Studio Basics: Make Your First Game** — `roblox-studio-basics` · cluster: roblox-creation · kw: roblox studio basics · upd 2026-05-30 (FRESH)
 - **Roblox Trading & Limiteds: How the Item Economy Really Works** — `roblox-trading-limiteds-guide` · cluster: roblox-getting-started · kw: roblox trading · upd 2026-06-21 (FRESH)
 
-### Fortnite (37)
+### Fortnite (39)
 
 - **Best Fortnite Controller Settings & Aim Assist Guide** — `fortnite-controller-settings` · cluster: fortnite-fundamentals · kw: fortnite controller settings · upd 2026-06-05 (FRESH)
 - **Best Fortnite Keybinds for Building (PC & Controller)** — `best-fortnite-keybinds` · cluster: fortnite-fundamentals · kw: best fortnite keybinds · upd 2026-06-02 (FRESH)
@@ -266,6 +276,7 @@ Nothing past the 6-month mark yet — the whole library is FRESH.
 - **Fortnite Game Modes Explained: BR, Zero Build, Reload, Festival & More** — `fortnite-modes-overview` · cluster: fortnite-fundamentals · kw: fortnite game modes explained · upd 2026-06-17 (FRESH)
 - **Fortnite Game Sense Guide: Reading Fights and the Lobby** — `fortnite-game-sense-guide` · cluster: fortnite-fundamentals · kw: fortnite game sense · upd 2026-06-06 (FRESH)
 - **Fortnite Healing Items Tier List: What to Carry and When** — `fortnite-healing-items-tier-list` · cluster: fortnite-fundamentals · kw: fortnite healing items tier list · upd 2026-06-18 (FRESH)
+- **Fortnite High Ground Retake Guide: Take Back the Top** — `fortnite-high-ground-retake-guide` · cluster: fortnite-fundamentals · kw: fortnite high ground retake · upd 2026-06-23 (FRESH)
 - **Fortnite Loadout Priority: What to Grab First** — `fortnite-loadout-priority-guide` · cluster: fortnite-fundamentals · kw: fortnite loadout priority · upd 2026-06-11 (FRESH)
 - **Fortnite Mats and Resource Management Guide** — `fortnite-mats-management-guide` · cluster: fortnite-fundamentals · kw: fortnite mats management · upd 2026-06-04 (FRESH)
 - **Fortnite Mobility Items Guide: What to Carry and When to Use It** — `fortnite-mobility-items-guide` · cluster: fortnite-fundamentals · kw: fortnite mobility items guide · upd 2026-06-21 (FRESH)
@@ -279,6 +290,7 @@ Nothing past the 6-month mark yet — the whole library is FRESH.
 - **Fortnite Storm Surge Explained: Why You're Taking Damage** — `fortnite-storm-surge-guide` · cluster: fortnite-fundamentals · kw: fortnite storm surge · upd 2026-06-07 (FRESH)
 - **Fortnite Stretched Resolution Guide: Is It Worth It?** — `fortnite-stretched-resolution-guide` · cluster: fortnite-fundamentals · kw: fortnite stretched resolution · upd 2026-06-10 (FRESH)
 - **Fortnite Terms and Slang Glossary for Beginners** — `fortnite-terms-glossary` · cluster: fortnite-fundamentals · kw: fortnite terms · upd 2026-06-10 (FRESH)
+- **Fortnite Tunneling Guide: Cross Open Ground Without Dying** — `fortnite-tunneling-guide` · cluster: fortnite-fundamentals · kw: fortnite tunneling guide · upd 2026-06-23 (FRESH)
 - **Fortnite V-Bucks & Item Shop Guide: How the Currency Really Works** — `fortnite-vbucks-item-shop-guide` · cluster: fortnite-fundamentals · kw: fortnite v-bucks item shop guide · upd 2026-06-22 (FRESH)
 - **Fortnite Victory Crown Guide: How to Get and Keep It** — `fortnite-victory-crown-guide` · cluster: fortnite-fundamentals · kw: fortnite victory crown guide · upd 2026-06-17 (FRESH)
 - **Fortnite Warm-Up & Practice Routine: Drills That Actually Help** — `fortnite-warmup-practice-guide` · cluster: fortnite-fundamentals · kw: fortnite warmup routine · upd 2026-06-06 (FRESH)
@@ -288,7 +300,7 @@ Nothing past the 6-month mark yet — the whole library is FRESH.
 - **How to Get Better at Fortnite: A Complete Improvement Roadmap** — `how-to-get-better-at-fortnite` · cluster: fortnite-fundamentals · kw: how to get better at fortnite · upd 2026-06-02 (FRESH)
 - **How to Improve Your Aim in Fortnite: A Practical Guide** — `fortnite-aim-training-guide` · cluster: fortnite-fundamentals · kw: how to improve aim in fortnite · upd 2026-05-30 (FRESH)
 
-### PUBG: Battlegrounds (37)
+### PUBG: Battlegrounds (39)
 
 - **Best PUBG Assault Rifles, Ranked** — `best-pubg-assault-rifles` · cluster: pubg-weapons · kw: best pubg assault rifles · upd 2026-06-02 (FRESH)
 - **Best PUBG Attachments: Muzzles, Grips & Scopes** — `pubg-attachments-guide` · cluster: pubg-weapons · kw: best pubg attachments · upd 2026-06-07 (FRESH)
@@ -326,5 +338,7 @@ Nothing past the 6-month mark yet — the whole library is FRESH.
 - **PUBG Sanhok Map Guide: Drops, Rotations & Endgame** — `pubg-sanhok-map-guide` · cluster: pubg-maps · kw: pubg sanhok map guide · upd 2026-06-22 (FRESH)
 - **PUBG Settings & Sensitivity Guide** — `pubg-settings-sensitivity-guide` · cluster: pubg-fundamentals · kw: pubg settings sensitivity guide · upd 2026-05-30 (FRESH)
 - **PUBG Squad Strategy: How to Win More Games as a Team** — `pubg-squad-strategy` · cluster: pubg-strategy · kw: pubg squad strategy · upd 2026-06-02 (FRESH)
+- **PUBG Taego Map Guide: Comeback BR, Secret Room & Rotations** — `pubg-taego-map-guide` · cluster: pubg-maps · kw: pubg taego map guide · upd 2026-06-23 (FRESH)
 - **PUBG TPP vs FPP: Which Mode Should You Play?** — `pubg-tpp-vs-fpp-guide` · cluster: pubg-fundamentals · kw: pubg tpp vs fpp · upd 2026-06-06 (FRESH)
+- **PUBG Vikendi Map Guide: Drops, Snow Tracks & Rotations** — `pubg-vikendi-map-guide` · cluster: pubg-maps · kw: pubg vikendi map guide · upd 2026-06-23 (FRESH)
 
