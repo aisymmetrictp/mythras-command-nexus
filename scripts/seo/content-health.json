@@ -1,0 +1,5849 @@
+{
+ "generated": "2026-06-25",
+ "total": 337,
+ "withVideo": 6,
+ "thresholds": {
+  "thinWords": 1200,
+  "veryThinWords": 900,
+  "minInlineImg": 2,
+  "minInternal": 3,
+  "minFaq": 3
+ },
+ "posts": [
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-beginner-mistakes",
+   "words": 950,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 28,
+   "score": 3,
+   "flags": [
+    "thin-body",
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-sets-release-timeline",
+   "words": 1133,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 3,
+   "flags": [
+    "thin-body",
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-rarities-collecting-guide",
+   "words": 1298,
+   "inlineImg": 1,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 3,
+   "flags": [
+    "few-images",
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-building-tips",
+   "words": 1514,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "how-to-get-robux",
+   "words": 1547,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 7,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-weapon-tier-list",
+   "words": 1570,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "best-fortnite-landing-spots",
+   "words": 1595,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "best-minecraft-enchantments",
+   "words": 1623,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-xp-leveling-guide",
+   "words": 1679,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 7,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-redstone-basics",
+   "words": 1702,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-biomes-guide",
+   "words": 1714,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "mtg-mulligan-guide-london-mulligan",
+   "words": 1718,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 27,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "best-fortnite-settings",
+   "words": 1726,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 7,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "best-minecraft-mods",
+   "words": 1739,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-controller-vs-keyboard",
+   "words": 1754,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 19,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "best-pubg-maps-ranked",
+   "words": 1759,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-roblox-fps-games",
+   "words": 1775,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-building-basics",
+   "words": 1785,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "roblox-studio-basics",
+   "words": 1791,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 7,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-planeswalkers-magic-the-gathering",
+   "words": 1811,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 27,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "how-to-find-diamonds-minecraft",
+   "words": 1815,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-healing-items-tier-list",
+   "words": 1819,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 7,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "best-minecraft-shaders",
+   "words": 1821,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 21,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-beginners-guide",
+   "words": 1841,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-roblox-obby-games",
+   "words": 1866,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-archaeology-guide",
+   "words": 1874,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 14,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-taming-breeding-guide",
+   "words": 1885,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-anvil-repairing-guide",
+   "words": 1892,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 1,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-rondo-map-guide",
+   "words": 1893,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 1,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "mtg-standard-format-guide",
+   "words": 1897,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 7,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-allay-guide",
+   "words": 1899,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 14,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "best-minecraft-texture-packs",
+   "words": 1905,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 19,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "best-minecraft-farms",
+   "words": 1915,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "best-pubg-vehicles",
+   "words": 1915,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-roblox-anime-games",
+   "words": 1936,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-editing-guide",
+   "words": 1946,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-lands-commander-mtg",
+   "words": 1949,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 7,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 29,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-armor-guide",
+   "words": 1952,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 20,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-storm-surge-guide",
+   "words": 1957,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 18,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-roblox-simulator-games",
+   "words": 1959,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-mana-rocks-commander-mtg",
+   "words": 1961,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 27,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-mtg-flicker-blink-commander",
+   "words": 1964,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 2,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "cookie-run-kingdom-codes",
+   "words": 1976,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 7,
+   "hasTldr": false,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 33,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-audio-settings-guide",
+   "words": 1981,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 18,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-elytra-guide",
+   "words": 1988,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 19,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-victory-crown-guide",
+   "words": 2003,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 8,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-commanders-for-beginners-mtg",
+   "words": 2004,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-endgame-circle-strategy",
+   "words": 2006,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "how-to-beat-the-ender-dragon",
+   "words": 2016,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-reload-mode-guide",
+   "words": 2023,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 14,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "mtg-keywords-explained",
+   "words": 2042,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 19,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "mtg-commander-format-guide-how-to-start",
+   "words": 2050,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 7,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 29,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-movement-guide",
+   "words": 2050,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-graveyard-recursion-commander-mtg",
+   "words": 2052,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 7,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-beacon-guide",
+   "words": 2065,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 15,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-trial-chambers-guide",
+   "words": 2070,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 20,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-mtg-lifegain-commander",
+   "words": 2095,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 1,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "mtg-two-headed-giant-guide",
+   "words": 2096,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-command-blocks-guide",
+   "words": 2096,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 18,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "mtg-sideboarding-guide",
+   "words": 2108,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 18,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-mtg-extra-turn-spells",
+   "words": 2118,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 1,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-performance-fps-guide",
+   "words": 2120,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 20,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-flip-mechanic",
+   "words": 2121,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-mana-dorks-mtg",
+   "words": 2122,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 8,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-enchantments-mtg",
+   "words": 2128,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 20,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-mobility-items-guide",
+   "words": 2132,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 4,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-erangel-map-guide",
+   "words": 2140,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 4,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-sanhok-map-guide",
+   "words": 2141,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 3,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-taego-map-guide",
+   "words": 2141,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 2,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "mtg-commander-brackets",
+   "words": 2148,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 8,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "how-to-beat-the-wither",
+   "words": 2148,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 21,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-roblox-pvp-games",
+   "words": 2153,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 7,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "roblox-scripting-lua-basics",
+   "words": 2156,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 1,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "mtg-deckbuilding-ratios",
+   "words": 2169,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 15,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-hostile-mobs-guide",
+   "words": 2171,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 19,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "best-fortnite-keybinds",
+   "words": 2173,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-loadout-priority-guide",
+   "words": 2176,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 14,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-mats-management-guide",
+   "words": 2180,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 21,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "crk-kingdom-building-guide",
+   "words": 2181,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 18,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-zero-build-guide",
+   "words": 2182,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-mtg-clones-copy-commander",
+   "words": 2185,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 0,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "roblox-safety-parental-controls-guide",
+   "words": 2187,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 3,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-roblox-idle-games",
+   "words": 2188,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 8,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-roblox-clicker-games",
+   "words": 2193,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 7,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-equipment-mtg",
+   "words": 2194,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 21,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-endgame-strategy",
+   "words": 2195,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-miramar-map-guide",
+   "words": 2202,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 3,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-artifacts-mtg",
+   "words": 2218,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 18,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-counterspells-mtg",
+   "words": 2220,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "mtg-limited-draft-guide-beginners",
+   "words": 2222,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-vikendi-map-guide",
+   "words": 2223,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 2,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-black-cards-magic-the-gathering",
+   "words": 2232,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 7,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 32,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "mtg-mana-base-guide",
+   "words": 2234,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 19,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-ocean-monument-guide",
+   "words": 2251,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 19,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-vbucks-item-shop-guide",
+   "words": 2265,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 3,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-deston-map-guide",
+   "words": 2269,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 1,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-deep-dark-warden-guide",
+   "words": 2281,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 4,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-nether-guide",
+   "words": 2293,
+   "inlineImg": 5,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-mining-guide",
+   "words": 2303,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 15,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "mtg-vintage-format-guide",
+   "words": 2315,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 2,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-ramp-spells-commander-mtg",
+   "words": 2316,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-budget-commander-decks-under-100",
+   "words": 2318,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 7,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 29,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-high-ground-retake-guide",
+   "words": 2325,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 2,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-box-fighting-guide",
+   "words": 2334,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-rotation-guide",
+   "words": 2340,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-throwables-utility-guide",
+   "words": 2361,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-board-wipes-mtg",
+   "words": 2380,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-woodland-mansion-guide",
+   "words": 2412,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 18,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-squad-strategy",
+   "words": 2427,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "mtg-stack-priority-explained",
+   "words": 2434,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 19,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-team-play-guide",
+   "words": 2437,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 21,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-white-cards-magic-the-gathering",
+   "words": 2452,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 7,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 32,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-red-cards-magic-the-gathering",
+   "words": 2459,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 7,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 32,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-piece-control-guide",
+   "words": 2567,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 3,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-tunneling-guide",
+   "words": 2613,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 2,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-blue-cards-magic-the-gathering",
+   "words": 2648,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 7,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 32,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-commander-combos-mtg",
+   "words": 2880,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 15,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "best-cookie-run-braverse-starter-deck",
+   "words": 1262,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-deck-building-basics",
+   "words": 1387,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 28,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-deck-archetypes",
+   "words": 1409,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "best-pubg-loadouts",
+   "words": 1438,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-colors-explained",
+   "words": 1454,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "best-pubg-landing-spots",
+   "words": 1478,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "best-minecraft-seeds",
+   "words": 1481,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-roblox-games",
+   "words": 1497,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "budget-cookie-run-braverse-deck",
+   "words": 1508,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-settings-sensitivity-guide",
+   "words": 1553,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-roblox-games-with-friends",
+   "words": 1562,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 7,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "sugar-swan-cookie-toppings-build",
+   "words": 1577,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 28,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-faq",
+   "words": 1589,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 9,
+   "faq": 8,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 8,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "kingdom-arena-meta-team",
+   "words": 1611,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 7,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 33,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "best-pubg-weapons-tier-list",
+   "words": 1645,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "timekeeper-toppings",
+   "words": 1647,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 7,
+   "hasTldr": false,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 33,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "beascuit-tier-list",
+   "words": 1660,
+   "inlineImg": 5,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": false,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 27,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "f2p-crystal-optimization",
+   "words": 1660,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 6,
+   "hasTldr": false,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 27,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-food-hunger-guide",
+   "words": 1666,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 7,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-fishing-guide",
+   "words": 1683,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 7,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-energy-guide",
+   "words": 1695,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 4,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-attachments-guide",
+   "words": 1712,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 18,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "best-f2p-arena-team",
+   "words": 1713,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 7,
+   "hasTldr": false,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 32,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "best-red-cards-cookie-run-braverse",
+   "words": 1736,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-beginners-guide",
+   "words": 1763,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 7,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-fps-settings-guide",
+   "words": 1768,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 8,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "beast-yeast-boss-counters",
+   "words": 1772,
+   "inlineImg": 5,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 6,
+   "hasTldr": false,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 27,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-roblox-zombie-games",
+   "words": 1775,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 1,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "best-pubg-assault-rifles",
+   "words": 1778,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-looting-inventory-guide",
+   "words": 1786,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-advanced-tips",
+   "words": 1787,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 14,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "crk-daily-checklist",
+   "words": 1798,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 8,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-roblox-mobile-games",
+   "words": 1799,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 4,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-survival-guide-beginners",
+   "words": 1816,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-ranked-guide",
+   "words": 1819,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 19,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-roblox-roleplay-games",
+   "words": 1826,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-care-package-guide",
+   "words": 1834,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 14,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-buying-guide",
+   "words": 1839,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 0,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-roblox-tycoon-games",
+   "words": 1859,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-stretched-resolution-guide",
+   "words": 1859,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 15,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-keywords-explained",
+   "words": 1865,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 7,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-maps-cartography-guide",
+   "words": 1865,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 0,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "best-pubg-lmgs",
+   "words": 1871,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 19,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "best-operation-timeguard-cards-braverse",
+   "words": 1875,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 20,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "roblox-premium-robux-value-guide",
+   "words": 1875,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 2,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-aim-training-guide",
+   "words": 1875,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-ranked-guide",
+   "words": 1876,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 18,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-transportation-guide",
+   "words": 1877,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 3,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-roblox-music-games",
+   "words": 1879,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 2,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "standard-post-ban-meta-may-2026",
+   "words": 1882,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 7,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 32,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-roblox-survival-games",
+   "words": 1888,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 21,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "selesnya-landfall-pro-tour-strixhaven-winning-deck",
+   "words": 1893,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 7,
+   "hasTldr": false,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 32,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "secrets-of-strixhaven-best-standard-cards",
+   "words": 1894,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 7,
+   "hasTldr": false,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 32,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "best-crk-dps-cookies-ranked",
+   "words": 1895,
+   "inlineImg": 5,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 28,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "best-crk-healers-ranked",
+   "words": 1902,
+   "inlineImg": 5,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 7,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 29,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-mtg-token-generators-commander",
+   "words": 1907,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 4,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-free-roblox-games",
+   "words": 1907,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 21,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-bees-honey-guide",
+   "words": 1911,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 8,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "cookiechat-affection-guide",
+   "words": 1912,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 7,
+   "hasTldr": false,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 33,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-tpp-vs-fpp-guide",
+   "words": 1918,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 19,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "roblox-beginners-guide",
+   "words": 1928,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 7,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-nether-fortress-bastion-guide",
+   "words": 1929,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 2,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "crk-toppings-guide",
+   "words": 1933,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 28,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-villager-trading-guide",
+   "words": 1934,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "best-crk-pve-teams",
+   "words": 1936,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 14,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 20,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "best-pubg-smgs",
+   "words": 1937,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 21,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "roblox-devex-monetization-guide",
+   "words": 1942,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-terms-glossary",
+   "words": 1946,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 15,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "shadow-milk-cookie-toppings-build",
+   "words": 1954,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-hot-drop-guide",
+   "words": 1954,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-xp-guide",
+   "words": 1957,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 8,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "timeline-of-fate-update-guide",
+   "words": 1962,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 7,
+   "hasTldr": false,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 33,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-game-sense-guide",
+   "words": 1975,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 19,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "crk-sugar-gnome-lab-guide",
+   "words": 1978,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 2,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "how-to-get-better-at-fortnite",
+   "words": 1980,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 10,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "how-to-find-netherite-minecraft",
+   "words": 1986,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-meta-tier-list",
+   "words": 1987,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 4,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "crk-cookie-alliance-guide",
+   "words": 1989,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 3,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "guild-battle-teams",
+   "words": 1991,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 7,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 33,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "mtg-brawl-format-guide",
+   "words": 1992,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 4,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-roblox-tower-defense-games",
+   "words": 1993,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-warmup-practice-guide",
+   "words": 1995,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 19,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "ash-salt-cookie-toppings",
+   "words": 1996,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 7,
+   "hasTldr": false,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 32,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-peeking-guide",
+   "words": 1996,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 19,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "crk-dragons-lair-guide",
+   "words": 2006,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 1,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "best-cookie-run-braverse-soul-jam-cards",
+   "words": 2007,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-raids-pillagers-guide",
+   "words": 2013,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 4,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-recoil-control-guide",
+   "words": 2016,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-roblox-rpg-games",
+   "words": 2025,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-end-cities-guide",
+   "words": 2027,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 3,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "best-brave-beginning-cards-braverse",
+   "words": 2031,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 19,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-potion-brewing-guide",
+   "words": 2040,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-callouts-glossary",
+   "words": 2044,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 15,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-roblox-horror-games",
+   "words": 2050,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "best-dragon-cards-cookie-run-braverse",
+   "words": 2051,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 21,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-roblox-sports-games",
+   "words": 2051,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 18,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "crk-super-mayhem-guide",
+   "words": 2055,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-roblox-dress-up-games",
+   "words": 2061,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 3,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "best-ancient-cookies-crk-ranked",
+   "words": 2068,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-modes-overview",
+   "words": 2073,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 8,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "best-cookie-run-braverse-beginner-cards",
+   "words": 2082,
+   "inlineImg": 6,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 14,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "crk-magic-candy-priority-guide",
+   "words": 2083,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 7,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 29,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-roblox-puzzle-games",
+   "words": 2085,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 19,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "best-dark-enchantress-war-cards",
+   "words": 2092,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-audio-guide",
+   "words": 2098,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 21,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "best-pubg-shotguns",
+   "words": 2107,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 20,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-glossary",
+   "words": 2112,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 11,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 8,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-healing-boost-guide",
+   "words": 2112,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 20,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-horses-mounts-guide",
+   "words": 2114,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 1,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-roblox-strategy-games",
+   "words": 2115,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 8,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-mulligan-guide",
+   "words": 2123,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 19,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-roblox-racing-games",
+   "words": 2124,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 19,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "crk-gacha-pull-guide",
+   "words": 2126,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 19,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-roblox-pet-games",
+   "words": 2128,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 19,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "capsaicin-cookie-toppings-build",
+   "words": 2132,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 2,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-console-settings-guide",
+   "words": 2132,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 8,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "best-cookie-run-braverse-cards-ranked",
+   "words": 2133,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 9,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-mtg-aristocrats-sacrifice-commander",
+   "words": 2137,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 3,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-turn-structure-guide",
+   "words": 2140,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 3,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "best-braverse-item-trap-stage-cards",
+   "words": 2151,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "best-ancient-cards-cookie-run-braverse",
+   "words": 2155,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 20,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-redstone-contraptions-guide",
+   "words": 2155,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 2,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "star-coral-cookie-toppings-build",
+   "words": 2156,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-clutch-1vx-guide",
+   "words": 2159,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 4,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "best-pubg-pistols",
+   "words": 2163,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 15,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-win-conditions",
+   "words": 2166,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 15,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "mtg-color-pie-explained",
+   "words": 2174,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 21,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "best-arena-cards-cookie-run-braverse",
+   "words": 2178,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 7,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "beast-cookies-ranked-worth-pulling",
+   "words": 2184,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 7,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 32,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "best-pubg-sniper-rifles",
+   "words": 2184,
+   "inlineImg": 5,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-tournament-guide",
+   "words": 2187,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 14,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-movement-positioning-guide",
+   "words": 2187,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "mtg-combat-explained",
+   "words": 2196,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 20,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-roblox-building-games",
+   "words": 2214,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 15,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-solo-strategy-guide",
+   "words": 2217,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "cookie-run-kingdom-tier-list",
+   "words": 2218,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 7,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 33,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "cookie-run-kingdom-treasures-guide",
+   "words": 2219,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 7,
+   "hasTldr": false,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 32,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "mtg-color-pairs-guide",
+   "words": 2224,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 14,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "mystic-flour-cookie-toppings-build",
+   "words": 2231,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-villages-guide",
+   "words": 2231,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 0,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-roblox-escape-games",
+   "words": 2233,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 14,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-reviving-dbno-guide",
+   "words": 2235,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 7,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-blue-zone-rotation-guide",
+   "words": 2237,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 7,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "crk-awakening-guide",
+   "words": 2238,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "crk-beast-yeast-guide",
+   "words": 2246,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 7,
+   "hasTldr": false,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 32,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-card-draw-commander-mtg",
+   "words": 2250,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "roblox-trading-limiteds-guide",
+   "words": 2250,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 4,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-aggro-deck-guide",
+   "words": 2254,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 3,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "best-age-of-heroes-cards-braverse",
+   "words": 2257,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 19,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-roblox-adventure-games",
+   "words": 2257,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 18,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-black-pure-cards",
+   "words": 2265,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-roblox-story-games",
+   "words": 2270,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 20,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "mtg-modern-format-guide",
+   "words": 2282,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-controller-settings",
+   "words": 2282,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 20,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-roblox-fighting-games",
+   "words": 2283,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 20,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-advanced-building-techniques",
+   "words": 2290,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-weak-spots-aiming-guide",
+   "words": 2295,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 1,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "pure-vanilla-awakened-toppings",
+   "words": 2298,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 7,
+   "hasTldr": false,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 32,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-midrange-deck-guide",
+   "words": 2304,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 9,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 2,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "best-crk-support-cookies-ranked",
+   "words": 2306,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "best-epic-cookies-crk-ranked",
+   "words": 2308,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 10,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "decadent-choco-tower-walkthrough",
+   "words": 2308,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 7,
+   "hasTldr": false,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 32,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "best-legendary-cookies-crk-ranked",
+   "words": 2311,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 11,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "best-green-cards-cookie-run-braverse",
+   "words": 2311,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "best-pubg-dmrs",
+   "words": 2311,
+   "inlineImg": 5,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 19,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "mtg-pauper-format-guide",
+   "words": 2312,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "burning-spice-cookie-toppings-build",
+   "words": 2316,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-cash-cups-competitive-guide",
+   "words": 2316,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 4,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "best-arena-of-glory-cards-braverse",
+   "words": 2320,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 21,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "crk-cookie-rarity-explained",
+   "words": 2321,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 14,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "how-to-make-a-roblox-game",
+   "words": 2323,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "best-yellow-cards-cookie-run-braverse",
+   "words": 2327,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "how-to-build-a-commander-deck",
+   "words": 2343,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 28,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "golden-cheese-cookie-toppings-build",
+   "words": 2344,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 10,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 7,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-roblox-open-world-games",
+   "words": 2344,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 15,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "best-beast-cards-cookie-run-braverse",
+   "words": 2350,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 19,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "crk-world-exploration-guide",
+   "words": 2356,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 15,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-combo-deck-guide",
+   "words": 2363,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 10,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 1,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "candy-apple-cookie-toppings-build",
+   "words": 2364,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 9,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 1,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "black-pearl-cookie-toppings-build",
+   "words": 2368,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 18,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "best-blue-cards-cookie-run-braverse",
+   "words": 2372,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "elder-faerie-cookie-toppings-build",
+   "words": 2373,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 10,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 3,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "mtg-oathbreaker-format-guide",
+   "words": 2390,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 3,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "twizzly-gummy-cookie-toppings-build",
+   "words": 2397,
+   "inlineImg": 5,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-removal-spells-mtg",
+   "words": 2402,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 28,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "mtg-pioneer-format-guide",
+   "words": 2402,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "endless-strawberry-tower-walkthrough",
+   "words": 2410,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 4,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-commander-staples-mtg",
+   "words": 2431,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 9,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 14,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "mtg-legacy-format-guide",
+   "words": 2433,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 19,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-green-cards-magic-the-gathering",
+   "words": 2437,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 7,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 32,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "best-beginner-cookies-crk",
+   "words": 2444,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 21,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-tutors-commander-mtg",
+   "words": 2469,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "frost-queen-cookie-toppings-build",
+   "words": 2472,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 9,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 19,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-combos-synergies",
+   "words": 2481,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 18,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-roblox-games-for-kids",
+   "words": 2487,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 19,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "best-truth-and-deceit-cards-braverse",
+   "words": 2495,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 18,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-control-deck-guide",
+   "words": 2496,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 9,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 2,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "dark-cacao-cookie-toppings-build",
+   "words": 2505,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 10,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 7,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "best-crk-tank-cookies-ranked",
+   "words": 2513,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "best-purple-cards-cookie-run-braverse",
+   "words": 2551,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 23,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-card-types-explained",
+   "words": 2557,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 7,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-mill-deck-guide",
+   "words": 2559,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 9,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 1,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "best-roblox-games-2026",
+   "words": 2564,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 11,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 14,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "cookie-run-kingdom-reroll-guide",
+   "words": 2567,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 7,
+   "hasTldr": false,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 33,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "how-to-play-cookie-run-braverse",
+   "words": 2606,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 7,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 26,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-third-party-guide",
+   "words": 2616,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-duos-trios-strategy",
+   "words": 2729,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 1,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "white-lily-cookie-toppings-build",
+   "words": 2781,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 10,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 4,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "crk-beginner-mistakes-to-avoid",
+   "words": 2794,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 7,
+   "hasTldr": false,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 32,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "mtg-deck-archetypes-explained",
+   "words": 2818,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 28,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "crunchy-chip-cookie-toppings-build",
+   "words": 2832,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 14,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "stormbringer-cookie-toppings-build",
+   "words": 2840,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 15,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "black-sapphire-cookie-toppings-build",
+   "words": 2877,
+   "inlineImg": 5,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 8,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "best-paradise-sloth-cards-braverse",
+   "words": 2903,
+   "inlineImg": 5,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 15,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "dark-enchantress-cookie-toppings-build",
+   "words": 1766,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 7,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": true,
+   "ageDays": 29,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "sea-fairy-cookie-toppings-build",
+   "words": 2012,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 23,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "eternal-sugar-cookie-toppings-build",
+   "words": 2187,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 20,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "wind-archer-cookie-toppings-build",
+   "words": 2430,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 21,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "hollyberry-cookie-toppings-build",
+   "words": 2531,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 11,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 19,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "silent-salt-cookie-toppings-build",
+   "words": 2719,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 9,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": true,
+   "ageDays": 19,
+   "score": 0,
+   "flags": []
+  }
+ ]
+}
