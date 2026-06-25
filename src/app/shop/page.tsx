@@ -6,9 +6,37 @@ import MembershipTierCard from '@/components/shop/MembershipTierCard';
 import ProductGrid from '@/components/shop/ProductGrid';
 import ReserveForm from '@/components/shop/ReserveForm';
 import ShopDisclosure from '@/components/shop/ShopDisclosure';
-import { WebPageSchema, BreadcrumbSchema } from '@/components/StructuredData';
+import { WebPageSchema, BreadcrumbSchema, FAQSchema } from '@/components/StructuredData';
 import { MEMBERSHIP_TIERS } from '@/data/shop/membershipTiers';
 import { SHOP_PRODUCTS, getFeaturedProducts } from '@/data/shop/shopProducts';
+
+const SHOP_FAQ = [
+  {
+    question: 'Is the Mythras Cookie card an official Cookie Run: Braverse card?',
+    answer:
+      'No. The Mythras Cookie card is original fan art and an independent, hand-signed collectible illustrated by Mythras. It is not an official or tournament-playable card and is not affiliated with or endorsed by Devsisters or any game publisher.',
+  },
+  {
+    question: 'How do I buy the Mythras Cookie collector card?',
+    answer:
+      'It is $25, hand-signed, and in stock. A one-click checkout is on the way; for now, reserve one by messaging us on Discord or emailing gamertagmythras@gmail.com and we will sort out payment and shipping.',
+  },
+  {
+    question: 'How do memberships work right now?',
+    answer:
+      'Membership tiers (Wanderer, Champion, and Mythic) unlock Discord perks, early strategy, member threads, and collector-drop access. While we finish setting up checkout, you join through Discord — pick a tier and we get you set up with your roles and perks there.',
+  },
+  {
+    question: 'Are the shop links affiliate links?',
+    answer:
+      'Some are. If you buy through them, the channel may earn a small commission at no extra cost to you. We only link gear, cards, and products we actually use, review, or cover for the community.',
+  },
+  {
+    question: 'Do you ship the collector card internationally?',
+    answer:
+      'Reach out on Discord or by email and we will confirm shipping options and cost for your location before you pay. Since fulfillment is handled by hand for now, we sort the details with you directly.',
+  },
+];
 
 export const metadata: Metadata = {
   title: 'Mythras Shop | Memberships, Merch, Collector Cards & Gaming Gear',
@@ -127,6 +155,25 @@ export default function ShopPage() {
             <p className="text-[#9999aa]">Want a collector card, a membership, or a review session? Send a request and we&apos;ll follow up.</p>
           </div>
           <ReserveForm />
+        </section>
+
+        {/* Shop FAQ — useful answers + FAQ rich-results schema */}
+        <section id="faq" className="scroll-mt-24 max-w-3xl mx-auto">
+          <FAQSchema faqs={SHOP_FAQ} />
+          <div className="text-center mb-6">
+            <SectionTitle>Shop FAQ</SectionTitle>
+          </div>
+          <div className="space-y-3">
+            {SHOP_FAQ.map((f, i) => (
+              <details key={i} className="group rounded-xl border border-[#D4A853]/15 bg-[#0c0c18]/60 p-4">
+                <summary className="cursor-pointer list-none font-semibold text-white flex items-center justify-between gap-3">
+                  <span>{f.question}</span>
+                  <span className="text-[#D4A853] text-lg leading-none transition-transform group-open:rotate-45" aria-hidden>+</span>
+                </summary>
+                <p className="text-sm text-[#9999aa] leading-relaxed mt-3">{f.answer}</p>
+              </details>
+            ))}
+          </div>
         </section>
 
         <ShopDisclosure />
