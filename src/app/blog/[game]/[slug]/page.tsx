@@ -52,6 +52,6 @@ export default async function BlogPostPage({ params }: { params: Promise<{ game:
   const g = getGameBySlug(post.game);
   if (!g) notFound();
 
-  const related = getRelatedPosts(post, 3);
+  const related = getRelatedPosts(post, 6);
   return <BlogPostBody post={post} related={related} />;
 }

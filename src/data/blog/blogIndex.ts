@@ -30,13 +30,56 @@ export function getPostBySlug(gameSlug: string, slug: string): BlogPost | undefi
   return ALL_POSTS.find(p => p.game === gameSlug && p.slug === slug);
 }
 
-export function getRelatedPosts(post: BlogPost, limit = 3): BlogPost[] {
-  return ALL_POSTS.filter(
-    p =>
-      p.game === post.game &&
-      p.slug !== post.slug &&
-      (p.category === post.category || p.topicCluster === post.topicCluster)
-  ).slice(0, limit);
+/**
+ * Per-game pillar pages — high-value hubs + GA top performers that should
+ * receive internal-link equity from across the game's posts. getRelatedPosts
+ * reserves slots for these so crawl depth + authority concentrate on the pages
+ * most likely to rank/convert. Keep slugs real (they're looked up by slug).
+ */
+const PILLAR_SLUGS: Record<string, string[]> = {
+  'cookie-run-kingdom': ['cookie-run-kingdom-tier-list', 'crk-toppings-guide', 'decadent-choco-tower-walkthrough', 'endless-strawberry-tower-walkthrough', 'best-crk-pve-teams'],
+  'magic-the-gathering': ['mtg-commander-format-guide-how-to-start', 'best-commander-staples-mtg', 'how-to-build-a-commander-deck'],
+  'cookie-run-braverse-tcg': ['how-to-play-cookie-run-braverse', 'cookie-run-braverse-meta-tier-list', 'best-cookie-run-braverse-starter-deck'],
+  'roblox': ['best-roblox-games', 'how-to-get-robux', 'roblox-beginners-guide'],
+  'pubg-battlegrounds': ['best-pubg-weapons-tier-list', 'best-pubg-loadouts', 'pubg-beginners-guide'],
+  'fortnite': ['fortnite-weapon-tier-list', 'best-fortnite-settings', 'fortnite-beginners-guide'],
+  'minecraft': ['minecraft-survival-guide-beginners', 'best-minecraft-enchantments', 'best-minecraft-seeds'],
+};
+
+/**
+ * Pick related posts for a given post, scored by closeness
+ * (topicCluster > shared tags > category), with up to 2 slots reserved for the
+ * game's pillar pages, then backfilled so every post links out to `limit` others.
+ */
+export function getRelatedPosts(post: BlogPost, limit = 6): BlogPost[] {
+  const sameGame = ALL_POSTS.filter(p => p.game === post.game && p.slug !== post.slug);
+  const postTags = new Set(post.tags ?? []);
+  const score = (p: BlogPost): number => {
+    let s = 0;
+    if (p.topicCluster && p.topicCluster === post.topicCluster) s += 4;
+    if (p.tags && p.tags.some(t => postTags.has(t))) s += 2;
+    if (p.category === post.category) s += 1;
+    return s;
+  };
+  const ranked = sameGame
+    .map(p => ({ p, s: score(p) }))
+    .sort((a, b) => b.s - a.s || new Date(b.p.publishDate).getTime() - new Date(a.p.publishDate).getTime());
+
+  const chosen: BlogPost[] = [];
+  const seen = new Set<string>();
+  const take = (p?: BlogPost) => { if (p && !seen.has(p.slug)) { seen.add(p.slug); chosen.push(p); } };
+
+  // 1. Strongest topical matches (reserve ~2 slots for pillars).
+  for (const { p, s } of ranked) { if (chosen.length >= Math.max(0, limit - 2)) break; if (s > 0) take(p); }
+  // 2. Inject this game's pillar pages (link equity to hubs / top performers).
+  for (const slug of (PILLAR_SLUGS[post.game] ?? [])) {
+    if (chosen.length >= limit) break;
+    if (slug !== post.slug) take(sameGame.find(p => p.slug === slug));
+  }
+  // 3. Backfill with the next best-scored / most-recent same-game posts.
+  for (const { p } of ranked) { if (chosen.length >= limit) break; take(p); }
+
+  return chosen.slice(0, limit);
 }
 
 export function getPostsByCategory(gameSlug: string, category: string): BlogPost[] {

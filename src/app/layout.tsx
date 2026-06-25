@@ -4,6 +4,7 @@ import { OrganizationSchema, PersonSchema } from "@/components/StructuredData";
 import { SiteAdSenseLoader } from "@/components/AdUnit";
 import CookieConsent from "@/components/CookieConsent";
 import ChatWidget from "@/components/assistant/ChatWidget";
+import AnalyticsEvents from "@/components/AnalyticsEvents";
 import "./globals.css";
 
 const SITE_URL = "https://gamertagmythras.com";
@@ -89,6 +90,7 @@ export default function RootLayout({
             gtag('config', 'G-0NF282ERV6');
           `}
         </Script>
+        <AnalyticsEvents />
         <OrganizationSchema />
         <PersonSchema />
         {/* Hidden forms for Netlify build-time form detection (the real forms are client-rendered) */}
