@@ -60,6 +60,9 @@ import { capsaicinCookieToppingsBuild } from './posts/capsaicin-cookie-toppings-
 import { crkSugarGnomeLabGuide } from './posts/crk-sugar-gnome-lab-guide';
 import { candyAppleCookieToppingsBuild } from './posts/candy-apple-cookie-toppings-build';
 import { crkDragonsLairGuide } from './posts/crk-dragons-lair-guide';
+import { twizzlyGummyCookieToppingsBuild } from './posts/twizzly-gummy-cookie-toppings-build';
+import { starCoralCookieToppingsBuild } from './posts/star-coral-cookie-toppings-build';
+import { crkSuperMayhemGuide } from './posts/crk-super-mayhem-guide';
 
 export const CRK_POSTS: BlogPost[] = [
   crkCodes,
@@ -123,4 +126,7 @@ export const CRK_POSTS: BlogPost[] = [
   crkSugarGnomeLabGuide,
   candyAppleCookieToppingsBuild,
   crkDragonsLairGuide,
+  twizzlyGummyCookieToppingsBuild,
+  starCoralCookieToppingsBuild,
+  crkSuperMayhemGuide,
 ];

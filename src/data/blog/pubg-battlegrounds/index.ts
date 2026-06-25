@@ -40,6 +40,8 @@ import { pubgVikendiMapGuide } from './posts/pubg-vikendi-map-guide';
 import { pubgTaegoMapGuide } from './posts/pubg-taego-map-guide';
 import { pubgDestonMapGuide } from './posts/pubg-deston-map-guide';
 import { pubgRondoMapGuide } from './posts/pubg-rondo-map-guide';
+import { pubgSoloStrategyGuide } from './posts/pubg-solo-strategy-guide';
+import { pubgHotDropGuide } from './posts/pubg-hot-drop-guide';
 
 export const PUBG_POSTS: BlogPost[] = [
   pubgBeginnersGuide,
@@ -83,4 +85,6 @@ export const PUBG_POSTS: BlogPost[] = [
   pubgTaegoMapGuide,
   pubgDestonMapGuide,
   pubgRondoMapGuide,
+  pubgSoloStrategyGuide,
+  pubgHotDropGuide,
 ];

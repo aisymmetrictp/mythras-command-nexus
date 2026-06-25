@@ -52,6 +52,8 @@ import { mtgVintageFormatGuide } from './posts/mtg-vintage-format-guide';
 import { bestMtgFlickerBlinkCommander } from './posts/best-mtg-flicker-blink-commander';
 import { bestMtgLifegainCommander } from './posts/best-mtg-lifegain-commander';
 import { bestMtgExtraTurnSpells } from './posts/best-mtg-extra-turn-spells';
+import { bestMtgClonesCopyCommander } from './posts/best-mtg-clones-copy-commander';
+import { mtgTwoHeadedGiantGuide } from './posts/mtg-two-headed-giant-guide';
 
 export const MTG_POSTS: BlogPost[] = [
   bestWhiteCardsMtg,
@@ -107,4 +109,6 @@ export const MTG_POSTS: BlogPost[] = [
   bestMtgFlickerBlinkCommander,
   bestMtgLifegainCommander,
   bestMtgExtraTurnSpells,
+  bestMtgClonesCopyCommander,
+  mtgTwoHeadedGiantGuide,
 ];

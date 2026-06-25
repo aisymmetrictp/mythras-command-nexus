@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-24",
- "total": 311,
+ "generated": "2026-06-25",
+ "total": 325,
  "byGame": {
   "cookie-run-kingdom": [
    {
@@ -140,6 +140,14 @@
     "lastUpdated": "2026-06-02"
    },
    {
+    "slug": "candy-apple-cookie-toppings-build",
+    "title": "Candy Apple Cookie Toppings Build & Guide",
+    "topicCluster": "candy-apple-build",
+    "primaryKeyword": "candy apple cookie toppings",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-24"
+   },
+   {
     "slug": "capsaicin-cookie-toppings-build",
     "title": "Capsaicin Cookie Toppings Build & Guide",
     "topicCluster": "capsaicin-build",
@@ -258,6 +266,14 @@
     "primaryKeyword": "beascuit tier list crk",
     "bucket": "FRESH",
     "lastUpdated": "2026-05-29"
+   },
+   {
+    "slug": "crk-dragons-lair-guide",
+    "title": "CRK Dragon's Lair Guide — The Guild Battle Raid Bosses Explained",
+    "topicCluster": "guild-battle",
+    "primaryKeyword": "crk dragons lair",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-24"
    },
    {
     "slug": "f2p-crystal-optimization",
@@ -686,6 +702,14 @@
     "lastUpdated": "2026-05-30"
    },
    {
+    "slug": "cookie-run-braverse-combo-deck-guide",
+    "title": "Cookie Run: Braverse Combo Deck Guide (Build & Pilot Purple Recursion)",
+    "topicCluster": "deck-building",
+    "primaryKeyword": "cookie run braverse combo deck",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-24"
+   },
+   {
     "slug": "cookie-run-braverse-combos-synergies",
     "title": "Cookie Run: Braverse Combos and Synergies Guide",
     "topicCluster": "deck-building",
@@ -764,6 +788,14 @@
     "primaryKeyword": "cookie run braverse midrange deck",
     "bucket": "FRESH",
     "lastUpdated": "2026-06-23"
+   },
+   {
+    "slug": "cookie-run-braverse-mill-deck-guide",
+    "title": "Cookie Run: Braverse Mill Deck Guide (Build & Pilot Purple Deck-Out)",
+    "topicCluster": "deck-building",
+    "primaryKeyword": "cookie run braverse mill deck",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-24"
    },
    {
     "slug": "cookie-run-braverse-mulligan-guide",
@@ -936,6 +968,14 @@
     "lastUpdated": "2026-06-04"
    },
    {
+    "slug": "best-mtg-extra-turn-spells",
+    "title": "Best Extra-Turn Spells in MTG, Ranked",
+    "topicCluster": "extra-turns",
+    "primaryKeyword": "best extra turn spells mtg",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-24"
+   },
+   {
     "slug": "best-mtg-flicker-blink-commander",
     "title": "Best Flicker & Blink Cards in MTG Commander, Ranked",
     "topicCluster": "flicker-blink",
@@ -966,6 +1006,14 @@
     "primaryKeyword": "best lands commander mtg",
     "bucket": "FRESH",
     "lastUpdated": "2026-05-27"
+   },
+   {
+    "slug": "best-mtg-lifegain-commander",
+    "title": "Best Lifegain Payoffs in MTG Commander, Ranked",
+    "topicCluster": "lifegain",
+    "primaryKeyword": "best lifegain commander",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-24"
    },
    {
     "slug": "best-mana-dorks-mtg",
@@ -1346,6 +1394,14 @@
     "lastUpdated": "2026-06-11"
    },
    {
+    "slug": "minecraft-anvil-repairing-guide",
+    "title": "Minecraft Anvil & Repairing Guide: Beat \"Too Expensive!\"",
+    "topicCluster": "minecraft-progression",
+    "primaryKeyword": "minecraft anvil repairing guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-24"
+   },
+   {
     "slug": "minecraft-archaeology-guide",
     "title": "Minecraft Archaeology Guide: Sniffer, Brushes & Trail Ruins",
     "topicCluster": "minecraft-exploration",
@@ -1432,6 +1488,14 @@
     "primaryKeyword": "minecraft food and hunger guide",
     "bucket": "FRESH",
     "lastUpdated": "2026-06-18"
+   },
+   {
+    "slug": "minecraft-horses-mounts-guide",
+    "title": "Minecraft Horses & Mounts Guide: Every Rideable Animal",
+    "topicCluster": "minecraft-survival",
+    "primaryKeyword": "minecraft horses and mounts guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-24"
    },
    {
     "slug": "minecraft-hostile-mobs-guide",
@@ -1828,6 +1892,14 @@
     "lastUpdated": "2026-06-02"
    },
    {
+    "slug": "best-roblox-zombie-games",
+    "title": "Best Roblox Zombie Games",
+    "topicCluster": "roblox-getting-started",
+    "primaryKeyword": "best roblox zombie games",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-24"
+   },
+   {
     "slug": "how-to-get-robux",
     "title": "How to Get Robux Safely (Legit Ways + Scams to Avoid)",
     "topicCluster": "roblox-getting-started",
@@ -1842,6 +1914,14 @@
     "primaryKeyword": "how to make a roblox game",
     "bucket": "FRESH",
     "lastUpdated": "2026-05-30"
+   },
+   {
+    "slug": "roblox-scripting-lua-basics",
+    "title": "Roblox Lua Scripting Basics (Luau for Beginners)",
+    "topicCluster": "roblox-creation",
+    "primaryKeyword": "roblox lua scripting basics",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-24"
    },
    {
     "slug": "roblox-premium-robux-value-guide",
@@ -1964,6 +2044,14 @@
     "primaryKeyword": "fortnite controller vs keyboard",
     "bucket": "FRESH",
     "lastUpdated": "2026-06-06"
+   },
+   {
+    "slug": "fortnite-duos-trios-strategy",
+    "title": "Fortnite Duos & Trios Strategy: How to Win in Small Teams",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite duos trios strategy",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-24"
    },
    {
     "slug": "fortnite-editing-guide",
@@ -2148,6 +2236,14 @@
     "primaryKeyword": "fortnite warmup routine",
     "bucket": "FRESH",
     "lastUpdated": "2026-06-06"
+   },
+   {
+    "slug": "fortnite-weak-spots-aiming-guide",
+    "title": "Fortnite Weak Spots & Aiming Guide: Where to Aim",
+    "topicCluster": "fortnite-fundamentals",
+    "primaryKeyword": "fortnite weak spots aiming guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-24"
    },
    {
     "slug": "fortnite-weapon-tier-list",
@@ -2376,6 +2472,14 @@
     "lastUpdated": "2026-06-21"
    },
    {
+    "slug": "pubg-deston-map-guide",
+    "title": "PUBG Deston Map Guide: Drops, Recall & Endgame",
+    "topicCluster": "pubg-maps",
+    "primaryKeyword": "pubg deston map guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-24"
+   },
+   {
     "slug": "pubg-endgame-circle-strategy",
     "title": "PUBG Endgame Guide: How to Win the Final Circles",
     "topicCluster": "pubg-strategy",
@@ -2454,6 +2558,14 @@
     "primaryKeyword": "pubg reviving",
     "bucket": "FRESH",
     "lastUpdated": "2026-06-18"
+   },
+   {
+    "slug": "pubg-rondo-map-guide",
+    "title": "PUBG Rondo Map Guide: Drops, Rotations & Endgame",
+    "topicCluster": "pubg-maps",
+    "primaryKeyword": "pubg rondo map guide",
+    "bucket": "FRESH",
+    "lastUpdated": "2026-06-24"
    },
    {
     "slug": "pubg-sanhok-map-guide",
