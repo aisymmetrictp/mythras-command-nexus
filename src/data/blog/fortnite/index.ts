@@ -41,6 +41,7 @@ import { fortniteHighGroundRetakeGuide } from './posts/fortnite-high-ground-reta
 import { fortniteDuosTriosStrategy } from './posts/fortnite-duos-trios-strategy';
 import { fortniteWeakSpotsAimingGuide } from './posts/fortnite-weak-spots-aiming-guide';
 import { fortniteThirdPartyGuide } from './posts/fortnite-third-party-guide';
+import { fortniteCreativeModeGuide } from './posts/fortnite-creative-mode-guide';
 
 export const FORTNITE_POSTS: BlogPost[] = [
   fortniteBeginnersGuide,
@@ -85,4 +86,5 @@ export const FORTNITE_POSTS: BlogPost[] = [
   fortniteDuosTriosStrategy,
   fortniteWeakSpotsAimingGuide,
   fortniteThirdPartyGuide,
+  fortniteCreativeModeGuide,
 ];

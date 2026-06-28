@@ -44,6 +44,8 @@ import { minecraftHorsesMountsGuide } from './posts/minecraft-horses-mounts-guid
 import { minecraftAnvilRepairingGuide } from './posts/minecraft-anvil-repairing-guide';
 import { minecraftVillagesGuide } from './posts/minecraft-villages-guide';
 import { minecraftMapsCartographyGuide } from './posts/minecraft-maps-cartography-guide';
+import { minecraftIronFarmGuide } from './posts/minecraft-iron-farm-guide';
+import { minecraftPiglinBarteringGuide } from './posts/minecraft-piglin-bartering-guide';
 
 export const MINECRAFT_POSTS: BlogPost[] = [
   minecraftSurvivalGuideBeginners,
@@ -89,4 +91,6 @@ export const MINECRAFT_POSTS: BlogPost[] = [
   minecraftAnvilRepairingGuide,
   minecraftVillagesGuide,
   minecraftMapsCartographyGuide,
+  minecraftIronFarmGuide,
+  minecraftPiglinBarteringGuide,
 ];

@@ -1,6 +1,6 @@
 # Mythras // The Multiverse — Full Content Directory
 
-> Comprehensive site directory for AI systems indexing gamertagmythras.com. Includes every published blog post with title, summary, and canonical URL across all seven games, plus the gear-guide structure and major site sections. 337 blog posts total.
+> Comprehensive site directory for AI systems indexing gamertagmythras.com. Includes every published blog post with title, summary, and canonical URL across all seven games, plus the gear-guide structure and major site sections. 349 blog posts total.
 
 ## About the publisher
 
@@ -8,7 +8,16 @@ Mythras // The Multiverse is an independent gaming creator brand operated by an 
 
 Editorial guarantee: every guide is written by the Mythras team and fact-checked against authoritative sources before publishing (Scryfall for MTG legality, the official Cookie Run: Braverse card database, and the game wikis). Posts include their refresh cadence so readers know how often the information is updated.
 
-## Cookie Run: Kingdom — full blog post list (64)
+## Cookie Run: Kingdom — full blog post list (67)
+
+### clotted-cream-cookie-toppings-build
+Clotted Cream Cookie Toppings Build — The Arena Disruptor, Geared Right. The best Clotted Cream Cookie toppings build in Cookie Run: Kingdom: Searing Raspberry vs Solid Almond, the ATK/Cooldown/DMG Resist debate, and where he fits. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/clotted-cream-cookie-toppings-build
+
+### crk-balloon-expedition-guide
+Cookie Run: Kingdom Balloon Expedition Guide — Free Toppings on a Timer. How the Balloon Dock works in Cookie Run: Kingdom: sending Expeditions, Super Success odds, the Crispia and Beast-Yeast routes, and the daily routine that pays. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/crk-balloon-expedition-guide
+
+### crk-guild-battle-guide
+Cookie Run: Kingdom Guild Battle Guide — 4 Bosses, Rounds & Rewards. How Guild Battle works in Cookie Run: Kingdom: the four shared-damage bosses, the four-round season, Guild Trophies, Heroic Medals, and the routine that maxes rewards. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/crk-guild-battle-guide
 
 ### crk-super-mayhem-guide
 Cookie Run: Kingdom Super Mayhem Guide — 3 Teams, Moon Aspects & Ranking Up. Cookie Run: Kingdom Super Mayhem guide: how the 3-team best-of-three PvP mode works, Moon Aspects, the rarity caps, ranking from Chocolate to Grandmaster. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/crk-super-mayhem-guide
@@ -202,7 +211,10 @@ Timekeeper Cookie — Best Toppings, Beascuits & Team Comps. The complete Timeke
 ### timeline-of-fate-update-guide
 Is the Timeline of Fate Update Worth It? Beginner-to-Endgame Guide to CRK v7.4. Honest breakdown of Cookie Run: Kingdom v7.4 Timeline of Fate Act 2 — Timekeeper, Ash Salt, 6-star Legendaries, Arcade Arena, Unstable Timeline, and which players should actually log in. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/timeline-of-fate-update-guide
 
-## Cookie Run: Braverse — full blog post list (48)
+## Cookie Run: Braverse — full blog post list (49)
+
+### cookie-run-braverse-tempo-deck-guide
+Cookie Run: Braverse Tempo Deck Guide (Build & Pilot Blue Tempo). Build and pilot a Blue-Red tempo deck in Cookie Run: Braverse - a real sample decklist, the bounce-and-beat game plan, mulligan tips, and how to keep the clock. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/cookie-run-braverse-tempo-deck-guide
 
 ### cookie-run-braverse-buying-guide
 Cookie Run: Braverse Buying Guide: What to Actually Buy First. Starter deck vs booster box vs singles in Cookie Run: Braverse - which set to start with, sealed-vs-singles, box math, and a no-waste new-player purchase path. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/cookie-run-braverse-buying-guide
@@ -348,7 +360,13 @@ Every Cookie Run: Braverse Set in Order: Release Timeline & Buying Guide. A clea
 ### how-to-play-cookie-run-braverse
 How to Play Cookie Run: Braverse - A Complete Beginner Guide. Learn how to play Cookie Run: Braverse from scratch: the card types, game setup, turn phases, the rest-to-pay cost system, the FLIP mechanic, and both win conditions explained for new players. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/how-to-play-cookie-run-braverse
 
-## Magic: The Gathering — full blog post list (55)
+## Magic: The Gathering — full blog post list (57)
+
+### best-mtg-protection-spells
+Best MTG Protection Spells, Ranked. The best protection spells in MTG, ranked — Teferi's Protection, Heroic Intervention, Flawless Maneuver, Deflecting Swat, and how to protect your board without overloading on answers. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-mtg-protection-spells
+
+### best-mtg-stax-pieces-commander
+Best MTG Stax Pieces for Commander, Ranked. The best stax pieces in MTG Commander, ranked — Winter Orb, Drannith Magistrate, Smothering Tithe, Rule of Law, and how to play resource denial without making the table hate you. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-mtg-stax-pieces-commander
 
 ### best-mtg-clones-copy-commander
 Best Clone & Copy Effects in MTG Commander, Ranked. The best clones and copy effects in MTG Commander, ranked. Spark Double, Phyrexian Metamorph, Clever Impersonator, Sakashima, and which clone to run when. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-mtg-clones-copy-commander
@@ -515,7 +533,13 @@ How Nathan Steuer Won Pro Tour Strixhaven With Selesnya Landfall. Nathan Steuer 
 ### standard-post-ban-meta-may-2026
 Standard After the May 2026 Ban Wave — What to Brew Now That Cori-Steel Is Gone. MTG Standard after the May 18, 2026 ban wave: all 10 banned cards, the new tier 1 decks, three brewing directions, and which cards just got way better. URL: https://gamertagmythras.com/blog/magic-the-gathering/standard-post-ban-meta-may-2026
 
-## Minecraft — full blog post list (43)
+## Minecraft — full blog post list (45)
+
+### minecraft-iron-farm-guide
+Minecraft Iron Farm Guide: Build an Iron Golem Farm. Build a Minecraft iron farm: how villagers spawn iron golems, the zombie scare trick, the 3-villager core, drop rates (3-5 iron per golem), and the kill chamber. URL: https://gamertagmythras.com/blog/minecraft/minecraft-iron-farm-guide
+
+### minecraft-piglin-bartering-guide
+Minecraft Piglin Bartering Guide: Best Trades & Odds. Minecraft piglin bartering explained: the full Java loot table with real percentages, how to barter gold safely, gold armor rules, zombification, and what to farm. URL: https://gamertagmythras.com/blog/minecraft/minecraft-piglin-bartering-guide
 
 ### minecraft-maps-cartography-guide
 Minecraft Maps & Cartography Guide: Zoom, Walls & More. A complete Minecraft maps and cartography guide: crafting maps, the cartography table, zoom levels, explorer maps, item-frame map walls, and banner markers. URL: https://gamertagmythras.com/blog/minecraft/minecraft-maps-cartography-guide
@@ -646,7 +670,10 @@ Redstone Basics: A Beginner's Guide to Minecraft's Wiring. Redstone basics expla
 ### minecraft-survival-guide-beginners
 Minecraft Survival Guide for Beginners — Surviving Your First Days. A no-fluff Minecraft survival guide for beginners. The exact first-day tool chain, how to survive night one, and what to prioritize before mobs find you. URL: https://gamertagmythras.com/blog/minecraft/minecraft-survival-guide-beginners
 
-## Roblox — full blog post list (42)
+## Roblox — full blog post list (43)
+
+### roblox-datastore-saving-guide
+Roblox DataStore Guide: How to Save Player Data (Without Losing It). Save Roblox player data the right way: DataStoreService, GetAsync, UpdateAsync vs SetAsync, pcall, BindToClose, the real limits, and how to stop losing saves. URL: https://gamertagmythras.com/blog/roblox/roblox-datastore-saving-guide
 
 ### roblox-devex-monetization-guide
 Roblox DevEx & Monetization Guide: How Developers Actually Earn. How Roblox developers really earn — Game Passes, dev products, Premium Payouts, the platform cut, and how DevEx turns Robux into real cash. URL: https://gamertagmythras.com/blog/roblox/roblox-devex-monetization-guide
@@ -774,7 +801,10 @@ Beginner's Guide to Roblox: Everything a New Player Needs. New to Roblox? Set up
 ### roblox-studio-basics
 Roblox Studio Basics: Make Your First Game. Build and publish your first Roblox game in an afternoon. Roblox Studio basics — templates, parts, the Explorer, your first Luau script, testing, and going live. URL: https://gamertagmythras.com/blog/roblox/roblox-studio-basics
 
-## Fortnite — full blog post list (42)
+## Fortnite — full blog post list (43)
+
+### fortnite-creative-mode-guide
+Fortnite Creative Mode Guide: Build, Train, and Use UEFN. A complete Fortnite Creative mode guide: islands and island codes, the phone tool, prefabs and galleries, devices, memory budget, UEFN, and the best training maps. URL: https://gamertagmythras.com/blog/fortnite/fortnite-creative-mode-guide
 
 ### fortnite-third-party-guide
 Fortnite Third-Partying Guide: When to Push, When to Hold. Master third-partying in Fortnite: spot fights, time the clean-up vs the bait, push or hold the right way, and stop getting third-partied yourself. URL: https://gamertagmythras.com/blog/fortnite/fortnite-third-party-guide
@@ -902,7 +932,13 @@ Fortnite Editing Guide: How to Edit Faster and Cleaner. Edit faster in Fortnite:
 ### fortnite-weapon-tier-list
 Fortnite Weapon Tier List: How to Rank Any Loot Pool. A Fortnite weapon tier list that survives every season: how to rank guns by class and range, build a balanced loadout, and judge new weapons the moment they drop. URL: https://gamertagmythras.com/blog/fortnite/fortnite-weapon-tier-list
 
-## PUBG: Battlegrounds — full blog post list (43)
+## PUBG: Battlegrounds — full blog post list (45)
+
+### pubg-karakin-map-guide
+PUBG Karakin Map Guide: Black Zone, Breaches & Drops. A full PUBG Karakin guide: the 2x2 64-player map explained — Black Zone survival, breaching walls, sticky-bomb tunnels, the best drops, and fast endgames. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-karakin-map-guide
+
+### pubg-paramo-map-guide
+PUBG Paramo Map Guide: Volcano, Lava & Heli Drops. A full PUBG Paramo guide: the 3x3 volcano map with dynamic terrain that moves every match, lava hazards, helicopter care packages, secret rooms, and the best drops. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-paramo-map-guide
 
 ### pubg-hot-drop-guide
 PUBG Hot Drop Guide: How to Master the Landing Fight. Master PUBG hot drops: choosing the drop, winning the landing race, immediate-loot priority, surviving the first fight, and resetting after you live. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-hot-drop-guide

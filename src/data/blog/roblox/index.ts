@@ -43,6 +43,7 @@ import { bestRobloxMusicGames } from './posts/best-roblox-music-games';
 import { bestRobloxZombieGames } from './posts/best-roblox-zombie-games';
 import { robloxScriptingLuaBasics } from './posts/roblox-scripting-lua-basics';
 import { robloxDevexMonetizationGuide } from './posts/roblox-devex-monetization-guide';
+import { robloxDatastoreSavingGuide } from './posts/roblox-datastore-saving-guide';
 
 export const ROBLOX_POSTS: BlogPost[] = [
   robloxBeginnersGuide,
@@ -87,4 +88,5 @@ export const ROBLOX_POSTS: BlogPost[] = [
   bestRobloxZombieGames,
   robloxScriptingLuaBasics,
   robloxDevexMonetizationGuide,
+  robloxDatastoreSavingGuide,
 ];
