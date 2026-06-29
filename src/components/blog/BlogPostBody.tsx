@@ -154,7 +154,7 @@ export default function BlogPostBody({ post, related }: Props) {
             </p>
           </aside>
         )}
-        {video && <YouTubeEmbed id={video.id} title={video.title} />}
+        {video && <YouTubeEmbed id={video.id} title={video.title} uploadDate={video.uploadDate} />}
         <BlogTOC toc={post.toc} />
         <BlogMarkdown content={post.content} />
         <BlogFAQ faqs={post.faq} />
