@@ -1,6 +1,6 @@
 # Mythras // The Multiverse — Full Content Directory
 
-> Comprehensive site directory for AI systems indexing gamertagmythras.com. Includes every published blog post with title, summary, and canonical URL across all seven games, plus the gear-guide structure and major site sections. 361 blog posts total.
+> Comprehensive site directory for AI systems indexing gamertagmythras.com. Includes every published blog post with title, summary, and canonical URL across all seven games, plus the gear-guide structure and major site sections. 373 blog posts total.
 
 ## About the publisher
 
@@ -8,7 +8,16 @@ Mythras // The Multiverse is an independent gaming creator brand operated by an 
 
 Editorial guarantee: every guide is written by the Mythras team and fact-checked against authoritative sources before publishing (Scryfall for MTG legality, the official Cookie Run: Braverse card database, and the game wikis). Posts include their refresh cadence so readers know how often the information is updated.
 
-## Cookie Run: Kingdom — full blog post list (70)
+## Cookie Run: Kingdom — full blog post list (73)
+
+### cotton-cookie-toppings-build
+Cotton Cookie Toppings Build — The Best Summoner Support, Geared Right. The best Cotton Cookie toppings build in Cookie Run: Kingdom: 5x Swift Chocolate vs the 3+2 Solid Almond hybrid, the substats to chase, and where she fits. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/cotton-cookie-toppings-build
+
+### crk-mileage-points-guide
+CRK Mileage Points Guide — The F2P Currency You Keep Wasting. Cookie Run: Kingdom Mileage Points explained: how you earn them, exact per-pull values, what to buy in the Mileage Shop, and the F2P priority order. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/crk-mileage-points-guide
+
+### sherbet-cookie-toppings-build
+Sherbet Cookie Toppings Build — The Ice DPS Enabler, Geared Right. The best Sherbet Cookie toppings build in Cookie Run: Kingdom: Swift Chocolate vs Searing Raspberry, the Ice DMG and Debuff Resist Bypass case, and where he fits. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/sherbet-cookie-toppings-build
 
 ### best-crk-arena-defense-teams
 Best CRK Arena Defense Teams — Comps That Win While You Sleep. The best Cookie Run: Kingdom Arena defense teams: how AI-run defense works, which comps punish attackers, Hidden Cookie tricks, and how to climb the ladder faster. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/best-crk-arena-defense-teams
@@ -220,7 +229,10 @@ Timekeeper Cookie — Best Toppings, Beascuits & Team Comps. The complete Timeke
 ### timeline-of-fate-update-guide
 Is the Timeline of Fate Update Worth It? Beginner-to-Endgame Guide to CRK v7.4. Honest breakdown of Cookie Run: Kingdom v7.4 Timeline of Fate Act 2 — Timekeeper, Ash Salt, 6-star Legendaries, Arcade Arena, Unstable Timeline, and which players should actually log in. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/timeline-of-fate-update-guide
 
-## Cookie Run: Braverse — full blog post list (50)
+## Cookie Run: Braverse — full blog post list (51)
+
+### cookie-run-braverse-matchup-guide
+Cookie Run: Braverse Matchup Guide - Archetype vs Archetype. How the top Cookie Run: Braverse archetypes play against each other: Aggro, Control, Ramp, Combo, and Disruption matchups, who is the beatdown, and how to win each. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/cookie-run-braverse-matchup-guide
 
 ### cookie-run-braverse-color-pairs-guide
 Cookie Run: Braverse Color Pairs Guide: Which Two-Color Decks Actually Work. Which Cookie Run: Braverse two-color pairs are worth building? Real card examples, the generic-energy math that makes splashes work, and the pairs that fight themselves. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/cookie-run-braverse-color-pairs-guide
@@ -372,7 +384,13 @@ Every Cookie Run: Braverse Set in Order: Release Timeline & Buying Guide. A clea
 ### how-to-play-cookie-run-braverse
 How to Play Cookie Run: Braverse - A Complete Beginner Guide. Learn how to play Cookie Run: Braverse from scratch: the card types, game setup, turn phases, the rest-to-pay cost system, the FLIP mechanic, and both win conditions explained for new players. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/how-to-play-cookie-run-braverse
 
-## Magic: The Gathering — full blog post list (59)
+## Magic: The Gathering — full blog post list (61)
+
+### best-mtg-cantrips
+Best Cantrips in MTG, Ranked: Cheap Card Selection. The best cantrips in MTG, ranked. Ponder, Preordain, Brainstorm, Serum Visions and the cheap card-selection spells that smooth every draw and fuel combo decks. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-mtg-cantrips
+
+### best-mtg-voltron-equipment-commander
+Best Voltron Equipment in MTG Commander, Ranked. The best Voltron equipment in MTG Commander, ranked. Swords, Colossus Hammer, Embercleave and the gear that turns one commander into a 21-damage kill. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-mtg-voltron-equipment-commander
 
 ### best-mtg-fast-mana-commander
 Best Fast Mana in MTG Commander, Ranked. The best fast mana in MTG Commander, ranked. Sol Ring, Mana Vault, rituals, Ancient Tomb — burst-mana that puts you turns ahead, plus the Crypt and Lotus bans. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-mtg-fast-mana-commander
@@ -551,7 +569,13 @@ How Nathan Steuer Won Pro Tour Strixhaven With Selesnya Landfall. Nathan Steuer 
 ### standard-post-ban-meta-may-2026
 Standard After the May 2026 Ban Wave — What to Brew Now That Cori-Steel Is Gone. MTG Standard after the May 18, 2026 ban wave: all 10 banned cards, the new tier 1 decks, three brewing directions, and which cards just got way better. URL: https://gamertagmythras.com/blog/magic-the-gathering/standard-post-ban-meta-may-2026
 
-## Minecraft — full blog post list (47)
+## Minecraft — full blog post list (49)
+
+### minecraft-lush-caves-guide
+Minecraft Lush Caves Guide: Find Them, Farm Them, Live There. A full Minecraft lush caves guide: how azalea trees reveal them, finding the biome fast, plus azalea, moss, dripleaf, glow berries, spore blossoms and axolotls. URL: https://gamertagmythras.com/blog/minecraft/minecraft-lush-caves-guide
+
+### minecraft-villager-jobs-guide
+Minecraft Villager Jobs Guide: Professions & Workstations. A complete Minecraft villager jobs guide: all 13 professions, the workstation each one needs, how villagers claim jobs, and how to assign the profession you want. URL: https://gamertagmythras.com/blog/minecraft/minecraft-villager-jobs-guide
 
 ### minecraft-conduit-guide
 Minecraft Conduit Guide: Build and Power the Ocean Beacon. How to craft and activate a Minecraft conduit: 8 nautilus shells + 1 heart of the sea, the 16-42 block prismarine frame, Conduit Power range, and the mob attack. URL: https://gamertagmythras.com/blog/minecraft/minecraft-conduit-guide
@@ -694,7 +718,10 @@ Redstone Basics: A Beginner's Guide to Minecraft's Wiring. Redstone basics expla
 ### minecraft-survival-guide-beginners
 Minecraft Survival Guide for Beginners — Surviving Your First Days. A no-fluff Minecraft survival guide for beginners. The exact first-day tool chain, how to survive night one, and what to prioritize before mobs find you. URL: https://gamertagmythras.com/blog/minecraft/minecraft-survival-guide-beginners
 
-## Roblox — full blog post list (44)
+## Roblox — full blog post list (45)
+
+### roblox-remote-events-guide
+Roblox RemoteEvents Guide: Client-Server Communication Done Right. Master Roblox RemoteEvents and RemoteFunctions: FireServer, OnServerEvent, FireAllClients, InvokeServer, where to store them, and why you must never trust the client. URL: https://gamertagmythras.com/blog/roblox/roblox-remote-events-guide
 
 ### roblox-game-passes-developer-products-guide
 Roblox Game Passes vs Developer Products: A Creator Setup Guide. Set up Roblox Game Passes and developer products the right way — create them in the Creator Hub, prompt purchases, and handle ProcessReceipt without double-granting. URL: https://gamertagmythras.com/blog/roblox/roblox-game-passes-developer-products-guide
@@ -828,7 +855,10 @@ Beginner's Guide to Roblox: Everything a New Player Needs. New to Roblox? Set up
 ### roblox-studio-basics
 Roblox Studio Basics: Make Your First Game. Build and publish your first Roblox game in an afternoon. Roblox Studio basics — templates, parts, the Explorer, your first Luau script, testing, and going live. URL: https://gamertagmythras.com/blog/roblox/roblox-studio-basics
 
-## Fortnite — full blog post list (44)
+## Fortnite — full blog post list (45)
+
+### fortnite-shotgun-guide
+Fortnite Shotgun Guide: Win Every Close-Range Fight. A Fortnite shotgun guide that survives any season: how each shotgun archetype works, why first-shot accuracy wins, and the close-range habits that carry games. URL: https://gamertagmythras.com/blog/fortnite/fortnite-shotgun-guide
 
 ### fortnite-90s-building-guide
 Fortnite 90s Guide: How to Turbo-Build to High Ground. Learn the Fortnite 90: the wall-ramp-turn spiral that turbo-builds you straight to high ground. Piece-by-piece breakdown, common mistakes, and Creative drills. URL: https://gamertagmythras.com/blog/fortnite/fortnite-90s-building-guide
@@ -962,7 +992,13 @@ Fortnite Editing Guide: How to Edit Faster and Cleaner. Edit faster in Fortnite:
 ### fortnite-weapon-tier-list
 Fortnite Weapon Tier List: How to Rank Any Loot Pool. A Fortnite weapon tier list that survives every season: how to rank guns by class and range, build a balanced loadout, and judge new weapons the moment they drop. URL: https://gamertagmythras.com/blog/fortnite/fortnite-weapon-tier-list
 
-## PUBG: Battlegrounds — full blog post list (47)
+## PUBG: Battlegrounds — full blog post list (49)
+
+### pubg-third-party-guide
+PUBG Third-Party Guide: Avoid and Exploit the Third. How to avoid getting third-partied in PUBG and how to third-party other fights yourself — fight selection, sound discipline, timing, and clean disengages. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-third-party-guide
+
+### pubg-vehicle-combat-guide
+PUBG Vehicle Combat Guide: Driving, Drive-Bys, Cover. How to fight from and around vehicles in PUBG — drive-bys, using a car as cover, dodging a chase, ramming, and knowing when to bail before it explodes. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-vehicle-combat-guide
 
 ### pubg-compound-clearing-guide
 PUBG Compound Clearing Guide: Rooms, Angles & Entries. Learn to clear PUBG compounds and buildings without dying in doorways: slicing the pie, stacking doors, using nades and audio, and taking rooms as a squad or solo. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-compound-clearing-guide

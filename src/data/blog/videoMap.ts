@@ -35,6 +35,11 @@ export const VIDEO_MAP: Record<string, PostVideo> = {
     "title": "Tier List Error Busters Season 2",
     "uploadDate": "2024-08-04"
   },
+  "cotton-cookie-toppings-build": {
+    "id": "fqs6F-t6pwk",
+    "title": "Cotton Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
+    "uploadDate": "2024-01-27"
+  },
   "crunchy-chip-cookie-toppings-build": {
     "id": "_T0P0JmvARA",
     "title": "Crunchy Chip Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
@@ -99,6 +104,11 @@ export const VIDEO_MAP: Record<string, PostVideo> = {
     "id": "d1WIE_lwmEs",
     "title": "Shadow Milk Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
     "uploadDate": "2025-02-07"
+  },
+  "sherbet-cookie-toppings-build": {
+    "id": "zNXcYKHJ3bY",
+    "title": "Sherbet Cookie Toppings | Topping Guide | Best Toppings | Cookie Run Kingdom",
+    "uploadDate": "2023-01-08"
   },
   "silent-salt-cookie-toppings-build": {
     "id": "MMG9viVIzGo",

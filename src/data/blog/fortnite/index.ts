@@ -43,6 +43,7 @@ import { fortniteWeakSpotsAimingGuide } from './posts/fortnite-weak-spots-aiming
 import { fortniteThirdPartyGuide } from './posts/fortnite-third-party-guide';
 import { fortniteCreativeModeGuide } from './posts/fortnite-creative-mode-guide';
 import { fortnite90sBuildingGuide } from './posts/fortnite-90s-building-guide';
+import { fortniteShotgunGuide } from './posts/fortnite-shotgun-guide';
 
 export const FORTNITE_POSTS: BlogPost[] = [
   fortniteBeginnersGuide,
@@ -89,4 +90,5 @@ export const FORTNITE_POSTS: BlogPost[] = [
   fortniteThirdPartyGuide,
   fortniteCreativeModeGuide,
   fortnite90sBuildingGuide,
+  fortniteShotgunGuide,
 ];
