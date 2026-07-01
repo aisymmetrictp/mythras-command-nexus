@@ -44,6 +44,8 @@ import { pubgSoloStrategyGuide } from './posts/pubg-solo-strategy-guide';
 import { pubgHotDropGuide } from './posts/pubg-hot-drop-guide';
 import { pubgKarakinMapGuide } from './posts/pubg-karakin-map-guide';
 import { pubgParamoMapGuide } from './posts/pubg-paramo-map-guide';
+import { pubgHavenMapGuide } from './posts/pubg-haven-map-guide';
+import { pubgCompoundClearingGuide } from './posts/pubg-compound-clearing-guide';
 
 export const PUBG_POSTS: BlogPost[] = [
   pubgBeginnersGuide,
@@ -91,4 +93,6 @@ export const PUBG_POSTS: BlogPost[] = [
   pubgHotDropGuide,
   pubgKarakinMapGuide,
   pubgParamoMapGuide,
+  pubgHavenMapGuide,
+  pubgCompoundClearingGuide,
 ];

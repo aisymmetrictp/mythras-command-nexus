@@ -66,6 +66,9 @@ import { crkSuperMayhemGuide } from './posts/crk-super-mayhem-guide';
 import { crkBalloonExpeditionGuide } from './posts/crk-balloon-expedition-guide';
 import { clottedCreamCookieToppingsBuild } from './posts/clotted-cream-cookie-toppings-build';
 import { crkGuildBattleGuide } from './posts/crk-guild-battle-guide';
+import { mercurialKnightCookieToppingsBuild } from './posts/mercurial-knight-cookie-toppings-build';
+import { bestCrkArenaDefenseTeams } from './posts/best-crk-arena-defense-teams';
+import { crkSpeedrunTeamsGuide } from './posts/crk-speedrun-teams-guide';
 
 export const CRK_POSTS: BlogPost[] = [
   crkCodes,
@@ -135,4 +138,7 @@ export const CRK_POSTS: BlogPost[] = [
   crkBalloonExpeditionGuide,
   clottedCreamCookieToppingsBuild,
   crkGuildBattleGuide,
+  mercurialKnightCookieToppingsBuild,
+  bestCrkArenaDefenseTeams,
+  crkSpeedrunTeamsGuide,
 ];

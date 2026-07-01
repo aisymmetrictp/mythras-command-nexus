@@ -56,6 +56,8 @@ import { bestMtgClonesCopyCommander } from './posts/best-mtg-clones-copy-command
 import { mtgTwoHeadedGiantGuide } from './posts/mtg-two-headed-giant-guide';
 import { bestMtgProtectionSpells } from './posts/best-mtg-protection-spells';
 import { bestMtgStaxPiecesCommander } from './posts/best-mtg-stax-pieces-commander';
+import { bestMtgReanimationSpells } from './posts/best-mtg-reanimation-spells';
+import { bestMtgFastManaCommander } from './posts/best-mtg-fast-mana-commander';
 
 export const MTG_POSTS: BlogPost[] = [
   bestWhiteCardsMtg,
@@ -115,4 +117,6 @@ export const MTG_POSTS: BlogPost[] = [
   mtgTwoHeadedGiantGuide,
   bestMtgProtectionSpells,
   bestMtgStaxPiecesCommander,
+  bestMtgReanimationSpells,
+  bestMtgFastManaCommander,
 ];

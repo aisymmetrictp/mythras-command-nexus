@@ -46,6 +46,8 @@ import { minecraftVillagesGuide } from './posts/minecraft-villages-guide';
 import { minecraftMapsCartographyGuide } from './posts/minecraft-maps-cartography-guide';
 import { minecraftIronFarmGuide } from './posts/minecraft-iron-farm-guide';
 import { minecraftPiglinBarteringGuide } from './posts/minecraft-piglin-bartering-guide';
+import { minecraftConduitGuide } from './posts/minecraft-conduit-guide';
+import { minecraftStatusEffectsGuide } from './posts/minecraft-status-effects-guide';
 
 export const MINECRAFT_POSTS: BlogPost[] = [
   minecraftSurvivalGuideBeginners,
@@ -93,4 +95,6 @@ export const MINECRAFT_POSTS: BlogPost[] = [
   minecraftMapsCartographyGuide,
   minecraftIronFarmGuide,
   minecraftPiglinBarteringGuide,
+  minecraftConduitGuide,
+  minecraftStatusEffectsGuide,
 ];

@@ -75,6 +75,11 @@ export const VIDEO_MAP: Record<string, PostVideo> = {
     "title": "Awakened Hollyberry Aegis Cookie Gear Guide | Cookie Run Kingdom",
     "uploadDate": "2025-06-21"
   },
+  "mercurial-knight-cookie-toppings-build": {
+    "id": "d2U-5lw7zVI",
+    "title": "Mercurial Knight Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
+    "uploadDate": "2024-02-07"
+  },
   "mystic-flour-cookie-toppings-build": {
     "id": "FmwvLSl1lqg",
     "title": "Mystic Flour Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
