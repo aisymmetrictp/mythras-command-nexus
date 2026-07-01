@@ -7,98 +7,122 @@ export type PostVideo = { id: string; title: string; uploadDate?: string };
 export const VIDEO_MAP: Record<string, PostVideo> = {
   "black-pearl-cookie-toppings-build": {
     "id": "YMMjl07QzY4",
-    "title": "Black Pearl Cookie Beascuit & Topping Guide | Cookie Run Kingdom"
+    "title": "Black Pearl Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
+    "uploadDate": "2024-04-30"
   },
   "burning-spice-cookie-toppings-build": {
     "id": "JwdN8MLjdL8",
-    "title": "Burning Spice Cookie Beascuit & Topping Guide | Cookie Run Kingdom"
+    "title": "Burning Spice Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
+    "uploadDate": "2024-10-26"
   },
   "candy-apple-cookie-toppings-build": {
     "id": "PTeepPjK9bQ",
-    "title": "Candy Apple Cookie Beascuit & Topping Guide | Cookie Run Kingdom"
+    "title": "Candy Apple Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
+    "uploadDate": "2025-01-15"
   },
   "capsaicin-cookie-toppings-build": {
     "id": "cEgVZWpO3uw",
-    "title": "Capsaicin Cookie Toppings | BURN TIP! | Topping Guide | Best Toppings | Cookie Run Kingdom"
+    "title": "Capsaicin Cookie Toppings | BURN TIP! | Topping Guide | Best Toppings | Cookie Run Kingdom",
+    "uploadDate": "2023-04-12"
   },
   "clotted-cream-cookie-toppings-build": {
     "id": "oMSpF4Sj2BQ",
-    "title": "Clotted Cream Cookie Beascuit & Topping Guide | Cookie Run Kingdom"
+    "title": "Clotted Cream Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
+    "uploadDate": "2024-05-01"
   },
   "cookie-run-kingdom-tier-list": {
     "id": "2TNyU52Ybeo",
-    "title": "Tier List Error Busters Season 2"
+    "title": "Tier List Error Busters Season 2",
+    "uploadDate": "2024-08-04"
   },
   "crunchy-chip-cookie-toppings-build": {
     "id": "_T0P0JmvARA",
-    "title": "Crunchy Chip Cookie Beascuit & Topping Guide | Cookie Run Kingdom"
+    "title": "Crunchy Chip Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
+    "uploadDate": "2024-06-21"
   },
   "dark-cacao-cookie-toppings-build": {
     "id": "DJX44ZBn0jg",
-    "title": "Dark Cacao Cookie Beascuit & Topping Guide | Cookie Run Kingdom"
+    "title": "Dark Cacao Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
+    "uploadDate": "2024-04-04"
   },
   "dark-enchantress-cookie-toppings-build": {
     "id": "DkG_afMpjyY",
-    "title": "Dark Enchantress Cookie Gear Guide | Cookie Run Kingdom"
+    "title": "Dark Enchantress Cookie Gear Guide | Cookie Run Kingdom",
+    "uploadDate": "2026-01-14"
   },
   "elder-faerie-cookie-toppings-build": {
     "id": "zFZpDm3-6XM",
-    "title": "Elder Faerie Cookie Beascuit & Topping Guide | Cookie Run Kingdom"
+    "title": "Elder Faerie Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
+    "uploadDate": "2024-03-16"
   },
   "eternal-sugar-cookie-toppings-build": {
     "id": "JeLyNsZ3mSI",
-    "title": "Eternal Sugar Cookie Gear Guide | Cookie Run Kingdom"
+    "title": "Eternal Sugar Cookie Gear Guide | Cookie Run Kingdom",
+    "uploadDate": "2025-06-06"
   },
   "frost-queen-cookie-toppings-build": {
     "id": "qp-t6dvJnZ8",
-    "title": "Frost Queen Cookie Beascuit & Topping Guide | Cookie Run Kingdom"
+    "title": "Frost Queen Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
+    "uploadDate": "2024-02-23"
   },
   "golden-cheese-cookie-toppings-build": {
     "id": "8UDZgl7Ng7E",
-    "title": "Awakened Golden Cheese Cookie Beascuit & Topping Guide | Cookie Run Kingdom"
+    "title": "Awakened Golden Cheese Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
+    "uploadDate": "2024-11-05"
   },
   "hollyberry-cookie-toppings-build": {
     "id": "rB5wqOWBVLw",
-    "title": "Awakened Hollyberry Aegis Cookie Gear Guide | Cookie Run Kingdom"
+    "title": "Awakened Hollyberry Aegis Cookie Gear Guide | Cookie Run Kingdom",
+    "uploadDate": "2025-06-21"
   },
   "mystic-flour-cookie-toppings-build": {
     "id": "FmwvLSl1lqg",
-    "title": "Mystic Flour Cookie Beascuit & Topping Guide | Cookie Run Kingdom"
+    "title": "Mystic Flour Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
+    "uploadDate": "2024-06-01"
   },
   "pure-vanilla-awakened-toppings": {
     "id": "Y_4RUnbOGj0",
-    "title": "Awakened Pure Vanilla Cookie Beascuit & Topping Guide | Cookie Run Kingdom"
+    "title": "Awakened Pure Vanilla Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
+    "uploadDate": "2025-03-03"
   },
   "sea-fairy-cookie-toppings-build": {
     "id": "doDl71tioXw",
-    "title": "Sea Fairy Cookie Gear Guide | Cookie Run Kingdom"
+    "title": "Sea Fairy Cookie Gear Guide | Cookie Run Kingdom",
+    "uploadDate": "2025-08-28"
   },
   "shadow-milk-cookie-toppings-build": {
     "id": "d1WIE_lwmEs",
-    "title": "Shadow Milk Cookie Beascuit & Topping Guide | Cookie Run Kingdom"
+    "title": "Shadow Milk Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
+    "uploadDate": "2025-02-07"
   },
   "silent-salt-cookie-toppings-build": {
     "id": "MMG9viVIzGo",
-    "title": "Silent Salt Cookie Build | Best Gear & Toppings Guide"
+    "title": "Silent Salt Cookie Build | Best Gear & Toppings Guide",
+    "uploadDate": "2025-09-25"
   },
   "star-coral-cookie-toppings-build": {
     "id": "4Mp_Ox8IOQQ",
-    "title": "Star Coral Cookie Beascuit & Topping Guide | Cookie Run Kingdom"
+    "title": "Star Coral Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
+    "uploadDate": "2024-08-15"
   },
   "stormbringer-cookie-toppings-build": {
     "id": "4F9OMzybr2A",
-    "title": "Stormbringer Cookie Beascuit & Topping Guide | Cookie Run Kingdom"
+    "title": "Stormbringer Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
+    "uploadDate": "2024-05-03"
   },
   "twizzly-gummy-cookie-toppings-build": {
     "id": "em-C2UZjeoI",
-    "title": "Twizzly Gummy Cookie Toppings |Topping Guide | Best Toppings | Cookie Run Kingdom"
+    "title": "Twizzly Gummy Cookie Toppings |Topping Guide | Best Toppings | Cookie Run Kingdom",
+    "uploadDate": "2022-06-29"
   },
   "white-lily-cookie-toppings-build": {
     "id": "niy0puWNkdI",
-    "title": "Awakened White Lily Cookie Gear Guide | Cookie Run Kingdom"
+    "title": "Awakened White Lily Cookie Gear Guide | Cookie Run Kingdom",
+    "uploadDate": "2025-11-16"
   },
   "wind-archer-cookie-toppings-build": {
     "id": "DLI6Up__o-0",
-    "title": "Wind Archer Cookie Gear Guide | Cookie Run Kingdom"
+    "title": "Wind Archer Cookie Gear Guide | Cookie Run Kingdom",
+    "uploadDate": "2025-12-24"
   }
 };

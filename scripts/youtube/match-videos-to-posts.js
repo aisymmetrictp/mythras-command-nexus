@@ -29,6 +29,14 @@ for (const f of fs.readdirSync(BDIR).filter(f => f.endsWith('.json'))) {
 const vidArr = Object.entries(vids).map(([id, title]) => ({ id, title }));
 const norm = s => s.toLowerCase().replace(/[^a-z0-9 ]/g, ' ').replace(/\s+/g, ' ').trim();
 
+// Optional id -> ISO upload-date cache (from backfill-video-dates.js). When a
+// matched video's date is known, stamp uploadDate so its VideoObject is
+// rich-result eligible. Absent is fine — uploadDate stays undefined.
+const DATES = fs.existsSync(path.join(__dirname, 'video-dates.json'))
+  ? JSON.parse(fs.readFileSync(path.join(__dirname, 'video-dates.json'), 'utf8'))
+  : {};
+const entry = v => DATES[v.id] ? { id: v.id, title: v.title, uploadDate: DATES[v.id] } : { id: v.id, title: v.title };
+
 // Hand-curated exact matches for high-traffic evergreen posts (verified titles).
 const CURATED = {
   'cookie-run-kingdom-tier-list': /\btier list\b/,
@@ -65,7 +73,7 @@ for (const game of games) {
     const cur = CURATED[p.slug];
     if (cur) {
       const v = vidArr.find(v => cur.test(norm(v.title)));
-      if (v) { map[p.slug] = { id: v.id, title: v.title }; continue; }
+      if (v) { map[p.slug] = entry(v); continue; }
     }
     // 2) cookie/card build posts: require ALL subject tokens + a BUILD context, and
     //    reject boss/mode titles where the subject is the enemy, not the build. Pick best.
@@ -78,7 +86,7 @@ for (const game of games) {
     if (!cands.length) continue;
     // Prefer the canonical "<X> Cookie Gear Guide" phrasing.
     cands.sort((a, b) => (/gear guide/.test(norm(b.title)) ? 1 : 0) - (/gear guide/.test(norm(a.title)) ? 1 : 0));
-    map[p.slug] = { id: cands[0].id, title: cands[0].title };
+    map[p.slug] = entry(cands[0]);
   }
 }
 
