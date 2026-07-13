@@ -46,6 +46,7 @@ import { robloxDevexMonetizationGuide } from './posts/roblox-devex-monetization-
 import { robloxDatastoreSavingGuide } from './posts/roblox-datastore-saving-guide';
 import { robloxGamePassesDeveloperProductsGuide } from './posts/roblox-game-passes-developer-products-guide';
 import { robloxRemoteEventsGuide } from './posts/roblox-remote-events-guide';
+import { robloxUiDesignBasicsGuide } from './posts/roblox-ui-design-basics-guide';
 
 export const ROBLOX_POSTS: BlogPost[] = [
   robloxBeginnersGuide,
@@ -93,4 +94,5 @@ export const ROBLOX_POSTS: BlogPost[] = [
   robloxDatastoreSavingGuide,
   robloxGamePassesDeveloperProductsGuide,
   robloxRemoteEventsGuide,
+  robloxUiDesignBasicsGuide,
 ];

@@ -72,6 +72,9 @@ import { crkSpeedrunTeamsGuide } from './posts/crk-speedrun-teams-guide';
 import { cottonCookieToppingsBuild } from './posts/cotton-cookie-toppings-build';
 import { sherbetCookieToppingsBuild } from './posts/sherbet-cookie-toppings-build';
 import { crkMileagePointsGuide } from './posts/crk-mileage-points-guide';
+import { financierCookieToppingsBuild } from './posts/financier-cookie-toppings-build';
+import { wildberryCookieToppingsBuild } from './posts/wildberry-cookie-toppings-build';
+import { crkStarJellyGuide } from './posts/crk-star-jelly-guide';
 
 export const CRK_POSTS: BlogPost[] = [
   crkCodes,
@@ -147,4 +150,7 @@ export const CRK_POSTS: BlogPost[] = [
   cottonCookieToppingsBuild,
   sherbetCookieToppingsBuild,
   crkMileagePointsGuide,
+  financierCookieToppingsBuild,
+  wildberryCookieToppingsBuild,
+  crkStarJellyGuide,
 ];

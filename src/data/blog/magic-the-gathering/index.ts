@@ -60,6 +60,8 @@ import { bestMtgReanimationSpells } from './posts/best-mtg-reanimation-spells';
 import { bestMtgFastManaCommander } from './posts/best-mtg-fast-mana-commander';
 import { bestMtgCantrips } from './posts/best-mtg-cantrips';
 import { bestMtgVoltronEquipmentCommander } from './posts/best-mtg-voltron-equipment-commander';
+import { bestMtgGoadCards } from './posts/best-mtg-goad-cards';
+import { bestMtgTreasurePayoffs } from './posts/best-mtg-treasure-payoffs';
 
 export const MTG_POSTS: BlogPost[] = [
   bestWhiteCardsMtg,
@@ -123,4 +125,6 @@ export const MTG_POSTS: BlogPost[] = [
   bestMtgFastManaCommander,
   bestMtgCantrips,
   bestMtgVoltronEquipmentCommander,
+  bestMtgGoadCards,
+  bestMtgTreasurePayoffs,
 ];

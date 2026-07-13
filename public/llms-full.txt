@@ -1,6 +1,6 @@
 # Mythras // The Multiverse — Full Content Directory
 
-> Comprehensive site directory for AI systems indexing gamertagmythras.com. Includes every published blog post with title, summary, and canonical URL across all seven games, plus the gear-guide structure and major site sections. 373 blog posts total.
+> Comprehensive site directory for AI systems indexing gamertagmythras.com. Includes every published blog post with title, summary, and canonical URL across all seven games, plus the gear-guide structure and major site sections. 385 blog posts total.
 
 ## About the publisher
 
@@ -8,7 +8,16 @@ Mythras // The Multiverse is an independent gaming creator brand operated by an 
 
 Editorial guarantee: every guide is written by the Mythras team and fact-checked against authoritative sources before publishing (Scryfall for MTG legality, the official Cookie Run: Braverse card database, and the game wikis). Posts include their refresh cadence so readers know how often the information is updated.
 
-## Cookie Run: Kingdom — full blog post list (73)
+## Cookie Run: Kingdom — full blog post list (76)
+
+### crk-star-jelly-guide
+CRK Star Jelly Guide — The Leveling Economy You Keep Botching. Cookie Run: Kingdom EXP Star Jellies explained: the exact EXP each size gives, where to farm them, the free +10% Lab upgrade, and who to level first. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/crk-star-jelly-guide
+
+### financier-cookie-toppings-build
+Financier Cookie Toppings Build — The F2P Guardian, Geared Right. The best Financier Cookie toppings build in Cookie Run: Kingdom: Swift Chocolate vs Solid Almond, the Cooldown-first priority, substats, and where she fits. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/financier-cookie-toppings-build
+
+### wildberry-cookie-toppings-build
+Wildberry Cookie Toppings Build — The Wall That Punches Back. The best Wildberry Cookie toppings build in Cookie Run: Kingdom: Healthy Peanut vs Solid Almond, why HP does double duty, substats, and where he still fits. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/wildberry-cookie-toppings-build
 
 ### cotton-cookie-toppings-build
 Cotton Cookie Toppings Build — The Best Summoner Support, Geared Right. The best Cotton Cookie toppings build in Cookie Run: Kingdom: 5x Swift Chocolate vs the 3+2 Solid Almond hybrid, the substats to chase, and where she fits. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/cotton-cookie-toppings-build
@@ -229,7 +238,10 @@ Timekeeper Cookie — Best Toppings, Beascuits & Team Comps. The complete Timeke
 ### timeline-of-fate-update-guide
 Is the Timeline of Fate Update Worth It? Beginner-to-Endgame Guide to CRK v7.4. Honest breakdown of Cookie Run: Kingdom v7.4 Timeline of Fate Act 2 — Timekeeper, Ash Salt, 6-star Legendaries, Arcade Arena, Unstable Timeline, and which players should actually log in. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/timeline-of-fate-update-guide
 
-## Cookie Run: Braverse — full blog post list (51)
+## Cookie Run: Braverse — full blog post list (52)
+
+### cookie-run-braverse-tech-cards-guide
+Cookie Run: Braverse Tech Cards Guide (Flex Slots That Win Games). Tech cards win the Cookie Run: Braverse matchups a stock deck can't. Learn which flexible answer, removal, bounce, and hate slots to run - and how many. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/cookie-run-braverse-tech-cards-guide
 
 ### cookie-run-braverse-matchup-guide
 Cookie Run: Braverse Matchup Guide - Archetype vs Archetype. How the top Cookie Run: Braverse archetypes play against each other: Aggro, Control, Ramp, Combo, and Disruption matchups, who is the beatdown, and how to win each. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/cookie-run-braverse-matchup-guide
@@ -384,7 +396,13 @@ Every Cookie Run: Braverse Set in Order: Release Timeline & Buying Guide. A clea
 ### how-to-play-cookie-run-braverse
 How to Play Cookie Run: Braverse - A Complete Beginner Guide. Learn how to play Cookie Run: Braverse from scratch: the card types, game setup, turn phases, the rest-to-pay cost system, the FLIP mechanic, and both win conditions explained for new players. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/how-to-play-cookie-run-braverse
 
-## Magic: The Gathering — full blog post list (61)
+## Magic: The Gathering — full blog post list (63)
+
+### best-mtg-goad-cards
+Best Goad Cards in MTG Commander, Ranked. The best goad cards in MTG Commander, ranked. Disrupt Decorum, Kardur, Marisi, Karazikar and the political forced-attack cards that make the table fight for you. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-mtg-goad-cards
+
+### best-mtg-treasure-payoffs
+Best Treasure Payoffs in MTG Commander, Ranked. The best Treasure cards in MTG Commander, ranked. Smothering Tithe, Goldspan Dragon, Old Gnawbone and the generators, doublers, and payoffs that turn gold into wins. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-mtg-treasure-payoffs
 
 ### best-mtg-cantrips
 Best Cantrips in MTG, Ranked: Cheap Card Selection. The best cantrips in MTG, ranked. Ponder, Preordain, Brainstorm, Serum Visions and the cheap card-selection spells that smooth every draw and fuel combo decks. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-mtg-cantrips
@@ -569,7 +587,13 @@ How Nathan Steuer Won Pro Tour Strixhaven With Selesnya Landfall. Nathan Steuer 
 ### standard-post-ban-meta-may-2026
 Standard After the May 2026 Ban Wave — What to Brew Now That Cori-Steel Is Gone. MTG Standard after the May 18, 2026 ban wave: all 10 banned cards, the new tier 1 decks, three brewing directions, and which cards just got way better. URL: https://gamertagmythras.com/blog/magic-the-gathering/standard-post-ban-meta-may-2026
 
-## Minecraft — full blog post list (49)
+## Minecraft — full blog post list (51)
+
+### minecraft-copper-guide
+Minecraft Copper Guide: Oxidation, Bulbs, and the Copper Golem. Everything copper in Minecraft: mining and smelting, the four oxidation stages, waxing, copper bulbs, lightning rods, and the Copper Age golem, tools, and armor. URL: https://gamertagmythras.com/blog/minecraft/minecraft-copper-guide
+
+### minecraft-firework-guide
+Minecraft Firework Guide: Rockets, Elytra Boosts, and Stars. How Minecraft fireworks work: crafting rockets and firework stars, flight duration, boosting your elytra, using rockets as crossbow ammo, and building firework shows. URL: https://gamertagmythras.com/blog/minecraft/minecraft-firework-guide
 
 ### minecraft-lush-caves-guide
 Minecraft Lush Caves Guide: Find Them, Farm Them, Live There. A full Minecraft lush caves guide: how azalea trees reveal them, finding the biome fast, plus azalea, moss, dripleaf, glow berries, spore blossoms and axolotls. URL: https://gamertagmythras.com/blog/minecraft/minecraft-lush-caves-guide
@@ -718,7 +742,10 @@ Redstone Basics: A Beginner's Guide to Minecraft's Wiring. Redstone basics expla
 ### minecraft-survival-guide-beginners
 Minecraft Survival Guide for Beginners — Surviving Your First Days. A no-fluff Minecraft survival guide for beginners. The exact first-day tool chain, how to survive night one, and what to prioritize before mobs find you. URL: https://gamertagmythras.com/blog/minecraft/minecraft-survival-guide-beginners
 
-## Roblox — full blog post list (45)
+## Roblox — full blog post list (46)
+
+### roblox-ui-design-basics-guide
+Roblox UI Design Basics: ScreenGui, Frames & UDim2. Build Roblox UI the right way: ScreenGui and StarterGui, Frames and buttons, UDim2 Scale vs Offset, AnchorPoint centering, and GUIs that scale on any screen. URL: https://gamertagmythras.com/blog/roblox/roblox-ui-design-basics-guide
 
 ### roblox-remote-events-guide
 Roblox RemoteEvents Guide: Client-Server Communication Done Right. Master Roblox RemoteEvents and RemoteFunctions: FireServer, OnServerEvent, FireAllClients, InvokeServer, where to store them, and why you must never trust the client. URL: https://gamertagmythras.com/blog/roblox/roblox-remote-events-guide
@@ -855,7 +882,10 @@ Beginner's Guide to Roblox: Everything a New Player Needs. New to Roblox? Set up
 ### roblox-studio-basics
 Roblox Studio Basics: Make Your First Game. Build and publish your first Roblox game in an afternoon. Roblox Studio basics — templates, parts, the Explorer, your first Luau script, testing, and going live. URL: https://gamertagmythras.com/blog/roblox/roblox-studio-basics
 
-## Fortnite — full blog post list (45)
+## Fortnite — full blog post list (46)
+
+### fortnite-siphon-guide
+Fortnite Siphon Explained: Why Every Kill Heals You. Fortnite siphon explained: how eliminating an enemy instantly refills your health, shield, and materials, where the mechanic is turned on, and why it rewards aggression. URL: https://gamertagmythras.com/blog/fortnite/fortnite-siphon-guide
 
 ### fortnite-shotgun-guide
 Fortnite Shotgun Guide: Win Every Close-Range Fight. A Fortnite shotgun guide that survives any season: how each shotgun archetype works, why first-shot accuracy wins, and the close-range habits that carry games. URL: https://gamertagmythras.com/blog/fortnite/fortnite-shotgun-guide
@@ -992,7 +1022,13 @@ Fortnite Editing Guide: How to Edit Faster and Cleaner. Edit faster in Fortnite:
 ### fortnite-weapon-tier-list
 Fortnite Weapon Tier List: How to Rank Any Loot Pool. A Fortnite weapon tier list that survives every season: how to rank guns by class and range, build a balanced loadout, and judge new weapons the moment they drop. URL: https://gamertagmythras.com/blog/fortnite/fortnite-weapon-tier-list
 
-## PUBG: Battlegrounds — full blog post list (49)
+## PUBG: Battlegrounds — full blog post list (51)
+
+### pubg-flanking-guide
+PUBG Flanking Guide: Win Fights From the Side. How to flank in PUBG: when a flank is worth taking, reading rotations, quiet movement, crossing open ground, vehicle flanks, and the squad pincer that wins fights. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-flanking-guide
+
+### pubg-scope-zeroing-guide
+PUBG Scope Zeroing Guide: Beat Bullet Drop at Range. Zeroing in PUBG explained: how bullet drop works, which scopes adjust with Page Up and Page Down, reading rangefinder reticles, and landing long-range shots. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-scope-zeroing-guide
 
 ### pubg-third-party-guide
 PUBG Third-Party Guide: Avoid and Exploit the Third. How to avoid getting third-partied in PUBG and how to third-party other fights yourself — fight selection, sound discipline, timing, and clean disengages. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-third-party-guide

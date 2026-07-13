@@ -65,6 +65,11 @@ export const VIDEO_MAP: Record<string, PostVideo> = {
     "title": "Eternal Sugar Cookie Gear Guide | Cookie Run Kingdom",
     "uploadDate": "2025-06-06"
   },
+  "financier-cookie-toppings-build": {
+    "id": "-NVdCBwdol8",
+    "title": "Financier Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
+    "uploadDate": "2024-05-15"
+  },
   "frost-queen-cookie-toppings-build": {
     "id": "qp-t6dvJnZ8",
     "title": "Frost Queen Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
@@ -134,6 +139,11 @@ export const VIDEO_MAP: Record<string, PostVideo> = {
     "id": "niy0puWNkdI",
     "title": "Awakened White Lily Cookie Gear Guide | Cookie Run Kingdom",
     "uploadDate": "2025-11-16"
+  },
+  "wildberry-cookie-toppings-build": {
+    "id": "v-W2amna6NI",
+    "title": "Wildberry Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
+    "uploadDate": "2024-11-26"
   },
   "wind-archer-cookie-toppings-build": {
     "id": "DLI6Up__o-0",

@@ -50,6 +50,7 @@ import { braverseBuyingGuide } from './posts/cookie-run-braverse-buying-guide';
 import { braverseTempoDeckGuide } from './posts/cookie-run-braverse-tempo-deck-guide';
 import { braverseColorPairsGuide } from './posts/cookie-run-braverse-color-pairs-guide';
 import { braverseMatchupGuide } from './posts/cookie-run-braverse-matchup-guide';
+import { braverseTechCardsGuide } from './posts/cookie-run-braverse-tech-cards-guide';
 
 export const BRAVERSE_POSTS: BlogPost[] = [
   howToPlayBraverse,
@@ -103,4 +104,5 @@ export const BRAVERSE_POSTS: BlogPost[] = [
   braverseBuyingGuide,
   braverseColorPairsGuide,
   braverseMatchupGuide,
+  braverseTechCardsGuide,
 ];
