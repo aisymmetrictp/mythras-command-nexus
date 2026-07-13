@@ -47,6 +47,7 @@ import { robloxDatastoreSavingGuide } from './posts/roblox-datastore-saving-guid
 import { robloxGamePassesDeveloperProductsGuide } from './posts/roblox-game-passes-developer-products-guide';
 import { robloxRemoteEventsGuide } from './posts/roblox-remote-events-guide';
 import { robloxUiDesignBasicsGuide } from './posts/roblox-ui-design-basics-guide';
+import { robloxTweenAnimationGuide } from './posts/roblox-tween-animation-guide';
 
 export const ROBLOX_POSTS: BlogPost[] = [
   robloxBeginnersGuide,
@@ -95,4 +96,5 @@ export const ROBLOX_POSTS: BlogPost[] = [
   robloxGamePassesDeveloperProductsGuide,
   robloxRemoteEventsGuide,
   robloxUiDesignBasicsGuide,
+  robloxTweenAnimationGuide,
 ];

@@ -75,6 +75,9 @@ import { crkMileagePointsGuide } from './posts/crk-mileage-points-guide';
 import { financierCookieToppingsBuild } from './posts/financier-cookie-toppings-build';
 import { wildberryCookieToppingsBuild } from './posts/wildberry-cookie-toppings-build';
 import { crkStarJellyGuide } from './posts/crk-star-jelly-guide';
+import { caramelArrowCookieToppingsBuild } from './posts/caramel-arrow-cookie-toppings-build';
+import { moonlightCookieToppingsBuild } from './posts/moonlight-cookie-toppings-build';
+import { crkTodaysBountiesGuide } from './posts/crk-todays-bounties-guide';
 
 export const CRK_POSTS: BlogPost[] = [
   crkCodes,
@@ -153,4 +156,7 @@ export const CRK_POSTS: BlogPost[] = [
   financierCookieToppingsBuild,
   wildberryCookieToppingsBuild,
   crkStarJellyGuide,
+  caramelArrowCookieToppingsBuild,
+  moonlightCookieToppingsBuild,
+  crkTodaysBountiesGuide,
 ];

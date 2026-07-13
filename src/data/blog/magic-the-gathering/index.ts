@@ -62,6 +62,8 @@ import { bestMtgCantrips } from './posts/best-mtg-cantrips';
 import { bestMtgVoltronEquipmentCommander } from './posts/best-mtg-voltron-equipment-commander';
 import { bestMtgGoadCards } from './posts/best-mtg-goad-cards';
 import { bestMtgTreasurePayoffs } from './posts/best-mtg-treasure-payoffs';
+import { bestMtgSacrificeOutletsCommander } from './posts/best-mtg-sacrifice-outlets-commander';
+import { bestMtgPillowfortCards } from './posts/best-mtg-pillowfort-cards';
 
 export const MTG_POSTS: BlogPost[] = [
   bestWhiteCardsMtg,
@@ -127,4 +129,6 @@ export const MTG_POSTS: BlogPost[] = [
   bestMtgVoltronEquipmentCommander,
   bestMtgGoadCards,
   bestMtgTreasurePayoffs,
+  bestMtgSacrificeOutletsCommander,
+  bestMtgPillowfortCards,
 ];

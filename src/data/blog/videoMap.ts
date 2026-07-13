@@ -25,6 +25,11 @@ export const VIDEO_MAP: Record<string, PostVideo> = {
     "title": "Capsaicin Cookie Toppings | BURN TIP! | Topping Guide | Best Toppings | Cookie Run Kingdom",
     "uploadDate": "2023-04-12"
   },
+  "caramel-arrow-cookie-toppings-build": {
+    "id": "l2w5uS-fOQ4",
+    "title": "Caramel Arrow Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
+    "uploadDate": "2024-06-08"
+  },
   "clotted-cream-cookie-toppings-build": {
     "id": "oMSpF4Sj2BQ",
     "title": "Clotted Cream Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
@@ -89,6 +94,11 @@ export const VIDEO_MAP: Record<string, PostVideo> = {
     "id": "d2U-5lw7zVI",
     "title": "Mercurial Knight Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
     "uploadDate": "2024-02-07"
+  },
+  "moonlight-cookie-toppings-build": {
+    "id": "OVL_Sja-FNM",
+    "title": "Moonlight Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
+    "uploadDate": "2024-03-11"
   },
   "mystic-flour-cookie-toppings-build": {
     "id": "FmwvLSl1lqg",
