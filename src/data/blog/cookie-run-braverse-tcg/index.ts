@@ -52,6 +52,7 @@ import { braverseColorPairsGuide } from './posts/cookie-run-braverse-color-pairs
 import { braverseMatchupGuide } from './posts/cookie-run-braverse-matchup-guide';
 import { braverseTechCardsGuide } from './posts/cookie-run-braverse-tech-cards-guide';
 import { braverseBudgetUpgrades } from './posts/cookie-run-braverse-budget-upgrades';
+import { cookieRunBraverseSideboardGuide } from './posts/cookie-run-braverse-sideboard-guide';
 
 export const BRAVERSE_POSTS: BlogPost[] = [
   howToPlayBraverse,
@@ -107,4 +108,5 @@ export const BRAVERSE_POSTS: BlogPost[] = [
   braverseMatchupGuide,
   braverseTechCardsGuide,
   braverseBudgetUpgrades,
+  cookieRunBraverseSideboardGuide,
 ];

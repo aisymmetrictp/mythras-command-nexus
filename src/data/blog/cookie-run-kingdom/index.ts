@@ -78,6 +78,9 @@ import { crkStarJellyGuide } from './posts/crk-star-jelly-guide';
 import { caramelArrowCookieToppingsBuild } from './posts/caramel-arrow-cookie-toppings-build';
 import { moonlightCookieToppingsBuild } from './posts/moonlight-cookie-toppings-build';
 import { crkTodaysBountiesGuide } from './posts/crk-todays-bounties-guide';
+import { blackLemonadeCookieToppingsBuild } from './posts/black-lemonade-cookie-toppings-build';
+import { smokedCheeseCookieToppingsBuild } from './posts/smoked-cheese-cookie-toppings-build';
+import { crkTreeOfWishesGuide } from './posts/crk-tree-of-wishes-guide';
 
 export const CRK_POSTS: BlogPost[] = [
   crkCodes,
@@ -159,4 +162,7 @@ export const CRK_POSTS: BlogPost[] = [
   caramelArrowCookieToppingsBuild,
   moonlightCookieToppingsBuild,
   crkTodaysBountiesGuide,
+  blackLemonadeCookieToppingsBuild,
+  smokedCheeseCookieToppingsBuild,
+  crkTreeOfWishesGuide,
 ];

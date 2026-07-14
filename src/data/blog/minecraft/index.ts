@@ -54,6 +54,8 @@ import { minecraftCopperGuide } from './posts/minecraft-copper-guide';
 import { minecraftFireworkGuide } from './posts/minecraft-firework-guide';
 import { minecraftBannerGuide } from './posts/minecraft-banner-guide';
 import { minecraftSnifferGuide } from './posts/minecraft-sniffer-guide';
+import { minecraftShulkerBoxGuide } from './posts/minecraft-shulker-box-guide';
+import { minecraftWolfArmorGuide } from './posts/minecraft-wolf-armor-guide';
 
 export const MINECRAFT_POSTS: BlogPost[] = [
   minecraftSurvivalGuideBeginners,
@@ -109,4 +111,6 @@ export const MINECRAFT_POSTS: BlogPost[] = [
   minecraftFireworkGuide,
   minecraftBannerGuide,
   minecraftSnifferGuide,
+  minecraftShulkerBoxGuide,
+  minecraftWolfArmorGuide,
 ];

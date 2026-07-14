@@ -52,6 +52,8 @@ import { pubgScopeZeroingGuide } from './posts/pubg-scope-zeroing-guide';
 import { pubgFlankingGuide } from './posts/pubg-flanking-guide';
 import { pubgCrosshairPlacementGuide } from './posts/pubg-crosshair-placement-guide';
 import { pubgEarlyGameGuide } from './posts/pubg-early-game-guide';
+import { pubgTeamCommunicationGuide } from './posts/pubg-team-communication-guide';
+import { pubgSpottingGuide } from './posts/pubg-spotting-guide';
 
 export const PUBG_POSTS: BlogPost[] = [
   pubgBeginnersGuide,
@@ -107,4 +109,6 @@ export const PUBG_POSTS: BlogPost[] = [
   pubgFlankingGuide,
   pubgCrosshairPlacementGuide,
   pubgEarlyGameGuide,
+  pubgTeamCommunicationGuide,
+  pubgSpottingGuide,
 ];

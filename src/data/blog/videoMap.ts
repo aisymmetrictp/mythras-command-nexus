@@ -5,6 +5,11 @@
 // rich-result eligible; absent is still valid structured data.
 export type PostVideo = { id: string; title: string; uploadDate?: string };
 export const VIDEO_MAP: Record<string, PostVideo> = {
+  "black-lemonade-cookie-toppings-build": {
+    "id": "2g_QiK6pvzY",
+    "title": "Black Lemonade Cookie | DAMAGE TIP | Topping Guide | Best Toppings | Cookie Run Kingdom",
+    "uploadDate": "2023-07-22"
+  },
   "black-pearl-cookie-toppings-build": {
     "id": "YMMjl07QzY4",
     "title": "Black Pearl Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
@@ -129,6 +134,11 @@ export const VIDEO_MAP: Record<string, PostVideo> = {
     "id": "MMG9viVIzGo",
     "title": "Silent Salt Cookie Build | Best Gear & Toppings Guide",
     "uploadDate": "2025-09-25"
+  },
+  "smoked-cheese-cookie-toppings-build": {
+    "id": "foIqEo89g90",
+    "title": "Smoked Cheese Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
+    "uploadDate": "2024-10-30"
   },
   "star-coral-cookie-toppings-build": {
     "id": "4Mp_Ox8IOQQ",

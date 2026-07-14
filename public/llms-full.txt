@@ -1,6 +1,6 @@
 # Mythras // The Multiverse — Full Content Directory
 
-> Comprehensive site directory for AI systems indexing gamertagmythras.com. Includes every published blog post with title, summary, and canonical URL across all seven games, plus the gear-guide structure and major site sections. 397 blog posts total.
+> Comprehensive site directory for AI systems indexing gamertagmythras.com. Includes every published blog post with title, summary, and canonical URL across all seven games, plus the gear-guide structure and major site sections. 409 blog posts total.
 
 ## About the publisher
 
@@ -8,7 +8,16 @@ Mythras // The Multiverse is an independent gaming creator brand operated by an 
 
 Editorial guarantee: every guide is written by the Mythras team and fact-checked against authoritative sources before publishing (Scryfall for MTG legality, the official Cookie Run: Braverse card database, and the game wikis). Posts include their refresh cadence so readers know how often the information is updated.
 
-## Cookie Run: Kingdom — full blog post list (79)
+## Cookie Run: Kingdom — full blog post list (82)
+
+### black-lemonade-cookie-toppings-build
+Black Lemonade Cookie Toppings Build — Zap Engine, Geared Right. The best Black Lemonade Cookie toppings build in Cookie Run: Kingdom: Searing Raspberry vs Swift Chocolate, Tropical Rock resonants, and why her team charge matters. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/black-lemonade-cookie-toppings-build
+
+### crk-tree-of-wishes-guide
+CRK Tree of Wishes Guide — Stop Wasting Your Golden Wishes. Full Tree of Wishes guide for Cookie Run: Kingdom: how wishes work, Golden and Platinum Wishes, Burning Time weekends, daily reward breakpoints, and coin multipliers. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/crk-tree-of-wishes-guide
+
+### smoked-cheese-cookie-toppings-build
+Smoked Cheese Cookie Toppings Build — The Earth Enabler Done Right. The best Smoked Cheese Cookie toppings build in Cookie Run: Kingdom: Searing Raspberry vs Swift Chocolate, Radiant Cheese resonants, and the Golden Cheese synergy. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/smoked-cheese-cookie-toppings-build
 
 ### caramel-arrow-cookie-toppings-build
 Caramel Arrow Cookie Toppings Build and Full Guide (2026). Caramel Arrow Cookie toppings build: Searing Raspberry vs the Solid Almond hybrid, substats, Sacred Vow resonants, Magic Candy math, and soulstone farming. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/caramel-arrow-cookie-toppings-build
@@ -247,7 +256,10 @@ Timekeeper Cookie — Best Toppings, Beascuits & Team Comps. The complete Timeke
 ### timeline-of-fate-update-guide
 Is the Timeline of Fate Update Worth It? Beginner-to-Endgame Guide to CRK v7.4. Honest breakdown of Cookie Run: Kingdom v7.4 Timeline of Fate Act 2 — Timekeeper, Ash Salt, 6-star Legendaries, Arcade Arena, Unstable Timeline, and which players should actually log in. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/timeline-of-fate-update-guide
 
-## Cookie Run: Braverse — full blog post list (53)
+## Cookie Run: Braverse — full blog post list (54)
+
+### cookie-run-braverse-sideboard-guide
+Cookie Run: Braverse Sideboard Guide — Tech Without One. Cookie Run: Braverse has no sideboard — decks lock at registration. Here's how to tech anyway: flex slots, a tech binder, and verified swaps for every matchup. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/cookie-run-braverse-sideboard-guide
 
 ### cookie-run-braverse-budget-upgrades
 Cookie Run: Braverse Budget Upgrades That Actually Matter. Upgrade your Cookie Run: Braverse starter deck on a budget - the commons that outdamage super-rares, draw engines, and the only chase cards worth buying. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/cookie-run-braverse-budget-upgrades
@@ -408,7 +420,13 @@ Every Cookie Run: Braverse Set in Order: Release Timeline & Buying Guide. A clea
 ### how-to-play-cookie-run-braverse
 How to Play Cookie Run: Braverse - A Complete Beginner Guide. Learn how to play Cookie Run: Braverse from scratch: the card types, game setup, turn phases, the rest-to-pay cost system, the FLIP mechanic, and both win conditions explained for new players. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/how-to-play-cookie-run-braverse
 
-## Magic: The Gathering — full blog post list (65)
+## Magic: The Gathering — full blog post list (67)
+
+### best-mtg-anthem-effects
+Best Anthem Effects in MTG Commander, Ranked. The best anthem effects in MTG Commander, ranked. Craterhoof Behemoth, Cathars' Crusade, Jetmir and the global buffs that turn a board of tokens into lethal. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-mtg-anthem-effects
+
+### best-mtg-landfall-payoffs
+Best Landfall Payoffs in MTG Commander, Ranked. The best landfall payoffs in MTG Commander, ranked. Avenger of Zendikar, Scute Swarm, Lotus Cobra, Moraug and the cards that turn every land drop into a threat. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-mtg-landfall-payoffs
 
 ### best-mtg-pillowfort-cards
 The Best Pillowfort Cards in MTG Commander, Ranked. The best pillowfort cards in MTG Commander, ranked. Ghostly Prison, Propaganda, Sphere of Safety and the attack taxes that make opponents swing elsewhere. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-mtg-pillowfort-cards
@@ -605,7 +623,13 @@ How Nathan Steuer Won Pro Tour Strixhaven With Selesnya Landfall. Nathan Steuer 
 ### standard-post-ban-meta-may-2026
 Standard After the May 2026 Ban Wave — What to Brew Now That Cori-Steel Is Gone. MTG Standard after the May 18, 2026 ban wave: all 10 banned cards, the new tier 1 decks, three brewing directions, and which cards just got way better. URL: https://gamertagmythras.com/blog/magic-the-gathering/standard-post-ban-meta-may-2026
 
-## Minecraft — full blog post list (53)
+## Minecraft — full blog post list (55)
+
+### minecraft-shulker-box-guide
+Minecraft Shulker Box Guide: Crafting, Dyeing, and Farming. Minecraft shulker box guide: farming shulker shells in End cities, crafting and dyeing all 16 colors, storage rules, and duplication for renewable shells. URL: https://gamertagmythras.com/blog/minecraft/minecraft-shulker-box-guide
+
+### minecraft-wolf-armor-guide
+Minecraft Wolf Armor Guide: Scutes, Variants, and Taming. Minecraft wolf armor guide: crafting with armadillo scutes, how the 64-durability armor absorbs damage, repairs, dyeing, and all nine wolf variants by biome. URL: https://gamertagmythras.com/blog/minecraft/minecraft-wolf-armor-guide
 
 ### minecraft-banner-guide
 Minecraft Banner Guide: Loom Patterns, Shields, and Maps. How Minecraft banners work: crafting recipes, loom pattern layering, all 10 banner pattern items, shield decoration, Java map markers, and ominous banners. URL: https://gamertagmythras.com/blog/minecraft/minecraft-banner-guide
@@ -766,7 +790,10 @@ Redstone Basics: A Beginner's Guide to Minecraft's Wiring. Redstone basics expla
 ### minecraft-survival-guide-beginners
 Minecraft Survival Guide for Beginners — Surviving Your First Days. A no-fluff Minecraft survival guide for beginners. The exact first-day tool chain, how to survive night one, and what to prioritize before mobs find you. URL: https://gamertagmythras.com/blog/minecraft/minecraft-survival-guide-beginners
 
-## Roblox — full blog post list (47)
+## Roblox — full blog post list (48)
+
+### roblox-lighting-atmosphere-guide
+Roblox Lighting & Atmosphere: Make Your Game Look Good. Master Roblox lighting: every Lighting service property, Atmosphere density and haze, plus all six post-processing effects — bloom, DOF, color grading. URL: https://gamertagmythras.com/blog/roblox/roblox-lighting-atmosphere-guide
 
 ### roblox-tween-animation-guide
 Roblox TweenService Guide: Smooth Animation Done Right. Learn Roblox TweenService the right way: the five-line tween, all six TweenInfo parameters, 11 easing styles, Pause vs Cancel, and chaining with Completed. URL: https://gamertagmythras.com/blog/roblox/roblox-tween-animation-guide
@@ -909,7 +936,10 @@ Beginner's Guide to Roblox: Everything a New Player Needs. New to Roblox? Set up
 ### roblox-studio-basics
 Roblox Studio Basics: Make Your First Game. Build and publish your first Roblox game in an afternoon. Roblox Studio basics — templates, parts, the Explorer, your first Luau script, testing, and going live. URL: https://gamertagmythras.com/blog/roblox/roblox-studio-basics
 
-## Fortnite — full blog post list (47)
+## Fortnite — full blog post list (48)
+
+### fortnite-edit-courses-guide
+Fortnite Edit Course Guide: Train Edits Like a Pro. Fortnite edit course guide: how to use Creative edit courses to build real edit speed, clean resets, and edit-to-shot timing — plus a 15-minute daily routine. URL: https://gamertagmythras.com/blog/fortnite/fortnite-edit-courses-guide
 
 ### fortnite-mythic-weapons-guide
 Fortnite Mythic Weapons Guide: Bosses, Vaults, and Gold Guns. Fortnite mythic weapons explained: how boss drops, medallions, and vaults work, mythic vs Exotic vs Legendary, and when contesting the gold gun is worth it. URL: https://gamertagmythras.com/blog/fortnite/fortnite-mythic-weapons-guide
@@ -1052,7 +1082,13 @@ Fortnite Editing Guide: How to Edit Faster and Cleaner. Edit faster in Fortnite:
 ### fortnite-weapon-tier-list
 Fortnite Weapon Tier List: How to Rank Any Loot Pool. A Fortnite weapon tier list that survives every season: how to rank guns by class and range, build a balanced loadout, and judge new weapons the moment they drop. URL: https://gamertagmythras.com/blog/fortnite/fortnite-weapon-tier-list
 
-## PUBG: Battlegrounds — full blog post list (53)
+## PUBG: Battlegrounds — full blog post list (55)
+
+### pubg-spotting-guide
+PUBG Spotting Guide: See Enemies Before They See You. How to spot enemies first in PUBG: scanning patterns, muzzle flash and scope glint, sound cues, open doors and death crates, and the truth about grass cover. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-spotting-guide
+
+### pubg-team-communication-guide
+PUBG Team Communication Guide: Comms That Win Fights. Master PUBG team communication: callout structure, info discipline, IGL basics, pings and markers, and simple drills that turn four randoms into a real squad. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-team-communication-guide
 
 ### pubg-crosshair-placement-guide
 PUBG Crosshair Placement Guide: Pre-Aim, Win First. Crosshair placement wins PUBG fights before they start: head-level discipline, pre-aiming common angles, holding corners, and the reticle setup that helps. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-crosshair-placement-guide
