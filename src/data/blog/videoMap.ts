@@ -50,6 +50,11 @@ export const VIDEO_MAP: Record<string, PostVideo> = {
     "title": "Cotton Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
     "uploadDate": "2024-01-27"
   },
+  "crimson-coral-cookie-toppings-build": {
+    "id": "WxLVoBFx1Rw",
+    "title": "Crimson Coral Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
+    "uploadDate": "2024-02-24"
+  },
   "crunchy-chip-cookie-toppings-build": {
     "id": "_T0P0JmvARA",
     "title": "Crunchy Chip Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
@@ -109,6 +114,11 @@ export const VIDEO_MAP: Record<string, PostVideo> = {
     "id": "FmwvLSl1lqg",
     "title": "Mystic Flour Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
     "uploadDate": "2024-06-01"
+  },
+  "oyster-cookie-toppings-build": {
+    "id": "uQbk1T4LR7k",
+    "title": "Oyster Cookie Toppings | Topping Guide | Best Toppings | Cookie Run Kingdom",
+    "uploadDate": "2022-07-02"
   },
   "pure-vanilla-awakened-toppings": {
     "id": "Y_4RUnbOGj0",

@@ -66,6 +66,8 @@ import { bestMtgSacrificeOutletsCommander } from './posts/best-mtg-sacrifice-out
 import { bestMtgPillowfortCards } from './posts/best-mtg-pillowfort-cards';
 import { bestMtgLandfallPayoffs } from './posts/best-mtg-landfall-payoffs';
 import { bestMtgAnthemEffects } from './posts/best-mtg-anthem-effects';
+import { bestMtgWheelEffects } from './posts/best-mtg-wheel-effects';
+import { bestMtgHatebears } from './posts/best-mtg-hatebears';
 
 export const MTG_POSTS: BlogPost[] = [
   bestWhiteCardsMtg,
@@ -135,4 +137,6 @@ export const MTG_POSTS: BlogPost[] = [
   bestMtgPillowfortCards,
   bestMtgLandfallPayoffs,
   bestMtgAnthemEffects,
+  bestMtgWheelEffects,
+  bestMtgHatebears,
 ];

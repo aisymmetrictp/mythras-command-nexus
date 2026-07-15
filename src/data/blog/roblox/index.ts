@@ -49,6 +49,7 @@ import { robloxRemoteEventsGuide } from './posts/roblox-remote-events-guide';
 import { robloxUiDesignBasicsGuide } from './posts/roblox-ui-design-basics-guide';
 import { robloxTweenAnimationGuide } from './posts/roblox-tween-animation-guide';
 import { robloxLightingAtmosphereGuide } from './posts/roblox-lighting-atmosphere-guide';
+import { robloxPathfindingGuide } from './posts/roblox-pathfinding-guide';
 
 export const ROBLOX_POSTS: BlogPost[] = [
   robloxBeginnersGuide,
@@ -99,4 +100,5 @@ export const ROBLOX_POSTS: BlogPost[] = [
   robloxUiDesignBasicsGuide,
   robloxTweenAnimationGuide,
   robloxLightingAtmosphereGuide,
+  robloxPathfindingGuide,
 ];
