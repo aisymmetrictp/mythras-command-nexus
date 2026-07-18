@@ -1,6 +1,6 @@
 # Mythras // The Multiverse — Full Content Directory
 
-> Comprehensive site directory for AI systems indexing gamertagmythras.com. Includes every published blog post with title, summary, and canonical URL across all seven games, plus the gear-guide structure and major site sections. 421 blog posts total.
+> Comprehensive site directory for AI systems indexing gamertagmythras.com. Includes every published blog post with title, summary, and canonical URL across all seven games, plus the gear-guide structure and major site sections. 433 blog posts total.
 
 ## About the publisher
 
@@ -8,7 +8,16 @@ Mythras // The Multiverse is an independent gaming creator brand operated by an 
 
 Editorial guarantee: every guide is written by the Mythras team and fact-checked against authoritative sources before publishing (Scryfall for MTG legality, the official Cookie Run: Braverse card database, and the game wikis). Posts include their refresh cadence so readers know how often the information is updated.
 
-## Cookie Run: Kingdom — full blog post list (85)
+## Cookie Run: Kingdom — full blog post list (88)
+
+### camellia-cookie-toppings-build
+Camellia Cookie Toppings Build & Guide (2026). Camellia Cookie toppings build: the two real spreads for the Super Epic Charge disruptor, substat priorities, beascuit and tart picks, Magic Candy notes, and his best Arena team comps. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/camellia-cookie-toppings-build
+
+### crk-seaside-market-guide
+CRK Seaside Market Guide: What to Buy (2026). Cookie Run: Kingdom Seaside Market guide: how to unlock Trader Touc's shop, what's actually worth buying, the 400-crystal refresh trap, the soulstone catch, and a simple daily routine. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/crk-seaside-market-guide
+
+### snapdragon-cookie-toppings-build
+Snapdragon Cookie Toppings Build & Guide (2026). Snapdragon Cookie toppings build: the cooldown-first spread, substat priorities, beascuit and tart picks, Magic Candy notes, and the teams where a baby dragon healer actually earns a slot. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/snapdragon-cookie-toppings-build
 
 ### crimson-coral-cookie-toppings-build
 Crimson Coral Cookie Toppings Build: Solo Front Or Bust. Crimson Coral Cookie toppings build guide: why she must be your only Front cookie, the Coral Armor buffs you lose otherwise, Sea Salt sets, substats, and beascuits. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/crimson-coral-cookie-toppings-build
@@ -265,7 +274,10 @@ Timekeeper Cookie — Best Toppings, Beascuits & Team Comps. The complete Timeke
 ### timeline-of-fate-update-guide
 Is the Timeline of Fate Update Worth It? Beginner-to-Endgame Guide to CRK v7.4. Honest breakdown of Cookie Run: Kingdom v7.4 Timeline of Fate Act 2 — Timekeeper, Ash Salt, 6-star Legendaries, Arcade Arena, Unstable Timeline, and which players should actually log in. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/timeline-of-fate-update-guide
 
-## Cookie Run: Braverse — full blog post list (55)
+## Cookie Run: Braverse — full blog post list (56)
+
+### cookie-run-braverse-mono-color-decks
+Cookie Run: Braverse Mono-Color Decks: When One Color Wins. Mono-color Braverse decks cast everything they draw and pay the triple-pip tax two-color decks choke on. Here is which single color to pick and how to build it. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/cookie-run-braverse-mono-color-decks
 
 ### cookie-run-braverse-extra-deck-guide
 Cookie Run: Braverse Extra Deck Guide — All 17 Cards. Every EXTRA card in Cookie Run: Braverse, verified against the official database — how the 6-card zone works, what the conditions really cost, and which to run. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/cookie-run-braverse-extra-deck-guide
@@ -432,7 +444,13 @@ Every Cookie Run: Braverse Set in Order: Release Timeline & Buying Guide. A clea
 ### how-to-play-cookie-run-braverse
 How to Play Cookie Run: Braverse - A Complete Beginner Guide. Learn how to play Cookie Run: Braverse from scratch: the card types, game setup, turn phases, the rest-to-pay cost system, the FLIP mechanic, and both win conditions explained for new players. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/how-to-play-cookie-run-braverse
 
-## Magic: The Gathering — full blog post list (69)
+## Magic: The Gathering — full blog post list (71)
+
+### best-mtg-fight-removal
+Best Fight and Bite Removal in MTG, Ranked. The best fight and bite removal in MTG green, ranked. Ram Through, Rabid Bite, Bite Down, Ulvenwald Tracker and the creature-based removal that green actually gets. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-mtg-fight-removal
+
+### best-mtg-mana-sinks
+Best Mana Sinks in MTG Commander, Ranked. The best mana sinks in MTG Commander, ranked. Torment of Hailfire, Walking Ballista, Exsanguinate, Comet Storm and the X-spells that turn a flooded board into a win. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-mtg-mana-sinks
 
 ### best-mtg-hatebears
 Best Hatebears in MTG Commander, Ranked. The best hatebears in MTG Commander, ranked. Thalia, Drannith Magistrate, Esper Sentinel, Opposition Agent and the small creatures that tax the whole table. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-mtg-hatebears
@@ -641,7 +659,13 @@ How Nathan Steuer Won Pro Tour Strixhaven With Selesnya Landfall. Nathan Steuer 
 ### standard-post-ban-meta-may-2026
 Standard After the May 2026 Ban Wave — What to Brew Now That Cori-Steel Is Gone. MTG Standard after the May 18, 2026 ban wave: all 10 banned cards, the new tier 1 decks, three brewing directions, and which cards just got way better. URL: https://gamertagmythras.com/blog/magic-the-gathering/standard-post-ban-meta-may-2026
 
-## Minecraft — full blog post list (57)
+## Minecraft — full blog post list (59)
+
+### minecraft-cherry-grove-guide
+Minecraft Cherry Grove Guide: Wood, Pink Petals, and Mobs. A full Minecraft cherry grove guide: where the biome generates, harvesting the pink cherry wood set, farming pink petals with bone meal, and every mob that spawns. URL: https://gamertagmythras.com/blog/minecraft/minecraft-cherry-grove-guide
+
+### minecraft-smithing-templates-guide
+Minecraft Smithing Templates Guide: Armor Trims & Netherite. Every Minecraft smithing template explained: where all 18 armor trims drop with exact loot chances, the netherite upgrade template, trim colors, and how to duplicate them. URL: https://gamertagmythras.com/blog/minecraft/minecraft-smithing-templates-guide
 
 ### minecraft-mangrove-swamp-guide
 Minecraft Mangrove Swamp Guide: Frogs, Froglights, and Mud. A full Minecraft mangrove swamp guide: farming mud and packed mud, growing mangrove propagules, frog variants, and getting all three froglight colors correctly. URL: https://gamertagmythras.com/blog/minecraft/minecraft-mangrove-swamp-guide
@@ -814,7 +838,10 @@ Redstone Basics: A Beginner's Guide to Minecraft's Wiring. Redstone basics expla
 ### minecraft-survival-guide-beginners
 Minecraft Survival Guide for Beginners — Surviving Your First Days. A no-fluff Minecraft survival guide for beginners. The exact first-day tool chain, how to survive night one, and what to prioritize before mobs find you. URL: https://gamertagmythras.com/blog/minecraft/minecraft-survival-guide-beginners
 
-## Roblox — full blog post list (49)
+## Roblox — full blog post list (50)
+
+### roblox-particle-effects-guide
+Roblox Particle Effects Guide: Emitters, Beams & Trails. Master Roblox visual effects: ParticleEmitter rate and lifetime caps, Emit bursts, Size and Color as sequences, plus Beams and Trails that need two attachments. URL: https://gamertagmythras.com/blog/roblox/roblox-particle-effects-guide
 
 ### roblox-pathfinding-guide
 Roblox PathfindingService: NPCs That Actually Navigate. Master Roblox PathfindingService: CreatePath agent defaults, waypoints, material costs, modifiers, PathfindingLinks, and the 8-second MoveTo timeout trap. URL: https://gamertagmythras.com/blog/roblox/roblox-pathfinding-guide
@@ -963,7 +990,10 @@ Beginner's Guide to Roblox: Everything a New Player Needs. New to Roblox? Set up
 ### roblox-studio-basics
 Roblox Studio Basics: Make Your First Game. Build and publish your first Roblox game in an afternoon. Roblox Studio basics — templates, parts, the Explorer, your first Luau script, testing, and going live. URL: https://gamertagmythras.com/blog/roblox/roblox-studio-basics
 
-## Fortnite — full blog post list (49)
+## Fortnite — full blog post list (50)
+
+### fortnite-vehicles-guide
+Fortnite Vehicles Guide: Rotate, Cover, and Ram. Master Fortnite vehicles: use cars and boats to win rotations, turn them into mobile cover, ram opponents, and know exactly when to ditch the vehicle. URL: https://gamertagmythras.com/blog/fortnite/fortnite-vehicles-guide
 
 ### fortnite-fishing-guide
 Fortnite Fishing Guide: Rods, Fish, and Free Heals. Fortnite fishing guide: how rods and fishing holes work, every fish worth eating, why a Shield Fish beats a Shield Potion in a fight, and when to skip the water. URL: https://gamertagmythras.com/blog/fortnite/fortnite-fishing-guide
@@ -1112,7 +1142,13 @@ Fortnite Editing Guide: How to Edit Faster and Cleaner. Edit faster in Fortnite:
 ### fortnite-weapon-tier-list
 Fortnite Weapon Tier List: How to Rank Any Loot Pool. A Fortnite weapon tier list that survives every season: how to rank guns by class and range, build a balanced loadout, and judge new weapons the moment they drop. URL: https://gamertagmythras.com/blog/fortnite/fortnite-weapon-tier-list
 
-## PUBG: Battlegrounds — full blog post list (57)
+## PUBG: Battlegrounds — full blog post list (59)
+
+### pubg-mid-game-guide
+PUBG Mid-Game Guide: Own Phases 2 Through 5. Master the PUBG mid-game: read which phase you are in, rotate on the next circle, pick center vs edge on purpose, and hold ground that defends itself. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-mid-game-guide
+
+### pubg-water-play-guide
+PUBG Water Play Guide: Swimming, Diving, and Boats. Master PUBG water play: why swimming holsters your guns, how to dive to break a fight, when to trust a boat, and how to fight enemies caught in the water. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-water-play-guide
 
 ### pubg-bridge-crossing-guide
 PUBG Bridge Crossing Guide: Beat the Camp or Take the Water. How to cross PUBG bridges without dying: reading a bridge camp, vehicle crossing tricks, when boats beat the bridge, when to swim, and how to camp it yourself. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-bridge-crossing-guide

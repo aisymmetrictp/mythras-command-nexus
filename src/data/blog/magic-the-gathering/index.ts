@@ -68,6 +68,8 @@ import { bestMtgLandfallPayoffs } from './posts/best-mtg-landfall-payoffs';
 import { bestMtgAnthemEffects } from './posts/best-mtg-anthem-effects';
 import { bestMtgWheelEffects } from './posts/best-mtg-wheel-effects';
 import { bestMtgHatebears } from './posts/best-mtg-hatebears';
+import { bestMtgFightRemoval } from './posts/best-mtg-fight-removal';
+import { bestMtgManaSinks } from './posts/best-mtg-mana-sinks';
 
 export const MTG_POSTS: BlogPost[] = [
   bestWhiteCardsMtg,
@@ -139,4 +141,6 @@ export const MTG_POSTS: BlogPost[] = [
   bestMtgAnthemEffects,
   bestMtgWheelEffects,
   bestMtgHatebears,
+  bestMtgFightRemoval,
+  bestMtgManaSinks,
 ];

@@ -49,6 +49,7 @@ import { braverseMillDeckGuide } from './posts/cookie-run-braverse-mill-deck-gui
 import { braverseBuyingGuide } from './posts/cookie-run-braverse-buying-guide';
 import { braverseTempoDeckGuide } from './posts/cookie-run-braverse-tempo-deck-guide';
 import { braverseColorPairsGuide } from './posts/cookie-run-braverse-color-pairs-guide';
+import { braverseMonoColorDecks } from './posts/cookie-run-braverse-mono-color-decks';
 import { braverseMatchupGuide } from './posts/cookie-run-braverse-matchup-guide';
 import { braverseTechCardsGuide } from './posts/cookie-run-braverse-tech-cards-guide';
 import { braverseBudgetUpgrades } from './posts/cookie-run-braverse-budget-upgrades';
@@ -106,6 +107,7 @@ export const BRAVERSE_POSTS: BlogPost[] = [
   braverseMillDeckGuide,
   braverseBuyingGuide,
   braverseColorPairsGuide,
+  braverseMonoColorDecks,
   braverseMatchupGuide,
   braverseTechCardsGuide,
   braverseBudgetUpgrades,

@@ -20,6 +20,11 @@ export const VIDEO_MAP: Record<string, PostVideo> = {
     "title": "Burning Spice Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
     "uploadDate": "2024-10-26"
   },
+  "camellia-cookie-toppings-build": {
+    "id": "Wh4AufHizxU",
+    "title": "Camellia Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
+    "uploadDate": "2024-11-28"
+  },
   "candy-apple-cookie-toppings-build": {
     "id": "PTeepPjK9bQ",
     "title": "Candy Apple Cookie Beascuit & Topping Guide | Cookie Run Kingdom",

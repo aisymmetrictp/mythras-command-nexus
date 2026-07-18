@@ -56,6 +56,8 @@ import { pubgTeamCommunicationGuide } from './posts/pubg-team-communication-guid
 import { pubgSpottingGuide } from './posts/pubg-spotting-guide';
 import { pubgDuoStrategyGuide } from './posts/pubg-duo-strategy-guide';
 import { pubgBridgeCrossingGuide } from './posts/pubg-bridge-crossing-guide';
+import { pubgMidGameGuide } from './posts/pubg-mid-game-guide';
+import { pubgWaterPlayGuide } from './posts/pubg-water-play-guide';
 
 export const PUBG_POSTS: BlogPost[] = [
   pubgBeginnersGuide,
@@ -115,4 +117,6 @@ export const PUBG_POSTS: BlogPost[] = [
   pubgSpottingGuide,
   pubgDuoStrategyGuide,
   pubgBridgeCrossingGuide,
+  pubgMidGameGuide,
+  pubgWaterPlayGuide,
 ];

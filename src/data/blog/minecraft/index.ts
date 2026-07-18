@@ -58,6 +58,8 @@ import { minecraftShulkerBoxGuide } from './posts/minecraft-shulker-box-guide';
 import { minecraftWolfArmorGuide } from './posts/minecraft-wolf-armor-guide';
 import { minecraftTntGuide } from './posts/minecraft-tnt-guide';
 import { minecraftMangroveSwampGuide } from './posts/minecraft-mangrove-swamp-guide';
+import { minecraftCherryGroveGuide } from './posts/minecraft-cherry-grove-guide';
+import { minecraftSmithingTemplatesGuide } from './posts/minecraft-smithing-templates-guide';
 
 export const MINECRAFT_POSTS: BlogPost[] = [
   minecraftSurvivalGuideBeginners,
@@ -117,4 +119,6 @@ export const MINECRAFT_POSTS: BlogPost[] = [
   minecraftWolfArmorGuide,
   minecraftTntGuide,
   minecraftMangroveSwampGuide,
+  minecraftCherryGroveGuide,
+  minecraftSmithingTemplatesGuide,
 ];

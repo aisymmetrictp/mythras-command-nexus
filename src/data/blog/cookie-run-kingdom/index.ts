@@ -84,6 +84,9 @@ import { crkTreeOfWishesGuide } from './posts/crk-tree-of-wishes-guide';
 import { oysterCookieToppingsBuild } from './posts/oyster-cookie-toppings-build';
 import { crimsonCoralCookieToppingsBuild } from './posts/crimson-coral-cookie-toppings-build';
 import { crkHallOfAncientHeroesGuide } from './posts/crk-hall-of-ancient-heroes-guide';
+import { snapdragonCookieToppingsBuild } from './posts/snapdragon-cookie-toppings-build';
+import { camelliaCookieToppingsBuild } from './posts/camellia-cookie-toppings-build';
+import { crkSeasideMarketGuide } from './posts/crk-seaside-market-guide';
 
 export const CRK_POSTS: BlogPost[] = [
   crkCodes,
@@ -171,4 +174,7 @@ export const CRK_POSTS: BlogPost[] = [
   oysterCookieToppingsBuild,
   crimsonCoralCookieToppingsBuild,
   crkHallOfAncientHeroesGuide,
+  snapdragonCookieToppingsBuild,
+  camelliaCookieToppingsBuild,
+  crkSeasideMarketGuide,
 ];
