@@ -70,6 +70,8 @@ import { bestMtgWheelEffects } from './posts/best-mtg-wheel-effects';
 import { bestMtgHatebears } from './posts/best-mtg-hatebears';
 import { bestMtgFightRemoval } from './posts/best-mtg-fight-removal';
 import { bestMtgManaSinks } from './posts/best-mtg-mana-sinks';
+import { bestMtgTokenDoublers } from './posts/best-mtg-token-doublers';
+import { bestMtgHasteEnablers } from './posts/best-mtg-haste-enablers';
 
 export const MTG_POSTS: BlogPost[] = [
   bestWhiteCardsMtg,
@@ -143,4 +145,6 @@ export const MTG_POSTS: BlogPost[] = [
   bestMtgHatebears,
   bestMtgFightRemoval,
   bestMtgManaSinks,
+  bestMtgTokenDoublers,
+  bestMtgHasteEnablers,
 ];

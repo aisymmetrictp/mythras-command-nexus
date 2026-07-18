@@ -55,8 +55,10 @@ import { braverseTechCardsGuide } from './posts/cookie-run-braverse-tech-cards-g
 import { braverseBudgetUpgrades } from './posts/cookie-run-braverse-budget-upgrades';
 import { cookieRunBraverseSideboardGuide } from './posts/cookie-run-braverse-sideboard-guide';
 import { cookieRunBraverseExtraDeckGuide } from './posts/cookie-run-braverse-extra-deck-guide';
+import { braverseBossCardsGuide } from './posts/cookie-run-braverse-boss-cards-guide';
 
 export const BRAVERSE_POSTS: BlogPost[] = [
+  braverseBossCardsGuide,
   howToPlayBraverse,
   braverseColorsExplained,
   braverseDeckBuildingBasics,

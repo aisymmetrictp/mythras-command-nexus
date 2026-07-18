@@ -125,6 +125,11 @@ export const VIDEO_MAP: Record<string, PostVideo> = {
     "title": "Oyster Cookie Toppings | Topping Guide | Best Toppings | Cookie Run Kingdom",
     "uploadDate": "2022-07-02"
   },
+  "peppermint-cookie-toppings-build": {
+    "id": "6zJOpaKAMvQ",
+    "title": "Peppermint Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
+    "uploadDate": "2024-10-17"
+  },
   "pure-vanilla-awakened-toppings": {
     "id": "Y_4RUnbOGj0",
     "title": "Awakened Pure Vanilla Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
@@ -164,6 +169,11 @@ export const VIDEO_MAP: Record<string, PostVideo> = {
     "id": "4F9OMzybr2A",
     "title": "Stormbringer Cookie Beascuit & Topping Guide | Cookie Run Kingdom",
     "uploadDate": "2024-05-03"
+  },
+  "tea-knight-cookie-toppings-build": {
+    "id": "A-j-ad92Sz4",
+    "title": "Tea Knight Cookie Toppings | Topping Guide | Best Toppings | Cookie Run Kingdom",
+    "uploadDate": "2022-02-08"
   },
   "twizzly-gummy-cookie-toppings-build": {
     "id": "em-C2UZjeoI",

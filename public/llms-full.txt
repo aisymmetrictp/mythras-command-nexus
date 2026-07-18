@@ -1,6 +1,6 @@
 # Mythras // The Multiverse — Full Content Directory
 
-> Comprehensive site directory for AI systems indexing gamertagmythras.com. Includes every published blog post with title, summary, and canonical URL across all seven games, plus the gear-guide structure and major site sections. 433 blog posts total.
+> Comprehensive site directory for AI systems indexing gamertagmythras.com. Includes every published blog post with title, summary, and canonical URL across all seven games, plus the gear-guide structure and major site sections. 445 blog posts total.
 
 ## About the publisher
 
@@ -8,7 +8,16 @@ Mythras // The Multiverse is an independent gaming creator brand operated by an 
 
 Editorial guarantee: every guide is written by the Mythras team and fact-checked against authoritative sources before publishing (Scryfall for MTG legality, the official Cookie Run: Braverse card database, and the game wikis). Posts include their refresh cadence so readers know how often the information is updated.
 
-## Cookie Run: Kingdom — full blog post list (88)
+## Cookie Run: Kingdom — full blog post list (91)
+
+### crk-bear-jelly-train-guide
+Cookie Run Kingdom Bear Jelly Train Guide. How the Bear Jelly Train works in Cookie Run: Kingdom — unlocking and upgrading trains, the produce-and-ship loop, the 10-times rule, and getting the most Rarities. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/crk-bear-jelly-train-guide
+
+### peppermint-cookie-toppings-build
+Peppermint Cookie Toppings Build & Full Guide. Peppermint Cookie build guide for July 2026: the 5x Swift Chocolate cooldown spread, substats, resonant Sea Salt toppings, Magic Candy, and Water-team fit. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/peppermint-cookie-toppings-build
+
+### tea-knight-cookie-toppings-build
+Tea Knight Cookie Toppings Build & Full Guide. Tea Knight Cookie build guide for July 2026: the Solid Almond + Searing Raspberry topping spread, substat priorities, Magic Candy, resonant gear, and team fit. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/tea-knight-cookie-toppings-build
 
 ### camellia-cookie-toppings-build
 Camellia Cookie Toppings Build & Guide (2026). Camellia Cookie toppings build: the two real spreads for the Super Epic Charge disruptor, substat priorities, beascuit and tart picks, Magic Candy notes, and his best Arena team comps. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/camellia-cookie-toppings-build
@@ -274,7 +283,10 @@ Timekeeper Cookie — Best Toppings, Beascuits & Team Comps. The complete Timeke
 ### timeline-of-fate-update-guide
 Is the Timeline of Fate Update Worth It? Beginner-to-Endgame Guide to CRK v7.4. Honest breakdown of Cookie Run: Kingdom v7.4 Timeline of Fate Act 2 — Timekeeper, Ash Salt, 6-star Legendaries, Arcade Arena, Unstable Timeline, and which players should actually log in. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/timeline-of-fate-update-guide
 
-## Cookie Run: Braverse — full blog post list (56)
+## Cookie Run: Braverse — full blog post list (57)
+
+### cookie-run-braverse-boss-cards-guide
+Cookie Run: Braverse Boss Cards Guide - Best Finishers. The 6-HP, Level-3 boss Cookies in Cookie Run: Braverse - Dark Enchantress, Mystic Flour, Silent Salt, Croissant and White Lily - and how to actually play them. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/cookie-run-braverse-boss-cards-guide
 
 ### cookie-run-braverse-mono-color-decks
 Cookie Run: Braverse Mono-Color Decks: When One Color Wins. Mono-color Braverse decks cast everything they draw and pay the triple-pip tax two-color decks choke on. Here is which single color to pick and how to build it. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/cookie-run-braverse-mono-color-decks
@@ -444,7 +456,13 @@ Every Cookie Run: Braverse Set in Order: Release Timeline & Buying Guide. A clea
 ### how-to-play-cookie-run-braverse
 How to Play Cookie Run: Braverse - A Complete Beginner Guide. Learn how to play Cookie Run: Braverse from scratch: the card types, game setup, turn phases, the rest-to-pay cost system, the FLIP mechanic, and both win conditions explained for new players. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/how-to-play-cookie-run-braverse
 
-## Magic: The Gathering — full blog post list (71)
+## Magic: The Gathering — full blog post list (73)
+
+### best-mtg-haste-enablers
+Best Haste Enablers in MTG Commander, Ranked. The best haste enablers in MTG Commander, ranked. Anger, Fervor, Rhythm of the Wild, Lightning Greaves and the cards that let your whole team attack now. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-mtg-haste-enablers
+
+### best-mtg-token-doublers
+Best Token Doublers in MTG Commander, Ranked. The best token doublers in MTG Commander, ranked. Doubling Season, Anointed Procession, Mondrak, Ojer Taq and the cards that turn one token into an army. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-mtg-token-doublers
 
 ### best-mtg-fight-removal
 Best Fight and Bite Removal in MTG, Ranked. The best fight and bite removal in MTG green, ranked. Ram Through, Rabid Bite, Bite Down, Ulvenwald Tracker and the creature-based removal that green actually gets. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-mtg-fight-removal
@@ -659,7 +677,13 @@ How Nathan Steuer Won Pro Tour Strixhaven With Selesnya Landfall. Nathan Steuer 
 ### standard-post-ban-meta-may-2026
 Standard After the May 2026 Ban Wave — What to Brew Now That Cori-Steel Is Gone. MTG Standard after the May 18, 2026 ban wave: all 10 banned cards, the new tier 1 decks, three brewing directions, and which cards just got way better. URL: https://gamertagmythras.com/blog/magic-the-gathering/standard-post-ban-meta-may-2026
 
-## Minecraft — full blog post list (59)
+## Minecraft — full blog post list (61)
+
+### minecraft-map-art-guide
+Minecraft Map Art Guide: Pixel Art With Maps Explained. How Minecraft map art works: the 62 base map colors, the staircase shading trick that unlocks 183 shades, flat vs staircased builds, scaling to a mosaic, and locking your art. URL: https://gamertagmythras.com/blog/minecraft/minecraft-map-art-guide
+
+### minecraft-name-tags-guide
+Minecraft Name Tags Guide: How to Get, Use & Secret Names. How to get a Minecraft name tag now that they craft from paper and a nugget, why the anvil step matters, how naming stops mobs despawning, and every secret name explained. URL: https://gamertagmythras.com/blog/minecraft/minecraft-name-tags-guide
 
 ### minecraft-cherry-grove-guide
 Minecraft Cherry Grove Guide: Wood, Pink Petals, and Mobs. A full Minecraft cherry grove guide: where the biome generates, harvesting the pink cherry wood set, farming pink petals with bone meal, and every mob that spawns. URL: https://gamertagmythras.com/blog/minecraft/minecraft-cherry-grove-guide
@@ -838,7 +862,10 @@ Redstone Basics: A Beginner's Guide to Minecraft's Wiring. Redstone basics expla
 ### minecraft-survival-guide-beginners
 Minecraft Survival Guide for Beginners — Surviving Your First Days. A no-fluff Minecraft survival guide for beginners. The exact first-day tool chain, how to survive night one, and what to prioritize before mobs find you. URL: https://gamertagmythras.com/blog/minecraft/minecraft-survival-guide-beginners
 
-## Roblox — full blog post list (50)
+## Roblox — full blog post list (51)
+
+### roblox-teleport-service-guide
+Roblox TeleportService Guide: Move Players Between Places. Learn Roblox TeleportService the right way: TeleportAsync on the server, reserved servers, party teleports, passing teleport data, handling TeleportInitFailed. URL: https://gamertagmythras.com/blog/roblox/roblox-teleport-service-guide
 
 ### roblox-particle-effects-guide
 Roblox Particle Effects Guide: Emitters, Beams & Trails. Master Roblox visual effects: ParticleEmitter rate and lifetime caps, Emit bursts, Size and Color as sequences, plus Beams and Trails that need two attachments. URL: https://gamertagmythras.com/blog/roblox/roblox-particle-effects-guide
@@ -990,7 +1017,10 @@ Beginner's Guide to Roblox: Everything a New Player Needs. New to Roblox? Set up
 ### roblox-studio-basics
 Roblox Studio Basics: Make Your First Game. Build and publish your first Roblox game in an afternoon. Roblox Studio basics — templates, parts, the Explorer, your first Luau script, testing, and going live. URL: https://gamertagmythras.com/blog/roblox/roblox-studio-basics
 
-## Fortnite — full blog post list (50)
+## Fortnite — full blog post list (51)
+
+### fortnite-shield-heal-management-guide
+Fortnite Shield & Heal Management: When to Pop What. Master Fortnite healing: the 200-HP math, shields as a second health bar, fast vs slow heals, and exactly when to pop a Med Kit, minis, or a Chug Splash. URL: https://gamertagmythras.com/blog/fortnite/fortnite-shield-heal-management-guide
 
 ### fortnite-vehicles-guide
 Fortnite Vehicles Guide: Rotate, Cover, and Ram. Master Fortnite vehicles: use cars and boats to win rotations, turn them into mobile cover, ram opponents, and know exactly when to ditch the vehicle. URL: https://gamertagmythras.com/blog/fortnite/fortnite-vehicles-guide
@@ -1142,7 +1172,13 @@ Fortnite Editing Guide: How to Edit Faster and Cleaner. Edit faster in Fortnite:
 ### fortnite-weapon-tier-list
 Fortnite Weapon Tier List: How to Rank Any Loot Pool. A Fortnite weapon tier list that survives every season: how to rank guns by class and range, build a balanced loadout, and judge new weapons the moment they drop. URL: https://gamertagmythras.com/blog/fortnite/fortnite-weapon-tier-list
 
-## PUBG: Battlegrounds — full blog post list (59)
+## PUBG: Battlegrounds — full blog post list (61)
+
+### pubg-emergency-pickup-guide
+PUBG Emergency Pickup Guide: Fly Out of Trouble. The PUBG Emergency Pickup can yank your whole squad out of a losing blue zone — or get you sniped out of the sky. Here is how it works, when to use it, and its rules. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-emergency-pickup-guide
+
+### pubg-red-zone-guide
+PUBG Red Zone Guide: Survive the Bombing Run. The PUBG red zone looks terrifying and kills almost nobody who reacts right. Here is what it actually is, why it is random, how to survive it, and when to weaponize it. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-red-zone-guide
 
 ### pubg-mid-game-guide
 PUBG Mid-Game Guide: Own Phases 2 Through 5. Master the PUBG mid-game: read which phase you are in, rotate on the next circle, pick center vs edge on purpose, and hold ground that defends itself. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-mid-game-guide

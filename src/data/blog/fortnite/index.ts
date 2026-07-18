@@ -49,6 +49,7 @@ import { fortniteMythicWeaponsGuide } from './posts/fortnite-mythic-weapons-guid
 import { fortniteEditCoursesGuide } from './posts/fortnite-edit-courses-guide';
 import { fortniteFishingGuide } from './posts/fortnite-fishing-guide';
 import { fortniteVehiclesGuide } from './posts/fortnite-vehicles-guide';
+import { fortniteShieldHealManagementGuide } from './posts/fortnite-shield-heal-management-guide';
 
 export const FORTNITE_POSTS: BlogPost[] = [
   fortniteBeginnersGuide,
@@ -101,4 +102,5 @@ export const FORTNITE_POSTS: BlogPost[] = [
   fortniteEditCoursesGuide,
   fortniteFishingGuide,
   fortniteVehiclesGuide,
+  fortniteShieldHealManagementGuide,
 ];

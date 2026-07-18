@@ -51,6 +51,7 @@ import { robloxTweenAnimationGuide } from './posts/roblox-tween-animation-guide'
 import { robloxLightingAtmosphereGuide } from './posts/roblox-lighting-atmosphere-guide';
 import { robloxPathfindingGuide } from './posts/roblox-pathfinding-guide';
 import { robloxParticleEffectsGuide } from './posts/roblox-particle-effects-guide';
+import { robloxTeleportServiceGuide } from './posts/roblox-teleport-service-guide';
 
 export const ROBLOX_POSTS: BlogPost[] = [
   robloxBeginnersGuide,
@@ -103,4 +104,5 @@ export const ROBLOX_POSTS: BlogPost[] = [
   robloxLightingAtmosphereGuide,
   robloxPathfindingGuide,
   robloxParticleEffectsGuide,
+  robloxTeleportServiceGuide,
 ];
