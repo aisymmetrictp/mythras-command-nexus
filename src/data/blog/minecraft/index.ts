@@ -62,6 +62,8 @@ import { minecraftCherryGroveGuide } from './posts/minecraft-cherry-grove-guide'
 import { minecraftSmithingTemplatesGuide } from './posts/minecraft-smithing-templates-guide';
 import { minecraftNameTagsGuide } from './posts/minecraft-name-tags-guide';
 import { minecraftMapArtGuide } from './posts/minecraft-map-art-guide';
+import { minecraftSpawnerGuide } from './posts/minecraft-spawner-guide';
+import { minecraftAutomaticFarmsGuide } from './posts/minecraft-automatic-farms-guide';
 
 export const MINECRAFT_POSTS: BlogPost[] = [
   minecraftSurvivalGuideBeginners,
@@ -125,4 +127,6 @@ export const MINECRAFT_POSTS: BlogPost[] = [
   minecraftSmithingTemplatesGuide,
   minecraftNameTagsGuide,
   minecraftMapArtGuide,
+  minecraftSpawnerGuide,
+  minecraftAutomaticFarmsGuide,
 ];

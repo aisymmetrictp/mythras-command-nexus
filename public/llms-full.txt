@@ -1,6 +1,6 @@
 # Mythras // The Multiverse — Full Content Directory
 
-> Comprehensive site directory for AI systems indexing gamertagmythras.com. Includes every published blog post with title, summary, and canonical URL across all seven games, plus the gear-guide structure and major site sections. 445 blog posts total.
+> Comprehensive site directory for AI systems indexing gamertagmythras.com. Includes every published blog post with title, summary, and canonical URL across all seven games, plus the gear-guide structure and major site sections. 457 blog posts total.
 
 ## About the publisher
 
@@ -8,7 +8,16 @@ Mythras // The Multiverse is an independent gaming creator brand operated by an 
 
 Editorial guarantee: every guide is written by the Mythras team and fact-checked against authoritative sources before publishing (Scryfall for MTG legality, the official Cookie Run: Braverse card database, and the game wikis). Posts include their refresh cadence so readers know how often the information is updated.
 
-## Cookie Run: Kingdom — full blog post list (91)
+## Cookie Run: Kingdom — full blog post list (94)
+
+### cream-puff-cookie-toppings-build
+Cream Puff Cookie Toppings Build: CRIT That Pays The Whole Team. Cream Puff Cookie toppings build guide: the exact CRIT% breakpoints her Magic Candy needs, Apple Jelly vs Swift Chocolate, substats, beascuit, tart, and team fit. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/cream-puff-cookie-toppings-build
+
+### crk-kingdom-pass-guide
+CRK Kingdom Pass Guide: Every Reward And Whether To Pay. Cookie Run Kingdom Kingdom Pass guide: all 30 levels of free and premium rewards, the daily and seasonal mission boards, and the crystal math on the $4.99 upgrade. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/crk-kingdom-pass-guide
+
+### mala-sauce-cookie-toppings-build
+Mala Sauce Cookie Toppings Build: The Burn Nobody Counts. Mala Sauce Cookie toppings build guide: why her Burn out-damages her mace and lava combined, Solid Almond vs Searing Raspberry, substats, Magic Candy, and soulstone farms. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/mala-sauce-cookie-toppings-build
 
 ### crk-bear-jelly-train-guide
 Cookie Run Kingdom Bear Jelly Train Guide. How the Bear Jelly Train works in Cookie Run: Kingdom — unlocking and upgrading trains, the produce-and-ship loop, the 10-times rule, and getting the most Rarities. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/crk-bear-jelly-train-guide
@@ -283,7 +292,10 @@ Timekeeper Cookie — Best Toppings, Beascuits & Team Comps. The complete Timeke
 ### timeline-of-fate-update-guide
 Is the Timeline of Fate Update Worth It? Beginner-to-Endgame Guide to CRK v7.4. Honest breakdown of Cookie Run: Kingdom v7.4 Timeline of Fate Act 2 — Timekeeper, Ash Salt, 6-star Legendaries, Arcade Arena, Unstable Timeline, and which players should actually log in. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/timeline-of-fate-update-guide
 
-## Cookie Run: Braverse — full blog post list (57)
+## Cookie Run: Braverse — full blog post list (58)
+
+### cookie-run-braverse-break-area-guide
+The Break Area Is a Resource, Not a Graveyard (Braverse). Braverse's break area has a LV. total that 81 cards check as a threshold. Here's how the zone works, why Yellow owns it, and how to build a real deck around it. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/cookie-run-braverse-break-area-guide
 
 ### cookie-run-braverse-boss-cards-guide
 Cookie Run: Braverse Boss Cards Guide - Best Finishers. The 6-HP, Level-3 boss Cookies in Cookie Run: Braverse - Dark Enchantress, Mystic Flour, Silent Salt, Croissant and White Lily - and how to actually play them. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/cookie-run-braverse-boss-cards-guide
@@ -456,7 +468,13 @@ Every Cookie Run: Braverse Set in Order: Release Timeline & Buying Guide. A clea
 ### how-to-play-cookie-run-braverse
 How to Play Cookie Run: Braverse - A Complete Beginner Guide. Learn how to play Cookie Run: Braverse from scratch: the card types, game setup, turn phases, the rest-to-pay cost system, the FLIP mechanic, and both win conditions explained for new players. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/how-to-play-cookie-run-braverse
 
-## Magic: The Gathering — full blog post list (73)
+## Magic: The Gathering — full blog post list (75)
+
+### best-mtg-cost-reducers
+Best Cost Reducers in MTG Commander, Ranked. The best cost reducers in MTG Commander, ranked. Urza's Incubator, Semblance Anvil, the Medallion cycle, Animar and the cards that make your whole deck cheaper. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-mtg-cost-reducers
+
+### best-mtg-double-strike-cards
+Best Double Strike Cards in MTG Commander, Ranked. The best double strike cards in MTG Commander, ranked. Embercleave, True Conviction, Fireshrieker, Rafiq and the enablers that turn one attack into lethal. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-mtg-double-strike-cards
 
 ### best-mtg-haste-enablers
 Best Haste Enablers in MTG Commander, Ranked. The best haste enablers in MTG Commander, ranked. Anger, Fervor, Rhythm of the Wild, Lightning Greaves and the cards that let your whole team attack now. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-mtg-haste-enablers
@@ -677,7 +695,13 @@ How Nathan Steuer Won Pro Tour Strixhaven With Selesnya Landfall. Nathan Steuer 
 ### standard-post-ban-meta-may-2026
 Standard After the May 2026 Ban Wave — What to Brew Now That Cori-Steel Is Gone. MTG Standard after the May 18, 2026 ban wave: all 10 banned cards, the new tier 1 decks, three brewing directions, and which cards just got way better. URL: https://gamertagmythras.com/blog/magic-the-gathering/standard-post-ban-meta-may-2026
 
-## Minecraft — full blog post list (61)
+## Minecraft — full blog post list (63)
+
+### minecraft-automatic-farms-guide
+Minecraft Automatic Farms: Observer and Piston Designs That Work. Build automatic Minecraft farms that actually run: observer timings, sugar cane and bamboo growth rates, melon piston harvesting, and the chunk-loading catch. URL: https://gamertagmythras.com/blog/minecraft/minecraft-automatic-farms-guide
+
+### minecraft-spawner-guide
+Minecraft Spawner Guide: Mechanics, XP Farms, and Real Rates. How Minecraft monster spawners really work: the 16-block activation radius, 4 spawn attempts per 10-39.95s cycle, the six-mob cap, and how to farm them properly. URL: https://gamertagmythras.com/blog/minecraft/minecraft-spawner-guide
 
 ### minecraft-map-art-guide
 Minecraft Map Art Guide: Pixel Art With Maps Explained. How Minecraft map art works: the 62 base map colors, the staircase shading trick that unlocks 183 shades, flat vs staircased builds, scaling to a mosaic, and locking your art. URL: https://gamertagmythras.com/blog/minecraft/minecraft-map-art-guide
@@ -862,7 +886,10 @@ Redstone Basics: A Beginner's Guide to Minecraft's Wiring. Redstone basics expla
 ### minecraft-survival-guide-beginners
 Minecraft Survival Guide for Beginners — Surviving Your First Days. A no-fluff Minecraft survival guide for beginners. The exact first-day tool chain, how to survive night one, and what to prioritize before mobs find you. URL: https://gamertagmythras.com/blog/minecraft/minecraft-survival-guide-beginners
 
-## Roblox — full blog post list (51)
+## Roblox — full blog post list (52)
+
+### roblox-sound-music-guide
+Roblox Sound & Music Guide: Audio That Sounds Professional. Roblox audio explained: Sound vs the new AudioPlayer stack, rolloff distance, SoundGroup mixing, ducking with a compressor, and the real audio import limits. URL: https://gamertagmythras.com/blog/roblox/roblox-sound-music-guide
 
 ### roblox-teleport-service-guide
 Roblox TeleportService Guide: Move Players Between Places. Learn Roblox TeleportService the right way: TeleportAsync on the server, reserved servers, party teleports, passing teleport data, handling TeleportInitFailed. URL: https://gamertagmythras.com/blog/roblox/roblox-teleport-service-guide
@@ -1017,7 +1044,10 @@ Beginner's Guide to Roblox: Everything a New Player Needs. New to Roblox? Set up
 ### roblox-studio-basics
 Roblox Studio Basics: Make Your First Game. Build and publish your first Roblox game in an afternoon. Roblox Studio basics — templates, parts, the Explorer, your first Luau script, testing, and going live. URL: https://gamertagmythras.com/blog/roblox/roblox-studio-basics
 
-## Fortnite — full blog post list (51)
+## Fortnite — full blog post list (52)
+
+### fortnite-inventory-management-guide
+Fortnite Inventory Management: Slot Order and Drop Rules. Fortnite gives you five inventory slots and no more. Here's the slot order, swap rules, drop discipline, and the ammo caps that keep your kit fight-ready. URL: https://gamertagmythras.com/blog/fortnite/fortnite-inventory-management-guide
 
 ### fortnite-shield-heal-management-guide
 Fortnite Shield & Heal Management: When to Pop What. Master Fortnite healing: the 200-HP math, shields as a second health bar, fast vs slow heals, and exactly when to pop a Med Kit, minis, or a Chug Splash. URL: https://gamertagmythras.com/blog/fortnite/fortnite-shield-heal-management-guide
@@ -1172,7 +1202,13 @@ Fortnite Editing Guide: How to Edit Faster and Cleaner. Edit faster in Fortnite:
 ### fortnite-weapon-tier-list
 Fortnite Weapon Tier List: How to Rank Any Loot Pool. A Fortnite weapon tier list that survives every season: how to rank guns by class and range, build a balanced loadout, and judge new weapons the moment they drop. URL: https://gamertagmythras.com/blog/fortnite/fortnite-weapon-tier-list
 
-## PUBG: Battlegrounds — full blog post list (61)
+## PUBG: Battlegrounds — full blog post list (63)
+
+### pubg-training-mode-guide
+PUBG Training Mode Guide: Drills That Actually Work. Camp Jackal explained — session rules, the 400m and 800m ranges, CQC and parachute courses, plus five structured drills and a 15-minute warmup routine. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-training-mode-guide
+
+### pubg-weapon-mastery-guide
+PUBG Weapon Mastery Guide: Levels, Tiers, and Rewards. How PUBG Weapon Mastery works — 100 levels and 10 tiers per gun, what earns XP, Expert Levels, charms and medals, plus Survival Mastery and reading your stats. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-weapon-mastery-guide
 
 ### pubg-emergency-pickup-guide
 PUBG Emergency Pickup Guide: Fly Out of Trouble. The PUBG Emergency Pickup can yank your whole squad out of a losing blue zone — or get you sniped out of the sky. Here is how it works, when to use it, and its rules. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-emergency-pickup-guide

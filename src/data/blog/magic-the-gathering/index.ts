@@ -72,6 +72,8 @@ import { bestMtgFightRemoval } from './posts/best-mtg-fight-removal';
 import { bestMtgManaSinks } from './posts/best-mtg-mana-sinks';
 import { bestMtgTokenDoublers } from './posts/best-mtg-token-doublers';
 import { bestMtgHasteEnablers } from './posts/best-mtg-haste-enablers';
+import { bestMtgCostReducers } from './posts/best-mtg-cost-reducers';
+import { bestMtgDoubleStrikeCards } from './posts/best-mtg-double-strike-cards';
 
 export const MTG_POSTS: BlogPost[] = [
   bestWhiteCardsMtg,
@@ -147,4 +149,6 @@ export const MTG_POSTS: BlogPost[] = [
   bestMtgManaSinks,
   bestMtgTokenDoublers,
   bestMtgHasteEnablers,
+  bestMtgCostReducers,
+  bestMtgDoubleStrikeCards,
 ];

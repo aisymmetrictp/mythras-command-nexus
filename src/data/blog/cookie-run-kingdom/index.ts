@@ -90,8 +90,14 @@ import { crkSeasideMarketGuide } from './posts/crk-seaside-market-guide';
 import { teaKnightCookieToppingsBuild } from './posts/tea-knight-cookie-toppings-build';
 import { peppermintCookieToppingsBuild } from './posts/peppermint-cookie-toppings-build';
 import { crkBearJellyTrainGuide } from './posts/crk-bear-jelly-train-guide';
+import { creamPuffCookieToppingsBuild } from './posts/cream-puff-cookie-toppings-build';
+import { malaSauceCookieToppingsBuild } from './posts/mala-sauce-cookie-toppings-build';
+import { crkKingdomPassGuide } from './posts/crk-kingdom-pass-guide';
 
 export const CRK_POSTS: BlogPost[] = [
+  creamPuffCookieToppingsBuild,
+  malaSauceCookieToppingsBuild,
+  crkKingdomPassGuide,
   crkCodes,
   crkTierList,
   timekeeperToppings,
