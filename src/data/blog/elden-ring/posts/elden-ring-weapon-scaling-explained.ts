@@ -120,7 +120,7 @@ The wiki's example is the humble Club: 103 base physical attack power, Strength 
 
 ![A Smithing Stone, the standard upgrade material that takes weapons to +25 in tiers of three levels.](/images/blog/elden-ring/elden-ring-weapon-scaling-explained/smithing-stone-1.webp)
 
-This is the most common invisible mistake in early builds. Someone picks up the Bloodhound's Fang from Bloodhound Knight Darriwil in the Forlorn Hound Evergaol — an excellent early curved greatsword at 141 base physical, D Strength and C Dexterity scaling, with 55 Blood Loss buildup — and swings it at 14 Strength when the requirement is 18. It feels terrible, they conclude the weapon is bad, they shelve it. It was never the weapon.
+This is the most common invisible mistake in early builds. Someone picks up the Bloodhound's Fang from [Bloodhound Knight Darriwil in the Forlorn Hound Evergaol](/blog/elden-ring/elden-ring-early-game-route) — an excellent early curved greatsword at 141 base physical, D Strength and C Dexterity scaling, with 55 Blood Loss buildup — and swings it at 14 Strength when the requirement is 18. It feels terrible, they conclude the weapon is bad, they shelve it. It was never the weapon.
 
 Check the requirements. Meet the requirements. Only then judge the weapon.
 
@@ -128,14 +128,14 @@ Check the requirements. Meet the requirements. Only then judge the weapon.
 
 Elden Ring's soft caps are not a myth and they are not the same everywhere. The ones worth memorizing:
 
-- **Vigor** soft caps at 40 and again at 60. At 15 Vigor you have 522 HP, at 30 you have 994, at 40 you have 1,450. Past 40 the curve flattens hard.
+- **Vigor** soft caps at 40 and again at 60. At 15 Vigor — [where a Vagabond starts](/blog/elden-ring/best-elden-ring-starting-class) — you have 522 HP, at 30 you have 994, at 40 you have 1,450. Past 40 the curve flattens hard.
 - **Mind** soft caps at 50 and 60 for FP. Focus, which resists Sleep and Madness, does not gain anything at all until 31 Mind.
 - **Endurance** soft caps at 15, 30, and 50 for stamina; at 25 and 60 for Equip Load. Robustness gains do not begin until 31.
 - **Damage stats** follow the two curves above. Practical answer for most builds: stop around 55 to 60 in your primary damage stat unless you are pushing a very specific breakpoint.
 
 Spell tools behave differently enough to call out. Staves and Seals that scale off a single stat gain *stronger* scaling after 25 and stronger again after 60, before falling off hard at 80 — a back-loaded curve that rewards committing. Catalysts scaling with more than one stat scale poorly below 15, spike between 15 and 30, then become nearly meaningless past 45.
 
-The Meteorite Staff is a clean case study. S-rank Intelligence scaling, a Strength requirement of 6 — below the starting Strength of every origin in the game — and no upgrade path at all. It sits at 138 sorcery scaling at its minimum 18 Intelligence, 193 at 40 Int, 244 at 60, and 272 at 80. That S is real, but with no upgrades it goes from the strongest catalyst you can hold in Limgrave to a stat stick you keep only for the +30% it gives gravity sorceries.
+The Meteorite Staff is a clean case study. S-rank Intelligence scaling, a Strength requirement of 6 — below [the starting Strength of every origin in the game](/blog/elden-ring/best-elden-ring-starting-class) — and no upgrade path at all. It sits at 138 sorcery scaling at its minimum 18 Intelligence, 193 at 40 Int, 244 at 60, and 272 at 80. That S is real, but with no upgrades it goes from the strongest catalyst you can hold in Limgrave to a stat stick you keep only for the +30% it gives gravity sorceries.
 
 ## Upgrades are the real damage multiplier
 
@@ -161,7 +161,7 @@ The trade-off is that somber weapons **cannot take Ashes of War and cannot be in
 
 ## Affinities rewrite the whole equation
 
-Once you have the Whetstone Knife — sitting in a chest in the underground cellar at Gatefront Ruins in Limgrave, alongside Ash of War: Storm Stomp — you can apply any of the 91 base-game Ashes of War at any Site of Grace, and optionally infuse an affinity while you do it.
+Once you have the Whetstone Knife — sitting in a chest in the underground cellar at [Gatefront Ruins in Limgrave](/blog/elden-ring/elden-ring-early-game-route), alongside Ash of War: Storm Stomp — you can apply any of the 91 base-game Ashes of War at any Site of Grace, and optionally infuse an affinity while you do it.
 
 Affinities do not just add an element. They rewrite the weapon's base damage split *and* its scaling letters, and there is no universal formula for how — different weapons respond to the same infusion in completely different ways. The only reliable method is to hold the infusion menu open and read the before-and-after numbers the game shows you. Ashes of War are not consumed either: they slot in, come out, and transfer between weapons freely. Experiment aggressively.
 

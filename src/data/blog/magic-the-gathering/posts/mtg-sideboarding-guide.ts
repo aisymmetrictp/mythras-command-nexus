@@ -83,7 +83,7 @@ A sideboard isn't a junk drawer of cards that didn't make the maindeck. It's a s
 
 Think in terms of what your maindeck is *bad* against. Your 60 is tuned to beat the field on average; your 15 patches the matchups where the average plan falls short:
 
-- **Dedicated hate** for the matchups your maindeck genuinely loses to. If aggro runs you over, you want cheap removal and lifegain. If combo is faster than you, you want disruption or counterspells.
+- **Dedicated hate** for the matchups your maindeck genuinely loses to. If aggro runs you over, you want cheap removal and lifegain. If combo is faster than you, you want disruption or [counterspells](/blog/magic-the-gathering/best-counterspells-mtg).
 - **Flex threats and answers** that improve grindy mirrors — extra card advantage, a haymaker the opponent can't easily answer, a planeswalker.
 - **Catch-all answers** that hit multiple decks at once. A single card that's good against three archetypes is worth more than a card that's great against one fringe deck.
 
@@ -112,7 +112,7 @@ Two rules that keep you honest:
 
 ## Common sideboard cards by archetype
 
-These are the workhorses you'll see in real sideboards across Modern, Pioneer, and Legacy. Names and exact legality shift with bans, so the categories matter more than any single card, but here are reliable, currently-legal examples by job.
+These are the workhorses you'll see in real sideboards across [Modern](/blog/magic-the-gathering/mtg-modern-format-guide), [Pioneer](/blog/magic-the-gathering/mtg-pioneer-format-guide), and Legacy. Names and exact legality shift with bans, so the categories matter more than any single card, but here are reliable, currently-legal examples by job.
 
 ![Mystical Dispute, a near-free counter against blue spells and a premier control-mirror sideboard card.](/images/blog/magic-the-gathering/mtg-sideboarding-guide/mystical-dispute.jpg)
 
@@ -123,7 +123,7 @@ These are the workhorses you'll see in real sideboards across Modern, Pioneer, a
 | Anti-control / anti-counter | Protects your threats and punishes counterspell decks | Veil of Summer, Mystical Dispute, Negate, Disdainful Stroke |
 | Anti-aggro / lifegain | Stabilizes against fast creature decks | Cheap removal, sweepers, and lifegain creatures or spells |
 | Hand disruption | Strips combo pieces and key cards | Duress, Thoughtseize-style discard |
-| Sweepers vs go-wide | Resets a flooded board | Color-appropriate board wipes |
+| Sweepers vs go-wide | Resets a flooded board | Color-appropriate [board wipes](/blog/magic-the-gathering/best-board-wipes-mtg) |
 
 A few of these are MVPs worth calling out. **Rest in Peace** and **Leyline of the Void** are the gold standard for graveyard hate — Leyline can even start in your opening hand for free, locking out a reanimator deck before it does anything. **Veil of Summer** is one of the most efficient protective cards ever printed (and so good it's *banned in Pioneer* while legal in Modern and Legacy). **Mystical Dispute** is a near-free counter in the control mirror. **Abrade** is a flexible answer that kills a creature or an artifact, so it covers two jobs in one slot.
 

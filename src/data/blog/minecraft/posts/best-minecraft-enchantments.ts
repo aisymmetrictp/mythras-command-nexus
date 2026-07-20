@@ -57,7 +57,7 @@ export const bestMinecraftEnchantments: BlogPost = {
     { id: 'java-vs-bedrock-notes', label: 'Java vs Bedrock notes', level: 2 },
     { id: 'quick-action-checklist', label: 'Quick Action Checklist', level: 2 },
   ],
-  content: `Mending is the enchantment that ends the grind. Put it on your gear and it repairs itself with the experience you pick up, which means a maxed-out diamond or netherite tool never breaks again as long as you keep gaining XP. Once you understand that one effect, the whole enchantment list reorganizes itself around it: there is Mending, there are the enchantments you build around Mending, and there is everything competing for the leftover slots.
+  content: `Mending is the enchantment that ends the grind. Put it on your gear and it repairs itself with the experience you pick up, which means a maxed-out diamond or [netherite](/blog/minecraft/how-to-find-netherite-minecraft) tool never breaks again as long as you keep gaining XP. Once you understand that one effect, the whole enchantment list reorganizes itself around it: there is Mending, there are the enchantments you build around Mending, and there is everything competing for the leftover slots.
 
 This is a tier-ranked breakdown of what actually earns space on your gear, with the real maximum levels verified against the Minecraft Wiki — because half the "max level" lists online are wrong about which enchantments cap at III versus V. We are ranking by how much each enchantment changes your day-to-day survival, not by how rare it is to find.
 
@@ -68,11 +68,11 @@ Before the rankings, the mechanics that govern all of this:
 - **The enchanting table** rolls random enchantments for levels and lapis lazuli. To unlock the top tier (level 30 enchants), surround the table with **15 bookshelves**, placed one block away with air in between, on the same level or one block up. Fifteen is the cap — more does nothing.
 - **You spend XP levels and 1 to 3 lapis** per enchant. The level cost shown does not change the enchantment type, only the strength tier you are eligible for.
 - **The anvil** combines items with enchanted books or merges two enchanted items, which is how you stack specific enchantments you want instead of gambling at the table.
-- **Treasure enchantments cannot come from the table at all.** Mending, Frost Walker, Soul Speed, Swift Sneak, Wind Burst, and the curse enchantments only appear as books from loot, fishing, villager trades, or raids. That is why Mending feels rare.
+- **Treasure enchantments cannot come from the table at all.** Mending, Frost Walker, Soul Speed, Swift Sneak, Wind Burst, and the curse enchantments only appear as books from loot, fishing, villager trades, or [raids](/blog/minecraft/minecraft-raids-pillagers-guide). That is why Mending feels rare.
 
 ![A bookshelf — you need 15 of them around the table to unlock level 30 enchantments.](/images/blog/minecraft/best-minecraft-enchantments/bookshelf.webp)
 
-> The single most important enchanting habit: trade with a librarian villager. A leveled librarian can sell you specific enchanted books — including Mending — on demand, which beats gambling at the table for the treasure enchantments you actually want.
+> The single most important enchanting habit: [trade with a librarian villager](/blog/minecraft/minecraft-villager-trading-guide). A leveled librarian can sell you specific enchanted books — including Mending — on demand, which beats gambling at the table for the treasure enchantments you actually want.
 
 ## The S-tier: near-universal picks
 
@@ -114,7 +114,7 @@ Armor is where you tailor to what is killing you. Across a full set:
 | Mending | I | All pieces | Permanent repair. Treasure-only |
 | Feather Falling | IV | Boots | Cuts fall damage hard. Essential for mountains and the End |
 | Depth Strider | III | Boots | Near-normal movement speed in water |
-| Respiration | III | Helmet | Extends underwater breathing — huge for ocean monuments |
+| Respiration | III | Helmet | Extends underwater breathing — huge for [ocean monuments](/blog/minecraft/minecraft-ocean-monument-guide) |
 | Aqua Affinity | I | Helmet | Removes the underwater mining penalty |
 | Thorns | III | Any | Reflects damage to attackers, but burns durability fast. Niche |
 
@@ -126,7 +126,7 @@ Pickaxes, axes, and shovels each want a slightly different package.
 
 **Pickaxe — the most important tool:**
 - **Efficiency V** — Mine faster. Non-negotiable.
-- **Fortune III** — Multiplies drops from ores like diamond, emerald, coal, lapis, and redstone. This is how you turn one diamond vein into a stack.
+- **Fortune III** — Multiplies drops from ores like diamond, emerald, coal, lapis, and redstone. This is how you turn one [diamond vein](/blog/minecraft/how-to-find-diamonds-minecraft) into a stack.
 - **Silk Touch I** — Mines blocks as themselves (the actual ore block, glass, ice, etc.) instead of their drops. **Fortune and Silk Touch are mutually exclusive**, so you keep one pickaxe with each: a Fortune pick for ores, a Silk Touch pick for collecting blocks.
 - **Unbreaking III + Mending** — Durability.
 

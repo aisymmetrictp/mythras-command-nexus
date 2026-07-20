@@ -91,7 +91,7 @@ Wolves spawn in forests, taigas, and groves, and a tamed wolf is the best early-
 
 Cats and ocelots changed a lot over the years, and people still mix them up. They are now **separate mobs.**
 
-- **Cats** spawn in villages (and as strays in swamp huts as the black cat). **Tame with raw cod or raw salmon** — approach slowly, stand still, and feed the fish until hearts appear and a collar shows up.
+- **Cats** spawn in [villages](/blog/minecraft/minecraft-villages-guide) (and as strays in swamp huts as the black cat). **Tame with raw cod or raw salmon** — approach slowly, stand still, and feed the fish until hearts appear and a collar shows up.
 - **Breed cats with raw cod or raw salmon** — same fish that tames them.
 - **Ocelots** spawn in jungles and **cannot be tamed at all anymore.** You can only gain their trust with raw cod or raw salmon (they stop fleeing), and you breed them with the same fish, but they will never wear a collar or follow you like a cat.
 - **Payoff:** Cats scare away creepers and phantoms — a tamed cat near your bed is a soft anti-creeper field. They also occasionally drop "gifts" (string, feathers, rabbit's foot) on your bed when you wake up. Ocelots are mostly a trust-and-breed novelty.
@@ -102,7 +102,7 @@ Cats and ocelots changed a lot over the years, and people still mix them up. The
 
 ![A brown Minecraft horse standing in a plains biome, the fastest tamed mount in the game once saddled.](/images/blog/minecraft/minecraft-taming-breeding-guide/horse.webp)
 
-Horses are the big one, and taming them works differently from everything else — **no food required to start.**
+[Horses](/blog/minecraft/minecraft-horses-mounts-guide) are the big one, and taming them works differently from everything else — **no food required to start.**
 
 - **Tame a horse by riding it repeatedly.** Mount the wild horse with an empty hand; it bucks you off. Keep remounting until hearts appear and it stops throwing you. Then you can put a **saddle** on it (you cannot craft a saddle — find it in loot, fish it up, or buy from a leatherworker).
 - **Golden apples and golden carrots speed taming and are required to breed.** Feeding a horse golden food raises its temperament so taming sticks faster.
@@ -127,7 +127,7 @@ These three are the "know the gotcha" mobs.
 
 - **Parrots** (jungle) are **tamed with seeds** — wheat, melon, pumpkin, beetroot, or torchflower seeds. **You cannot breed parrots at all.** They perch on your shoulder, dance to nearby jukeboxes, and mimic mob sounds (a useful early-warning system). **Never feed a parrot a cookie — it kills them.** That is a deliberate, real mechanic.
 - **Foxes** are **not tamed by feeding an adult.** Instead, you **breed two foxes with sweet berries** (or glow berries), and the *baby* fox trusts you and stays loyal — adults you feed will still wander off. Lead the baby home with a lead. Foxes hold items in their mouths and can be genuinely useful for picking up drops.
-- **Axolotls** **cannot be tamed,** only bred — with a **bucket of tropical fish** (the actual bucketed fish, not raw fish). Scoop an axolotl in a water bucket to relocate it. They attack hostile aquatic mobs (drowned, guardians) and give you Regeneration when they "play dead" near you, so a few axolotls make ocean monument raids much safer.
+- **Axolotls** **cannot be tamed,** only bred — with a **bucket of tropical fish** (the actual bucketed fish, not raw fish). Scoop an axolotl in a water bucket to relocate it. They attack hostile aquatic mobs (drowned, guardians) and give you Regeneration when they "play dead" near you, so a few axolotls make [ocean monument](/blog/minecraft/minecraft-ocean-monument-guide) raids much safer.
 
 > Two facts that cost players their pets: cookies kill parrots, and you cannot tame an adult fox — you breed and raise the baby. Memorize both.
 

@@ -102,7 +102,7 @@ Beginners think of cover as "the thing I hide behind." Endgame cover is a *conne
 What good cover discipline looks like in the last circles:
 
 - **Hold positions where you can only be shot from one direction.** A rock with a hill at your back, the inside corner of a compound wall, a ridge where the slope protects everything behind you. If you can be seen from three sides, it isn't cover, it's a stage.
-- **Carry smokes like they're ammo, and use them.** Smoke grenades are the great equalizer of the endgame. You pop smoke to cross a road, to revive a teammate, to break line of sight when a fight goes bad, and to bait a push. Two or three smokes in the bag turns an impossible open rotation into a survivable one.
+- **Carry smokes like they're ammo, and use them.** [Smoke grenades](/blog/pubg-battlegrounds/pubg-throwables-utility-guide) are the great equalizer of the endgame. You pop smoke to cross a road, to revive a teammate, to break line of sight when a fight goes bad, and to bait a push. Two or three smokes in the bag turns an impossible open rotation into a survivable one.
 - **Prone and crouch in the natural folds.** Tall grass, dips, riverbanks, and reverse slopes hide a prone player shockingly well, especially at range. You don't always need a wall; sometimes you need to be three feet lower than the terrain around you.
 - **Pre-place yourself against the likely fight.** Set up so the most dangerous direction — usually the open ground or the high ground you don't own — is the one you're already covered from.
 
@@ -110,7 +110,7 @@ The mistake that ends most endgames is moving from strong cover into open ground
 
 ## The third-party game
 
-Here's the truth nobody likes: in the final circles, **the person who shoots first usually loses.** The moment you open up on an enemy squad, you've announced your exact position to every other squad in earshot, and at least one of them will move on the gunfire while you're still committed to your fight. That's the third party, and it's the single biggest cause of "we had it won and then died."
+Here's the truth nobody likes: in the final circles, **the person who shoots first usually loses.** The moment you open up on an enemy squad, you've announced your exact position to every other squad in earshot, and at least one of them will move on the gunfire while you're still committed to your fight. That's the [third party](/blog/pubg-battlegrounds/pubg-third-party-guide), and it's the single biggest cause of "we had it won and then died."
 
 How to win the third-party war:
 
@@ -127,7 +127,7 @@ When it's down to roughly the last two or three squads and a circle the size of 
 
 **The final-circle terrain decides everything.** If the last zone lands on open ground, the squad with smokes and the better prone position wins. If it lands on a compound or a hill, whoever already holds it has an enormous edge — pushing onto held high ground in the open is how you hand over the game. Read where the circle is converging a couple of rings early and try to be the one already sitting on the good ground when it gets there, rather than the one who has to take it.
 
-**Manage the blue as a weapon.** In the last circles the blue does serious damage fast, so you can use a sliver of it deliberately — taking a tick of zone damage to hold an angle nobody expects, or forcing an enemy who's lower on health to break position first. Keep your health and boost (energy drinks, painkillers) topped up so the blue is a tool you control, not a clock that kills you.
+**Manage the [blue as a weapon](/blog/pubg-battlegrounds/pubg-blue-zone-rotation-guide).** In the last circles the blue does serious damage fast, so you can use a sliver of it deliberately — taking a tick of zone damage to hold an angle nobody expects, or forcing an enemy who's lower on health to break position first. Keep your health and boost (energy drinks, painkillers) topped up so the blue is a tool you control, not a clock that kills you.
 
 **The last shot is a positioning problem.** Most final circles are won by the player already in the best spot when the play area collapses — prone in grass with one angle to watch, or behind the one rock on the hill — not by the flashiest flick. Get there first, get small, and make the other guy move.
 
@@ -136,7 +136,7 @@ When it's down to roughly the last two or three squads and a circle the size of 
 The principles are identical; the execution shifts with team size.
 
 - **Solos** reward patience and cover discipline above all. There's no one to revive you and no one to trade for you, so a single bad rotation ends your game. Play tighter, smoke more, and let other people make the first mistake. Every fight you start is a fight you finish alone.
-- **Squads** turn rotations and cover into a coordination problem. Move as a unit so you can trade knocks; don't string out across open ground where one player gets picked and the rest can't reach the revive. Assign angles in the final circle so all directions are watched. On maps like Taego, comeback tools (the self-AED and Comeback BR) also change how aggressively you can play a knock.
+- **[Squads](/blog/pubg-battlegrounds/pubg-squad-strategy)** turn rotations and cover into a coordination problem. Move as a unit so you can trade knocks; don't string out across open ground where one player gets picked and the rest can't reach the revive. Assign angles in the final circle so all directions are watched. On maps like [Taego](/blog/pubg-battlegrounds/pubg-taego-map-guide), comeback tools (the self-AED and Comeback BR) also change how aggressively you can play a knock.
 
 Whatever the mode, the endgame rewards the same thing: being in good ground before you need it, staying quiet until the fight is yours to take, and never being the squad that volunteered to cross the open field first.
 

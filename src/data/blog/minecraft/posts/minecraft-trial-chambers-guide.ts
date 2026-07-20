@@ -82,7 +82,7 @@ Crucially, this is **midgame content, not endgame.** You don't need netherite to
 
 There are two reliable ways:
 
-- **Buy a trial explorer map.** A **cartographer villager** sells one once they reach **Journeyman (level 3)**. This is the legit survival method — the map points you straight at the nearest chamber, the same way ocean explorer maps point at monuments. Level up a cartographer (lecterns in their workstation, trade with them to push their level) and you'll get the map option.
+- **Buy a trial explorer map.** A **[cartographer villager](/blog/minecraft/minecraft-villager-trading-guide)** sells one once they reach **Journeyman (level 3)**. This is the legit survival method — the map points you straight at the nearest chamber, the same way ocean explorer maps point at monuments. Level up a cartographer (lecterns in their workstation, trade with them to push their level) and you'll get the map option.
 - **Use \`/locate structure\`** if you play with cheats on or on a server where it's allowed. \`/locate structure minecraft:trial_chambers\` spits out the coordinates.
 
 Beyond that, they spawn underground at a range of depths, so the old-fashioned method works too: cave and mine around, and watch for **copper bulbs glowing in the dark.** If you see worked copper and tuff underground, you've found one. If you've already built a base and explored your caves (see our [survival guide for beginners](/blog/minecraft/minecraft-survival-guide-beginners)), there's a real chance one is closer than you think.
@@ -116,7 +116,7 @@ Vault loot is genuinely strong for the midgame: enchanted gear, diamonds, emeral
 
 Here's where it gets spicy. You can crank a chamber into a harder, higher-reward state called an **ominous trial.**
 
-The trigger is the **Ominous Bottle** — a stackable potion-like item you get as a reward from vaults (a normal vault has roughly an 18.6% chance to contain one; raid captains at pillager outposts also drop them). Drink an ominous bottle **inside the chamber** and you gain **Trial Omen** (the Trial Chambers' flavor of the Bad Omen effect). With Trial Omen active, nearby trial spawners — including deactivated ones — reactivate as **ominous trial spawners**, swapping their orange particles for an eerie soul-blue glow.
+The trigger is the **Ominous Bottle** — a stackable potion-like item you get as a reward from vaults (a normal vault has roughly an 18.6% chance to contain one; [raid captains at pillager outposts](/blog/minecraft/minecraft-raids-pillagers-guide) also drop them). Drink an ominous bottle **inside the chamber** and you gain **Trial Omen** (the Trial Chambers' flavor of the Bad Omen effect). With Trial Omen active, nearby trial spawners — including deactivated ones — reactivate as **ominous trial spawners**, swapping their orange particles for an eerie soul-blue glow.
 
 What changes when a trial goes ominous:
 

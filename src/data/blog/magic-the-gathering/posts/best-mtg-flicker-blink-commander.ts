@@ -125,10 +125,10 @@ A blink engine with nothing good to blink is a waste of mana. The engine is only
 
 ![Restoration Angel, a four-mana white Angel with flash and flying that blinks a non-Angel creature when it enters the battlefield.](/images/blog/magic-the-gathering/best-mtg-flicker-blink-commander/restoration-angel.jpg)
 
-- **Card draw.** Mulldrifter ({4}{U}, draw two on entry) is the textbook payoff — blink it repeatedly and you draw two every turn. Any "draw a card when this enters" creature is a target.
-- **Removal on a stick.** Solitude ({3}{W}{W}, exiles a creature on entry — and has a free evoke-style cast mode) turns your blink engine into repeatable exile removal. Blink it each turn and you're killing a creature every turn.
-- **Ramp.** Creatures that fetch a land or make mana on entry turn flicker into an acceleration engine early and a mana sink late.
-- **Tokens and bodies.** ETB-token-makers refill your board every blink, which pairs especially well with a board-wide blinker like Brago or Yorion.
+- **[Card draw](/blog/magic-the-gathering/best-card-draw-commander-mtg).** Mulldrifter ({4}{U}, draw two on entry) is the textbook payoff — blink it repeatedly and you draw two every turn. Any "draw a card when this enters" creature is a target.
+- **[Removal on a stick](/blog/magic-the-gathering/best-removal-spells-mtg).** Solitude ({3}{W}{W}, exiles a creature on entry — and has a free evoke-style cast mode) turns your blink engine into repeatable exile removal. Blink it each turn and you're killing a creature every turn.
+- **[Ramp](/blog/magic-the-gathering/best-ramp-spells-commander-mtg).** Creatures that fetch a land or make mana on entry turn flicker into an acceleration engine early and a mana sink late.
+- **[Tokens and bodies](/blog/magic-the-gathering/best-mtg-token-generators-commander).** ETB-token-makers refill your board every blink, which pairs especially well with a board-wide blinker like Brago or Yorion.
 
 Then there are the **multiplier** payoffs that make every blink hit twice as hard:
 

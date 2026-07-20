@@ -152,7 +152,7 @@ Diving also has offensive use: it damages anything in the path, and it extends y
 
 Slopes are their own physics system in this game and they are the reason the slide courses feel different from everything else.
 
-If you body slide onto a sufficiently sloped surface, **your speed stays constant regardless of what you do with the stick, and you will not stop until you are back on level ground.** That is the mechanic underneath The Princess's Secret Slide, the Cool, Cool Mountain slide, and the Tall, Tall Mountain slide. On those courses the stick is for steering, not for braking — jamming it does nothing except bounce you off walls, which is exactly what costs people the sub-21-second star on the Princess's slide.
+If you body slide onto a sufficiently sloped surface, **your speed stays constant regardless of what you do with the stick, and you will not stop until you are back on level ground.** That is the mechanic underneath The Princess's Secret Slide, the Cool, Cool Mountain slide, and the Tall, Tall Mountain slide. On those courses the stick is for steering, not for braking — jamming it does nothing except bounce you off walls, which is exactly what costs people [the sub-21-second star on the Princess's slide](/blog/super-mario-64/super-mario-64-secret-stars-guide).
 
 Steep slopes you did not intend to be on will also slide Mario downward with no control until he reaches a flatter surface. If you are stuck sliding, the fastest recovery is usually to jump out of it and redirect in the air.
 
@@ -162,7 +162,7 @@ The backwards long jump — BLJ — is the most famous glitch in the game and it
 
 What that speed buys you:
 
-- **The endless stairs skip.** Normally the game warps you back down the staircase until you have 70 Power Stars. With enough BLJ speed you cross the trigger zone before the warp fires, and you get into Bowser in the Sky early. That is the backbone of low-star runs.
+- **The endless stairs skip.** Normally the game warps you back down the staircase [until you have 70 Power Stars](/blog/super-mario-64/super-mario-64-beginner-guide). With enough BLJ speed you cross the trigger zone before the warp fires, and you get into Bowser in the Sky early. That is the backbone of low-star runs.
 - **Wall clips.** Enough velocity and Mario passes through geometry that is supposed to be solid, which enables sequence breaks all over the castle.
 
 ![The endless stairs — normally a hard 70-star gate, and the most famous thing a BLJ skips.](/images/blog/super-mario-64/super-mario-64-movement-guide/endless-stairs.webp)

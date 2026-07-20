@@ -118,7 +118,7 @@ For a child's account, the safe configuration is chat and messaging set to **Fri
 
 **Voice chat** deserves its own note: it's gated to verified users 13 and up and is off by default for younger accounts, which is correct. Turning it on requires age verification, so it won't surprise you on a young kid's account.
 
-**Content restrictions** are the other half. Roblox tags experiences with age-based content guidance (the labels are periodically revised, so check the current set), and you can limit which maturity levels an account can access. For young players, restricting to age-appropriate content is the cleanest filter against experiences they shouldn't see. Combined with locked communication, this is the bulk of practical kid safety.
+**Content restrictions** are the other half. Roblox tags experiences with age-based content guidance (the labels are periodically revised, so check the current set), and you can limit which maturity levels an account can access. For young players, restricting to age-appropriate content is the cleanest filter against experiences they shouldn't see. For a hand-picked starting point, our [best Roblox games for kids](/blog/roblox/best-roblox-games-for-kids) rundown sticks to safe, age-appropriate experiences. Combined with locked communication, this is the bulk of practical kid safety.
 
 ## Screen time and spending controls
 
@@ -135,7 +135,7 @@ A note on the subscription: Roblox's paid membership (long known as Premium, per
 Settings stop strangers; knowledge stops scams. These are the evergreen ones, and they work because new players don't recognize them.
 
 - **"Free Robux" anything.** Every website, video, ad, or in-game sign promising free Robux is a scam, full stop. There is no free-Robux generator; they exist to steal your login or get you to "verify" your way into handing over your account. Roblox says this plainly, and so do we. The only legitimate ways to get Robux are buying it or earning it through the official creator/affiliate systems.
-- **Trust trades and item "holding."** "Send me your item and I'll send mine first" or "let me hold your limited, I'll give it back" are the oldest scams on the platform and still catch people daily. Never hand over an item on a promise. If a trade isn't a simultaneous in-system trade with both sides locked, walk away.
+- **Trust trades and item "holding."** "Send me your item and I'll send mine first" or "let me hold your limited, I'll give it back" are the oldest scams on the platform and still catch people daily. Never hand over an item on a promise. If a trade isn't a simultaneous [in-system trade](/blog/roblox/roblox-trading-limiteds-guide) with both sides locked, walk away.
 - **Fake moderators and account "verification."** Someone DMing as a "Roblox admin" asking for your password, a code, or to click a link is always a scam. Roblox staff never ask for your password or 2FA code. Don't click login links from DMs — go to the official site directly.
 - **Phishing links and lookalike sites.** Links promising deals, free items, or "you've been reported, log in to appeal" lead to fake login pages that harvest your credentials. Check the URL, and when in doubt, navigate to Roblox yourself instead of following a link.
 

@@ -116,7 +116,7 @@ The easiest way to check legality is to paste your decklist into [Scryfall](http
 
 ## How the game actually plays
 
-You start at 40 life with seven cards. The London mulligan applies: you can mulligan freely, drawing a fresh seven each time, but for every mulligan you take, you put that many cards from your final hand on the bottom of your library. Your first mulligan is "free" in most pods (you still draw seven again without putting anything on the bottom), which is a community courtesy more than an official rule, so confirm your table is using it before you rely on it.
+You start at 40 life with seven cards. The [London mulligan](/blog/magic-the-gathering/mtg-mulligan-guide-london-mulligan) applies: you can mulligan freely, drawing a fresh seven each time, but for every mulligan you take, you put that many cards from your final hand on the bottom of your library. Your first mulligan is "free" in most pods (you still draw seven again without putting anything on the bottom), which is a community courtesy more than an official rule, so confirm your table is using it before you rely on it.
 
 Once the game starts, turn order goes clockwise. There is no formal "active player gets first attack" priority weirdness beyond standard MTG rules.
 
@@ -167,7 +167,7 @@ A standard Rule 0 hits four questions:
 
 The casual-to-cEDH gap is enormous. A casual "battlecruiser" deck wants to do splashy 8-mana things on turn 8. A cEDH deck wants to win by turn 4 with infinite mana. Putting them at the same table without a heads-up is miserable for everyone.
 
-Wizards announced a formal Bracket System in 2024 that splits Commander into power tiers from "Exhibition" up through "cEDH" to standardize Rule 0. The rollout has been evolving, so treat the exact tier definitions as a moving target. Even if your pod ignores it, knowing the brackets exist makes the power-level conversation easier.
+Wizards announced a formal [Bracket System](/blog/magic-the-gathering/mtg-commander-brackets) in 2024 that splits Commander into power tiers from "Exhibition" up through "cEDH" to standardize Rule 0. The rollout has been evolving, so treat the exact tier definitions as a moving target. Even if your pod ignores it, knowing the brackets exist makes the power-level conversation easier.
 
 ## Where to play Commander in 2026
 
@@ -186,7 +186,7 @@ Wizards announced a formal Bracket System in 2024 that splits Commander into pow
 ![Sol Ring, the colorless two-mana artifact that taps for two and is a singleton staple of nearly every Commander deck.](/images/blog/magic-the-gathering/mtg-commander-format-guide-how-to-start/sol-ring.jpg)
 
 - **Running fewer than 36 lands.** The single most common mistake. You will get mana-screwed half your games.
-- **Skipping board wipes.** Commander pods can build wide armies fast. You need at least 2-3 mass removal pieces like Wrath of God, Damnation, or Blasphemous Act.
+- **Skipping board wipes.** Commander pods can build wide armies fast. You need at least 2-3 [mass removal pieces](/blog/magic-the-gathering/best-board-wipes-mtg) like Wrath of God, Damnation, or Blasphemous Act.
 - **No non-creature removal.** Doom Blade kills creatures. It does not kill the enchantment that is locking your team. Run artifact and enchantment removal too.
 - **Top-heavy curves.** A deck full of 7-drops loses to a deck full of 2-drops. Aim for the bulk of your spells to cost between 2 and 4 mana.
 - **Building infinite combos for a casual table.** Drawing your whole deck on turn 6 and winning with Thassa's Oracle in a casual pod is a fast way to never get invited back.

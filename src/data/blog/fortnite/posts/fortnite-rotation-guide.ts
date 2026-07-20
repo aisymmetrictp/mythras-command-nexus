@@ -73,7 +73,7 @@ Rotating is moving to stay inside the safe zone, but doing it *well* is reading 
 
 Players die mid-rotation because they treat moving as something they do *between* the important parts of the game, instead of one of the most dangerous things they do all match. When you're crossing open ground, you can't shoot back effectively, you can't see everyone who can see you, and you're a moving silhouette against the terrain. Every second in the open is a second someone on the high ground is lining you up.
 
-The storm is the clock behind all of it. It deals damage that **ramps up the later the game goes** — early storm is a slow chip you can tank, but late-game storm is a genuine threat to your life, so getting caught outside the circle in the back half of a match is often just death. That pressure forces everyone to move on the same timer, which is exactly why rotations are deadly: half the lobby is crossing open ground at once, and the players who planned their route are shooting the ones who didn't.
+The storm is the clock behind all of it. It deals damage that **ramps up the later the game goes** — early storm is a slow chip you can tank, but late-game storm is a genuine threat to your life, so getting caught outside the circle in the [back half of a match](/blog/fortnite/fortnite-endgame-strategy) is often just death. That pressure forces everyone to move on the same timer, which is exactly why rotations are deadly: half the lobby is crossing open ground at once, and the players who planned their route are shooting the ones who didn't.
 
 The fix: **treat every rotation as a deliberate decision, not an afterthought.** Before you move, know where you're going, what route keeps you in cover, and roughly who else is moving the same way. The players who never seem to die in the open aren't lucky — they decided their route while everyone else was still looting.
 
@@ -127,7 +127,7 @@ Movement is survival in a rotation, and the mobility toolkit is what lets you cr
 
 ![A Fortnite Launch Pad — the kind of mobility item that turns a bad rotation or a storm run into a fast, safe one.](/images/blog/fortnite/fortnite-rotation-guide/launch-pad.webp)
 
-On top of the baseline, **carry a dedicated rotation tool whenever you can**, especially in the back half of the game. Launch pads, vehicles, and grapple-style items all do the same job: cover a long, dangerous rotation in seconds and reposition out of a losing spot. A movement item is the difference between making a brutal storm rotation easily and dying in a field on foot — in the late game, a mobility slot is often worth more than a third weapon.
+On top of the baseline, **carry a [dedicated rotation tool](/blog/fortnite/fortnite-mobility-items-guide) whenever you can**, especially in the back half of the game. Launch pads, vehicles, and grapple-style items all do the same job: cover a long, dangerous rotation in seconds and reposition out of a losing spot. A movement item is the difference between making a brutal storm rotation easily and dying in a field on foot — in the late game, a mobility slot is often worth more than a third weapon.
 
 ## Holding zone vs taking zone
 
@@ -156,7 +156,7 @@ Rotation reading is identical across both modes — where the circle pulls, whic
 | Getting caught in the open | Throw up a wall to break the sightline while you move | Slide or sprint to the nearest hard cover; the wall isn't coming |
 | Holding the zone you took | Build cover/high ground on your position | Claim the best natural cover and elevation and hold it |
 
-The honest summary: **in Build mode you can manufacture cover mid-rotation, which gives you more margin for a sloppy route; in Zero Build the map's existing cover is all you get, so the route read matters even more.** (Our [Zero Build guide](/blog/fortnite/fortnite-zero-build-guide) goes deep on cover usage and mobility without walls.) Either way, the core skill — read the zone, move early, take the safe side — is the same, and it's the skill that carries across both modes.
+The honest summary: **in Build mode you can [manufacture cover mid-rotation](/blog/fortnite/fortnite-tunneling-guide), which gives you more margin for a sloppy route; in Zero Build the map's existing cover is all you get, so the route read matters even more.** (Our [Zero Build guide](/blog/fortnite/fortnite-zero-build-guide) goes deep on cover usage and mobility without walls.) Either way, the core skill — read the zone, move early, take the safe side — is the same, and it's the skill that carries across both modes.
 
 ## Avoiding open-field deaths
 

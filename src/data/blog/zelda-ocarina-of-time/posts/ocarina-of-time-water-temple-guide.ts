@@ -78,7 +78,7 @@ Understand the shape, budget for the menu, and this becomes a 45-minute dungeon.
 Three specific design decisions stacked up badly:
 
 1. **Iron Boots were equipment, not an item.** On N64 they live in the equip screen alongside tunics and swords, not in the three assignable item slots. Every sink-and-rise is a menu round trip.
-2. **The water level control is remote.** You raise and lower the water by playing **Zelda's Lullaby** at Triforce emblems scattered on different floors, so the switch is never where the door you want to open is.
+2. **The water level control is remote.** You raise and lower the water by playing **[Zelda's Lullaby](/blog/zelda-ocarina-of-time/ocarina-of-time-songs-guide)** at Triforce emblems scattered on different floors, so the switch is never where the door you want to open is.
 3. **The dungeon is dark and repetitive.** The original's texture work makes three floors of blue stone look nearly identical, and there is no map marker telling you which doors you have already been through.
 
 None of that is a puzzle. It is friction. Ocarina of Time 3D removed most of it, and the dungeon's reputation dropped almost overnight.
@@ -87,7 +87,7 @@ None of that is a puzzle. It is friction. Ocarina of Time 3D removed most of it,
 
 **Get the Zora Tunic.** Non-optional in practice. Adult Link drowns without it, and half this temple is underwater. Two ways to get it: melt the Red Ice around **King Zora** with Blue Fire from the Ice Cavern and he hands it over free, or buy it from the Zora Shop for **300 Rupees** — the most expensive tunic in the game, 100 more than the Goron Tunic.
 
-**Get the Iron Boots.** They come from the Ice Cavern behind Zora's Fountain, dropped by a White Wolfos. Sheik teaches you the **Serenade of Water** on the way out, which warps you to Lake Hylia.
+**Get the Iron Boots.** They come from the Ice Cavern behind Zora's Fountain, dropped by a White Wolfos — the [side dungeon the route funnels you through](/blog/zelda-ocarina-of-time/ocarina-of-time-dungeon-order-guide) right before this temple. Sheik teaches you the **Serenade of Water** on the way out, which warps you to Lake Hylia.
 
 **Bring a full bottle of fairies and a decent shield.** There is no fairy fountain inside, and the Like Likes in here will eat your Zora Tunic if they swallow you.
 

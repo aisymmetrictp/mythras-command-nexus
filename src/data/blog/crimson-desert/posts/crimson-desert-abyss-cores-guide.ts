@@ -149,7 +149,7 @@ Four sources, and they are not equally efficient:
 
 **Extraction from enemy equipment.** You can strip cores off enemies — and this is guaranteed if you disarm them with a shield bash. More on that in a second, because it is the most underused farming technique in the game.
 
-**Challenge rewards.** The world is dense with optional objectives that pay out cores.
+**Challenge rewards.** The [world is dense with optional objectives](/blog/crimson-desert/crimson-desert-pywel-exploration-guide) that pay out cores.
 
 **Crafting and synthesis through Elowen.** She can create cores from Abyss Cells plus specific stones and insects. Yes, insects. Crimson Desert runs fishing, hunting, cooking and crafting systems alongside the combat, and they feed into this. The hunting and gathering you dismissed as filler is a core supply line.
 
@@ -199,7 +199,7 @@ That last point catches people out constantly. Weapon upgrades in Crimson Desert
 
 Worth saying plainly: this system does not just make your numbers bigger. Some cores grant abilities, not stats — sweeping area attacks and similar actives that add options to Kliff's kit rather than multiplying existing ones.
 
-That interacts directly with what makes Crimson Desert's combat interesting in the first place. The game already lets you switch weapon types freely, mix unarmed grapples into weapon strings, and layer elemental effects onto attacks in real time. Cores extend the movelist further. A properly socketed Kliff is not a stronger version of an unsocketed one; he has more answers.
+That interacts directly with what makes Crimson Desert's combat interesting in the first place. The game already lets you [switch weapon types freely, mix unarmed grapples into weapon strings](/blog/crimson-desert/crimson-desert-combat-guide), and layer elemental effects onto attacks in real time. Cores extend the movelist further. A properly socketed Kliff is not a stronger version of an unsocketed one; he has more answers.
 
 Which is exactly why the Chapter 5 gate stings. The version of the game most people bounce off is the version without this system running. If you are on the fence, the honest advice is to push through to the Witch of Wisdom questline before you decide — the fundamentals covered in our [combat guide](/blog/crimson-desert/crimson-desert-combat-guide) will carry you there, and there is plenty of world worth seeing along the way in our [Pywel exploration guide](/blog/crimson-desert/crimson-desert-pywel-exploration-guide).
 

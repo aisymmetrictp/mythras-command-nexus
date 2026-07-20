@@ -147,7 +147,7 @@ So the read is binary and you have to make it fast:
 - **Normal attack (no glow):** parry, or counter if you know it.
 - **Red glow:** perfect dodge. Do not touch the guard button.
 
-This is the mechanical skill ceiling of Crimson Desert's combat in one sentence. Everything else is decoration. Players who can hold that distinction under pressure clear content that stonewalls everyone else, regardless of gear.
+This is the mechanical skill ceiling of Crimson Desert's combat in one sentence. Everything else is decoration. Players who can hold that distinction under pressure clear content that stonewalls everyone else, regardless of the [gear and Abyss Core sockets](/blog/crimson-desert/crimson-desert-abyss-cores-guide) they are running.
 
 ## Watch and Learn: free skills from the people trying to kill you
 
@@ -163,7 +163,7 @@ Two reasons to care:
 
 The behavioural change: when an enemy starts glowing blue, **stop killing them.** Every instinct you have says burst them down while they are telegraphing. Resist it. Let the fight run, let them show you the move again, then finish. A trash mob that teaches you a skill is worth more than the loot from three that did not.
 
-This is also the best argument for fighting things you could have avoided. Crimson Desert's world is enormous and skipping encounters is easy, but a player who engages varied enemy types ends up with a materially larger movelist than one who beelines objectives.
+This is also the best argument for fighting things you could have avoided. [Crimson Desert's world is enormous](/blog/crimson-desert/crimson-desert-pywel-exploration-guide) and skipping encounters is easy, but a player who engages varied enemy types ends up with a materially larger movelist than one who beelines objectives.
 
 ![A wolf pursuer enemy from Crimson Desert](/images/blog/crimson-desert/crimson-desert-combat-guide/wolfpursuer.webp)
 

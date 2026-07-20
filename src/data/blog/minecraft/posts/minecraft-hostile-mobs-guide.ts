@@ -76,7 +76,7 @@ A few ground rules that apply to almost everything below:
 
 - **Most hostile mobs spawn in darkness** (light level 0 in current versions). Light your base and paths and the majority of this list never spawns near you in the first place.
 - **A shield is the single best defensive item in the game.** It blocks melee hits, arrows, and most explosions if you raise it in time. If you take one lesson from this guide, it is *carry a shield.*
-- **Armor enchantments matter per threat.** Blast Protection for creepers, Projectile Protection for skeletons, Feather Falling for the falls these mobs love to cause. General Protection IV covers most of it.
+- **[Armor enchantments](/blog/minecraft/best-minecraft-enchantments) matter per threat.** Blast Protection for creepers, Projectile Protection for skeletons, Feather Falling for the falls these mobs love to cause. General Protection IV covers most of it.
 
 Now the actual roster, worst offenders first within each tier.
 
@@ -149,7 +149,7 @@ Counters:
 - **Carry milk** to instantly clear whatever debuff they land on you.
 - **Close the gap** so they cannot keep lobbing splash potions from range.
 
-Witches spawn naturally, in **swamp huts**, and as the dangerous final wave in **raids** — a raid full of healing, poison-throwing witches is one of the harder fights a mid-game player faces.
+Witches spawn naturally, in **swamp huts**, and as the dangerous final wave in **[raids](/blog/minecraft/minecraft-raids-pillagers-guide)** — a raid full of healing, poison-throwing witches is one of the harder fights a mid-game player faces.
 
 ## Phantoms: the punishment for not sleeping
 
@@ -168,8 +168,8 @@ Phantoms drop **phantom membrane**, which you need to repair an elytra and to br
 
 The Nether has its own roster, and these three matter most:
 
-- **Blaze.** Found at **Nether fortresses**, the blaze floats, shoots fireball volleys, and drops the **blaze rods** you need for brewing and for Eyes of Ender — so you have to fight them. Counters: **Fire Resistance potion** (makes their fireballs harmless), fight from cover or under an overhang, and use a bow, since closing on a floating, fire-spitting mob in the open is rough. **Snowballs** deal real damage to blazes specifically.
-- **Piglin.** Neutral *if you wear at least one piece of gold armor* — without gold, they attack on sight, and **opening or breaking chests/gold blocks near them** angers the whole group even if you are wearing gold. They wield crossbows and golden swords. Counter: wear gold, do not loot in front of them, and bartering with gold ingots is the intended interaction.
+- **Blaze.** Found at **[Nether fortresses](/blog/minecraft/minecraft-nether-fortress-bastion-guide)**, the blaze floats, shoots fireball volleys, and drops the **blaze rods** you need for brewing and for Eyes of Ender — so you have to fight them. Counters: **Fire Resistance potion** (makes their fireballs harmless), fight from cover or under an overhang, and use a bow, since closing on a floating, fire-spitting mob in the open is rough. **Snowballs** deal real damage to blazes specifically.
+- **Piglin.** Neutral *if you wear at least one piece of gold armor* — without gold, they attack on sight, and **opening or breaking chests/gold blocks near them** angers the whole group even if you are wearing gold. They wield crossbows and golden swords. Counter: wear gold, do not loot in front of them, and [bartering with gold ingots](/blog/minecraft/minecraft-piglin-bartering-guide) is the intended interaction.
 - **Hoglin.** Aggressive boar-like mobs in **crimson forests** that charge and fling you with their tusks — dangerous near lava or ledges. They are **afraid of warped fungus and nether portals**, so a placed warped fungus zones them off. They drop porkchops, making them a Nether food source.
 
 Also worth knowing: **piglin brutes** (in bastions) ignore your gold armor entirely and hit hard, and **ghasts** lob long-range explosive fireballs you can **deflect back at them** by punching/shooting the fireball.
@@ -187,7 +187,7 @@ How to actually handle the deep dark:
 - **Use snowballs / projectiles as decoys.** Throwing a snowball or arrow makes a vibration *over there*, sending the warden to investigate the wrong spot while you slip past.
 - **If it spawns, leave.** It emerges slowly and will **dig back underground and despawn** if it cannot detect a target for about a minute. Break line of detection, hide, and wait it out rather than trading blows.
 
-The deep dark is a stealth zone, not a combat zone. Treat the warden like an environmental hazard — lava you can hear coming — and you can loot ancient cities (which hold some of the best loot in the game) without ever swinging at it.
+The deep dark is a stealth zone, not a combat zone. Treat the warden like an environmental hazard — lava you can hear coming — and you can loot [ancient cities](/blog/minecraft/minecraft-deep-dark-warden-guide) (which hold some of the best loot in the game) without ever swinging at it.
 
 ## Danger ranking and takeaways
 

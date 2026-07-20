@@ -87,7 +87,7 @@ If you install nothing else, install these. They do not change gameplay — they
 
 **Lithium** is Sodium's quieter sibling. It optimizes the server-side game logic — mob AI, block ticks, the stuff happening every frame whether you see it or not — without changing how anything behaves. Run it alongside Sodium and you will not even notice it doing its job, which is the point.
 
-**Iris** is the modern shader loader. OptiFine used to be the only way to run shaders; Iris replaced it and runs them faster, in part because it is built to cooperate with Sodium instead of fighting it. If you want your world to look like the screenshots with the realistic water and god rays, Iris plus a shader pack is the move — just know shaders are a heavy hit, so a strong GPU helps.
+**Iris** is the modern shader loader. OptiFine used to be the only way to run shaders; Iris replaced it and runs them faster, in part because it is built to cooperate with Sodium instead of fighting it. If you want your world to look like the screenshots with the realistic water and god rays, Iris plus a [shader pack](/blog/minecraft/best-minecraft-shaders) is the move — just know shaders are a heavy hit, so a strong GPU helps.
 
 ## Quality-of-life mods: the ones you can't go back from
 
@@ -113,7 +113,7 @@ Performance and QoL mods improve Minecraft. These ones replace your reason for p
 | Biomes O' Plenty | Forge/NeoForge | Dozens of new biomes for worldgen and exploration |
 | Terralith | Fabric/Forge/NeoForge | Overhauls vanilla terrain generation, no new blocks needed |
 
-**Create** is the crown jewel of modern Minecraft modding. It adds rotational machinery — gears, shafts, belts, water wheels — that you assemble into genuinely satisfying contraptions. Automated farms, moving drawbridges, factory lines. It rewards engineering brain the way redstone does, but with way more visual payoff, and the in-world animations are gorgeous. If you have ever wanted Minecraft to scratch a Factorio itch, this is it. Multi-loader, so it fits whatever profile you are running.
+**Create** is the crown jewel of modern Minecraft modding. It adds rotational machinery — gears, shafts, belts, water wheels — that you assemble into genuinely satisfying contraptions. [Automated farms](/blog/minecraft/best-minecraft-farms), moving drawbridges, factory lines. It rewards engineering brain the way [redstone](/blog/minecraft/minecraft-redstone-basics) does, but with way more visual payoff, and the in-world animations are gorgeous. If you have ever wanted Minecraft to scratch a Factorio itch, this is it. Multi-loader, so it fits whatever profile you are running.
 
 **Twilight Forest** is the classic adventure overhaul. It adds a self-contained dimension you enter through a portal, packed with custom bosses, labyrinths, and progression gated behind defeating each boss. It is one of the oldest big mods still going, and it still holds up. Forge/NeoForge.
 
@@ -137,7 +137,7 @@ Match the version and loader for every single mod. That one rule prevents about 
 
 ## What about Bedrock
 
-Bedrock Edition — the version on consoles, mobile, and the Windows store — does not use Java mods at all. None of the mods above work on it. Instead, Bedrock has **add-ons**: behavior packs and resource packs that tweak the game within official limits. They are sandboxed and far more restricted than Java mods, so there is no Bedrock equivalent of Sodium or Create. You get texture packs, some mob-behavior tweaks, and Marketplace content, but not the deep code-level mods Java enjoys. If modding is your main reason to play, **play Java.** That is just the honest answer.
+Bedrock Edition — the version on consoles, mobile, and the Windows store — does not use Java mods at all. None of the mods above work on it. Instead, Bedrock has **add-ons**: behavior packs and resource packs that tweak the game within official limits. They are sandboxed and far more restricted than Java mods, so there is no Bedrock equivalent of Sodium or Create. You get [texture packs](/blog/minecraft/best-minecraft-texture-packs), some mob-behavior tweaks, and Marketplace content, but not the deep code-level mods Java enjoys. If modding is your main reason to play, **play Java.** That is just the honest answer.
 
 ## Quick Action Checklist
 

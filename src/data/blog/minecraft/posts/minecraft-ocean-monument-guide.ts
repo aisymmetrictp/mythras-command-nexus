@@ -81,9 +81,9 @@ The monument is also just one of the most striking structures in the game — a 
 
 ## How to find an ocean monument
 
-Monuments generate in **deep ocean biomes** and their variants (cold, warm, frozen, lukewarm deep ocean). They do not spawn in shallow oceans, so if you are paddling around a regular ocean you are in the wrong depth. You have two ways to track one down:
+Monuments generate in **[deep ocean biomes](/blog/minecraft/minecraft-biomes-guide)** and their variants (cold, warm, frozen, lukewarm deep ocean). They do not spawn in shallow oceans, so if you are paddling around a regular ocean you are in the wrong depth. You have two ways to track one down:
 
-1. **Buy an ocean explorer map.** A **cartographer villager** sells ocean explorer maps for emeralds and a compass at one of its higher trade tiers. The map marks the nearest monument relative to your position and updates as you travel toward it. This is by far the most reliable method — it points you straight at one.
+1. **Buy an ocean explorer map.** A **[cartographer villager](/blog/minecraft/minecraft-villager-trading-guide)** sells ocean explorer maps for emeralds and a compass at one of its higher trade tiers. The map marks the nearest monument relative to your position and updates as you travel toward it. This is by far the most reliable method — it points you straight at one.
 2. **Explore deep ocean by boat.** Monuments are large and lit, so from the surface in clear water you can sometimes spot the dark prismarine bulk and the glow of sea lanterns below you. Sail across deep ocean, look down, and watch for the silhouette.
 
 ![A view down at a Minecraft ocean monument from the surface, the dark prismarine structure and glowing sea lanterns visible through the water.](/images/blog/minecraft/minecraft-ocean-monument-guide/ocean-monument.webp)
@@ -112,9 +112,9 @@ The classic counter to Mining Fatigue is **a bucket of milk.** Drinking milk cle
 
 Milk is a stopgap, though. The clean solution is to **kill the elder guardians**, after which no new Mining Fatigue gets applied and you can mine freely. To fight effectively underwater you want:
 
-- **Respiration III on a helmet and Aqua Affinity** so you can breathe longer and mine at normal speed underwater. These two enchantments are close to mandatory for monument work.
+- **[Respiration III on a helmet and Aqua Affinity](/blog/minecraft/best-minecraft-enchantments)** so you can breathe longer and mine at normal speed underwater. These two enchantments are close to mandatory for monument work.
 - **Depth Strider III boots** so you can actually move instead of swimming in slow motion.
-- **A Potion of Water Breathing or Night Vision** (or both) to extend air and see in the gloom. A conduit later replaces these permanently.
+- **A [Potion of Water Breathing or Night Vision](/blog/minecraft/minecraft-potion-brewing-guide)** (or both) to extend air and see in the gloom. A conduit later replaces these permanently.
 - **A strong melee weapon.** Guardians have low health but there are a lot of them; a Sharpness diamond or netherite sword clears the regular guardians fast.
 - **A trident with the Impaling enchantment**, which deals bonus damage to aquatic mobs (including guardians) and is one of the best monument weapons if you have one.
 
@@ -151,7 +151,7 @@ Dry your wet sponges in a furnace to turn them into reusable dry sponges. A dry 
 
 The conduit is the payoff of the whole monument trip, so here is the exact recipe and build.
 
-**Crafting the conduit block:** Surround **1 Heart of the Sea** with **8 nautilus shells** in a crafting grid. The Heart of the Sea comes from **buried treasure chests** (found with treasure maps from shipwrecks and ocean ruins), and nautilus shells come from **fishing, drowned drops, and wandering trader trades.** Gathering eight nautilus shells is usually the bottleneck.
+**Crafting the conduit block:** Surround **1 Heart of the Sea** with **8 nautilus shells** in a crafting grid. The Heart of the Sea comes from **buried treasure chests** (found with treasure maps from shipwrecks and ocean ruins), and nautilus shells come from **[fishing](/blog/minecraft/minecraft-fishing-guide), drowned drops, and wandering trader trades.** Gathering eight nautilus shells is usually the bottleneck.
 
 **Activating it:** Place the conduit in the **center of a 3x3x3 volume of water**, then build an **activation frame** around it. The frame is three open 5x5 squares — one on each axis (think three intersecting rings centered on the conduit). Only these blocks count toward activation:
 

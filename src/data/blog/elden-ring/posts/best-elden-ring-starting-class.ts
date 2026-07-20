@@ -124,7 +124,7 @@ The origins that start higher in these two — Vagabond at 15 Vigor, Hero at 14,
 
 ## All ten origins ranked
 
-Ranked for a blind or semi-blind first playthrough. If you are on your fourth run and know exactly where the Meteorite Staff is, ignore all of this and pick whatever looks coolest.
+Ranked for a blind or semi-blind first playthrough. If you are on your fourth run and know exactly [where the Meteorite Staff is](/blog/elden-ring/elden-ring-early-game-route), ignore all of this and pick whatever looks coolest.
 
 ### S-tier — Vagabond, Astrologer, Samurai
 
@@ -164,7 +164,7 @@ For a first playthrough it is a bad idea. 414 HP and a club is a rough three hou
 
 ## Picking by the build you actually want
 
-Cut through the tiers with this instead. Decide what you want to be doing at hour forty, then pick the origin that has the fewest wasted points pointing away from it:
+Cut through the tiers with this instead. Decide what you want to be doing at hour forty, then pick the origin that has the fewest wasted points pointing away from it — and once you know your damage stat, [how weapon scaling turns it into damage](/blog/elden-ring/elden-ring-weapon-scaling-explained) is what decides how far to push it:
 
 - **Strength / colossal weapons** — Hero or Vagabond. Hero if you want pure Strength, Vagabond if you want Strength with a functioning shield.
 - **Dexterity / katanas and bleed** — Samurai. Not close.
@@ -185,7 +185,7 @@ The keepsake is a smaller decision than the origin but it is the one people agon
 
 The two defensible alternatives are the **Crimson Amber Medallion**, a talisman that raises max HP and stays useful for a long time, and **Stonesword Key** ×2 if you already know exactly which two Imp Statues you want to open. Shabriri's Woe attracts enemy aggression and is a deliberate hard-mode pick — take it only if you know why you want it. Skip the Fanged Imp Ashes: Renna hands you the Spirit Calling Bell and the Lone Wolf Ashes within the first hour anyway.
 
-If you want the full opening sequence — where Torrent comes from, which Limgrave stops matter and in what order — that is covered in the early game route guide.
+If you want the full opening sequence — where Torrent comes from, which Limgrave stops matter and in what order — that is covered in [the early game route guide](/blog/elden-ring/elden-ring-early-game-route).
 
 ## Quick Action Checklist
 
@@ -193,7 +193,7 @@ If you want the full opening sequence — where Torrent comes from, which Limgra
 - Remember every origin has **79 attribute points plus its level** — nobody is getting a better deal than you.
 - Take **Golden Seed** as your keepsake unless you have a specific reason not to.
 - Level **Vigor to 30 before anything else.** 522 HP to 994 HP costs fifteen levels and it is the best fifteen levels you will ever spend.
-- Do not put a single point into a stat below its weapon requirement threshold — unmet requirements cost you a flat 40% damage penalty on the relevant scaling.
+- Do not put a single point into a stat below its weapon requirement threshold — unmet requirements cost you [a flat 40% damage penalty](/blog/elden-ring/elden-ring-weapon-scaling-explained) on the relevant scaling.
 - Stop obsessing. **Rennala can rebirth you** after the Academy of Raya Lucaria for one Larval Tear.
 `,
   faq: [

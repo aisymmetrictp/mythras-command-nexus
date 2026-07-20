@@ -173,7 +173,7 @@ Any of these can turn a gap you wrote off into a route. If you have been keeping
 
 ### Economy and Damage Trinkets
 
-- **Deboning Wand.** Enemies drop far more Bones. This is the farming trinket, and it is the correct equip any time you are deliberately grinding toward a Bone Up or a shop purchase.
+- **Deboning Wand.** Enemies drop far more Bones. This is the farming trinket, and it is the correct equip any time you are deliberately grinding toward a [Bone Up](/blog/mina-the-hollower/mina-the-hollower-beginner-guide) or a shop purchase.
 - **Stolenoid.** Magnetizes pickups, which is quietly excellent given how much of your Joule income comes from scattered drops.
 - **Shock Flint.** Fires projectiles while you are at full health or on plasma.
 - **Willow the Wisp.** Grants attack-boosting wisps after you take damage.
@@ -190,7 +190,7 @@ The most consistent complaint about Mina the Hollower, echoed by players and at 
 
 **The defensive build.** Twill Weave for a flat Defense level, Mist Jar in a sidearm slot for the only healing in the game, and Bubble Ring once you have the slots so that pressing your advantage generates shields. This build accepts that you will get hit and reduces what each hit costs.
 
-**The never-touch-them build.** Beckoning Collar for elusive targets, Gyro Dagger for juggling at range, and a Nightstar for its long reach. Knockback cannot launch you if the enemy never closes. This is the safest way to play cramped rooms with pit edges.
+**The never-touch-them build.** Beckoning Collar for elusive targets, Gyro Dagger for juggling at range, and a [Nightstar for its long reach](/blog/mina-the-hollower/mina-the-hollower-weapons-guide). Knockback cannot launch you if the enemy never closes. This is the safest way to play cramped rooms with pit edges.
 
 **The turn-it-around build.** Drill Driver knocks enemies into pits. If the level design is going to use holes as a weapon, use them back. Pair with Volt Hatchet for clustered groups and you have a kit that treats the arena hazards as your damage source.
 

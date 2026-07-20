@@ -65,7 +65,7 @@ export const pokemonPokopiaHabitatComfortGuide: BlogPost = {
     { id: 'a-repeatable-habitat-workflow', label: 'A repeatable habitat workflow', level: 2 },
     { id: 'quick-action-checklist', label: 'Quick Action Checklist', level: 2 },
   ],
-  content: `Habitat 001 in Pokopia is four tiles of tall grass. That is the entire recipe, and it will attract Bulbasaur, Charmander, Charizard, Squirtle, Oddish and Geodude. You can build it in your first twenty minutes with a single skill.
+  content: `Habitat 001 in Pokopia is four tiles of tall grass. That is the entire recipe, and it will attract Bulbasaur, Charmander, Charizard, Squirtle, Oddish and Geodude. You can build it in your [first twenty minutes](/blog/pokemon-pokopia/pokemon-pokopia-beginner-guide) with a single skill.
 
 That accessibility is deliberate, and it hides how much depth sits behind it. There are 209 habitats in the base Habitat Dex, not counting event habitats added through updates, and they scale from four blades of grass to elaborate specific arrangements. The tableside delivery cart habitat, for instance, wants a Push Cart, a Chic Table, two Chic Chairs, a Small Vase and a plate of food, and it exists to attract exactly one Pokemon: Empoleon.
 
@@ -129,7 +129,7 @@ Hoothoot wanting darkness is the classic example — a beautifully lit build is 
 
 Both the Pokedex entry and the Habitat Dex entry list a species' preferred ranges and favorite items. Read the entry, check the workbench, craft the specific things it wants. There is no hidden formula here, just a lookup most players never bother doing.
 
-Your terraforming skills are the levers for the environmental categories. Water Gun and Suck Up Liquids move humidity. Lighting fixtures and placement move light. Biome and terrain choices move temperature.
+Your [terraforming skills](/blog/pokemon-pokopia/pokemon-pokopia-ditto-transformations-guide) are the levers for the environmental categories. Water Gun and Suck Up Liquids move humidity. Lighting fixtures and placement move light. Biome and terrain choices move temperature.
 
 ## Natural habitats vs houses
 

@@ -95,7 +95,7 @@ Two early Sign-tree abilities make it dramatically better:
 
 Active Shield is, functionally, a heal that runs on getting punched. Against a pack of drowners it is close to unfair. Note that since Patch 4.0, the next-gen update from December 14, 2022, Quen no longer strips existing negative effects like poison. Instead the effect drains your shield.
 
-The other four signs earn their keep too. Igni is your damage and, with the Melt Armor ability, permanently strips up to 45% of an enemy's armor. Yrden slows enemies inside its circle and is flatly required against wraiths, which are otherwise near-immune. Aard staggers and knocks down, opening finishers. Axii charms one enemy out of the fight and, with Delusion, opens extra dialogue options that occasionally hand you experience or skip a fight.
+The other four signs earn their keep too. Igni is your damage and, with [the Melt Armor ability](/blog/the-witcher-3/witcher-3-build-guide), permanently strips up to 45% of an enemy's armor. Yrden slows enemies inside its circle and is flatly required against wraiths, which are otherwise near-immune. Aard staggers and knocks down, opening finishers. Axii charms one enemy out of the fight and, with Delusion, opens extra dialogue options that occasionally hand you experience or skip a fight.
 
 ## The alchemy you actually need early
 
@@ -148,7 +148,7 @@ Four factions ship in the base game, plus Skellige added in Blood and Wine. Nort
 ## Mistakes that cost new players hours
 
 - **Selling monster parts.** You will need them for potions, oils and gear crafting. Sell trophies and jewellery instead.
-- **Ignoring armour weight class.** Light armour boosts stamina regeneration and fast-attack playstyles, heavy soaks hits. Pick one and build into it rather than wearing whatever has the highest number.
+- **Ignoring [armour weight class](/blog/the-witcher-3/witcher-3-witcher-gear-guide).** Light armour boosts stamina regeneration and fast-attack playstyles, heavy soaks hits. Pick one and build into it rather than wearing whatever has the highest number.
 - **Hoarding potions.** They restock on meditation. Drink them.
 - **Overlevelling by grinding.** Enemies far below your level give almost nothing, and the game's pacing assumes you are roughly level-matched to the main quest.
 - **Skipping the tutorial prompts on the loading screens.** They are the only place several systems are explained at all.

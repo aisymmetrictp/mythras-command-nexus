@@ -83,7 +83,7 @@ Start with what the game does and does not stop you from doing.
 
 - **The level cap is 12 total**, across all classes combined. A Fighter 6 / Warlock 6 is a level 12 character, not a level 12 Fighter with a bonus.
 - **There are no ability score prerequisites.** This is the headline BG3 deviation from 5e. Nothing gates any combination.
-- **Multiclassing is disabled entirely on Explorer difficulty.** Custom difficulty has an explicit toggle if you want easier fights *and* build freedom.
+- **Multiclassing is disabled entirely on [Explorer difficulty](/blog/baldurs-gate-3/baldurs-gate-3-beginner-guide).** Custom difficulty has an explicit toggle if you want easier fights *and* build freedom.
 - **You add a class through the level-up screen**, choosing to advance an existing class or add a new one each level.
 - **Your total character level drives your proficiency bonus**, so splitting classes never costs you accuracy.
 
@@ -174,7 +174,7 @@ Three levels is a real cost, and it pushes Extra Attack back to character level 
 
 ### One or two levels of Cleric
 
-One Cleric level gives you a **Domain at level 1** — and subclass proficiencies come through in full when multiclassing, so **Life, Nature, Tempest, and War** genuinely hand you heavy armour. That is how a Sorcerer or Warlock ends up in plate.
+One Cleric level gives you a **Domain at level 1** — and subclass proficiencies come through in full when multiclassing, so **Life, Nature, Tempest, and War** genuinely hand you heavy armour. That is how [a Sorcerer or Warlock](/blog/baldurs-gate-3/best-baldurs-gate-3-classes-for-beginners) ends up in plate.
 
 Two levels adds **Channel Divinity**, recharging on a short rest. Tempest's version maximises lightning and thunder damage, which is why it anchors so many lightning builds.
 

@@ -73,7 +73,7 @@ The catch is that the mansion does not want you to have it. It is a sprawling da
 
 Three things pull players to a mansion, in order of importance:
 
-- **Totems of Undying.** Evokers are one of only two sources (the other is raids), and a mansion typically has several evokers, so a single clear can net you two, three, or more totems. Every totem is a free "do not die" charge. For PvP, hardcore worlds, or pushing into the End and the deep dark, this is the most valuable loot in the building.
+- **Totems of Undying.** Evokers are one of only two sources (the other is [raids](/blog/minecraft/minecraft-raids-pillagers-guide)), and a mansion typically has several evokers, so a single clear can net you two, three, or more totems. Every totem is a free "do not die" charge. For PvP, hardcore worlds, or pushing into the End and the deep dark, this is the most valuable loot in the building.
 - **Guaranteed diamonds.** Two of the secret rooms hide a **diamond block** (that's nine diamonds each) — one buried inside an obsidian box, one sealed in a glass case in a lava room. If you find them, that's free netherite-tier gear progress with zero mining.
 - **It's a finite, clearable dungeon.** The vindicators and evokers do not respawn once you kill them, so a mansion is something you can fully clear and then loot at your leisure, or even claim as a base. It's one of the few "raid the dungeon" experiences Minecraft has.
 
@@ -83,7 +83,7 @@ There's also a pile of ordinary chest loot, dark oak by the truckload, and the s
 
 Mansions generate **rarely**, only in **dark forest** biomes (and, on Bedrock, the pale garden and dark forest hills variants), and they spawn **far from the world origin** — you are not stumbling onto one near spawn. Wandering won't cut it. You have two real options:
 
-1. **Buy a woodland explorer map.** This is the intended method. A **cartographer villager** sells a woodland explorer map for emeralds and a compass at one of its higher trade tiers (master-level). The map points you toward a mansion and fills in as you travel. One honest caveat the wiki is explicit about: the map does **not** always point to the *nearest* mansion — it points to *a* mansion, which can still be thousands of blocks away. Bring food, a boat, and patience.
+1. **Buy a woodland explorer map.** This is the intended method. A **[cartographer villager](/blog/minecraft/minecraft-villager-trading-guide)** sells a woodland explorer map for emeralds and a compass at one of its higher trade tiers (master-level). The map points you toward a mansion and fills in as you travel. One honest caveat the wiki is explicit about: the map does **not** always point to the *nearest* mansion — it points to *a* mansion, which can still be thousands of blocks away. Bring food, a boat, and patience.
 2. **Use \`/locate structure mansion\`** if you play with cheats on. It spits out coordinates to the closest one instantly. Obviously not for legit survival, but great for testing, creative, or a relaxed world where you just want to go.
 
 ![A Minecraft woodland mansion, the enormous dark oak structure that only generates in dark forest biomes far from spawn.](/images/blog/minecraft/minecraft-woodland-mansion-guide/woodland-mansion.webp)
@@ -94,11 +94,11 @@ The trek is genuinely the hard part. A woodland explorer map can send you 5,000-
 
 A mansion will punish you for showing up underleveled. Bring:
 
-- **Diamond or netherite armor with Protection IV.** Vindicators hit hard in melee; you want the buffer.
+- **[Diamond or netherite armor](/blog/minecraft/minecraft-armor-guide) with Protection IV.** Vindicators hit hard in melee; you want the buffer.
 - **A strong sword** (Sharpness V) and ideally **a bow or crossbow** for evokers and for shooting through doorways.
 - **A shield.** Vindicators are melee-only, so a raised shield turns their charge into a non-event. This is the most important single item.
 - **Food and a few golden apples.** Evoker fights get chaotic; the heals matter.
-- **Torches — a lot of them.** The mansion is dimly lit, which means regular hostile mobs (zombies, skeletons, creepers) spawn *inside* on top of the illagers. Lighting rooms as you clear them stops the place from re-populating behind you.
+- **Torches — a lot of them.** The mansion is dimly lit, which means [regular hostile mobs](/blog/minecraft/minecraft-hostile-mobs-guide) (zombies, skeletons, creepers) spawn *inside* on top of the illagers. Lighting rooms as you clear them stops the place from re-populating behind you.
 - **Blocks to wall off doorways**, plus a water bucket and a bed to set your spawn nearby.
 
 The mob that earns the gear is the evoker, but the thing that quietly kills careless players is the darkness spawning a creeper behind them mid-fight. Light is armor here.
@@ -174,7 +174,7 @@ Priorities on the way out:
 - **The two diamond blocks** from the lava and obsidian secret rooms, if you find them — 18 diamonds for the price of mining through a wall.
 - **Chest loot.** Mansion chests roll a grab bag: emeralds, iron and gold ingots, enchanted books, lead, name tags, music discs, the occasional diamond hoe/tool, and on Java a guaranteed Efficiency I iron axe in the tree-chopping room. Nothing build-defining, but solid mid-game material.
 - **Dark oak.** The entire mansion is dark oak logs and planks — one of the rarer woods, available in bulk only here and in the dark forest around it. If you build, strip it.
-- **Allays**, if there are caged ones — these helpful little item-collecting mobs are great for sorting and farms. Free them by breaking the cage.
+- **[Allays](/blog/minecraft/minecraft-allay-guide)**, if there are caged ones — these helpful little item-collecting mobs are great for sorting and farms. Free them by breaking the cage.
 
 What to skip: the decorative birch pillar rooms, most of the bulk cobblestone and generic blocks, and the spider spawner unless you specifically want a mob farm.
 

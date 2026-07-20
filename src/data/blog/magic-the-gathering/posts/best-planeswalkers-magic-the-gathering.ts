@@ -93,9 +93,9 @@ Wrenn and Six is the most efficient planeswalker ever printed for constructed. T
 
 Oko, Thief of Crowns is the cautionary tale. It cost three mana, entered at four loyalty, and its +1 made a 3/3 Elk while its -5 turned your opponent's best permanent into a vanilla 3/3. It could elk your own Food token to gain loyalty, defend itself, and neutralize any threat. It was so dominant it got banned in Standard, Pioneer, Modern, Legacy, and Brawl. When a walker breaks five formats, it's S-tier.
 
-Teferi, Hero of Dominaria is the platonic control planeswalker. The +1 draws a card and untaps two lands, meaning he protects your counterspell mana while building card advantage. The -3 bounces any permanent. The ultimate exiles three of the opponent's permanents and shuffles them away, which usually ends the game. Every white-blue control deck for years was built to land and protect this card.
+Teferi, Hero of Dominaria is the platonic control planeswalker. The +1 draws a card and untaps two lands, meaning he protects your [counterspell](/blog/magic-the-gathering/best-counterspells-mtg) mana while building card advantage. The -3 bounces any permanent. The ultimate exiles three of the opponent's permanents and shuffles them away, which usually ends the game. Every white-blue control deck for years was built to land and protect this card.
 
-Ugin, the Spirit Dragon costs eight, but in any deck that ramps there, he's a one-card board wipe that leaves a threat behind. The -X destroys every nonland permanent of a chosen color or colorless — point it at the dominant color and you reset the board while keeping a seven-loyalty walker. In Commander he's a colorless include that fits any deck.
+Ugin, the Spirit Dragon costs eight, but in any deck that ramps there, he's a one-card [board wipe](/blog/magic-the-gathering/best-board-wipes-mtg) that leaves a threat behind. The -X destroys every nonland permanent of a chosen color or colorless — point it at the dominant color and you reset the board while keeping a seven-loyalty walker. In Commander he's a colorless include that fits any deck.
 
 ## A-tier: the reliable bombs
 
@@ -116,7 +116,7 @@ The Wandering Emperor is the best of the bunch for flexibility. Flash means you 
 
 Liliana of the Veil is the disruption walker. Plus to make everyone discard, minus to force a sacrifice that gets around hexproof and indestructible. In 1v1 Modern and Legacy she strips the opponent's hand and removes their threats. In multiplayer Commander she's weaker — the symmetrical discard hits you too, and three opponents refill faster than one.
 
-Karn, the Great Creator and Narset, Parter of Veils are the hatebears of the group. Karn turns off every opponent's mana rock and equipment, then fetches a silver-bullet artifact from your sideboard or, in singleton formats, your collection-as-wishboard where allowed. Narset stops opponents from drawing extra cards — devastating against Rhystic Study and wheel effects — and digs you toward gas. Both are cEDH and competitive-constructed staples.
+Karn, the Great Creator and Narset, Parter of Veils are the hatebears of the group. Karn turns off every opponent's mana rock and equipment, then fetches a silver-bullet artifact from your sideboard or, in singleton formats, your collection-as-wishboard where allowed. Narset stops opponents from drawing extra cards — devastating against Rhystic Study and [wheel effects](/blog/magic-the-gathering/best-mtg-wheel-effects) — and digs you toward gas. Both are cEDH and competitive-constructed staples.
 
 > A-tier walkers all share one trait: they affect the board the turn they enter. The Wandering Emperor kills something on flash. Elspeth makes three blockers. Liliana strips a card. None of them are "play it and pass."
 

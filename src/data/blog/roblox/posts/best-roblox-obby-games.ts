@@ -134,7 +134,7 @@ The genre lines up neatly on a single axis — how much pain you're signing up f
 
 Quick rule of thumb: if you've never played an obby, start with **Mega Easy Obby** to get your jump timing down, then graduate to the **classic escape obbys** for variety. When you want a real challenge, **Tower of Hell** is the must-play benchmark. If you catch the bug and want to actually get good, **Eternal Towers of Hell** gives you a difficulty ladder to climb for months. And when even that stops challenging you, the **difficulty chart obbys** are waiting at the top.
 
-The best part: every one of these is completely free, there's nothing to buy that affects whether you clear a jump, and nobody can scam you or outspend you. It's pure skill from the first stage to the last. That's also why an obby is the lowest-risk way to ease a hesitant friend onto Roblox — the loop is understood in about four seconds, and the only thing standing between them and the finish is their own timing.
+The best part: every one of these is completely free, there's nothing to buy that affects whether you clear a jump, and nobody can scam you or outspend you. It's pure skill from the first stage to the last. That's also why an obby is the lowest-risk way to [ease a hesitant friend onto Roblox](/blog/roblox/best-roblox-games-with-friends) — the loop is understood in about four seconds, and the only thing standing between them and the finish is their own timing. And if playing them makes you want to build one, the obby is famously the [best first project in Roblox Studio](/blog/roblox/roblox-studio-basics).
 
 ## Quick Action Checklist
 

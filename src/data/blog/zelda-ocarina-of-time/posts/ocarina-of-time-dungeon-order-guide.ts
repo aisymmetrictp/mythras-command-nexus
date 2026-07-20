@@ -161,7 +161,7 @@ Bring the **Lens of Truth** from the Bottom of the Well or you will spend the en
 
 **Items:** Silver Gauntlets (as child), Mirror Shield (as adult). **Boss:** Twinrova. **Reward:** Spirit Medallion.
 
-The clever one. Adult Link crosses the Haunted Wasteland, reaches the Desert Colossus, walks into the temple, and immediately hits two obstacles he cannot solve — a crawlspace too small and a block too heavy. He steps back out, Sheik teaches him the **Requiem of Spirit**, and then the real solution is to warp back in as a *child*, run the western half, and grab the Silver Gauntlets. Return as an adult, run the eastern half, take the Mirror Shield, and beat Koume and Kotake by catching each sister's magic on the shield and firing it into the other.
+The clever one. Adult Link crosses the Haunted Wasteland, reaches the Desert Colossus, walks into the temple, and immediately hits two obstacles he cannot solve — a crawlspace too small and a block too heavy. He steps back out, Sheik teaches him the **Requiem of Spirit** — one of the [warp melodies covered in our songs guide](/blog/zelda-ocarina-of-time/ocarina-of-time-songs-guide) — and then the real solution is to warp back in as a *child*, run the western half, and grab the Silver Gauntlets. Return as an adult, run the eastern half, take the Mirror Shield, and beat Koume and Kotake by catching each sister's magic on the shield and firing it into the other.
 
 ![The Spirit Temple carved into the Goddess of the Sand at the Desert Colossus in Ocarina of Time.](/images/blog/zelda-ocarina-of-time/ocarina-of-time-dungeon-order-guide/spirit-temple.webp)
 
@@ -195,7 +195,7 @@ The route is identical across versions. The friction is not.
 
 - **N64 (1998), and the Virtual Console and Nintendo Switch Online re-releases.** The original. Iron Boots and Hover Boots live in the equipment menu, so you are pausing constantly in the Water and Shadow Temples.
 - **Ocarina of Time 3D (2011).** Iron Boots become a normal assignable item, the Water Temple gained glowing wall markings and better lighting, gyro aiming makes the Bow and Slingshot far more pleasant, and Sheikah Stones dispense hint videos. Same dungeons, same order, dramatically less menu.
-- **Master Quest.** A remixed-puzzle version, first bundled on the GameCube Collector's Edition and later included in the 3DS release, where it is also **mirrored** left-to-right. Dungeon order is unchanged, but the interiors are rearranged and much harder. The Water Temple in Master Quest has only **two Small Keys** versus six in the original, and hands you the Longshot very early.
+- **Master Quest.** A remixed-puzzle version, first bundled on the GameCube Collector's Edition and later included in the 3DS release, where it is also **mirrored** left-to-right. Dungeon order is unchanged, but the interiors are rearranged and much harder. The [Water Temple in Master Quest](/blog/zelda-ocarina-of-time/ocarina-of-time-water-temple-guide) has only **two Small Keys** versus six in the original, and hands you the Longshot very early.
 
 If this is your first playthrough, play 3D. If you have beaten it before and want the layouts to surprise you again, mirrored Master Quest is the closest thing to a fresh run.
 

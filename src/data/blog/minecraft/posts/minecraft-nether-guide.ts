@@ -83,7 +83,7 @@ So you have to go. The good news: the Nether punishes panic and rewards prep. Sh
 
 Two things you cannot get anywhere else:
 
-- **Blaze rods.** They drop only from blazes, which only spawn in nether fortresses. You grind blaze rods into blaze powder, which you need for Eyes of Ender (to find the stronghold) and for brewing every potion. No blaze rods, no End, no potions. Full stop.
+- **Blaze rods.** They drop only from blazes, which only spawn in nether fortresses. You grind blaze rods into blaze powder, which you need for Eyes of Ender (to [find the stronghold](/blog/minecraft/how-to-beat-the-ender-dragon)) and for brewing every potion. No blaze rods, no End, no potions. Full stop.
 - **Netherite.** The upgrade above diamond. Netherite gear has more durability, doesn't burn in lava, and gives you knockback resistance. It comes from ancient debris, which only generates in the Nether. This is the endgame armor and tool material.
 
 You also pick up glowstone, quartz, soul sand (for water elevators and wither summoning), and the best fast-travel trick in the game: **the Nether is roughly 8x compressed compared to the Overworld.** Walk 1 block in the Nether and you move 8 blocks back home. Players build Nether highways to teleport across their whole map. That alone makes it worth learning.
@@ -93,12 +93,12 @@ You also pick up glowstone, quartz, soul sand (for water elevators and wither su
 Do not improvise this. The Nether has no margin for "I'll grab that later."
 
 **Armor and weapons:**
-- **Full diamond armor**, ideally with Protection. Netherite is better if you somehow already have it, but you are probably here to get it.
+- **Full [diamond armor](/blog/minecraft/minecraft-armor-guide)**, ideally with Protection. Netherite is better if you somehow already have it, but you are probably here to get it.
 - **A good sword** (Sharpness diamond) and **a bow or crossbow with a stack-plus of arrows** for ghasts and skeletons.
 - **A shield.** It blocks ghast fireballs and blaze fireballs. Hugely underrated in the Nether.
 
 **Survival kit:**
-- **Fire Resistance potions — the single most important item.** They make lava and blaze fireballs do nothing for the duration. Bring several. If you can only brew one type of potion before going, brew these.
+- **[Fire Resistance potions](/blog/minecraft/minecraft-potion-brewing-guide) — the single most important item.** They make lava and blaze fireballs do nothing for the duration. Bring several. If you can only brew one type of potion before going, brew these.
 - **Gold boots or any gold armor piece** so piglins don't immediately try to kill you (more on that below).
 - **A stack-plus of cobblestone or blackstone** for bridging over lava and walling off ghasts. Avoid using sand or gravel near lava — they fall.
 - **Food**, golden carrots or steak, plenty.
@@ -146,7 +146,7 @@ This is the part most guides blur, and it matters because **they contain complet
 
 ![A nether fortress — the dark brick corridors and bridges where blazes spawn and blaze rods drop.](/images/blog/minecraft/minecraft-nether-guide/nether-fortress.webp)
 
-**Nether Fortress** — the older structure: dark nether-brick bridges, corridors, and towers, often spanning across lava oceans. Fortresses are the **only** place blazes spawn, via blaze spawners in the interior. They also have wither skeletons (which drop the skulls you need to summon the Wither) and nether wart growing in stairwell soul-sand gardens. If you need blaze rods or wither skeleton skulls, you need a fortress.
+**Nether Fortress** — the older structure: dark nether-brick bridges, corridors, and towers, often spanning across lava oceans. Fortresses are the **only** place blazes spawn, via blaze spawners in the interior. They also have wither skeletons (which drop the skulls you need to [summon the Wither](/blog/minecraft/how-to-beat-the-wither)) and nether wart growing in stairwell soul-sand gardens. If you need blaze rods or wither skeleton skulls, you need a fortress.
 
 ![A bastion remnant — the massive blackstone structure ruled by piglins, holding the best loot chests in the Nether.](/images/blog/minecraft/minecraft-nether-guide/bastion-remnant.webp)
 
@@ -169,7 +169,7 @@ This single fortress visit is the gate to the End and to your entire potion supp
 
 ## Mining netherite, the real prize
 
-Netherite is the endgame, and it does not drop as ingots from the ground. You mine **ancient debris**, smelt it into netherite scrap, and combine scrap with gold to make netherite ingots, then upgrade diamond gear into netherite gear at a smithing table (you also need a netherite upgrade smithing template from a bastion).
+Netherite is the endgame, and it does not drop as ingots from the ground. You mine **[ancient debris](/blog/minecraft/how-to-find-netherite-minecraft)**, smelt it into netherite scrap, and combine scrap with gold to make netherite ingots, then upgrade diamond gear into netherite gear at a smithing table (you also need a netherite upgrade smithing template from a bastion).
 
 ![Ancient debris — the rare brown-banded block you smelt into netherite scrap, found in the lowest layers of the Nether.](/images/blog/minecraft/minecraft-nether-guide/ancient-debris.webp)
 

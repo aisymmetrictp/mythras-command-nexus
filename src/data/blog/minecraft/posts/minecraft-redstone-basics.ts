@@ -135,8 +135,8 @@ Signals are useless without something to *do*. The main outputs:
 - **Piston** — Pushes the block in front of it when powered, retracts when the power stops. A piston can push up to 12 blocks. A **sticky piston** also pulls its block back when it retracts. Pistons are the muscle behind hidden doors, drawbridges, flying machines, and most moving builds.
 - **Doors, trapdoors, fence gates** — Open when powered. Wire a pressure plate or button to one and you have an automatic door.
 - **Redstone lamp** — Lights up when powered. Wire it to a daylight sensor for automatic outdoor lighting, or a lever for an indoor switch.
-- **Dispenser / Dropper** — A dispenser shoots out or uses whatever is inside it (arrows, water buckets, fireworks) when pulsed; a dropper just ejects items. These power traps, auto-farms, and contraptions that need to deliver items.
-- **Note block, hopper, TNT** — Sound, item transport, and the explosive output, respectively.
+- **Dispenser / Dropper** — A dispenser shoots out or uses whatever is inside it (arrows, water buckets, [fireworks](/blog/minecraft/minecraft-firework-guide)) when pulsed; a dropper just ejects items. These power traps, auto-farms, and contraptions that need to deliver items.
+- **Note block, hopper, [TNT](/blog/minecraft/minecraft-tnt-guide)** — Sound, item transport, and the explosive output, respectively.
 
 ![A dispenser, which fires or places its contents when it receives a redstone pulse.](/images/blog/minecraft/minecraft-redstone-basics/dispenser.webp)
 
@@ -152,7 +152,7 @@ Theory is nothing without a contraption. Build these in order — each adds one 
 
 > The fastest way to learn redstone is to break things on purpose. Build the pressure-plate door, then add a repeater between the plate and the door and watch the delay. Swap the repeater for a comparator. Reverse it. You learn more from one broken contraption than from ten diagrams.
 
-Once these click, you are ready for the real payoffs: automatic crop and mob farms that feed your [survival base](/blog/minecraft/minecraft-survival-guide-beginners), and item sorters that organize your loot while you do something else.
+Once these click, you are ready for the real payoffs: [automatic crop and mob farms](/blog/minecraft/best-minecraft-farms) that feed your [survival base](/blog/minecraft/minecraft-survival-guide-beginners), and [item sorters](/blog/minecraft/minecraft-allay-guide) that organize your loot while you do something else.
 
 ## Java vs Bedrock quirks
 

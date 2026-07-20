@@ -77,7 +77,7 @@ This is the 2026 staples list, the budget swaps, the land count math, and the mi
 
 Lands in Commander do four jobs, not one. Color fixing (taps for the right symbol when you need it). Ramp (Ancient Tomb, Cabal Coffers, fetch-to-shock for thinning). Utility (Bojuka Bog hates graveyards, Maze of Ith stops a Voltron commander cold). Win conditions (Field of the Dead, Maze's End, Dark Depths combos).
 
-A goodstuff 99 with a normal curve and 8-10 mana rocks wants 37-38 lands. Ramp-heavy decks with 12+ rocks and dorks can drop to 35. Landfall decks (Omnath, Locus of Creation, Lord Windgrace) run 40+ because lands are the spells. Lands-matter decks like Aesi, Tyrant of Gyre Strait and Tatyova want 41-43.
+A goodstuff 99 with a normal curve and 8-10 [mana rocks](/blog/magic-the-gathering/best-mana-rocks-commander-mtg) wants 37-38 lands. Ramp-heavy decks with 12+ rocks and [mana dorks](/blog/magic-the-gathering/best-mana-dorks-mtg) can drop to 35. Landfall decks (Omnath, Locus of Creation, Lord Windgrace) run 40+ because lands are the spells. Lands-matter decks like Aesi, Tyrant of Gyre Strait and Tatyova want 41-43.
 
 The rule that matters: every land slot you fill with a basic is a slot you did not fill with utility. Most decks should have 8-12 basics maximum, and the rest doing something.
 
@@ -181,9 +181,9 @@ Cycling lands and bounce lands are the floor. Even a $30 budget deck has no excu
 - **35-36 lands.** Heavy-ramp decks with 10+ rocks and mana dorks, low-curve aggro or combo (Edric, Tymna).
 - **33-34 lands.** cEDH only. You need the fast mana and the deck literally cannot afford the slots.
 
-The math: in a 99-card deck, you want roughly 45% mana sources (lands + rocks + dorks). 37 lands + 9 rocks = 46. That is the right number. The reason 33 lands feels bad is because precons do not add the rocks to compensate, so the total mana count drops to like 40. You either add lands or you add rocks. You do not ignore both and hope.
+The math: in a 99-card deck, you want roughly 45% mana sources (lands + rocks + dorks). 37 lands + 9 rocks = 46. That is the right number. The reason 33 lands feels bad is because precons do not add the rocks to compensate, so the total mana count drops to like 40. You either add lands or you lean on [ramp spells](/blog/magic-the-gathering/best-ramp-spells-commander-mtg) and rocks. You do not ignore both and hope.
 
-For deeper deckbuilding context, the color-specific guides linked below cover the spells that go on top of this manabase.
+If you are assembling a list from scratch, this manabase is the foundation that the [commander deckbuilding template](/blog/magic-the-gathering/how-to-build-a-commander-deck) is built on, and the [commander staples every deck wants](/blog/magic-the-gathering/best-commander-staples-mtg) go on top of it alongside your color-specific spells.
 
 ## Mana base mistakes that lose games
 

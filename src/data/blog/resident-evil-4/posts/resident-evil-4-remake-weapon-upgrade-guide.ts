@@ -123,7 +123,7 @@ This is the decision most players agonize over, and the honest answer is that al
 
 My call: **the Blacktail wins on total value** because those two reclaimed inventory slots are worth real money across a 16-chapter game, and the accuracy difference is not close. Take the Red9 if you want the biggest per-shot number and are willing to build around its handling.
 
-There is also the **Punisher**, which costs 5 spinel rather than pesetas and penetrates 5 targets with its exclusive upgrade. Its raw power is the lowest of the group at 1.90 maxed, so it is a niche crowd-control tool, not a main pistol.
+There is also the **Punisher**, which costs 5 spinel rather than pesetas — a currency the [Merchant and spinel guide](/blog/resident-evil-4/resident-evil-4-remake-merchant-guide) explains how to farm — and penetrates 5 targets with its exclusive upgrade. Its raw power is the lowest of the group at 1.90 maxed, so it is a niche crowd-control tool, not a main pistol.
 
 ## Shotguns: the Riot Gun is the answer
 
@@ -161,7 +161,7 @@ If you are struggling with ammo scarcity rather than damage, this is the fix. It
 
 The Combat Knife is upgradeable, and almost nobody does it. It has two tracks — Power (0.60 to 1.00) and Durability (1.00 to 2.20) — and maxes at a mere 147,500 to sell value, far below any firearm.
 
-Durability is the track that matters. **Maxing durability makes the knife last 2.2x as long between repairs**, which directly reduces the pesetas you bleed on repair bills every time you escape a grab (450 durability a pop) or land a finisher (374). The knife's exclusive upgrade increases its attack speed.
+Durability is the track that matters. **Maxing durability makes the knife last 2.2x as long between repairs**, which directly reduces the pesetas you bleed on repair bills every time you escape a grab (450 durability a pop) or land a finisher (374) — the [beginner guide](/blog/resident-evil-4/resident-evil-4-remake-beginner-guide) has the full repair-cost table. The knife's exclusive upgrade increases its attack speed.
 
 For a run where you parry a lot, knife durability is one of the highest-return purchases in the game because it is a recurring cost you are permanently reducing.
 

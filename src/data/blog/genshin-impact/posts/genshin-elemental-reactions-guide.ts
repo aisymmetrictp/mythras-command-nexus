@@ -106,7 +106,7 @@ Vaporize and Melt. These two do not create their own damage instance. They take 
 - **Vaporize:** Hydro onto Pyro aura is 2x. Pyro onto Hydro aura is 1.5x.
 - **Melt:** Pyro onto Cryo aura is 2x. Cryo onto Pyro aura is 1.5x.
 
-Because they multiply the triggering hit, everything that made that hit big still applies. ATK matters. CRIT Rate and CRIT DMG matter. Damage bonus goblets matter. This is why Vaporize teams still want conventional CRIT builds and only a moderate amount of Elemental Mastery.
+Because they multiply the triggering hit, everything that made that hit big still applies. ATK matters. CRIT Rate and CRIT DMG matter. Damage bonus goblets matter. This is why Vaporize teams still want [conventional CRIT builds](/blog/genshin-impact/genshin-artifact-guide) and only a moderate amount of Elemental Mastery.
 
 ### Transformative Reactions
 
@@ -179,7 +179,7 @@ And one detail that decides team compositions: **the stats used are always those
 
 ## Reaction Teams That Actually Hold Up
 
-Genshin adds characters constantly, but reaction archetypes are close to permanent. These three have been viable through years of patches because they are built on mechanics rather than on any one banner unit.
+Genshin adds characters constantly, but reaction archetypes are close to permanent. These three have been viable through years of patches because they are built on mechanics rather than on [any one banner unit](/blog/genshin-impact/genshin-gacha-wish-guide).
 
 ### Vaporize for Frontloaded Damage
 

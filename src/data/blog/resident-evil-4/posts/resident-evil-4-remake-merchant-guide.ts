@@ -113,7 +113,7 @@ The spinel list is short, which makes prioritizing easy:
 | Punisher handgun | 5 |
 | Various recipes, resources, and treasure maps | Varies |
 
-The **Exclusive Upgrade Ticket** is the correct answer nearly every time. It unlocks a weapon's exclusive upgrade regardless of that weapon's current level — meaning you can slap a 1.5x power multiplier onto a lightly-upgraded Blacktail or Red9 without first sinking 300,000-plus pesetas into maxing it. You still pay the exclusive's pesetas cost, but you skip the grind that normally gates it. That is the single biggest power spike available to you, and it is why hoarding spinel toward 30 beats spending it piecemeal.
+The **Exclusive Upgrade Ticket** is the correct answer nearly every time. It unlocks a weapon's exclusive upgrade regardless of that weapon's current level — meaning you can slap a 1.5x power multiplier onto a lightly-upgraded [Blacktail or Red9](/blog/resident-evil-4/resident-evil-4-remake-weapon-upgrade-guide) without first sinking 300,000-plus pesetas into maxing it. You still pay the exclusive's pesetas cost, but you skip the grind that normally gates it. That is the single biggest power spike available to you, and it is why hoarding spinel toward 30 beats spending it piecemeal.
 
 The **Punisher** at 5 spinel is cheap and its exclusive upgrade lets shots penetrate 5 targets, but its maxed power of 1.90 is the lowest of any handgun. Buy it if you want a crowd-control tool, not as a main sidearm.
 
@@ -196,7 +196,7 @@ The gap between the top and bottom of that table is the whole lesson. **Escaping
 
 Two ways to shrink the bill. First, use the free melee prompt on staggered enemies instead of the knife finisher; your boot costs nothing, the blade costs 374. Second, put pesetas into the knife's **durability** track, which scales it from 1.00 up to 2.20 — a maxed knife lasts more than twice as long between visits. That upgrade permanently reduces a recurring expense, which makes it better value than its price tag suggests.
 
-Repair at every Merchant visit rather than waiting for the blade to go red. A knife with no durability left means no parries and no grab escapes, which is exactly the situation you least want to discover mid-fight.
+Repair at every Merchant visit rather than waiting for the blade to go red. A knife with no durability left means no parries and no grab escapes, which is exactly the situation you least want to discover mid-fight — the [beginner guide](/blog/resident-evil-4/resident-evil-4-remake-beginner-guide) covers why the parry is worth protecting.
 
 ## How the 2005 Merchant differs
 

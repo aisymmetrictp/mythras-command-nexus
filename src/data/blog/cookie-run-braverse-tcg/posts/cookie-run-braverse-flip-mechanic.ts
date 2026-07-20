@@ -83,7 +83,7 @@ Here's the chain of events that matters:
 
 - A Cookie comes down with a face-down HP stack beneath it.
 - As the Cookie takes damage, cards in that stack flip face-up one at a time.
-- When the stack is exhausted - all its cards flipped - the Cookie faints and goes to the Break Area, where its Level counts toward the opponent's win.
+- When the stack is exhausted - all its cards flipped - the Cookie faints and goes to the [Break Area](/blog/cookie-run-braverse-tcg/cookie-run-braverse-break-area-guide), where its Level counts toward the opponent's win.
 
 The key consequence: because the HP stack is built from cards in your deck, *some of those face-down HP cards are FLIP cards*. Neither player knows for certain which ones until they flip. A Cookie's health isn't just a buffer - it's a face-down deck of potential surprises, and every point of damage you deal turns one of them face-up.
 
@@ -111,7 +111,7 @@ Plenty of TCGs have "morph" or face-down cards. What makes FLIP special is that 
 
 - **Defense fights back.** You can't swing freely. Attacking into a Cookie risks triggering a FLIP that punishes you - a counter-attack, a removal effect, a card-draw for the defender. Combat stops being a clean math problem.
 - **HP carries hidden information.** A higher-Level Cookie has a bigger HP stack, which means more face-down cards and more potential FLIP triggers waiting inside it. A high-Level Dragon Cookie's beefy stack isn't just more health - it's more unknowns.
-- **It rewards deckbuilding.** You get to decide how dangerous your Cookies are to attack, by loading your deck with FLIP cards up to a cap of 16. A deck near that cap turns every HP stack into a minefield; a deck with few FLIP cards has predictable, safe-to-attack Cookies.
+- **It rewards [deckbuilding](/blog/cookie-run-braverse-tcg/cookie-run-braverse-deck-building-basics).** You get to decide how dangerous your Cookies are to attack, by loading your deck with FLIP cards up to a cap of 16. A deck near that cap turns every HP stack into a minefield; a deck with few FLIP cards has predictable, safe-to-attack Cookies.
 - **Bluffing becomes real.** Because nobody knows which HP cards are FLIP cards, your opponent has to play around effects that might not be there - which slows their attacks down even when your stack is harmless.
 
 The net effect is that Braverse combat has a built-in risk layer no amount of board math fully removes. You're always, on some level, gambling against the defender's hidden HP.
@@ -120,7 +120,7 @@ The net effect is that Braverse combat has a built-in risk layer no amount of bo
 
 FLIP isn't just something that happens to you - it's a deckbuilding axis you control. The rule to anchor on: a deck can run **up to 16 cards with a FLIP ability**. That count includes both dedicated FLIP-type cards (like Licorice Cookie or Schwarzwälder) and the regular Cookies that happen to carry a flip ability (like Sorbet Shark Cookie), so the cap is about how many of your cards can fire from an HP stack - not a separate deck slot you have to find room for.
 
-How to think about it by archetype:
+How to think about it [by archetype](/blog/cookie-run-braverse-tcg/cookie-run-braverse-deck-archetypes):
 
 | Archetype | FLIP approach | Why |
 | --- | --- | --- |

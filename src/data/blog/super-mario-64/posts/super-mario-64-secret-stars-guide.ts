@@ -129,7 +129,7 @@ Second floor, Princess's room. The **stained glass window of Peach on the right 
 
 The slide is a timed run: a long tunnel, a downward slope, a 270-degree bend, a 1-UP, a run of tighter bends, and a final room with a yellow block. Hit the block and the Power Star pops out. That is star one.
 
-Star two is why this level shows up in every 120-star guide: **finish in under 21 seconds and a second Power Star spawns in front of the yellow block.** Tight, but not brutal. Slope physics hold your speed constant no matter what you do with the stick, so the input is purely steering — hard inputs just bounce you into walls and cost time. Light corrections, and cut the inside of the 270-degree bend.
+Star two is why this level shows up in every 120-star guide: **finish in under 21 seconds and a second Power Star spawns in front of the yellow block.** Tight, but not brutal. [Slope physics hold your speed constant](/blog/super-mario-64/super-mario-64-movement-guide) no matter what you do with the stick, so the input is purely steering — hard inputs just bounce you into walls and cost time. Light corrections, and cut the inside of the 270-degree bend.
 
 ![The Princess's Secret Slide, entered through a stained glass window and worth two Power Stars.](/images/blog/super-mario-64/super-mario-64-secret-stars-guide/princess-secret-slide.webp)
 
@@ -172,7 +172,7 @@ MIPS is Peach's pet rabbit, and he is worth two Power Stars. He shows up in the 
 
 ![Mario catching MIPS in the castle basement — the rabbit is worth one star at 15 and another at 50.](/images/blog/super-mario-64/super-mario-64-secret-stars-guide/mips-rabbit.webp)
 
-Chasing him head-on does not work; he turns and outruns you in the open. Corner him instead — herd him into a dead-end hallway or against a wall, close the distance with a dive rather than a run, and press B to grab.
+Chasing him head-on does not work; he turns and outruns you in the open. Corner him instead — herd him into a dead-end hallway or against a wall, close the distance with [a dive rather than a run](/blog/super-mario-64/super-mario-64-movement-guide), and press B to grab.
 
 Fun detail: MIPS was, along with Mario, the first character created for the game, used in Nintendo's early Nintendo 64 test simulations and kept in the final release because the development team liked him too much to cut him.
 

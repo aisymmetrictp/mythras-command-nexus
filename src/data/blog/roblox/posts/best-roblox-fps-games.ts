@@ -77,9 +77,9 @@ A shooter lives or dies on feel, and three things separate the ones worth playin
 
 ## RIVALS: the competitive juggernaut
 
-**RIVALS** is the biggest FPS on Roblox right now, and it's not close — it routinely pulls a six-figure concurrent player count, which makes it one of the largest live shooter communities anywhere, not just on Roblox. It's the fast, twitchy, competitive one: 1v1 duels against strangers and 5v5 Valorant-style team rounds with friends, first to five wins. The focus is on fast movement, sharp aim, and clean gunplay across a roster of 40-plus weapons split into primaries, secondaries, melees, and utilities.
+**RIVALS** is the biggest FPS on Roblox right now, and it's not close — it routinely pulls a six-figure concurrent player count, which makes it one of the largest live shooter communities anywhere, not just on Roblox. It's the fast, twitchy, competitive one: 1v1 duels against strangers and 5v5 Valorant-style team rounds [with friends](/blog/roblox/best-roblox-games-with-friends), first to five wins. The focus is on fast movement, sharp aim, and clean gunplay across a roster of 40-plus weapons split into primaries, secondaries, melees, and utilities.
 
-What makes RIVALS the one to beat is how tight and modern it feels. Round-based, skill-expressive, with movement that rewards mechanical mastery and matchmaking quick enough that you're never waiting for a lobby. It released in mid-2024 and has shipped a steady run of updates since, so the meta stays fresh. If you want the closest thing Roblox has to a serious, ranked-feeling competitive shooter, this is the front door.
+What makes RIVALS the one to beat is how tight and modern it feels. Round-based, skill-expressive, with movement that rewards mechanical mastery and matchmaking quick enough that you're never waiting for a lobby. It released in mid-2024 and has shipped a steady run of updates since, so the meta stays fresh. If you want the closest thing Roblox has to a serious, ranked-feeling competitive shooter, this is the front door — and it tops our [best Roblox PvP games](/blog/roblox/best-roblox-pvp-games) list for the same reasons.
 
 **Best for:** Competitive players who want fast rounds, real aim duels, and a Valorant-flavored 5v5 with a crew.
 

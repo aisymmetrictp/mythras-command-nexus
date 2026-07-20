@@ -77,7 +77,7 @@ She attacks by swooping at you, knocking you back with her body and wings, and b
 Do not skimp here. The single biggest predictor of a clean kill is what you walked in with.
 
 **Armor and weapons:**
-- **Full diamond armor at minimum, netherite if you have it.** Protection enchantments matter a lot; Feather Falling on the boots is close to mandatory because fall and knockback are constant.
+- **Full [diamond armor at minimum, netherite](/blog/minecraft/minecraft-armor-guide) if you have it.** [Protection enchantments](/blog/minecraft/best-minecraft-enchantments) matter a lot; Feather Falling on the boots is close to mandatory because fall and knockback are constant.
 - **A good sword** (Sharpness-enchanted diamond or netherite) for the melee phase.
 - **A bow or crossbow with a stack-plus of arrows.** This is your primary tool for shooting the high crystals and chipping the dragon when she perches. Power and Punch help.
 
@@ -157,7 +157,7 @@ When the dragon dies the first time, three things appear:
 2. **The Dragon Egg** spawns on top of the fountain as a trophy. Heads up: you cannot mine it directly — it teleports when you hit it. The standard grab is to break the block under it so it drops, or use a piston to push it. It is purely a trophy, but it is the one in the world unless you respawn the dragon.
 3. **An End Gateway portal** appears off to the side. Throw an ender pearl into it to teleport to the **outer End islands** — the sprawling End stone islands where End cities generate.
 
-Those End cities are the reason the dragon is not really the end of the game: they contain **End ships**, and on an End ship hangs the **elytra**, the wings that let you glide and (with firework rockets) fly across the world. Beating the dragon is the gate to the elytra, which is the single biggest upgrade to how you travel in Minecraft. So clear the dragon, grab the egg for the mantel, then pearl through the gateway and go hunting for your wings.
+Those [End cities](/blog/minecraft/minecraft-end-cities-guide) are the reason the dragon is not really the end of the game: they contain **End ships**, and on an End ship hangs the **[elytra](/blog/minecraft/minecraft-elytra-guide)**, the wings that let you glide and (with firework rockets) fly across the world. Beating the dragon is the gate to the elytra, which is the single biggest upgrade to how you travel in Minecraft. So clear the dragon, grab the egg for the mantel, then pearl through the gateway and go hunting for your wings.
 
 ## Java vs Bedrock notes
 

@@ -109,11 +109,11 @@ Her permanent arsenal is the **B934** handgun and the slightly stronger **S&S M2
 
 For melee she gets the **Makeshift Knife** and the **Hunting Knife**, both of which have durability and break permanently at zero — the RE2 remake rule. A permanent knife is also a post-game unlock. She can fill **Empty Bottles** to make Molotov cocktails or acid bottles.
 
-Her stat ceiling is not fixed: **Steroids** and **Stabilizers** raise her health and damage over the campaign. But the core lesson holds. As Grace, a fight you avoid is a fight you win. Sneak, crouch, hide, and throw a bottle to pull a zombie off your route rather than spending four handgun rounds on it.
+Her stat ceiling is not fixed: **Steroids** and **Stabilizers** raise her health and damage over the campaign. But the core lesson holds. As Grace, [a fight you avoid is a fight you win](/blog/resident-evil-requiem/resident-evil-requiem-grace-survival-guide). Sneak, crouch, hide, and throw a bottle to pull a zombie off your route rather than spending four handgun rounds on it.
 
 ### Leon: The RE4 Half
 
-Leon plays like his Resident Evil 4 remake self, and Capcom is not subtle about it. Multiple handguns, shotguns, submachine guns, rifles, hand grenades, and quick-time dodges and parries.
+Leon plays like his Resident Evil 4 remake self, and Capcom is not subtle about it. Multiple handguns, shotguns, submachine guns, rifles, hand grenades, and [quick-time dodges and parries](/blog/resident-evil-requiem/resident-evil-requiem-leon-combat-guide).
 
 His melee is the **Hatchet**, which replaces the knife. It has a durability bar like Grace's knives, but Leon can resharpen it at any time, which effectively makes it permanent — a small detail that completely changes how freely you use it. Short segments also hand him a **chainsaw**, which is the most ammo-efficient tool in the game while it lasts.
 

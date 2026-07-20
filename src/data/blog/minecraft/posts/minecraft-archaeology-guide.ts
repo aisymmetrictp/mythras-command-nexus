@@ -85,7 +85,7 @@ The brush is the entire toolset. The recipe is cheap:
 
 - **1 feather** (top) + **1 copper ingot** (middle) + **1 stick** (bottom), stacked vertically in the crafting grid.
 
-That is it — a feather, a copper ingot, and a stick. Copper is everywhere in the new cave generation, so a brush costs you basically nothing.
+That is it — a feather, a copper ingot, and a stick. [Copper](/blog/minecraft/minecraft-copper-guide) is everywhere in the new cave generation, so a brush costs you basically nothing.
 
 To use it, **hold use (right-click) on a suspicious block and keep holding.** The brush works through a short animation, the dust falls away in stages, and after a couple of seconds the hidden item pops out as a drop. Let go early and the block resets — you have to start the brushing over.
 
@@ -110,12 +110,12 @@ So the rule of thumb: **sand is the desert-and-warm-water material; gravel is th
 
 ## Trail ruins — the best dig site
 
-Trail ruins are the structure that exists *for* archaeology. They generate partially buried underground, most visibly in taiga, snowy taiga, old-growth pine/spruce, jungle, and bamboo jungle biomes, and they are packed with suspicious gravel.
+Trail ruins are the structure that exists *for* archaeology. They generate partially buried underground, most visibly in taiga, snowy taiga, old-growth pine/spruce, jungle, and bamboo jungle [biomes](/blog/minecraft/minecraft-biomes-guide), and they are packed with suspicious gravel.
 
 Why they are the priority dig:
 
 - **Volume.** A single trail ruins has dozens of suspicious gravel blocks. You can fill an inventory with brushing material from one site.
-- **Exclusive loot.** Trail ruins are the only source for the **Wayfinder, Raiser, Shaper, and Host armor trim templates**, plus a unique set of pottery sherds and the **Relic music disc**.
+- **Exclusive loot.** Trail ruins are the only source for the **Wayfinder, Raiser, Shaper, and Host [armor trim templates](/blog/minecraft/minecraft-smithing-templates-guide)**, plus a unique set of pottery sherds and the **Relic music disc**.
 
 The trail ruins gravel pulls from a big common pool (wheat, a wooden hoe, dyes, candles, clay, brick, emeralds) plus a rare slice where the good stuff lives. The rare drops — pottery sherds like **Burn, Danger, Friend, Heart, Heartbreak, Howl, and Sheaf**, the four armor trim templates, and the Relic disc — each sit around a 1-in-12 chance per rare roll, so plan to brush a lot of blocks per template. Bring multiple brushes and dig the whole structure in one trip.
 
@@ -162,7 +162,7 @@ So a single pot can show four different sherd designs — one per side — or mi
 
 ## The Sniffer and its ancient plants
 
-The Sniffer is the prize at the bottom of the archaeology rabbit hole — an "ancient," extinct passive mob you literally resurrect from a dig find.
+The [Sniffer](/blog/minecraft/minecraft-sniffer-guide) is the prize at the bottom of the archaeology rabbit hole — an "ancient," extinct passive mob you literally resurrect from a dig find.
 
 The full pipeline:
 

@@ -72,7 +72,7 @@ Four branches: **Combat** (red), **Signs** (blue), **Alchemy** (green) and **Gen
 
 Three structural rules govern everything:
 
-1. **Points spent are not points active.** You have twelve activation slots on the character panel, one available at the start and all twelve open by level 30. An ability sitting unslotted in the tree does absolutely nothing.
+1. **Points spent are not points active.** You have [twelve activation slots](/blog/the-witcher-3/witcher-3-beginner-guide) on the character panel, one available at the start and all twelve open by level 30. An ability sitting unslotted in the tree does absolutely nothing.
 2. **Slots are grouped in fours, each with a mutagen socket.** Those sockets unlock at levels 4, 9, 16 and 28.
 3. **Colour matching is where the damage is.** More on that next, because it is the part most builds get wrong.
 
@@ -123,7 +123,7 @@ Red is the branch that rewards aggression, and it is the most mechanically deman
 
 The build revolves around Adrenaline Points, the three-segment bar that fills as you land hits and empties when you take them. Combat abilities scale off adrenaline, and so do two of the best mutations.
 
-Prioritise fast-attack damage and critical hit chance, then Whirl or Rend depending on whether you prefer clearing groups or deleting single targets. Light armour is the natural pairing, since it boosts Stamina regeneration and rewards dodge-and-strike rhythms. Cat School Gear is the archetypal armour here, and its six-piece bonus makes rear attacks deal 50% more damage while stunning the target for one Adrenaline Point.
+Prioritise fast-attack damage and critical hit chance, then Whirl or Rend depending on whether you prefer clearing groups or deleting single targets. Light armour is the natural pairing, since it boosts Stamina regeneration and rewards dodge-and-strike rhythms. [Cat School Gear](/blog/the-witcher-3/witcher-3-witcher-gear-guide) is the archetypal armour here, and its six-piece bonus makes rear attacks deal 50% more damage while stunning the target for one Adrenaline Point.
 
 The honest caveat: a pure red build is the weakest of the three at high difficulty, because it has no answer to being burst down and no scaling comparable to Euphoria. It is, however, the most fun to play, and against human opponents in Hearts of Stone content it is genuinely competitive.
 

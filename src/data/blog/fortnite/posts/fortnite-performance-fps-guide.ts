@@ -57,7 +57,7 @@ export const fortnitePerformanceFpsGuide: BlogPost = {
     { id: 'is-it-your-gpu-or-your-cpu', label: 'Is it your GPU or your CPU', level: 2 },
     { id: 'quick-action-checklist', label: 'Quick Action Checklist', level: 2 },
   ],
-  content: `Frames per second is the most misunderstood number in a shooter. People treat it like a benchmark bragging right, but in a game like Fortnite it's a direct mechanical advantage: more frames means the screen updates more often, which means lower input lag, smoother tracking, and seeing an enemy a few milliseconds sooner. In a 1v1 build fight where you're both editing and shooting in the same half-second, that gap decides who wins. Chasing FPS isn't vanity — it's the cheapest competitive upgrade available before you touch your aim.
+  content: `Frames per second is the most misunderstood number in a shooter. People treat it like a benchmark bragging right, but in a game like Fortnite it's a direct mechanical advantage: more frames means the screen updates more often, which means lower input lag, smoother tracking, and seeing an enemy a few milliseconds sooner. In a [1v1 build fight](/blog/fortnite/fortnite-box-fighting-guide) where you're both editing and shooting in the same half-second, that gap decides who wins. Chasing FPS isn't vanity — it's the cheapest competitive upgrade available before you touch your [aim](/blog/fortnite/fortnite-aim-training-guide).
 
 This guide is PC-focused and about one thing: extracting the highest, most *stable* frame rate your hardware can hold, with the lowest input lag, while keeping the game readable. We'll cover Performance Mode, which graphics settings actually cost frames versus which are noise, how to set a framerate cap correctly (most people get this wrong), the input-lag side of the equation, and the GPU/CPU tweaks outside the game that matter. The usual caveat: Fortnite renames and reshuffles its settings menu between patches, so treat exact labels as approximate — the principles are what carry across seasons.
 
@@ -71,7 +71,7 @@ Three concrete things higher FPS buys you:
 - **Smoother tracking.** A target moving across a high-FPS screen draws more intermediate positions, so your eyes and hand track it more accurately. On a stuttery low frame rate, fast movement skips, and you're aiming at a guess.
 - **Information sooner.** More frames means an enemy who steps into view shows up a frame or two earlier than on a low frame rate. Tiny, but in a peek-fight it's the difference between shooting first and shooting back.
 
-The key word is **stable.** A frame rate that swings between 60 and 200 feels worse than a rock-solid 144, because the stutter when it drops breaks your tracking and timing. The whole goal of this guide is a *consistent* high number you can hold during the most chaotic moment of a match — a full-build endgame with effects everywhere — not a pretty average you only hit standing still in the lobby.
+The key word is **stable.** A frame rate that swings between 60 and 200 feels worse than a rock-solid 144, because the stutter when it drops breaks your tracking and timing. The whole goal of this guide is a *consistent* high number you can hold during the most chaotic moment of a match — a [full-build endgame](/blog/fortnite/fortnite-endgame-strategy) with effects everywhere — not a pretty average you only hit standing still in the lobby.
 
 ## Performance Mode, the biggest single FPS win
 

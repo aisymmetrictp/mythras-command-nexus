@@ -96,7 +96,7 @@ These are the everyday melodies. Five of them do real puzzle work; one exists so
 - **3DS notes:** X, A, Y, X, A, Y
 - **Learned from:** Impa, in Princess Zelda's courtyard at Hyrule Castle
 
-The single most useful song in the game. It is the Royal Family's melody, and it functions as a password — any **Triforce emblem** carved into a wall or floor responds to it. That includes opening the Royal Family's Tomb in the Kakariko graveyard, opening the gate to Zora's Domain behind the waterfall, draining the water pools at the Bottom of the Well, summoning Great Fairies at their fountains, and — the big one — raising and lowering the water in the Water Temple.
+The single most useful song in the game. It is the Royal Family's melody, and it functions as a password — any **Triforce emblem** carved into a wall or floor responds to it. That includes opening the Royal Family's Tomb in the Kakariko graveyard, opening the gate to Zora's Domain behind the waterfall, draining the water pools at the Bottom of the Well, summoning Great Fairies at their fountains, and — the big one — raising and lowering the water in the [Water Temple](/blog/zelda-ocarina-of-time/ocarina-of-time-water-temple-guide).
 
 ### Saria's Song
 
@@ -134,7 +134,7 @@ Its combat use is the reason to keep it assigned: playing it **paralyzes ReDeads
 - **3DS notes:** Y, L, R, Y, L, R
 - **Learned from:** Zelda, telepathically, the moment you fish the Ocarina of Time out of the castle moat
 
-The plot key. Play it at the altar in the Temple of Time with all three Spiritual Stones and the Door of Time opens onto the Master Sword. Afterward it keeps working as a puzzle tool: **blue Time Blocks** marked with the Symbol of Time appear and disappear when you play it, which is how you reach several Heart Pieces and clear obstacles in Dodongo's Cavern and the Spirit Temple.
+The plot key. Play it at the altar in the Temple of Time with all three Spiritual Stones and the Door of Time opens onto the Master Sword — the [break point that splits the dungeon route](/blog/zelda-ocarina-of-time/ocarina-of-time-dungeon-order-guide) into child and adult halves. Afterward it keeps working as a puzzle tool: **blue Time Blocks** marked with the Symbol of Time appear and disappear when you play it, which is how you reach several Heart Pieces and clear obstacles in Dodongo's Cavern and the Spirit Temple.
 
 ### Song of Storms
 

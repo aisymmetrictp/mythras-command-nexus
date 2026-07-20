@@ -128,13 +128,13 @@ The starting region hands you six of the fourteen, which is why the early story 
 
 ## Rocky Ridges: the two that change everything
 
-**Strength (Machoke)** lets you push large boulders and blocks that are otherwise immovable. There are blocks in Rocky Ridges you simply cannot interact with until Machoke teaches you this. For habitat design, being able to reposition big blocks instead of destroying and recrafting them is a real quality-of-life jump.
+**Strength (Machoke)** lets you push large boulders and blocks that are otherwise immovable. There are blocks in Rocky Ridges you simply cannot interact with until Machoke teaches you this. For [habitat design](/blog/pokemon-pokopia/pokemon-pokopia-habitat-comfort-guide), being able to reposition big blocks instead of destroying and recrafting them is a real quality-of-life jump.
 
 ![Ditto in Machoke-inspired Strength form, pushing heavy blocks around the island.](/images/blog/pokemon-pokopia/ditto-transformations-guide/strength.webp)
 
 **Rollout (Graveler)** is the headline. You become a Graveler-ish sphere and roll at speed, smashing through blocks, walls, and most obstacles in your path. Compared to punching tiles individually with Rock Smash, it is a categorically different rate of terrain clearing.
 
-The catch, and it is a real one: Rollout is imprecise and destructive. Rolling through a finished, decorated area will wreck things you liked. The correct workflow is to do your bulk terraforming with Rollout first and decorate afterward, which is the main argument for not building anything precious before you reach Rocky Ridges.
+The catch, and it is a real one: Rollout is imprecise and destructive. Rolling through a finished, decorated area will wreck things you liked. The correct workflow is to do your bulk terraforming with Rollout first and [decorate afterward](/blog/pokemon-pokopia/pokemon-pokopia-habitat-comfort-guide), which is the main argument for not building anything precious before you reach Rocky Ridges.
 
 ![Ditto using Rollout, the Graveler-form skill that clears terrain dramatically faster than Rock Smash.](/images/blog/pokemon-pokopia/ditto-transformations-guide/rollout.webp)
 
@@ -154,7 +154,7 @@ A later update also added diving, which opens underwater regions of the map and 
 
 ## The four food upgrades worth cooking
 
-Once cooking unlocks in Rocky Ridges, four dishes permanently upgrade four skills. These are not temporary buffs — eat them once and the skill is better forever. They are extremely easy to miss if you treat cooking as a PP refill.
+Once cooking unlocks in Rocky Ridges, four dishes permanently upgrade four skills. These are not temporary buffs — eat them once and the skill is better forever, and the [beginner guide](/blog/pokemon-pokopia/pokemon-pokopia-beginner-guide) folds them into the wider PP economy. They are extremely easy to miss if you treat cooking as a PP refill.
 
 | Dish | Upgrades | Effect |
 | --- | --- | --- |

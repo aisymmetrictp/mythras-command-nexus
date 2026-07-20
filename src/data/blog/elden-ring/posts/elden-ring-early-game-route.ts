@@ -125,11 +125,11 @@ Two to three hours down here typically takes a character from level 20 into the 
 
 Three specific pickups punch far above their level requirement.
 
-**Bloodhound's Fang.** Dropped by Bloodhound Knight Darriwil in the Forlorn Hound Evergaol in southern Limgrave. Blaidd the Half-Wolf points you here as part of his questline and can be summoned into the Evergaol, which makes it dramatically easier. It is a curved greatsword with 141 base physical attack power at +0, D Strength and C Dexterity scaling, and 55 Blood Loss buildup. It requires **18 Strength and 17 Dexterity** — do not swing it under those numbers, because unmet requirements cost a flat 40% damage penalty on the relevant scaling. It takes Somber Smithing Stones, so it caps at +10 and gains 8% of its base scaling per level: fast and cheap to max.
+**Bloodhound's Fang.** Dropped by Bloodhound Knight Darriwil in the Forlorn Hound Evergaol in southern Limgrave. Blaidd the Half-Wolf points you here as part of his questline and can be summoned into the Evergaol, which makes it dramatically easier. It is a curved greatsword with 141 base physical attack power at +0, D Strength and C Dexterity scaling, and 55 Blood Loss buildup. It requires **18 Strength and 17 Dexterity** — do not swing it under those numbers, because unmet requirements cost [a flat 40% damage penalty on the relevant scaling](/blog/elden-ring/elden-ring-weapon-scaling-explained). It takes Somber Smithing Stones, so it caps at +10 and gains 8% of its base scaling per level: fast and cheap to max.
 
 **Fringefolk Hero's Grave.** Back at the Stranded Graveyard where you started, behind a fog gate sealed by **two Stonesword Keys**. Nasty for its position — Merciless Chariots patrol the walkways and there are two Grafted Scions inside — but it holds the **Erdtree's Favor** talisman, which raises maximum HP, stamina, and Equip Load at once, and the Ulcerated Tree Spirit drops both a **Golden Seed** and the **Banished Knight Oleg Ashes**. Come back once you have wolves and a real weapon.
 
-**The Meteorite Staff**, for sorcerers only, and it is a stunt. It sits in a broken tower at the Street of Sages Ruins in Caelid, reachable early via the teleport chest in the Dragon-Burnt Ruins. S-rank Intelligence scaling, a Strength requirement of 6, and no upgrade path — meaning 138 sorcery scaling at the minimum 18 Intelligence regardless of your smithing situation, plus 30% to gravity sorceries. For an Astrologer or Prisoner, it is the largest early power spike available.
+**The Meteorite Staff**, for sorcerers only, and it is a stunt. It sits in a broken tower at the Street of Sages Ruins in Caelid, reachable early via the teleport chest in the Dragon-Burnt Ruins. S-rank Intelligence scaling, a Strength requirement of 6, and no upgrade path — meaning 138 sorcery scaling at the minimum 18 Intelligence regardless of your smithing situation, plus 30% to gravity sorceries. For [an Astrologer or Prisoner](/blog/elden-ring/best-elden-ring-starting-class), it is the largest early power spike available.
 
 ## Flasks are your actual power level
 
@@ -162,13 +162,13 @@ What you need to know about the fight:
 - **Bring Sorcerer Rogier.** His summon sign is available outside the fog gate. Between Rogier and the Lone Wolf Ashes, you have two aggro sponges.
 - **Margit's Shackle** exists. Buy it from Patches in Murkwater Cave and use it to lock him in place twice per fight, once per phase. It is not subtle and it works.
 
-If Margit still feels impossible after all of the above, the honest answer is Vigor. At 15 Vigor you have 522 HP and his charged overhead removes roughly a third of it. At 30 Vigor you have 994 and the same swing is survivable twice over.
+If Margit still feels impossible after all of the above, the honest answer is Vigor. Whatever [origin you started as](/blog/elden-ring/best-elden-ring-starting-class), at 15 Vigor you have 522 HP and his charged overhead removes roughly a third of it. At 30 Vigor you have 994 and the same swing is survivable twice over.
 
 ## Stormveil Castle and Godrick
 
 Past Margit, Gatekeeper Gostoc offers you two ways in: the main gate, or a hidden path around the outer wall. Take the **side path**. The main gate courtyard has a ballista battery that will delete you on sight, and the side route lets you approach the castle in a manageable order. Gostoc, for the record, is looting your corpse every time you die and is not your friend.
 
-Inside, grab the **Iron Whetblade** — on a corpse in an armory off the main hall with the Grafted Scion, behind an Imp Statue that costs one Stonesword Key. It unlocks Heavy, Keen, and Quality infusions, which for most melee builds is a bigger damage jump than the next ten levels. Two more Golden Seeds are in the castle: one near the Secluded Cell grace, one from the castle's own Ulcerated Tree Spirit.
+Inside, grab the **Iron Whetblade** — on a corpse in an armory off the main hall with the Grafted Scion, behind an Imp Statue that costs one Stonesword Key. It unlocks [Heavy, Keen, and Quality infusions](/blog/elden-ring/elden-ring-weapon-scaling-explained), which for most melee builds is a bigger damage jump than the next ten levels. Two more Golden Seeds are in the castle: one near the Secluded Cell grace, one from the castle's own Ulcerated Tree Spirit.
 
 ![Godrick the Grafted, the Stormveil Castle shardbearer with 6,080 HP who grafts a dragon arm onto himself in phase two.](/images/blog/elden-ring/elden-ring-early-game-route/godrick.webp)
 

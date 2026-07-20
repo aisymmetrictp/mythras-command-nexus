@@ -136,7 +136,7 @@ This choice feels weighty. It is not. You can test all three in the starting are
 
 Pick the one that feels good and move on. If you want the full breakdown of all five including the two unlockables, we went deep on that in the [Mina the Hollower weapons guide](/blog/mina-the-hollower/mina-the-hollower-weapons-guide).
 
-One thing worth knowing early: there is no universal parry in this game. Parrying exists, but it is a property of the Guardian Casket specifically, not a mechanic you have access to from the start. If you are trying to time blocks with the Nightstar, stop. Burrow instead.
+One thing worth knowing early: there is no universal parry in this game. Parrying exists, but it is a property of the [Guardian Casket](/blog/mina-the-hollower/mina-the-hollower-weapons-guide) specifically, not a mechanic you have access to from the start. If you are trying to time blocks with the Nightstar, stop. Burrow instead.
 
 ![Mina fighting snowman enemies on an icy path in a frozen mountain region of Mina the Hollower](/images/blog/mina-the-hollower/mina-the-hollower-beginner-guide/frozen-combat.webp)
 
@@ -151,11 +151,11 @@ Two purchases reshape how you use them:
 
 Get the Sidearm Recoverer as early as your Bone budget allows. Losing a sidearm you liked to a bad pit death is the most demoralizing thing the game does to new players, and it is a solvable problem.
 
-There are fourteen sidearms, and a few are worth naming now because they solve specific beginner walls. The Mist Jar is the only sidearm that heals. The Fishing Rod hooks an enemy and warps you to it. The Hollower's Rocks cost one Joule and skip across water. The Iron Steed rides across gaps. If a room looks impossible, the answer is frequently a sidearm you already own and forgot about.
+There are fourteen sidearms, and a few are worth naming now because they solve specific beginner walls. The Mist Jar is the only sidearm that heals. The Fishing Rod hooks an enemy and warps you to it. The Hollower's Rocks cost one Joule and skip across water. The Iron Steed rides across gaps. If a room looks impossible, the answer is frequently a [sidearm you already own](/blog/mina-the-hollower/mina-the-hollower-sidearms-trinkets-guide) and forgot about.
 
 ## Trinkets: One Slot Until You Find More
 
-Trinkets are passive. There are sixty of them. You start with a single trinket slot and expand it with Trinket Bags found across Tenebrous Isle, and you equip them at Trinket Chests or at the moment you pick one up.
+Trinkets are passive. There are [sixty of them](/blog/mina-the-hollower/mina-the-hollower-sidearms-trinkets-guide). You start with a single trinket slot and expand it with Trinket Bags found across Tenebrous Isle, and you equip them at Trinket Chests or at the moment you pick one up.
 
 For a first playthrough the boring ones are the right ones. Lace Glove raises your Attack level by one. Twill Weave raises Defense. Smelling Salts raises your Sidearm level. A flat stat bump in your one slot beats a clever conditional effect you will forget to trigger.
 

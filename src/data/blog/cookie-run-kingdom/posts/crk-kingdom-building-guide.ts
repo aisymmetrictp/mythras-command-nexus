@@ -105,7 +105,7 @@ The good news: a Cookie busy with production **can still be used for World Explo
 
 ![A Cookie House, the building that passively generates EXP Star Jellies for leveling your roster.](/images/blog/cookie-run-kingdom/crk-kingdom-building-guide/cookie-house.webp)
 
-Cookie Houses are a special building type and the **most reliable source of EXP Star Jellies in the game** — the currency you spend to level cookies. They generate Star Jellies **on their own**, with no Cookie staffing required, and you collect by tapping them. Higher-level houses both produce more Star Jellies per minute and store a larger cap.
+Cookie Houses are a special building type and the **most reliable source of [EXP Star Jellies in the game](/blog/cookie-run-kingdom/crk-star-jelly-guide)** — the currency you spend to level cookies. They generate Star Jellies **on their own**, with no Cookie staffing required, and you collect by tapping them. Higher-level houses both produce more Star Jellies per minute and store a larger cap.
 
 The catch worth knowing: once a Cookie House **hits its storage cap, it stops producing** until you collect. So a house you never tap is a house generating nothing past its cap. The fix is simple — collect on login. Each Cookie House gives **9 Decor Points** and takes up an **8x8 tile** footprint, smaller than a production building, and you'll want several of them running because cookie leveling is a constant Star Jelly drain across your whole roster.
 
@@ -125,7 +125,7 @@ Prioritize Fountain upgrades. Few things in the kingdom give a better return for
 
 ![The Bear Jelly Train station, where you trade produced materials and goods for Coins, Kingdom EXP, and Rarities.](/images/blog/cookie-run-kingdom/crk-kingdom-building-guide/bear-jelly-train.webp)
 
-This is where your production buildings finally pay off. The **Bear Jelly Train**, run by the Train Attendant, **trades the Materials and Goods you produce** for rewards you can't easily get any other way. A train requests a set of items, departs once you've completely filled the order, and returns later carrying any of: **Coins, Kingdom EXP, Rarities, Treasure Tickets, Topping Pieces, Time Jumpers, and Radiant Shards.**
+This is where your production buildings finally pay off. The [**Bear Jelly Train**](/blog/cookie-run-kingdom/crk-bear-jelly-train-guide), run by the Train Attendant, **trades the Materials and Goods you produce** for rewards you can't easily get any other way. A train requests a set of items, departs once you've completely filled the order, and returns later carrying any of: **Coins, Kingdom EXP, Rarities, Treasure Tickets, Topping Pieces, Time Jumpers, and Radiant Shards.**
 
 Two facts make the train central to your economy:
 
@@ -141,7 +141,7 @@ You unlock the **first train at Cookie Castle Level 4** after restoring the stat
 Decorations look purely cosmetic, and most of them are — but the system around them pays out in real currency, and a subset of them are genuinely powerful. Here's what actually matters:
 
 - **Decor Points** are awarded for placing decorations (and they stack with the points from your production buildings and houses). They're a progression metric the game uses to gate content, so a tidy, well-decorated kingdom isn't just for show — it's clearing thresholds.
-- **Decoration Themes** are collections of related decor, and **completing a Theme pays out Crystals** — a flat, predetermined amount per Theme. Only the *first* copy of each decor counts toward completion, so buying duplicates does nothing for the reward. Chasing Theme completion is a legitimate, repeatable Crystal source for F2P players.
+- **Decoration Themes** are collections of related decor, and **completing a Theme pays out [Crystals](/blog/cookie-run-kingdom/f2p-crystal-optimization)** — a flat, predetermined amount per Theme. Only the *first* copy of each decor counts toward completion, so buying duplicates does nothing for the reward. Chasing Theme completion is a legitimate, repeatable Crystal source for F2P players.
 - **Landmarks** are the exception to "decor is cosmetic." These are special, high-Decor-Point decorations that grant **passive stat boosts and/or continuously generate valuable items.** They're leveled up with **Aurora Materials**, with the cost climbing as the level rises.
 
 The landmark effects are the part worth caring about, and they're concrete. The **Tick Tock Clock Tower** cuts **Goods production time by 10%** (170 Decor Points, 50,000 Coins) — a direct upgrade to your supply chain. The **Eerie Haunted House** grants **+8% CRIT Chance**, the **Everwinter Snow Globe** gives **+10% DEF**, and others hand out flat combat stats that apply in battle. These are free, permanent buffs sitting inside the "decoration" menu, which is exactly why players who skip the kingdom layer leave power on the table.

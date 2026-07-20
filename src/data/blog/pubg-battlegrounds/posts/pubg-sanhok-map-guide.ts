@@ -72,7 +72,7 @@ That compression is the whole point, and it's also where most players go wrong. 
 
 ## The map that sped PUBG up
 
-Sanhok is the 3rd playable map PUBG released, and it broke the size mold on purpose: a 4x4 km island against the 8x8 footprint of Erangel and Miramar. Cramming a full lobby onto a quarter of the land means you're never far from another team, and the developers leaned all the way in — it was the first PUBG map to use the **dynamic blue zone**, which reads how many players are alive and speeds up or slows down the circle accordingly. Fewer survivors, faster zone. The whole system is tuned to keep the pace high and the matches short.
+Sanhok is the 3rd playable map PUBG released, and it broke the size mold on purpose: a 4x4 km island against the 8x8 footprint of Erangel and Miramar. Cramming a full lobby onto a quarter of the land means you're never far from another team, and the developers leaned all the way in — it was the first PUBG map to use the **[dynamic blue zone](/blog/pubg-battlegrounds/pubg-blue-zone-rotation-guide)**, which reads how many players are alive and speeds up or slows down the circle accordingly. Fewer survivors, faster zone. The whole system is tuned to keep the pace high and the matches short.
 
 The map is a lush Southeast Asian jungle, inspired by islands in Thailand and the Philippines, and the foliage is a gameplay mechanic, not set dressing. Dense trees, tall grass, and broken terrain mean cover is *everywhere* — which sounds great until you realize it's everywhere for the enemy too. Sanhok is a map of close-range ambushes, sudden flanks, and bushes that are absolutely a person. Play it expecting a quiet loot run and the jungle eats you.
 
@@ -128,7 +128,7 @@ Sanhok has a rhythm the big maps don't, and learning it is most of getting good 
 - **Loot fast, then commit.** You don't need to clear an entire compound for gear on Sanhok; you'll find a kit in the first building or two. Grab the essentials — gun, ammo, armor, meds — and start hunting instead of vacuuming up every attachment.
 - **Loot the bodies, not the buildings.** With this many fights, the fastest gear upgrades come off the players you kill. A fresh kill is a loot crate that already has the good stuff. Win the fight, grab the upgrade, move before the third party arrives.
 - **Expect the third party.** Every gunfight on Sanhok is a dinner bell, and the small map means someone is always close enough to hear it and come running. Finish fights fast, reposition immediately, and never sit looting in the open where you just made noise.
-- **Close-range first, range second.** This is a CQC map. An SMG, a shotgun, or a fast-handling AR with a red dot or 2x will win you far more Sanhok fights than a sniper setup. Save the long optics for the rare open ridge.
+- **Close-range first, range second.** This is a CQC map. An [SMG](/blog/pubg-battlegrounds/best-pubg-smgs), a shotgun, or a fast-handling AR with a red dot or 2x will win you far more Sanhok fights than a sniper setup. Save the long optics for the rare open ridge.
 
 ## Rotations in the jungle
 
@@ -156,7 +156,7 @@ Sanhok endgames are the fastest in PUBG, and the dynamic blue zone is why. As pl
 What to look for as the circle closes:
 
 - **Be set early — the zone won't wait.** The dynamic blue zone means late circles can pull fast, so claim your final-circle cover before the scramble. Getting caught mid-rotation in a fast Sanhok zone is a common, avoidable death.
-- **Win the close range.** Final circles here are often tight and bushy, so the fight is decided at SMG and grenade range. Stock up on throwables — frags and smokes are huge in the cramped final compounds.
+- **Win the close range.** Final circles here are often tight and bushy, so the fight is decided at SMG and grenade range. Stock up on [throwables](/blog/pubg-battlegrounds/pubg-throwables-utility-guide) — frags and smokes are huge in the cramped final compounds.
 - **Use the foliage, but don't trust it blindly.** Tall grass and bushes are real cover and real concealment in the endgame, but everyone knows that, so the smart teams are pre-aiming the obvious bushes. Hold a spot with actual hard cover behind the concealment when you can.
 - **Expect the close-quarters scramble.** Sanhok rarely gives you a clean open-field endgame — it's usually a knife-fight in a compound or a bush. Lean into it: high ground, hard cover, full throwables, and the patience to let the fast zone push the other teams to you.
 

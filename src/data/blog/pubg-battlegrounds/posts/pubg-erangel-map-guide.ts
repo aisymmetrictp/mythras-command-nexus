@@ -126,7 +126,7 @@ If your goal is RP, not a clip, you want to land alive, gear up, and be in posit
 **Sosnovka Military Base** is the loot jackpot of Erangel — the most concentrated high-tier gear on the map, packed into the warehouses and barracks on the southern island. It's also the single most committal decision you can make. Here's the honest math:
 
 - **The good:** if you win the base, you walk out with multiple kitted players, top-tier attachments, throwables, and meds. It's a genuine power spike.
-- **The bad:** it's on an island. To get anywhere else, you cross a bridge or the water, and **bridges are the most camped chokepoints in the game.** A single team holding the bridge with a DMR can lock the entire base island in.
+- **The bad:** it's on an island. To get anywhere else, you cross a bridge or the water, and **[bridges are the most camped chokepoints](/blog/pubg-battlegrounds/pubg-bridge-crossing-guide) in the game.** A single team holding the bridge with a DMR can lock the entire base island in.
 - **The ugly:** if the circle pulls north (which it often does), you're staring at a long, exposed rotation off the island while better-positioned teams sit in cover waiting for the bridge to deliver them targets.
 
 The play: take the base only if you're confident in your gunfighting *and* you have a plan to leave — ideally a boat to skip the bridge entirely, or an early read on the circle so you're not the last team trying to cross. If you just want loot without the death sentence, Georgopol or Yasnaya Polyana give you most of the gear with none of the island trap.
@@ -143,7 +143,7 @@ Away from the river, Erangel rotations are all about **field discipline.** The o
 
 ## Vehicle paths that actually matter
 
-On an 8x8 this size, a vehicle isn't a luxury — it's often the difference between making the circle and dying in the blue. Erangel spawns the usual roster (the four-seat UAZ, the Dacia sedan on roads, motorcycles, and boats on the water), and they cluster along the road network and near towns.
+On an 8x8 this size, a vehicle isn't a luxury — it's often the difference between making the circle and dying in the blue. Erangel spawns the [usual roster](/blog/pubg-battlegrounds/best-pubg-vehicles) (the four-seat UAZ, the Dacia sedan on roads, motorcycles, and boats on the water), and they cluster along the road network and near towns.
 
 The vehicle rules for Erangel specifically:
 
@@ -158,7 +158,7 @@ Erangel endgames come down to terrain reading, and the map gives you clear tells
 What to look for as the circle closes:
 
 - **Hold high ground with a back to the edge.** A ridge or hill where the next circle can only pull "toward you or past you" lets you watch the open approaches while teams below you get funneled across exposed ground.
-- **Respect the Red Zone.** Erangel's Red Zone drops offshore artillery on a marked area — get under a roof or out of the zone, don't tank it in the open.
+- **Respect the [Red Zone](/blog/pubg-battlegrounds/pubg-red-zone-guide).** Erangel's Red Zone drops offshore artillery on a marked area — get under a roof or out of the zone, don't tank it in the open.
 - **Use natural cover, not buildings, in the final circles.** Late zones often pull off the towns into fields, so the rocks, ridges, and tree clusters become your cover. The team still thinking "I need to be in a house" gets caught in the open when the circle leaves the town behind.
 - **Let the open fields work for you.** If you've got the elevated, covered position and the circle forces other teams across a field to reach you, you're holding the best hand on the map. Patience plus high ground plus the field-as-a-kill-box is the Erangel endgame in one sentence.
 

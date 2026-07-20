@@ -109,7 +109,7 @@ How to actually play aggressive without throwing:
 
 - **Push downed players and unfinished fights.** When you knock or eliminate someone, capitalize. The reboot system cuts both ways: if you don't finish and reboot-deny, the enemy squad gets their teammate back too.
 - **Take the trade when it's worth it.** Going down to remove an enemy from a fight your team then wins is a good trade in Reload — you'll be back in seconds while their loss might be permanent for that engagement.
-- **Don't over-loot.** Hunting for the perfect inventory wastes the short match. Grab a workable loadout — something for close range, something for range, shields, a mobility option — and go fight. You can upgrade off the people you beat.
+- **Don't over-loot.** Hunting for the perfect inventory wastes the short match. Grab a [workable loadout](/blog/fortnite/fortnite-loadout-priority-guide) — something for close range, something for range, shields, a mobility option — and go fight. You can upgrade off the people you beat.
 - **Keep the pressure on.** A squad that pushes relentlessly forces the enemy to play reactive and defensive, which is exactly where you want them. Hesitation lets them heal and reset; aggression keeps them off balance.
 
 The line to walk: aggressive is not the same as reckless. Pushing into a 1v4 with no heals and no plan still loses. But *between* "play it safe" and "send it," Reload wants you much closer to "send it" than Battle Royale ever does.
@@ -123,7 +123,7 @@ Healing still wins fights, but the rhythm is different because the fights come s
 The heal habits that matter in Reload:
 
 - **Top up in the gaps, fast.** The moment a fight ends, get your shield and health back up before the next one — and in Reload the next one is close. Favor quick heals you can use on the move or in a short lull over long, vulnerable channels you rarely have time for.
-- **Carry shields you can actually use.** Shield Potions give you that effective extra health bar on top of your white HP, and full shield is the difference between winning and losing a peek battle. Treat being below full as a problem to fix, not a state to live in.
+- **Carry shields you can actually use.** Shield Potions give you that effective extra health bar on top of your white HP, and full shield is the difference between winning and losing a peek battle. Treat being below full as a problem to fix, not a state to live in — the same [shield and heal management](/blog/fortnite/fortnite-shield-heal-management-guide) discipline applies, just on a faster clock.
 - **Re-gear includes re-stocking heals.** When you respawn or loot a kill, grab heals as a priority, not an afterthought. A rebooted teammate with a gun and no shields is barely back in the fight.
 - **Don't heal in the open.** Even on a fast clock, channeling a heal where you can be shot is a death sentence. Break line of sight first, then top up.
 
@@ -131,7 +131,7 @@ The general principle holds from BR — walk into fights full — but Reload com
 
 ## Squad coordination wins Reload
 
-Reload is fundamentally a team mode, and the squads that communicate beat the squads that don't, even with worse aim. The respawn system specifically rewards playing together:
+Reload is fundamentally a team mode, and the [squads that communicate](/blog/fortnite/fortnite-team-play-guide) beat the squads that don't, even with worse aim. The respawn system specifically rewards playing together:
 
 - **Call out reboot cards.** When a teammate goes down, someone needs to grab the card and someone needs to cover the reboot. Saying it out loud — "I've got the card, push them off me" — is the difference between a clean reboot and a wipe.
 - **Don't all die in the same spot.** If the whole squad pushes into the same angle and gets mowed down together, there's nobody left to reboot anyone. Stagger your pushes and keep at least one player in a position to recover the others.
@@ -153,7 +153,7 @@ If you bounce between Reload and standard Battle Royale, keeping the differences
 | Best playstyle | Patient, positional, avoid bad coin-flips | Aggressive, push fights, keep momentum |
 | Healing rhythm | Long lulls to set up comfortable heals | Brief windows — heal fast and efficiently between near-constant fights |
 
-The honest summary: **Reload rewards aggression and squad coordination; Battle Royale rewards patience and positioning.** Neither is "easier" — they're different games sharing an engine. A BR demon who plays Reload cautiously gets steamrolled by squads that push; a Reload aggressor who never learned restraint gets punished in BR's longer, less forgiving format. Treat them as the separate modes they are.
+The honest summary: **Reload rewards aggression and squad coordination; Battle Royale rewards patience and positioning.** Neither is "easier" — they're different games sharing an engine. A BR demon who plays Reload cautiously gets steamrolled by squads that push; a Reload aggressor who never learned restraint gets punished in BR's longer, less forgiving format. Treat them as the [separate modes](/blog/fortnite/fortnite-modes-overview) they are.
 
 ## Quick Action Checklist
 

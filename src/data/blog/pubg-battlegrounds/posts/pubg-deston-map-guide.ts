@@ -130,7 +130,7 @@ Deston's verticality is a toolset, not just scenery.
 
 **Gliders** (motor gliders) spawn at airstrips, and Deston rooftops are loaded with emergency/utility parachutes specifically so you can redeploy off a tall building. The combination is the Deston rotation cheat code: get high, glide or parachute toward the next circle, and skip the slow ground crossing entirely. It's also the cleanest way to beat the swamp — fly over the slow terrain instead of slogging through it.
 
-**The Airboat** is the map's signature vehicle, built for both land and sea traversal — genuinely useful on a map this wet. The trade-off is real: it offers poor cover for passengers, so it's a transport tool, not a fighting platform. Take it across water and swamp; bail before the shooting starts.
+**The [Airboat](/blog/pubg-battlegrounds/best-pubg-vehicles)** is the map's signature vehicle, built for both land and sea traversal — genuinely useful on a map this wet. The trade-off is real: it offers poor cover for passengers, so it's a transport tool, not a fighting platform. Take it across water and swamp; bail before the shooting starts.
 
 The verticality also reshapes gunfights. Because many buildings are only partially enterable with highlighted sniper perches, the question in every city fight is "which windows can actually shoot me?" Learn the playable perches and you'll stop dying to angles you didn't know existed.
 
@@ -169,7 +169,7 @@ Rotations here are a three-way negotiation between distance, water, and vertical
 - **Don't ground-slog the swamp under pressure.** Wading across flooded ground while a team holds high ground is the classic Deston death. Route around it, fly over it, or push through dense cover — never the open shallows.
 - **Cities are vertical chokepoints.** Rotating through a city means clearing levels, not just streets. If you don't need the fight, route around the urban core rather than through it.
 
-Because the map is so large, a vehicle or glider is close to mandatory on edge drops — the same big-map rule as Erangel, just with more interesting ways to cover the distance.
+Because the map is so large, a vehicle or glider is close to mandatory on edge drops — the same big-map rule as [Erangel](/blog/pubg-battlegrounds/pubg-erangel-map-guide), just with more interesting ways to cover the distance.
 
 ## Reading the Deston endgame
 
@@ -178,7 +178,7 @@ Deston endgames reward the team that controls verticality and still has its full
 - **High ground means literal buildings here.** Unlike the classic maps where late circles pull off towns into fields, a Deston final circle in or near a city makes rooftops and upper floors the premium real estate. Hold a playable perch with a covered approach and you watch everyone below get funneled.
 - **Know which windows can shoot back.** Because many buildings are only partially enterable, the defensible perches are limited and known. Take one of the real ones; don't assume every window is a threat or a refuge.
 - **Bank your recalls before the final circles.** A full four-stack beats a recovering one. If you're going to recall, do it earlier when there's time to reposition, not in the last circle when your teammate parachutes into crossfire.
-- **Respect the Red Zone and open flooded ground.** Late zones that pull onto swamp or grassland turn the slow terrain into a kill box — get to cover or elevation before the circle forces you across it.
+- **Respect the [Red Zone](/blog/pubg-battlegrounds/pubg-red-zone-guide) and open flooded ground.** Late zones that pull onto swamp or grassland turn the slow terrain into a kill box — get to cover or elevation before the circle forces you across it.
 - **Verticality cuts both ways.** Holding a roof is strong, but an enemy with an Ascender or a glider can contest your height. Watch the access points to your perch as carefully as the streets below.
 
 If you want the zone-reading framework that applies to every map, our [PUBG endgame circle strategy](/blog/pubg-battlegrounds/pubg-endgame-circle-strategy) goes deeper on circle prediction and final-circle positioning. Deston just adds a vertical axis and a reset button to the usual math.

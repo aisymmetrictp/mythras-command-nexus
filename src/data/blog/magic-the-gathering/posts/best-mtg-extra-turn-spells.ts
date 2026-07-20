@@ -70,9 +70,9 @@ That's the whole post in one sentence: extra turns are busted, and they're worth
 
 Strip the romance off it. An extra turn gives you, in rough order of value:
 
-**A full untap and a full turn of mana, twice.** This is the real engine. Extra turns are how combo and big-mana decks chain a payoff — you untap your rocks, your dorks, your lands, and suddenly your "one spell per turn" becomes two or three. In a ramp deck the extra mana is often worth more than the extra attack.
+**A full untap and a full turn of mana, twice.** This is the real engine. Extra turns are how combo and big-mana decks chain a payoff — you untap your [mana rocks](/blog/magic-the-gathering/best-mana-rocks-commander-mtg), your dorks, your lands, and suddenly your "one spell per turn" becomes two or three. In a ramp deck the extra mana is often worth more than the extra attack.
 
-**A second attack step.** Obvious, and the reason aggro and Voltron decks love them — swing, take another turn, swing again before blockers recover or the table stabilizes. With a big enough commander, two combats is lethal.
+**A second attack step.** Obvious, and the reason aggro and [Voltron decks](/blog/magic-the-gathering/best-mtg-voltron-equipment-commander) love them — swing, take another turn, swing again before blockers recover or the table stabilizes. With a big enough commander, two combats is lethal.
 
 **A second draw and land drop.** Quietly the most underrated. Over a game, a couple of extra turns is just raw card and mana advantage stacked on top of everything else.
 
@@ -95,7 +95,7 @@ Ranked on power and reliability in the formats where they matter — primarily C
 1. **Time Warp** — 3UU. Take an extra turn after this one. The clean five-mana benchmark every other extra-turn spell is measured against. No drawback, no rider, just another turn. It's the most-copied template in the category and the first extra-turn spell most decks add. Commander-legal and a Vintage staple.
 2. **Capture of Jingzhou** — 3UU. A functional reprint of Time Warp — take an extra turn after this one. Same cost, same effect, different name and art. You run it as the fourth, fifth, or sixth "Time Warp" in a turns deck because the effect is so strong you want all the copies you can get. Commander-legal.
 3. **Temporal Manipulation** — 3UU. The third copy of Time Warp's effect at the same cost. Take an extra turn after this one, full stop. Together, Time Warp, Capture, and Temporal Manipulation give a dedicated turns deck three clean five-mana extra turns — the core of the archetype.
-4. **Nexus of Fate** — 5UU. Take an extra turn after this one; instant speed; *shuffle Nexus into your library instead of putting it in the graveyard.* The shuffle clause is everything — it never runs out. With enough mana and a way to draw it back, Nexus of Fate is the format's premier *infinite-turns* enabler, and being an instant means you can hold up interaction and only fire it when you untap into the win. Commander-legal.
+4. **Nexus of Fate** — 5UU. Take an extra turn after this one; instant speed; *shuffle Nexus into your library instead of putting it in the graveyard.* The shuffle clause is everything — it never runs out. With enough mana and a way to draw it back, Nexus of Fate is the format's premier *infinite-turns* enabler, and being an instant means you can hold up [interaction](/blog/magic-the-gathering/best-counterspells-mtg) and only fire it when you untap into the win. Commander-legal.
 5. **Alrund's Epiphany** — 5UU. Take two extra turns after this one, and create two 1/1 flying Bird tokens for each — and it has foretell, so you can cast it over two turns to hide the cost. Two turns *and* a board of evasive attackers means it actually closes games by itself, which most extra-turn spells don't. The standout modern printing.
 
 ![Nexus of Fate, the instant-speed extra-turn spell that shuffles itself back into your library instead of going to the graveyard — the premier infinite-turns enabler.](/images/blog/magic-the-gathering/best-mtg-extra-turn-spells/nexus-of-fate.jpg)
@@ -121,9 +121,9 @@ The honest budget read: a turns deck doesn't need the expensive copies to functi
 
 This is where extra turns go from strong to oppressive. A handful of pieces turn "an extra turn" into "all the turns."
 
-**Nexus of Fate + enough mana + card draw.** Because Nexus shuffles itself back in, a deck that can generate ~7+ mana and reliably draw into it each turn just takes infinite turns. This was the infamous engine behind the Standard "Turbo Nexus" decks, and it lives on in Commander.
+**Nexus of Fate + enough mana + card draw.** Because Nexus shuffles itself back in, a deck that can generate ~7+ mana and reliably [draw into it](/blog/magic-the-gathering/best-card-draw-commander-mtg) each turn just takes infinite turns. This was the infamous engine behind the Standard "Turbo Nexus" decks, and it lives on in Commander.
 
-**Time Warp effects + a way to recur them.** Loop a Time Warp with any reanimation or copy effect that returns it — for example, copying or flashing back an extra-turn spell each turn — and you take repeated turns until you find the kill. Mizzix of the Izmagnus, Narset, and Jeleva-style commanders famously abuse this.
+**Time Warp effects + a way to recur them.** Loop a Time Warp with any reanimation or [copy effect](/blog/magic-the-gathering/best-mtg-clones-copy-commander) that returns it — for example, copying or flashing back an extra-turn spell each turn — and you take repeated turns until you find the kill. Mizzix of the Izmagnus, Narset, and Jeleva-style commanders famously abuse this.
 
 **Lighthouse Chronologist** — 1U. A leveled-up Chronologist (level 7+) gives you an extra turn at the beginning of *each* other player's turn — effectively, you take all the turns. Slow to set up, but in mono-blue it's a one-card extra-turn engine.
 

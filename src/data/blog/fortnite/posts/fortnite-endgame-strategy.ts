@@ -88,7 +88,7 @@ Reading the zone is a habit, not a talent. Glance at the map every time a new ci
 
 ## Rotate early and rotate with purpose
 
-Rotating means moving to stay inside the safe zone, but a good rotation does more than avoid the storm — it *gains you position*. The goal is to arrive at the next circle's best terrain before anyone contesting it does.
+[Rotating](/blog/fortnite/fortnite-rotation-guide) means moving to stay inside the safe zone, but a good rotation does more than avoid the storm — it *gains you position*. The goal is to arrive at the next circle's best terrain before anyone contesting it does.
 
 The rules of a clean rotation:
 
@@ -107,7 +107,7 @@ The endgame position you want depends entirely on which mode you're in, and the 
 
 - Enough mats to build and re-build as your structures get shot out (more on that next).
 - The discipline to take high ground *late* — building a giant tower early just makes you the obvious target. Hold mats, then take the height when the circle is small.
-- The ability to retake high ground when you lose it, because in a real endgame you will lose it and have to fight back up.
+- The ability to [retake high ground](/blog/fortnite/fortnite-high-ground-retake-guide) when you lose it, because in a real endgame you will lose it and have to fight back up.
 
 **In Zero Build, there are no towers, so the prize is the best natural cover and elevation.** The hill, the building, the cluster of rocks on the safe side of the zone — claim it and force everyone else to push you across open ground. (Our [Zero Build guide](/blog/fortnite/fortnite-zero-build-guide) covers cover usage and mobility in depth.) The endgame logic is the same — control the best ground — but you take it with your feet and your map read instead of building up to it.
 
@@ -115,7 +115,7 @@ Either way, the principle is identical: **position is the multiplier on everythi
 
 ## Mat management: the resource that runs out
 
-Mats only matter in Build mode, but there they're make-or-break, and most players manage them terribly. You harvest wood, stone, and metal all game, and the endgame is where the bill comes due — if you arrive at the final circle with 80 wood, you cannot fight a high-ground battle, period.
+Mats only matter in Build mode, but there they're make-or-break, and most players [manage them terribly](/blog/fortnite/fortnite-mats-management-guide). You harvest wood, stone, and metal all game, and the endgame is where the bill comes due — if you arrive at the final circle with 80 wood, you cannot fight a high-ground battle, period.
 
 The discipline:
 
@@ -145,7 +145,7 @@ A useful gut check around the third-from-last circle: full shield? Fast heals in
 
 The last circle is loud, fast, and crowded — the surviving players are jammed into a tiny space and somebody dies every few seconds. Winning here is about reading the chaos instead of adding to it blindly.
 
-- **Let players trade, then clean up.** This is third-partying at its most lethal. When two opponents are committed to each other, you don't need to be the third body in the open — hold your position, let them chunk each other, and take the survivor while they're low and out of resources.
+- **Let players trade, then clean up.** This is [third-partying](/blog/fortnite/fortnite-third-party-guide) at its most lethal. When two opponents are committed to each other, you don't need to be the third body in the open — hold your position, let them chunk each other, and take the survivor while they're low and out of resources.
 - **Use sound for the read.** In a tiny final circle, every footstep, shot, and reload tells you where people are. Track the fights by ear so you know who's engaged, who's low, and who's about to push you.
 - **Don't over-peek.** The most common final-circle death is greed — peeking one more time to finish a kill and eating a shot from a third player you forgot about. Take your damage, reset behind cover or your build, and re-peek on your terms.
 - **Mind the closing storm.** In the last couple of circles the safe space is tiny and the storm hurts. Sometimes the winning play is letting an over-aggressive opponent get caught between you and the storm — they have to come to you, across the open, with damage ticking. Position so the storm fights on your side.

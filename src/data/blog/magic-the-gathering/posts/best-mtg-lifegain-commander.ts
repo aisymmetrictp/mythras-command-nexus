@@ -62,7 +62,7 @@ export const bestMtgLifegainCommander: BlogPost = {
     { id: 'commanders-that-want-lifegain', label: 'Commanders that want lifegain', level: 2 },
     { id: 'quick-action-checklist', label: 'Quick Action Checklist', level: 2 },
   ],
-  content: `Gaining life is not a strategy. I'll say it louder for the new Soul Sisters player in the back: sitting at 80 life in a four-player game means nothing if you can't convert that number into pressure. Three opponents have all game to find an answer, and "I'm hard to kill" loses to "I drew a board wipe and you didn't." The padded life total just buys time for someone else to win.
+  content: `Gaining life is not a strategy. I'll say it louder for the new Soul Sisters player in the back: sitting at 80 life in a four-player game means nothing if you can't convert that number into pressure. Three opponents have all game to find an answer, and "I'm hard to kill" loses to "I drew a [board wipe](/blog/magic-the-gathering/best-board-wipes-mtg) and you didn't." The padded life total just buys time for someone else to win.
 
 What makes lifegain a deck instead of a speed bump is the **payoff** — the card that says "whenever you gain life, do something that matters." Drain an opponent. Slap a +1/+1 counter on a creature. Charge a battery that fires a laser at someone's face. The moment your incidental life triggers turn into damage or board state, the whole pile snaps from durdly to deadly. Below are the best lifegain payoffs in Commander, ranked, plus the enablers that feed them and the combos that actually close a game. Every card is legality-checked for Commander.
 
@@ -118,7 +118,7 @@ The fuel. None of these win on their own — they exist to keep the payoffs abov
 
 ## The combos that actually win
 
-This is where lifegain stops being durdly and starts being a combo deck wearing a friendly hat. Each of these is a real, Commander-legal infinite loop.
+This is where lifegain stops being durdly and starts being a [combo deck](/blog/magic-the-gathering/best-commander-combos-mtg) wearing a friendly hat. Each of these is a real, Commander-legal infinite loop.
 
 **Heliod + Walking Ballista** (or any sac/ping life loop): Heliod grants Ballista lifelink; Ballista pings, you gain 1, Heliod adds a +1/+1 counter to Ballista, repeat — infinite damage to the table. The format's signature lifegain kill, and the reason Heliod sits at #1.
 
@@ -136,7 +136,7 @@ Run **8–12 payoffs**. These are your win conditions and value engines — you 
 
 Run **6–10 enablers**, weighted toward the cheap repeatable ones (Soul Sisters, lifelink creatures) plus a doubler or two (Rhox Faithmender, Boon Reflection). The doublers are deceptively important: they make every payoff trigger hit harder, especially the drain effects.
 
-Then the usual Commander backbone — around 10 ramp pieces, 10 card-draw/advantage sources (Well counts double here), 8–10 removal/interaction, and 36–38 lands. Don't shave interaction to jam more Soul Sisters; the deck that gains 100 life and has no removal still loses to the first combo player who untaps.
+Then the usual Commander backbone — around 10 [ramp pieces](/blog/magic-the-gathering/best-ramp-spells-commander-mtg), 10 [card-draw](/blog/magic-the-gathering/best-card-draw-commander-mtg)/advantage sources (Well counts double here), 8–10 [removal](/blog/magic-the-gathering/best-removal-spells-mtg)/interaction, and 36–38 lands. Don't shave interaction to jam more Soul Sisters; the deck that gains 100 life and has no removal still loses to the first combo player who untaps.
 
 ## Commanders that want lifegain
 

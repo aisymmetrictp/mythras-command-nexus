@@ -98,7 +98,7 @@ A few hard rules that catch everyone:
 - On a server, you must be an **op** and the server must allow command blocks (\`enable-command-block=true\` in \`server.properties\`).
 - You **open the command block's GUI by right-clicking it in Creative.** That brings up the text box where you type the command, plus the buttons for the type, condition, and redstone mode.
 
-So the realistic setup for learning is: a single-player Creative world with cheats on, or a world where you've toggled cheats. Get one block, place it, right-click it, and you've got the editor open.
+So the realistic setup for learning is: a [single-player Creative world](/blog/minecraft/best-minecraft-seeds) with cheats on, or a world where you've toggled cheats. Get one block, place it, right-click it, and you've got the editor open.
 
 ## The three types: impulse, chain, repeat
 
@@ -110,9 +110,9 @@ Click the **type button** in the top-left of the command block GUI and it cycles
 
 ![A repeating command block — the purple type that runs its command every game tick while powered.](/images/blog/minecraft/minecraft-command-blocks-guide/repeating-command-block.webp)
 
-- **Repeat (purple) — runs every tick.** While it's active, it executes its command **every single game tick** — 20 times a second. This is for things you want to happen continuously: constantly checking if a player is standing on a pressure plate, reapplying a potion effect, keeping the time locked. Powerful, but be careful — a repeat block running a heavy command 20 times a second can lag your world.
+- **Repeat (purple) — runs every tick.** While it's active, it executes its command **every single game tick** — 20 times a second. This is for things you want to happen continuously: constantly checking if a player is standing on a pressure plate, reapplying a [potion effect](/blog/minecraft/minecraft-status-effects-guide), keeping the time locked. Powerful, but be careful — a repeat block running a heavy command 20 times a second can lag your world.
 
-- **Chain (cyan) — runs in sequence.** A chain block does nothing on its own. It only runs **right after** the command block pointing into it runs (you point command blocks by placing them facing each other). This lets you queue up a sequence: block A runs, then chain block B runs, then chain block C, all in order, in the same tick. You build multi-step machines by lining up one impulse or repeat block feeding into a row of chain blocks.
+- **Chain (cyan) — runs in sequence.** A chain block does nothing on its own. It only runs **right after** the command block pointing into it runs (you point command blocks by placing them facing each other). This lets you queue up a sequence: block A runs, then chain block B runs, then chain block C, all in order, in the same tick. You build [multi-step machines](/blog/minecraft/minecraft-redstone-contraptions-guide) by lining up one impulse or repeat block feeding into a row of chain blocks.
 
 ![A chain command block — the cyan type that runs only after the command block pointing into it executes.](/images/blog/minecraft/minecraft-command-blocks-guide/chain-command-block.webp)
 
@@ -131,7 +131,7 @@ You use conditional to build "if this worked, then do that" logic across a chain
 
 The third button toggles how the block gets switched on.
 
-- **Needs Redstone** means the block only runs when it receives a **redstone signal** — a button, lever, pressure plate, redstone torch, or any powered component next to it. This is the default for impulse and repeat blocks, and it's what you want for anything triggered by player action. Button press sends a pulse, block fires.
+- **Needs Redstone** means the block only runs when it receives a **[redstone signal](/blog/minecraft/minecraft-redstone-basics)** — a button, lever, pressure plate, redstone torch, or any powered component next to it. This is the default for impulse and repeat blocks, and it's what you want for anything triggered by player action. Button press sends a pulse, block fires.
 - **Always Active** means the block runs **without any redstone**, immediately and continuously (for repeat blocks) or once on placement (for impulse). This is the default for chain blocks, and it's how you make a repeat block that just runs forever the moment you place it — no button, no wiring.
 
 So a repeat block set to **Always Active** is your "run this command forever, starting now" setup — great for locking the time of day or keeping a region cleared. A single impulse block set to **Needs Redstone** on a button is your "run this when I press the button" setup. Those two combinations cover almost everything a beginner builds.

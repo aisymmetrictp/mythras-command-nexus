@@ -59,7 +59,7 @@ export const robloxScriptingLuaBasics: BlogPost = {
     { id: 'how-to-actually-get-good', label: 'How to actually get good', level: 2 },
     { id: 'quick-action-checklist', label: 'Quick Action Checklist', level: 2 },
   ],
-  content: `Placing parts in Roblox Studio gets you a really nice diorama. A floor, some walls, a glowing platform — and absolutely nothing happens when a player shows up. Scripting is the difference between a static model and a game: it's what makes the door open, the brick kill, the leaderboard count, the shop button charge you. If you've already done the [Studio basics](/blog/roblox/roblox-studio-basics) and built something out of parts, this is the next step — the one that actually makes the thing playable.
+  content: `Placing parts in Roblox Studio gets you a really nice diorama. A floor, some walls, a glowing platform — and absolutely nothing happens when a player shows up. Scripting is the difference between a static model and a game: it's what makes the door open, the brick kill, the leaderboard count, the shop button charge you. If you've already done the [Studio basics](/blog/roblox/roblox-studio-basics) and built something out of parts, this is the next step — the one that actually makes the thing playable. (For the full start-to-finish arc from idea to a published game, our [how to make a Roblox game](/blog/roblox/how-to-make-a-roblox-game) guide maps the whole journey.)
 
 Here's the good news up front: you do not need to learn an entire programming language before you can build a working mechanic. You need a handful of concepts — where scripts live, the difference between the script types, variables, and events — and one pattern that powers most of what games do. This guide hands you exactly that, plus three real scripts you can paste in and watch work. No prior coding required.
 
@@ -97,7 +97,7 @@ This trips up every beginner, so get it straight early. Roblox has three script 
 
 The server-versus-client split is the key idea. A **Script** runs on the server — the authoritative machine Roblox runs your game on — so it controls things every player needs to agree on, like who has how many points or where an enemy spawns. A **LocalScript** runs on one player's own device, so it handles things personal to that player: their on-screen interface, their camera, their keyboard input. Put a UI script on the server and it won't work; put scoring logic in a LocalScript and players can cheat it.
 
-A **ModuleScript** is different — it doesn't run by itself at all. It's a container for reusable code (a function, a table of data) that other Scripts and LocalScripts can load with \`require\` and share, so you don't copy-paste the same logic five times. You won't need ModuleScripts on day one, but know they exist so the term doesn't confuse you later. For your first scripts, you'll almost always want a plain **Script**.
+A **ModuleScript** is different — it doesn't run by itself at all. It's a container for reusable code (a function, a table of data) that other Scripts and LocalScripts can load with \`require\` and share, so you don't copy-paste the same logic five times. You won't need ModuleScripts on day one, but know they exist so the term doesn't confuse you later. For your first scripts, you'll almost always want a plain **Script**. (And when you eventually need a LocalScript and a Script to talk to each other safely — say, a client button that asks the server to award points — that's the job of [RemoteEvents](/blog/roblox/roblox-remote-events-guide), a step beyond these basics.)
 
 ![The Roblox Studio start screen, where you create a new place to begin building and scripting.](/images/blog/roblox/roblox-scripting-lua-basics/roblox-studio-start-screen.webp)
 
@@ -218,7 +218,7 @@ game.Players.PlayerAdded:Connect(function(player)
 end)
 \`\`\`
 
-Roblox automatically shows anything inside a folder named exactly \`leaderstats\` on the player list. \`Instance.new()\` creates a new object in code — here a Folder and an IntValue (a whole-number container) — and parenting it to the player wires it up. This one script gives you a working scoreboard, and it shows the create-and-parent pattern you'll reuse for tons of systems.
+Roblox automatically shows anything inside a folder named exactly \`leaderstats\` on the player list. \`Instance.new()\` creates a new object in code — here a Folder and an IntValue (a whole-number container) — and parenting it to the player wires it up. This one script gives you a working scoreboard, and it shows the create-and-parent pattern you'll reuse for tons of systems. One catch worth knowing early: these leaderstats reset every time the player leaves — to make a score or currency persist between sessions, you need a [DataStore](/blog/roblox/roblox-datastore-saving-guide).
 
 ## How to actually get good
 

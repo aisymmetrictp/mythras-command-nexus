@@ -75,7 +75,7 @@ We also weighted Commander relevance heavily, because Commander is where most of
 
 ## Best tutors in black
 
-This is the section that sells the color. Black tutors are the single biggest reason people splash into it.
+This is the section that sells the color. [Black tutors](/blog/magic-the-gathering/best-tutors-commander-mtg) are the single biggest reason people splash into it.
 
 ![Demonic Tutor, the two-mana black sorcery that searches your deck for any card and puts it into your hand.](/images/blog/magic-the-gathering/best-black-cards-magic-the-gathering/demonic-tutor.jpg)
 
@@ -97,7 +97,7 @@ Imperial Seal deserves its asterisk. It is functionally Vampiric Tutor at sorcer
 
 ## Best removal in black
 
-Black removal comes in two flavors: cheap single-target kill spells and devastating board wipes. Both are fundamental to the color.
+Black removal comes in two flavors: cheap single-target kill spells and devastating [board wipes](/blog/magic-the-gathering/best-board-wipes-mtg). Both are fundamental to the color.
 
 ![Toxic Deluge, the three-mana black board wipe that gives every creature minus-X/minus-X and kills indestructible threats.](/images/blog/magic-the-gathering/best-black-cards-magic-the-gathering/toxic-deluge.jpg)
 
@@ -136,7 +136,7 @@ Sheoldred, the Apocalypse is the card that defined Standard from 2023 through 20
 
 ## Best reanimation effects
 
-Black is the reanimation color. Other colors recur creatures with conditions (Sun Titan brings back permanents costing 3 or less; Karmic Guide brings back a creature with vigilance and protection from black, costing 5 mana). Black just casts Reanimate. One mana. Any creature in any graveyard. Onto your battlefield.
+Black is the [reanimation](/blog/magic-the-gathering/best-mtg-reanimation-spells) color. Other colors recur creatures with conditions (Sun Titan brings back permanents costing 3 or less; Karmic Guide brings back a creature with vigilance and protection from black, costing 5 mana). Black just casts Reanimate. One mana. Any creature in any graveyard. Onto your battlefield.
 
 ![Reanimate, the one-mana black sorcery that returns any creature from any graveyard to the battlefield for life.](/images/blog/magic-the-gathering/best-black-cards-magic-the-gathering/reanimate.jpg)
 

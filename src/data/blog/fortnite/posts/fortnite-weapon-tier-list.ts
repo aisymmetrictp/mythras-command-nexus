@@ -129,7 +129,7 @@ The goal of looting isn't "best guns" — it's **range coverage.** You want an a
 1. **A shotgun** — your close-range answer and your endgame-fight winner. Near-mandatory.
 2. **An assault rifle** — your mid-range workhorse and default gun.
 3. **One of:** an SMG (if you want close-range sustained DPS to pair with the shotgun) **or** a marksman/sniper (if you want long-range reach and you can hit shots).
-4. **Healing and shields** — yes, these earn slots. A loadout with no heals is a loadout that loses the fight after the fight.
+4. **Healing and shields** — yes, these earn slots. A loadout with no heals is a loadout that loses the fight after the fight, and our [Fortnite healing items tier list](/blog/fortnite/fortnite-healing-items-tier-list) covers exactly what to carry.
 5. **A utility/mobility item** if there's room — something to rotate or break builds.
 
 Notice the priority: **cover your ranges first, then upgrade within each slot.** A balanced shotgun-plus-AR base with heals beats five guns that all do the same thing. The most common loadout mistake is hoarding three mid-range guns and having nothing for the point-blank endgame brawl — where, in Build mode, most games are actually decided. For how those close-range fights play out around builds, see our [Fortnite building basics guide](/blog/fortnite/fortnite-building-basics).
@@ -139,7 +139,7 @@ Notice the priority: **cover your ranges first, then upgrade within each slot.**
 Because the pool rotates, the real skill is tiering it yourself, fast, each season. The method:
 
 - **Slot each available weapon into its class** the first time you see it. New gun? Ask the four ranking questions — range, damage, forgiveness, availability — and you'll know its tier in seconds.
-- **Test-fire new weapons in a low-stakes mode.** Reload or a similar respawn mode is perfect for trying a new gun without a match on the line. Get a feel before you trust it in a final circle.
+- **Test-fire new weapons in a low-stakes mode.** [Reload or a similar respawn mode](/blog/fortnite/fortnite-reload-mode-guide) is perfect for trying a new gun without a match on the line. Get a feel before you trust it in a final circle.
 - **Check official patch notes for buffs/nerfs.** Epic publishes them; a weapon's tier can swing on a single stat change.
 - **Watch what the lobby runs.** If everyone's suddenly using one new weapon, it's probably overtuned — grab it before it gets nerfed.
 - **Re-tier every new season.** Treat the first session of a new chapter as a scouting run for the loot pool, the same way you'd re-scout the map.

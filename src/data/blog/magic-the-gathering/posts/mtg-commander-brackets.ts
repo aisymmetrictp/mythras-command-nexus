@@ -131,14 +131,14 @@ Per WotC's guidelines, Bracket 3 decks:
 
 - **Are noticeably stronger than a precon** but not fully optimized.
 - **May run a limited number of Game Changers** — a small handful, not a pile. The exact cap is set by the official guidelines and is the key thing separating Bracket 3 from Bracket 4.
-- **Can have combos, but generally not the cheapest, fastest game-ending ones**, and not as the entire deck.
+- **Can have [combos](/blog/magic-the-gathering/best-commander-combos-mtg), but generally not the cheapest, fastest game-ending ones**, and not as the entire deck.
 - **Still expect interactive, multi-turn games.**
 
 This is the bracket the system arguably exists to define, because "upgraded but not cutthroat" is the single biggest band of decks and the one the old 1-to-10 scale handled worst. If you've spent real money tuning a deck but you're not trying to win on turn four, you're probably Bracket 3.
 
 ## Bracket 4: Optimized
 
-Bracket 4 is **high power with no restrictions short of full cEDH**. These decks are built to win as efficiently as the pilot can manage, with no limit on Game Changers, fast mana, tutors, or combos — but they aren't necessarily tuned against a competitive metagame the way Bracket 5 is.
+Bracket 4 is **high power with no restrictions short of full cEDH**. These decks are built to win as efficiently as the pilot can manage, with no limit on Game Changers, [fast mana](/blog/magic-the-gathering/best-mtg-fast-mana-commander), [tutors](/blog/magic-the-gathering/best-tutors-commander-mtg), or combos — but they aren't necessarily tuned against a competitive metagame the way Bracket 5 is.
 
 The Bracket 4 profile:
 

@@ -75,9 +75,9 @@ Four levers, and the best combos win on most of them at once.
 
 **Mana cost to assemble.** The cheaper the combo, the earlier it comes online and the less it telegraphs. A combo you can complete with two mana up is a different threat than one that needs you to untap with eight.
 
-**Tutorability.** A two-card combo is really a "find these two cards" puzzle. In a color with strong tutors (black especially), you can dig for either half, which effectively turns a two-card combo into something you assemble far more consistently than its raw card count suggests.
+**Tutorability.** A two-card combo is really a "find these two cards" puzzle. In a color with strong [tutors](/blog/magic-the-gathering/best-tutors-commander-mtg) (black especially), you can dig for either half, which effectively turns a two-card combo into something you assemble far more consistently than its raw card count suggests.
 
-**Resilience.** How many pieces of interaction does it take to break up? A combo that dies to a single instant-speed removal spell on one creature is fragile. A combo you can hold and deploy at instant speed, in response to a board wipe, is much harder to stop.
+**Resilience.** How many pieces of interaction does it take to break up? A combo that dies to a single instant-speed removal spell on one creature is fragile. A combo you can hold and deploy at instant speed, in response to a [board wipe](/blog/magic-the-gathering/best-board-wipes-mtg), is much harder to stop.
 
 **Color and slot cost.** Does the combo ask you to play cards you'd want anyway, or dead weight that only does anything with its partner? Walking Ballista is a fine card on its own. A narrow combo piece that's a blank without its other half costs you more than its one slot.
 
@@ -138,7 +138,7 @@ The premier blue infinite-mana engine, and the most "deckbuilding-dependent" com
 
 **Isochron Scepter** (2) enters and you imprint an instant with mana value 2 or less — here, **Dramatic Reversal** (1U), which untaps all nonland permanents you control. Now, tap the Scepter (2 mana, paid by your mana rocks) to copy and cast Dramatic Reversal, which untaps... all your mana rocks. If your nonland mana sources produce **more than the 2 mana** it costs to activate the Scepter, you net positive every loop — which means **infinite mana**.
 
-That infinite mana does nothing by itself, so you need a payoff: a mana sink like a big X-spell, an outlet like Walking Ballista or a "draw your deck" effect, or, most commonly in cEDH, you generate infinite mana *and* infinite untaps, then dump it into a wincon. With Dockside-style treasure swarms it's trivial; even with three or four basic mana rocks (Sol Ring alone gets you most of the way), you're in business.
+That infinite mana does nothing by itself, so you need a payoff: a mana sink like a big X-spell, an outlet like Walking Ballista or a "draw your deck" effect, or, most commonly in cEDH, you generate infinite mana *and* infinite untaps, then dump it into a wincon. With Dockside-style treasure swarms it's trivial; even with three or four basic [mana rocks](/blog/magic-the-gathering/best-mana-rocks-commander-mtg) (Sol Ring alone gets you most of the way), you're in business.
 
 Why it's a top-tier combo:
 
@@ -221,7 +221,7 @@ Use this when slotting a combo into a Commander deck:
 - [ ] Don't build around Dockside Extortionist — it's banned as of September 2024
 - [ ] For the most reliable win, run Thassa's Oracle + Demonic Consultation (add Tainted Pact for redundancy)
 - [ ] Want an infinite-mana engine? Isochron Scepter + Dramatic Reversal (blue) or Devoted Druid + Vizier of Remedies (green)
-- [ ] Prefer permanent-based combos (Mikaeus + Triskelion, Heliod + Ballista) if your meta has lots of counterspells
+- [ ] Prefer permanent-based combos (Mikaeus + Triskelion, Heliod + Ballista) if your meta has lots of [counterspells](/blog/magic-the-gathering/best-counterspells-mtg)
 - [ ] Pick pieces that are good cards on their own (Walking Ballista, Sol Ring as a rock) so they aren't dead draws
 - [ ] Read the table — a turn-four infinite is cEDH normal and casual-pod poison`,
   faq: [

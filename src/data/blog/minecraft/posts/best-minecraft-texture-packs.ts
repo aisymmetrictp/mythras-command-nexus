@@ -67,8 +67,8 @@ That last point is where people get confused, so we'll square it away first: tex
 These three terms get used interchangeably and they should not be.
 
 - **Texture pack / resource pack.** In modern Minecraft these are effectively the same thing — Mojang renamed "texture packs" to **resource packs** years ago, but the community still says "texture pack" out of habit. A resource pack swaps **textures, models, sounds, fonts, and language files.** It changes how the game *looks and sounds*, never how it behaves. You install it inside the game with no extra software.
-- **Mod.** A mod changes the actual *code* — adds new blocks, mobs, mechanics, or systems. Mods need a mod loader (Fabric or Forge) and can break between versions. A texture pack is not a mod and does not need a loader.
-- **Shader.** A shader rewrites how the game draws light, shadows, and water per pixel. Shaders need a loader like Iris and are the most performance-heavy of the three. A texture pack is not a shader — it changes the art, not the lighting.
+- **[Mod](/blog/minecraft/best-minecraft-mods).** A mod changes the actual *code* — adds new blocks, mobs, mechanics, or systems. Mods need a mod loader (Fabric or Forge) and can break between versions. A texture pack is not a mod and does not need a loader.
+- **[Shader](/blog/minecraft/best-minecraft-shaders).** A shader rewrites how the game draws light, shadows, and water per pixel. Shaders need a loader like Iris and are the most performance-heavy of the three. A texture pack is not a shader — it changes the art, not the lighting.
 
 ![A comparison of the same Minecraft blocks rendered with different textures, showing how a resource pack changes the art without changing gameplay.](/images/blog/minecraft/best-minecraft-texture-packs/textures-comparison.webp)
 
@@ -103,7 +103,7 @@ Ranked by how worthwhile the change is against how much it costs you, and noting
 
 **3. Jicklus and the "modern vanilla" family** keep the 16x resolution but warm up the palette and simplify a few noisy textures (Jicklus leans cozy and earthy; Bare Bones-style packs flatten and brighten everything into the look used in official Minecraft trailers). These change the *vibe* without changing the resolution — great if vanilla feels a touch cold or busy to you.
 
-**4. John Smith Legacy** is the long-running **builder's pack** — a 32x rustic, medieval art style with hand-drawn wood, stone, and detailing that makes castles and villages look right. It is a Java staple for serious builders and survives because the art is genuinely characterful, not just higher-res.
+**4. John Smith Legacy** is the long-running **builder's pack** — a 32x rustic, medieval art style with hand-drawn wood, stone, and detailing that makes castles and villages look right. It is a Java staple for serious [builders](/blog/minecraft/minecraft-building-tips) and survives because the art is genuinely characterful, not just higher-res.
 
 **5. Stay True** is a 32x pack that **smooths and gently enhances vanilla** — softer noise, cleaner edges, more natural colors — while staying instantly recognizable. It is the pick if you want "Faithful but a little softer and more organic."
 
@@ -154,7 +154,7 @@ Mostly no — and this is the big advantage over shaders. A texture pack only ch
 - **64x and higher** start to use more video memory; on a low-VRAM GPU you may see stutter or longer load times when textures stream in.
 - **128x–512x realistic packs** are where it genuinely matters — these can cost meaningful frame rate and want a capable GPU, especially combined with connected-textures features or a shader on top.
 
-If a high-res pack stutters, the fixes are to **drop to a lower resolution version of the same pack**, lower your render distance, or run a performance mod like Sodium underneath. But for the vast majority of players running a 32x pack like Faithful, **there is no frame-rate cost worth worrying about** — the upgrade is basically free.
+If a high-res pack stutters, the fixes are to **drop to a lower resolution version of the same pack**, lower your render distance, or run a performance mod like [Sodium](/blog/minecraft/best-minecraft-mods) underneath. But for the vast majority of players running a 32x pack like Faithful, **there is no frame-rate cost worth worrying about** — the upgrade is basically free.
 
 ## Quick Action Checklist
 

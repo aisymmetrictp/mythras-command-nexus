@@ -59,7 +59,7 @@ export const fortniteZeroBuildGuide: BlogPost = {
   ],
   content: `Zero Build is not Build mode with the building removed. That's the mental model that gets people killed. When Epic made it a permanent, always-on playlist instead of a limited-time event, they didn't just delete a mechanic — they handed the game a completely different rulebook, and the cover, mobility, and shield systems all quietly rewrote themselves around it. The players who treat it like "regular Fortnite but I forgot how to build" lose to the players who understand it's a separate game with its own meta.
 
-Here's the core swap: in Build mode, you *make* your cover and *make* your high ground out of thin air. In Zero Build, the map already decided where the cover and the high ground are, and your entire job is reading it faster than the other guy. Aim still matters, but positioning matters more than it ever did with walls in the game. This guide is the no-build meta from the ground up — how to use cover, how the mobility tools replace building, how to actually manage your shields, and where Zero Build's rules diverge hard from the version you may have learned first.
+Here's the core swap: in Build mode, you *make* your cover and *make* your high ground out of thin air. In Zero Build, the map already decided where the cover and the high ground are, and your entire job is reading it faster than the other guy. [Aim](/blog/fortnite/fortnite-aim-training-guide) still matters, but positioning matters more than it ever did with walls in the game. This guide is the no-build meta from the ground up — how to use cover, how the mobility tools replace building, how to actually manage your shields, and where Zero Build's rules diverge hard from the version you may have learned first.
 
 ## Zero Build is its own game
 
@@ -93,7 +93,7 @@ The mistake that kills new Zero Build players is **fighting in the open because 
 
 ![A Fortnite character sprint-vaulting through a window — mantling and sprint are the mobility that replaced building.](/images/blog/fortnite/fortnite-zero-build-guide/sprint-window.webp)
 
-If cover is your wall, **mobility is your ramp.** The traversal toolkit is how you cross open ground, reach high ground, and escape bad fights without a single structure. These tools are durable parts of the mode, not season gimmicks, so they're worth drilling:
+If cover is your wall, **mobility is your ramp.** The [traversal toolkit](/blog/fortnite/fortnite-movement-guide) is how you cross open ground, reach high ground, and escape bad fights without a single structure. These tools are durable parts of the mode, not season gimmicks, so they're worth drilling:
 
 - **Sprint.** Hold sprint to move noticeably faster, with a stamina meter that drains and recovers. Sprint is for *crossing danger zones* — covering open ground between cover fast — not for cruising around. Burn it on the gaps and let it recover behind cover. Sprinting also makes noise and you can't ADS while doing it, so don't sprint into a fight you mean to win.
 - **Mantling.** Run into a ledge, wall, or window and you'll automatically pull yourself up and over. This is your vertical traversal — it's how you climb to high ground that you used to ramp to. Mantling through a window to enter a building, or up a rock to gain elevation, is the core "I need to be up there" move.
@@ -105,7 +105,7 @@ The principle that ties it together: **you should almost never be standing still
 
 ![A Fortnite blue Shield Potion — the staple shield item that decides who wins long no-build fights.](/images/blog/fortnite/fortnite-zero-build-guide/shield-potion.webp)
 
-Because fights last longer and you can't wall off to heal in peace, **your shield and health pool is the resource that decides most fights.** In Build mode you box up and chug in safety. In Zero Build, healing means finding cover good enough that nobody can shoot you for the few seconds it takes — and that's a tactical decision, not a free action.
+Because fights last longer and you can't wall off to heal in peace, **your [shield and health pool](/blog/fortnite/fortnite-shield-heal-management-guide) is the resource that decides most fights.** In Build mode you box up and chug in safety. In Zero Build, healing means finding cover good enough that nobody can shoot you for the few seconds it takes — and that's a tactical decision, not a free action.
 
 The healing staples that are always worth carrying:
 
@@ -129,7 +129,7 @@ Treat it as a small, free top-up that rewards patience and punishes opponents wh
 
 ## Third-partying and when to take a fight
 
-Third-partying — jumping into a fight between two other players to clean up the survivor — is strong in every Fortnite mode, but it's *especially* punishing in Zero Build because the players already fighting can't wall off to recover. They're committed, low, and exposed. That's the whole opportunity, and also the whole danger, because the same logic means *you* get third-partied the instant you start a loud fight in the open.
+[Third-partying](/blog/fortnite/fortnite-third-party-guide) — jumping into a fight between two other players to clean up the survivor — is strong in every Fortnite mode, but it's *especially* punishing in Zero Build because the players already fighting can't wall off to recover. They're committed, low, and exposed. That's the whole opportunity, and also the whole danger, because the same logic means *you* get third-partied the instant you start a loud fight in the open.
 
 How to play it sharp:
 
@@ -152,7 +152,7 @@ If you split your time between the two modes, keeping the differences straight s
 | Losing a position | One ramp fixes it instantly | Positioning is sticky — a bad spot stays bad until you physically move |
 | Closing distance | Build a protected path across the open | Use cover-to-cover routes and sprint to cross gaps |
 
-The honest summary: **Zero Build rewards game sense and positioning; Build mode rewards mechanical building speed on top of that.** Neither is "easier" — they're different skills. A Build-mode demon who never learned to read cover gets picked apart in Zero Build by patient players, and a Zero Build veteran who can't build gets walled out of Build mode. If you want to be good at both, train them as the separate games they are.
+The honest summary: **Zero Build rewards game sense and positioning; Build mode rewards mechanical [building speed](/blog/fortnite/fortnite-building-basics) on top of that.** Neither is "easier" — they're different skills. A Build-mode demon who never learned to read cover gets picked apart in Zero Build by patient players, and a Zero Build veteran who can't build gets walled out of Build mode. If you want to be good at both, train them as the separate games they are.
 
 ## Quick Action Checklist
 

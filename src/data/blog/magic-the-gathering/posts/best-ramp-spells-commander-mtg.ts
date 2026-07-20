@@ -76,7 +76,7 @@ Ramp does three things that just playing lands off the top can't:
 
 1. **It beats the one-land-per-turn cap.** You can only play one land a turn. A Cultivate puts a land into play *and* stocks another in hand, so you're effectively two lands ahead with one card.
 2. **It fixes colors.** Most green ramp spells fetch any basic — or with the better ones, any land type including duals. That turns a three-color manabase from a coin flip into a machine.
-3. **It rebuilds after a wipe.** Land-based ramp survives a Wrath of God. The lands stay on the battlefield. A board of mana dorks does not, which is the single biggest knock against creature ramp and the reason land ramp sits above it in this ranking.
+3. **It rebuilds after a wipe.** Land-based ramp survives a [Wrath of God](/blog/magic-the-gathering/best-board-wipes-mtg). The lands stay on the battlefield. A board of mana dorks does not, which is the single biggest knock against creature ramp and the reason land ramp sits above it in this ranking.
 
 > The honest test for any ramp card: does it leave you with more usable mana next turn than just playing a land would? If it taps for one and dies to a stiff breeze, it had better be cheap. If it permanently adds lands to your board, it can cost a little more.
 
@@ -118,7 +118,7 @@ The two-mana fetchers are arguably better in a tuned manabase. **Three Visits an
 
 ![Birds of Paradise, the one-mana green creature that taps for one mana of any color.](/images/blog/magic-the-gathering/best-ramp-spells-commander-mtg/birds-of-paradise.jpg)
 
-Mana dorks are creatures that tap for mana. They are the fastest ramp in the game — a turn-one dork means a turn-two three-drop — but they die to every board wipe, every Pyroclasm, every random ping. Run them in decks that want to be ahead early, not in slow control shells where they'll just get swept.
+[Mana dorks](/blog/magic-the-gathering/best-mana-dorks-mtg) are creatures that tap for mana. They are the fastest ramp in the game — a turn-one dork means a turn-two three-drop — but they die to every board wipe, every Pyroclasm, every random ping. Run them in decks that want to be ahead early, not in slow control shells where they'll just get swept.
 
 - **Birds of Paradise** — {G}, taps for **one mana of any color**. The best one-mana dork ever printed because it fixes any color in the game. A turn-one Birds in a three-color deck is the single best fixing play available.
 - **Llanowar Elves / Elvish Mystic** — {G}, taps for {G}. Functionally the same card; both are one-mana 1/1s that tap for a green. The cleanest acceleration in any green deck. Run both — they're not the same card name, so the singleton rule lets you.
@@ -139,7 +139,7 @@ Green owns ramp spells. The other colors get scraps, and they mostly ramp throug
 
 - **Mana rocks** are the answer for non-green decks. Sol Ring, Arcane Signet, the Talisman and Signet cycles — these are how a mono-blue or mono-white deck accelerates, and they go in any color. A rockless non-green deck is a slow deck.
 - **Smothering Tithe** (white enchantment) isn't a ramp spell in the traditional sense, but it out-ramps most actual ramp in a four-player game by printing a Treasure off every opponent's draw step unless they pay 2. Nobody pays.
-- **Treasure and ritual effects** (red's Dockside-style payoffs, black's Dark Ritual one-shots) generate burst mana but don't stick — they're acceleration for a specific explosive turn, not a steady ramp engine.
+- **[Treasure](/blog/magic-the-gathering/best-mtg-treasure-payoffs) and ritual effects** (red's Dockside-style payoffs, black's Dark Ritual one-shots) generate burst mana but don't stick — they're acceleration for a specific explosive turn, not a steady ramp engine.
 
 The takeaway: if you're not in green, your "ramp spells" are mostly mana rocks, and you build differently. Green is the only color where the *spells* themselves — sorceries that fetch lands — carry the ramp load. That's the entire reason green-based decks can run 36 lands and still never miss a land drop, while a mono-blue control deck has to lean on eight rocks to keep pace.
 

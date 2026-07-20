@@ -80,7 +80,7 @@ Editing does three jobs in a fight, and edit-on-release makes all three viable u
 
 You cannot edit fast on bad binds. This is the same rule that governs building, and it matters even more for editing because edits are quick, repeated micro-actions. Three controls need to be comfortable and reachable:
 
-- **Edit / select.** The button you hold to enter edit mode and select tiles. On controller this is part of the **Builder Pro** preset; on PC most players move it off the default and onto a key their thumb or pinky reaches without leaving movement.
+- **Edit / select.** The button you hold to enter edit mode and select tiles. On controller this is part of the **Builder Pro** preset; on PC most players move it off the default and onto a key their thumb or pinky reaches without leaving movement (our [best Fortnite keybinds guide](/blog/fortnite/best-fortnite-keybinds) covers a full layout).
 - **Confirm.** With edit-on-release enabled, this happens automatically when you let go — which is why edit-on-release is so much faster than a manual confirm press.
 - **Reset edit.** Snaps a piece back to its original full shape in one press. You use this constantly to close a window after shooting. Bind it somewhere you can hit instantly.
 
@@ -151,7 +151,7 @@ Editing speed is built in Creative mode, where you have infinite materials and n
 2. **Door and window on every wall of a box.** Box up, then edit a window or door on each of the four walls and reset each one. This trains editing the correct piece when you're surrounded by edit targets.
 3. **Cone peeks.** Box up with a cone overhead and drill opening the cone, taking an imaginary shot, and recovering. Get comfortable with the up-down rhythm.
 4. **Ramp redirects.** Place ramps and practice editing them to face new directions without breaking and rebuilding.
-5. **Free-play edit courses.** Search Creative for "edit course" maps — they throw timed edit prompts at you and are the closest thing to a gym for editing. They build raw speed and accuracy under a clock.
+5. **Free-play edit courses.** Search Creative for ["edit course" maps](/blog/fortnite/fortnite-edit-courses-guide) — they throw timed edit prompts at you and are the closest thing to a gym for editing. They build raw speed and accuracy under a clock.
 6. **1v1 and build-fight maps.** Once your solo edits are clean, take them into 1v1 maps where another player is actually pressuring you. This is where you learn which edits hold up when someone's shooting.
 
 The honest timeline: clean window resets within a few days, comfortable cone peeks and ramp redirects within a couple of weeks, and genuinely fast editing under pressure over a few months. Ten focused minutes a day beats one long weekly grind, and five minutes of edit drills before you queue keeps your hands warm — cold hands edit slow.

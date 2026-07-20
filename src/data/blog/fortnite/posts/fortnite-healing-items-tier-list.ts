@@ -68,7 +68,7 @@ export const fortniteHealingItemsTierList: BlogPost = {
   ],
   content: `Half the players who die to the storm or get caught mid-chug didn't lose a gunfight — they lost a heal-management fight, and they lost it before the storm even started moving. They cracked someone's shield, walked away with 70 health and no shield, and never topped up because they were "saving" their potions. Then the next squad rolled in and there was nothing to pop.
 
-Like the weapon pool, the exact heals in the game rotate every season — Epic vaults and unvaults consumables constantly, and the fancy mythic-only heal this month might be gone next month. So this isn't a list of *which* season's items are good. It's a tier list of healing item **types** and a framework for ranking whatever heals are in the bag right now, plus the part nobody talks about: when to actually use them. Learn the types and the timing and you'll stop dying at full ammo with an empty health bar.
+Like the [weapon pool](/blog/fortnite/fortnite-weapon-tier-list), the exact heals in the game rotate every season — Epic vaults and unvaults consumables constantly, and the fancy mythic-only heal this month might be gone next month. So this isn't a list of *which* season's items are good. It's a tier list of healing item **types** and a framework for ranking whatever heals are in the bag right now, plus the part nobody talks about: when to actually use them. Learn the types and the timing and you'll stop dying at full ammo with an empty health bar.
 
 ## Heals lose more games than aim does
 
@@ -134,7 +134,7 @@ Inventory slots are the real currency. A balanced bag covers both bars without s
 - **A health-restore option** (a Med-Kit or a full-health item, or bandages if that's all you've got). The bar you can't regenerate needs a dedicated fix.
 - **One mobility/flex heal if available** (a splash-type or both-bars item). This is the slot that wins messy fights, because it heals you without standing still.
 
-Past the midgame, a common smart split is **roughly two heal slots** — enough to reset between fights, not so many that you're walking into the endgame with one weapon and a pharmacy. If you're in the final circles with five heal stacks and two guns, you over-invested. If you're at full health, **drop the redundant minis** for utility or ammo. Heals you can't use because you're already topped off are just dead weight.
+Past the midgame, a common smart split is **roughly two heal slots** — enough to reset between fights, not so many that you're walking into the [endgame](/blog/fortnite/fortnite-endgame-strategy) with one weapon and a pharmacy. If you're in the final circles with five heal stacks and two guns, you over-invested. If you're at full health, **drop the redundant minis** for utility or ammo. Heals you can't use because you're already topped off are just dead weight.
 
 One squad note: in duos/trios/squads, **bigger heal stacks are more defensible** because you can share and revive-heal teammates, and group/splash heals get dramatically better with bodies around them. Solo, lean leaner.
 
@@ -146,9 +146,9 @@ Owning the right heals is only half of it. The timing is where games are won and
 
 - **Heal to full the moment a fight ends.** Before you loot, before you push, get behind cover and top both bars. The next squad heard that fight and is already moving. Walking into them at 60 health is how you hand away a win you earned.
 - **Never start a long channel in the open or in earshot of an active fight.** A Med-Kit is a commitment. Pop it behind hard cover with no one near, or you're just announcing "free knock over here."
-- **Shield first, then health, when you can.** Shield is your buffer for the *next* hit. If you're cracked to white with no shield, fix health enough to survive, then rebuild shield the second you're safe.
+- **Shield first, then health, when you can.** Shield is your buffer for the *next* hit. If you're cracked to white with no shield, fix health enough to survive, then rebuild shield the second you're safe — our [shield and heal management guide](/blog/fortnite/fortnite-shield-heal-management-guide) breaks down the order in detail.
 - **Use mobility heals to stay in the fight.** The whole point of splash-type and on-the-move heals is that you don't have to disengage to use them. If you have one, you can top up while repositioning instead of giving up the angle.
-- **Pre-storm: heal before you rotate, not in the storm.** Getting caught taking storm damage *and* trying to channel a heal is a classic double-tax death. Top off, then move.
+- **Pre-storm: heal before you [rotate](/blog/fortnite/fortnite-rotation-guide), not in the storm.** Getting caught taking storm damage *and* trying to channel a heal is a classic double-tax death. Top off, then move.
 - **Don't hoard.** The most common mistake is "saving" heals for a moment that never comes because you died at half health holding three full potions. If you're below full and safe, use one. That's what they're for.
 
 The mental model: **your bag is a health bar you have to consciously spend.** Players who treat heals as something to ration die topped-up-but-too-late. Players who treat them as a resource to keep at maximum between every engagement are the ones still standing in the final circle.

@@ -64,7 +64,7 @@ export const bestArtifactsMtg: BlogPost = {
   ],
   content: `The One Ring untaps, you take no damage for a turn, and then it draws you a card, then two, then three, until your opponent either kills it or loses. It is colorless, it costs four, it goes in any deck, and it was so good in 60-card Magic that Wizards banned it in Modern in 2025 — while leaving it fully legal in Commander, Legacy, and Vintage. That split is the whole story of artifacts: the best ones are colorless engines that every deck can run, which is exactly why so many of them end up on a ban list.
 
-This is a ranking of the best artifacts in Magic that are *not* mana rocks. Sol Ring and the Signets get their own breakdown — here we are talking about the utility pieces, the card-advantage engines, the equipment-adjacent threats, and the colorless powerhouses that decide games on their own. It is Commander-first because that is where the deepest artifact pool is legal, with format notes throughout. Every card was checked against Scryfall for current legality, and where something is banned or restricted somewhere, it is flagged.
+This is a ranking of the best artifacts in Magic that are *not* mana rocks. [Sol Ring and the Signets](/blog/magic-the-gathering/best-mana-rocks-commander-mtg) get their own breakdown — here we are talking about the utility pieces, the card-advantage engines, the equipment-adjacent threats, and the colorless powerhouses that decide games on their own. It is Commander-first because that is where the deepest artifact pool is legal, with format notes throughout. Every card was checked against Scryfall for current legality, and where something is banned or restricted somewhere, it is flagged.
 
 ## Why artifacts are the glue of the game
 
@@ -114,7 +114,7 @@ The throughline on this group: card-advantage artifacts are the ones that punish
 These don't win on their own, but they answer problems no single colored card can, and they're cheap enough to slot into almost anything.
 
 - **Pithing Needle** — {1}. Names a card and shuts off its activated abilities — a planeswalker, a problematic creature, a combo piece. One mana of flexible interaction in any deck, legal across Commander, Legacy, Modern, Pioneer, and Vintage.
-- **Expedition Map** — {1}. Sacrifices to tutor any land to your hand. The cheapest, most universal land tutor in the game; it fetches your one-of utility land, your combo land, or just fixing. Legal everywhere, including **Pauper**, where it's a staple.
+- **Expedition Map** — {1}. Sacrifices to tutor any land to your hand. The cheapest, most universal [land tutor](/blog/magic-the-gathering/best-tutors-commander-mtg) in the game; it fetches your one-of utility land, your combo land, or just fixing. Legal everywhere, including **Pauper**, where it's a staple.
 - **Crucible of Worlds** — {3}. Lets you replay lands from your graveyard. Pair it with a fetchland or a sacrifice land like Strip Mine and it becomes a slow, grinding lock or a steady stream of land drops. Pure value in long games. Legal across Commander, Legacy, Modern, Pioneer, Vintage.
 - **Liquimetal Torque** — {2}. A mana rock that also turns any permanent into an artifact, which quietly enables artifact removal to hit anything. A flexible role-player in the right shell.
 
@@ -127,7 +127,7 @@ Not every artifact sits back and grinds. Some just attack.
 ![Smuggler's Copter, the two-mana 3/3 flying Vehicle that loots a card whenever it attacks or blocks and crews for just one.](/images/blog/magic-the-gathering/best-artifacts-mtg/smugglers-copter.jpg)
 
 - **Smuggler's Copter** (covered in S-tier) is the model: cheap, evasive, and it replaces itself with looting. The best aggressive artifact in the game.
-- **Batterskull** — {5}. A living-weapon Equipment that brings its own 0/0 Germ and turns it into a 4/4 with vigilance and lifelink the turn it lands. Bounce it to dodge removal. Colorless, self-contained, and a classic control finisher in Legacy and Vintage off Stoneforge Mystic. We cover it in depth in the equipment guide.
+- **Batterskull** — {5}. A living-weapon Equipment that brings its own 0/0 Germ and turns it into a 4/4 with vigilance and lifelink the turn it lands. Bounce it to dodge removal. Colorless, self-contained, and a classic control finisher in Legacy and Vintage off Stoneforge Mystic. We cover it in depth in the [equipment guide](/blog/magic-the-gathering/best-equipment-mtg).
 - **Walking Ballista / artifact creatures with built-in reach.** Colorless creatures that scale with your mana and double as removal are some of the most flexible bodies in the game, fitting aggressive and combo decks alike.
 - **Kaldra Compleat and the big living-weapon top-end.** Expensive, but a single haste-granting, indestructible, first-strike trampler that makes its own body is a real Commander and Legacy finisher when you can cheat it down.
 
@@ -135,7 +135,7 @@ The pattern for aggressive artifacts is the same as for engines: the best ones c
 
 ## Best prison and stax artifacts
 
-This is the spiciest corner of the artifact pool. Stax artifacts don't generate value — they tax everyone else's resources, including yours, and the player built to operate under the lock wins. Run these only if your deck is designed for them.
+This is the spiciest corner of the artifact pool. [Stax artifacts](/blog/magic-the-gathering/best-mtg-stax-pieces-commander) don't generate value — they tax everyone else's resources, including yours, and the player built to operate under the lock wins. Run these only if your deck is designed for them.
 
 | Artifact | Cost | What it does | Legality note |
 | --- | --- | --- | --- |

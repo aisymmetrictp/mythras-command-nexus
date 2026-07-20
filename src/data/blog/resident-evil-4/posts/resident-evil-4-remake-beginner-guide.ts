@@ -95,7 +95,7 @@ One useful mercy: if you die enough times in one spot, the game offers to lower 
 
 ![The Combat Knife from the Resident Evil 4 remake, Leon's repairable starting knife.](/images/blog/resident-evil-4/resident-evil-4-remake-beginner-guide/combat-knife.webp)
 
-This is the mechanic that breaks the most returning players. In the remake, your Combat Knife has durability, and every action you take with it costs some of that durability. The good news is that unlike the Kitchen Knives and Boot Knives you find lying around, the Combat Knife never permanently breaks — you can take it to the Merchant and have it repaired.
+This is the mechanic that breaks the most returning players. In the remake, your Combat Knife has durability, and every action you take with it costs some of that durability. The good news is that unlike the Kitchen Knives and Boot Knives you find lying around, the Combat Knife never permanently breaks — you can take it to the Merchant and have it repaired, a recurring bill the [Merchant and spinel guide](/blog/resident-evil-4/resident-evil-4-remake-merchant-guide) breaks down in full.
 
 The bad news is the price list, which is brutally uneven. Here are the repair costs by action:
 
@@ -176,7 +176,7 @@ Money is tight early, and the temptation is to buy a shiny new gun. Resist it. H
 3. **The Bolt Thrower, at 10,000 pesetas from Chapter 2.** It is the cheapest weapon in the game and its bolts are recoverable off corpses, which makes it the best ammo economy available to a broke player.
 4. **Knife repairs, every single time you pass the Merchant.** They are cheap relative to the alternative.
 
-What not to buy early: the Broken Butterfly magnum at 42,000 pesetas, or any second shotgun. The magnum is a Chapter 7 purchase that costs more than a case upgrade and solves problems you do not have yet.
+What not to buy early: the Broken Butterfly magnum at 42,000 pesetas, or any second shotgun. The magnum is a Chapter 7 purchase that costs more than a case upgrade and solves problems you do not have yet. Once money loosens up, the [weapon upgrade guide](/blog/resident-evil-4/resident-evil-4-remake-weapon-upgrade-guide) lays out exactly which guns are worth maxing.
 
 ![A green herb item from the Resident Evil 4 remake, the base healing item used in crafting mixed herbs.](/images/blog/resident-evil-4/resident-evil-4-remake-beginner-guide/green-herb.webp)
 

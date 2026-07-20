@@ -85,7 +85,7 @@ So when you see "clicker" below, the test is: is the main thing I'm doing *click
 
 ## Pet Simulator 99: the genre giant
 
-**Pet Simulator 99** (PS99), from BIG Games, is the clicker that ate the genre. It's a pet-collecting incremental and one of the most-played experiences on the entire platform — its DNA is pure clicker (break objects for coins, the numbers ramp exponentially), but it's layered with so much pet-hatching, merging, and trading that it became something bigger than the games it descends from. BIG Games ships new content at a relentless pace — roughly weekly — so there's always a fresh world to point your earnings at, which is exactly why it stays at the top while older clickers fade.
+**Pet Simulator 99** (PS99), from BIG Games, is the clicker that ate the genre. It's a [pet-collecting incremental](/blog/roblox/best-roblox-pet-games) and one of the most-played experiences on the entire platform — its DNA is pure clicker (break objects for coins, the numbers ramp exponentially), but it's layered with so much pet-hatching, merging, and trading that it became something bigger than the games it descends from. BIG Games ships new content at a relentless pace — roughly weekly — so there's always a fresh world to point your earnings at, which is exactly why it stays at the top while older clickers fade.
 
 The honest framing: PS99 is the *least* pure clicker on this list, because so much of the coin collection runs on auto-collection systems rather than your finger. You're clicking less and managing more — which world to push, which pets to merge, what to chase in the trading economy. But it earns the top spot anyway because it's the deepest, most-supported, most rewarding version of the click-to-progress loop on Roblox, and the rebirth-style power ramp (new worlds, stronger pets, bigger numbers) is the genre at its most polished. If you only play one game off this list, it's this one.
 
@@ -139,7 +139,7 @@ A few more that scratch specific itches:
 
 - **Tapping Simulator** (Zood Studios) — A straightforward tap-for-currency, hatch-pets, unlock-islands clicker that's still getting weekly updates, including a recent mutation system and spin wheel. A solid no-frills pick.
 - **Clicker Simulator** (Toya) — One of the more literal entries: click *anywhere* on screen for Clicks, hatch pets, rebirth for multipliers. Still active with a long list of working codes.
-- **Anime Fighting Simulator** (BlockZone) — Click-to-train your stats and farm shards to unlock anime-style powers; it got a fresh re-release in 2026, making now a clean time to start.
+- **Anime Fighting Simulator** (BlockZone) — Click-to-train your stats and farm shards to unlock [anime-style powers](/blog/roblox/best-roblox-anime-games); it got a fresh re-release in 2026, making now a clean time to start.
 - **Texting Simulator** — A novelty done well: click to receive texts, sell them for money, buy better phones. Goofy, but the loop is real.
 
 ## The auto-clicker trap

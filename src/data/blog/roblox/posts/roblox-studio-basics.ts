@@ -122,7 +122,7 @@ Three concepts carry most beginner scripting:
 
 A classic first real script: make a part change color when a player touches it. You reference the part, connect a function to its \`Touched\` event, and inside that function change the part's \`Color\`. That single pattern — *when X happens, do Y* — is the backbone of nearly every game mechanic, from a kill-brick in an obby to a shop button in a tycoon. Learn it once and you can reason about most of what other games are doing.
 
-Don't try to learn all of Luau before building. Learn the one mechanic your game needs, build it, then learn the next one. Roblox's official documentation on create.roblox.com has the Luau reference and beginner tutorials when you're ready to go deeper.
+Don't try to learn all of Luau before building. Learn the one mechanic your game needs, build it, then learn the next one. When you're ready to go deeper, our [Roblox Lua scripting basics](/blog/roblox/roblox-scripting-lua-basics) guide walks through variables, events, and your first real scripts, and Roblox's official documentation on create.roblox.com has the full Luau reference and beginner tutorials.
 
 ## Testing without leaving Studio
 
@@ -150,7 +150,7 @@ That's the full loop: build, test, publish, iterate. Every Roblox developer, fro
 
 Not all first games are equally smart to attempt. Two genres are forgiving by design:
 
-- **Obbys (obstacle courses).** The classic first project. They're mostly level design — placing and arranging parts — with minimal scripting required. You can build a complete, fun obby with parts and one or two simple scripts (a kill-brick, a checkpoint). Maximum learning, minimum code.
+- **[Obbys (obstacle courses)](/blog/roblox/best-roblox-obby-games).** The classic first project. They're mostly level design — placing and arranging parts — with minimal scripting required. You can build a complete, fun obby with parts and one or two simple scripts (a kill-brick, a checkpoint). Maximum learning, minimum code.
 - **Tycoons.** Slightly more advanced but heavily templated — buy a dropper, it generates cash, buy the next upgrade. The mechanics are well-documented and the loop is satisfying. A good second project once obbys feel easy.
 
 Avoid starting with anything that needs complex multiplayer systems, an economy, or heavy custom scripting. Those are great goals; they're terrible first projects. Build an obby, ship it, learn the loop, then climb. The players you're building for are out there — our [best Roblox games](/blog/roblox/best-roblox-games) rundown shows what the genre leaders look like once they've had years of iteration. Yours starts at the bottom of that same ladder.

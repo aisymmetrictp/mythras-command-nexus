@@ -96,7 +96,7 @@ You will get through the first 30 stars with about six inputs. Learn these befor
 | Wall Kick | Jump into a wall, press A the instant you touch it | Vertical recovery in any narrow gap |
 | Dive | B while running or in midair | Speed, plus it lets you roll out of a landing |
 
-Two of these carry more weight than the rest. The **Long Jump** is how you cross the game — it covers far more horizontal distance than a triple jump and it is faster than running. The **Wall Kick** is how you recover from mistakes; press right as Mario contacts the wall, not after the bounce animation starts. And if you are about to eat a huge drop, dive — rolling out of the landing cancels fall damage.
+Two of these carry more weight than the rest. The [**Long Jump**](/blog/super-mario-64/super-mario-64-movement-guide) is how you cross the game — it covers far more horizontal distance than a triple jump and it is faster than running. The **Wall Kick** is how you recover from mistakes; press right as Mario contacts the wall, not after the bounce animation starts. And if you are about to eat a huge drop, dive — rolling out of the landing cancels fall damage.
 
 ## How the castle star doors really gate you
 
@@ -113,7 +113,7 @@ The castle is four areas — ground floor, basement, second floor, third floor �
 
 ![A Big Star Door in Peach's castle. The number on the door is the hard gate, not a suggestion.](/images/blog/super-mario-64/super-mario-64-beginner-guide/star-door.webp)
 
-There are two more numbers that matter early and nobody tells you. **The courtyard fills with Boos once you have at least 12 stars**, and the Big Boo out there is holding the birdcage that opens Big Boo's Haunt. And **the Toad near the Hazy Maze Cave entrance in the basement does not appear until you have 12 stars either** — he hands over a free Power Star for talking to him. Two more Toads do the same thing: one near the Tall, Tall Mountain painting on the second floor, one to the right of the clock on the third floor. Three free stars for walking up and pressing B.
+There are two more numbers that matter early and nobody tells you. **The courtyard fills with Boos once you have at least 12 stars**, and the Big Boo out there is holding the birdcage that opens Big Boo's Haunt. And **the Toad near the Hazy Maze Cave entrance in the basement does not appear until you have 12 stars either** — he hands over a free Power Star for talking to him. Two more Toads do the same thing: one near the Tall, Tall Mountain painting on the second floor, one to the right of the clock on the third floor. [Three free stars for walking up and pressing B](/blog/super-mario-64/super-mario-64-secret-stars-guide).
 
 ## Your first eight stars, in order
 
@@ -172,7 +172,7 @@ Bowser in the Fire Sea is a real step up: mesh platforms that sink under lava, t
 Worth knowing before you follow any guide, including this one:
 
 - **Super Mario 64 DS** raises the total to 150 stars, adds Yoshi, Luigi and Wario as playable characters, and changes requirements across the board — the Tower of the Wing Cap needs 14 stars instead of 10, the Bowser in the Dark World door needs 12 stars and Mario specifically, and the endless stairs need 80. It also replaces MIPS the rabbit with a whole rabbit-hunting system. Treat DS numbers as a separate game.
-- **Super Mario 3D All-Stars** is the N64 game, so the star counts and door requirements above hold. What it is *not* is the original code: it is based on the Rumble Pak revision, which patched the backwards long jump. If you were planning to speedrun with the classic glitch, that version will not let you.
+- **Super Mario 3D All-Stars** is the N64 game, so the star counts and door requirements above hold. What it is *not* is the original code: it is based on the Rumble Pak revision, which patched [the backwards long jump](/blog/super-mario-64/super-mario-64-movement-guide). If you were planning to speedrun with the classic glitch, that version will not let you.
 
 ## Quick Action Checklist
 

@@ -66,9 +66,9 @@ This is the island that leaves footprints. Vikendi is a snowy Adriatic resort in
 
 ## The snow map that keeps coming back
 
-Vikendi is a 6x6 — bigger than the 4x4s like Sanhok, smaller than the 8x8 Erangel and Miramar. That size is the whole personality of the map. It's big enough that you get real loot time and a proper rotation game, but small enough that fights find you faster than they do on the big maps. The pacing sits right in the middle, which is exactly why it's such a comfortable map once you stop playing it wrong.
+Vikendi is a 6x6 — bigger than the 4x4s like [Sanhok](/blog/pubg-battlegrounds/pubg-sanhok-map-guide), smaller than the 8x8 Erangel and Miramar. That size is the whole personality of the map. It's big enough that you get real loot time and a proper rotation game, but small enough that fights find you faster than they do on the big maps. The pacing sits right in the middle, which is exactly why it's such a comfortable map once you stop playing it wrong.
 
-The biggest Vikendi mistake is treating it like "Erangel but white." It isn't. The cover distribution is different, the snow narrates your movement, and the vehicles include a snow-specific ride that changes how edge drops work. Players who carry their Erangel habits straight over — sprint the open snowfields, ignore their own tracks, treat the mountain like a hill — get picked apart by anyone who's actually adapted to the terrain.
+The biggest Vikendi mistake is treating it like "Erangel but white." It isn't. The cover distribution is different, the snow narrates your movement, and the vehicles include a snow-specific ride that changes how edge drops work. Players who carry their [Erangel](/blog/pubg-battlegrounds/pubg-erangel-map-guide) habits straight over — sprint the open snowfields, ignore their own tracks, treat the mountain like a hill — get picked apart by anyone who's actually adapted to the terrain.
 
 One note up front, because Vikendi is the most patch-variable map in PUBG: which maps are in the public queue, and which version of Vikendi is live, changes with the season. The map has been reworked more than once, so specific loot densities and exact POI layouts can shift between updates. The fundamentals below — size, the snow tell, the snowmobile, the cover logic, the rotation math — hold across versions. Always check the live map rotation and the current map in-game before you assume anything.
 
@@ -121,7 +121,7 @@ For gearing up with less heat, the **major towns carry the map**: **Volnova** in
 
 ![The Furo Snowmobile — Vikendi's snow-specific two-seat vehicle that outperforms everything else on snow and ice.](/images/blog/pubg-battlegrounds/pubg-vikendi-map-guide/snowmobile.webp)
 
-Vikendi has a vehicle no other map does: the **Furo Snowmobile**, a two-seat ride built for exactly this terrain. It performs much better than any other vehicle on snow and ice, where normal cars slide and struggle — and it's correspondingly worse on regular roads and hard ground. (There's also a one-seat Snowbike with the same snow-terrain bias for the solo player who wants speed.)
+Vikendi has a vehicle no other map does: the **[Furo Snowmobile](/blog/pubg-battlegrounds/best-pubg-vehicles)**, a two-seat ride built for exactly this terrain. It performs much better than any other vehicle on snow and ice, where normal cars slide and struggle — and it's correspondingly worse on regular roads and hard ground. (There's also a one-seat Snowbike with the same snow-terrain bias for the solo player who wants speed.)
 
 The vehicle rules for Vikendi specifically:
 

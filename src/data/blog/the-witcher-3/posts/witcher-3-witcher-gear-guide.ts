@@ -63,7 +63,7 @@ export const witcher3WitcherGearGuide: BlogPost = {
     { id: 'the-ranking', label: 'The ranking', level: 2 },
     { id: 'quick-action-checklist', label: 'Quick Action Checklist', level: 2 },
   ],
-  content: `Wear six pieces of Griffin School Gear, cast Yrden, and stand inside your own trap. Sign intensity goes up by 100%, Stamina regenerates at an extra 5 per second, and incoming damage drops by 20%. There is no cooldown and no cost beyond the Yrden cast itself. That one set bonus is more powerful than most of the Sign skill tree, and it is the clearest evidence that witcher gear, not the skill tree, is where The Witcher 3's builds really live.
+  content: `Wear six pieces of Griffin School Gear, cast Yrden, and stand inside your own trap. Sign intensity goes up by 100%, Stamina regenerates at an extra 5 per second, and incoming damage drops by 20%. There is no cooldown and no cost beyond the Yrden cast itself. That one set bonus is more powerful than most of [the Sign skill tree](/blog/the-witcher-3/witcher-3-build-guide), and it is the clearest evidence that witcher gear, not the skill tree, is where The Witcher 3's builds really live.
 
 Every school set is a build thesis wearing armour. Pick the one that matches how you want to fight, then commit, because the six-piece bonuses are where all the interesting effects hide.
 
@@ -120,7 +120,7 @@ Heavy armour, the highest raw defence in the base game, and a Quen engine. Base 
 
 **6-piece bonus:** Damage dealt by abilities involving the Quen sign is increased by 200%.
 
-That six-piece bonus is specific and easy to misread: it boosts *Quen ability damage*, which means Exploding Shield and Quen Discharge, not Quen's absorption. Combined, the two bonuses create a loop where your shield breaks, explodes for triple damage, and immediately re-casts for free.
+That six-piece bonus is specific and easy to misread: it boosts *Quen ability damage*, which means [Exploding Shield](/blog/the-witcher-3/witcher-3-beginner-guide) and Quen Discharge, not Quen's absorption. Combined, the two bonuses create a loop where your shield breaks, explodes for triple damage, and immediately re-casts for free.
 
 The initial set is found in Skellige, at the peak of Yngvar's Fang north of Urialla Harbor, which makes it the natural mid-game pickup once the story moves you to the islands.
 

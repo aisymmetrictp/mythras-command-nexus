@@ -96,7 +96,7 @@ A quick word on materials. **Wood** builds fastest and is your default in active
 
 ## Fix your keybinds first
 
-Before you build anything, fix your controls — this single change matters more than any technique. On controller, switch to **Builder Pro**, which maps each build piece to its own face button or trigger so you don't cycle through them. On PC, the default keybinds (Q for wall, etc.) are fine, but most players who get fast rebind the four pieces to **mouse buttons and keys near WASD** (common setups put wall, ramp, floor, and cone on Q, mouse side buttons, F, C, or similar) so you never lift your fingers off movement.
+Before you build anything, fix your controls — this single change matters more than any technique. On controller, switch to **Builder Pro**, which maps each build piece to its own face button or trigger so you don't cycle through them. On PC, the default keybinds (Q for wall, etc.) are fine, but most players who get fast rebind the four pieces to **mouse buttons and keys near WASD** (common setups put wall, ramp, floor, and cone on Q, mouse side buttons, F, C, or similar) so you never lift your fingers off movement — our [best Fortnite keybinds guide](/blog/fortnite/best-fortnite-keybinds) lays out a full setup.
 
 The principle is the same on every platform: **each build piece needs a dedicated, one-press input.** If you're scrolling a wheel or tapping the same button repeatedly to find the ramp, you've already lost. The whole game of building is speed, and speed comes from never having to think about which input does what.
 
@@ -112,7 +112,7 @@ The single most useful thing you can build is a **box** — four walls around yo
 
 A clean box takes well under a second once it's muscle memory, and it buys you the time to heal, reposition, or plan your next move. Beginners who learn nothing else but "box up when you get shot" survive dramatically more fights, because the alternative is eating damage in the open while you panic.
 
-The natural follow-up to boxing is **editing** your own wall to open a window or door, take a shot, and close it again — but that's the next skill. First, get the box itself automatic.
+The natural follow-up to boxing is **[editing](/blog/fortnite/fortnite-editing-guide)** your own wall to open a window or door, take a shot, and close it again — but that's the next skill. First, get the box itself automatic.
 
 ## The ramp rush and taking high ground
 
@@ -126,7 +126,7 @@ When you reach the top, you cap it. Get above your opponent, place a floor and a
 
 ![A Fortnite build-mode wall, the core piece every structure is made of.](/images/blog/fortnite/fortnite-building-basics/build-wall.webp)
 
-The **90** (or "90s") is the fastest way to gain vertical height in a small footprint, and it's the build that separates players who survive Build endgames from players who don't. It's a tight spiral: wall, ramp, turn 90 degrees, wall, ramp, turn 90 degrees, repeat — corkscrewing straight up while staying boxed in.
+The **[90](/blog/fortnite/fortnite-90s-building-guide)** (or "90s") is the fastest way to gain vertical height in a small footprint, and it's the build that separates players who survive Build endgames from players who don't. It's a tight spiral: wall, ramp, turn 90 degrees, wall, ramp, turn 90 degrees, repeat — corkscrewing straight up while staying boxed in.
 
 The motion is the hard part, because you're rotating your camera 90 degrees and placing two pieces each rotation, fast, without falling off your own structure. It feels impossible at first and then, with reps, becomes one fluid motion. Here's the loop:
 

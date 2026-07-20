@@ -85,7 +85,7 @@ Four criteria, weighted roughly in this order:
 1. **Resource resilience.** A Fighter who swings badly loses nothing. A Wizard who fumbles a level 5 spell slot has burned a scarce, long-rest-only resource on nothing.
 2. **Decision count per turn.** Three good options beat twenty conditional ones. Nobody learns a game well while paralysed by a spell list.
 3. **Front-loading.** The level cap is **12**, so a class that comes online at level 5 is dramatically better than one whose payoff lands at 10.
-4. **Failure tolerance.** Withers respecs any character for **100 gold**, so this matters less than it feels like — but a class that punishes you between respecs is still worse to learn on.
+4. **Failure tolerance.** [Withers respecs any character for **100 gold**](/blog/baldurs-gate-3/baldurs-gate-3-beginner-guide), so this matters less than it feels like — but a class that punishes you between respecs is still worse to learn on.
 
 ## S-tier: start here
 
@@ -163,7 +163,7 @@ Rogue has the best out-of-combat kit in the game — **4 skill proficiencies at 
 
 The problem is damage. **Sneak Attack** scales as **1d6 at level 1, 2d6 at 3, 3d6 at 5, 4d6 at 7, 5d6 at 9, and 6d6 at 11** — but it requires advantage and triggers once per turn, and Rogue never gets Extra Attack. Compare a level 5 Fighter making two attacks plus Action Surge to a level 5 Rogue making one attack plus 3d6, and the gap is obvious.
 
-Rogue is excellent as a **three-level dip** and merely fine as a full class. **Thief** at level 3 is the standout, granting Fast Hands: "You gain an extra Bonus Action, which you can use with any of your existing Bonus Actions."
+Rogue is excellent as a [**three-level dip**](/blog/baldurs-gate-3/baldurs-gate-3-multiclassing-guide) and merely fine as a full class. **Thief** at level 3 is the standout, granting Fast Hands: "You gain an extra Bonus Action, which you can use with any of your existing Bonus Actions."
 
 ### Ranger and Bard
 

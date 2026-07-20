@@ -73,7 +73,7 @@ The anvil isn't complicated once you see the rules. It does three jobs — repai
 
 An anvil has three core functions, all done in its two-slot interface. The item on the **left is the "target,"** the item on the **right is the "sacrifice"** (it gets consumed), and the result appears in the output slot with an XP cost shown below it:
 
-- **Repair** a damaged tool, weapon, or armor piece — either with raw material or with another copy of the item.
+- **Repair** a damaged tool, weapon, or [armor](/blog/minecraft/minecraft-armor-guide) piece — either with raw material or with another copy of the item.
 - **Combine** two items of the same type, merging their durability *and* their enchantments.
 - **Rename** any item (even non-tools, even blocks and stacks).
 
@@ -145,7 +145,7 @@ Run Mending on your gear (it's a treasure enchant only the anvil can apply) and 
 
 Renaming is the anvil's quietest feature and the one with the friendliest rules. Drop any item — even non-tools, even a stack — into the target slot, type a name, and it costs a flat **1 level** (plus any existing prior-work penalty). Custom names render in italics.
 
-The good news: **renaming alone does NOT add to the prior-work penalty.** You can rename an item over and over without making it more expensive to enchant later. (The existing penalty is still *charged* on each rename, so renaming a heavily-worked tool is pricey — but it doesn't make things worse.) Because of that, the economical move is to rename a tool **at the same time** you repair or enchant it, folding the rename into an operation you were doing anyway. In Java Edition, a pure rename is also capped at 39 levels max. Renamed name tags, by the way, are how you label mobs.
+The good news: **renaming alone does NOT add to the prior-work penalty.** You can rename an item over and over without making it more expensive to enchant later. (The existing penalty is still *charged* on each rename, so renaming a heavily-worked tool is pricey — but it doesn't make things worse.) Because of that, the economical move is to rename a tool **at the same time** you repair or enchant it, folding the rename into an operation you were doing anyway. In Java Edition, a pure rename is also capped at 39 levels max. Renamed [name tags](/blog/minecraft/minecraft-name-tags-guide), by the way, are how you label mobs.
 
 ## Grindstone vs anvil
 

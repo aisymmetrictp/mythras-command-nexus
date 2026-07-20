@@ -76,9 +76,9 @@ The mindset to drill into every teammate: **you are never playing your own game.
 
 You don't need a coached lineup with assigned IGL duties to benefit from loose roles. You just need everyone to know roughly what their job is so four people aren't all trying to do the same thing. A practical squad breaks down like this:
 
-- **The IGL (in-game leader / shotcaller).** One person makes the macro calls: when to rotate, when to push, when to disengage. Squads die to indecision — four people half-committing in four directions — and a single voice saying "we're rotating now, follow me" fixes most of it. The IGL doesn't have to be the best player, just the one with the clearest read on the map.
+- **The IGL (in-game leader / shotcaller).** One person makes the macro calls: when to [rotate](/blog/fortnite/fortnite-rotation-guide), when to push, when to disengage. Squads die to indecision — four people half-committing in four directions — and a single voice saying "we're rotating now, follow me" fixes most of it. The IGL doesn't have to be the best player, just the one with the clearest read on the map.
 - **The fragger / entry.** The strongest fighter takes the aggressive angles — first into the box, first to peek, the one who starts the trade. They get the most resources because they spend them winning fights.
-- **The support.** Builds for the team, drops the heals and mats, picks up the knocked, holds the safer angle, and watches the flank nobody else is watching. In Build mode the support's walls keep the fragger alive; in Zero Build they hold cover and call the third party.
+- **The support.** Builds for the team, drops the heals and mats, picks up the knocked, holds the safer angle, and watches the flank nobody else is watching. In Build mode the support's walls keep the fragger alive; in [Zero Build](/blog/fortnite/fortnite-zero-build-guide) they hold cover and call the third party.
 - **The flex / scout.** Watches the off-angles, calls rotations and incoming squads, and plugs whatever gap opens up. In fill squads this is usually "whoever's left."
 
 These roles flex constantly — the entry might be the one who gets knocked and needs support, and now someone else carries. The point isn't rigid assignments, it's that four players each cover a different responsibility instead of all four W-keying the same door while nobody watches the back.
@@ -151,7 +151,7 @@ The gut check before every endgame: is *everyone* full on shield, stocked on hea
 
 ## Third-partying as a squad
 
-Third-partying — hitting a squad that's already fighting another squad — is the single highest-value play in Fortnite, and a coordinated team does it far better than a solo. Two squads trading damage are both low, both out of position, and both distracted. You arrive as four fresh guns.
+[Third-partying](/blog/fortnite/fortnite-third-party-guide) — hitting a squad that's already fighting another squad — is the single highest-value play in Fortnite, and a coordinated team does it far better than a solo. Two squads trading damage are both low, both out of position, and both distracted. You arrive as four fresh guns.
 
 How to do it right:
 

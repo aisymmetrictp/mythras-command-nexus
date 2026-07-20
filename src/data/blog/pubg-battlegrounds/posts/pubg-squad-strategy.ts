@@ -87,7 +87,7 @@ These roles flex. The point isn't to lock people into boxes, it's that when a fi
 
 ## Comms: the callout that actually helps
 
-Voice comms are the single biggest force multiplier in squads, and most players use them badly. "He's over there!" tells your team nothing. A good callout is **direction, distance, and what they're doing**, in that order, fast.
+[Voice comms](/blog/pubg-battlegrounds/pubg-team-communication-guide) are the single biggest force multiplier in squads, and most players use them badly. "He's over there!" tells your team nothing. A good callout is **direction, distance, and what they're doing**, in that order, fast.
 
 The format that works: *compass bearing or a clear landmark, range, status.* "Two enemies, north, 80 meters, behind the rock, one knocked." Use the in-game compass at the top of the screen — it's there specifically so "north" means the same thing to all four of you. Reference shared landmarks ("the red barn," "the school," "left of the gas station") instead of vague gestures nobody else can see.
 
@@ -115,7 +115,7 @@ If you're contesting a hot drop, the squad that lands tightest and arms fastest 
 
 ## Trading and reviving: the math of a knock
 
-This is the mechanic that separates squads from solos, and the one most teams waste. When an enemy goes down, they're **knocked**, not dead — a teammate can revive them. The same is true for you. That single fact should reshape how you fight.
+This is the mechanic that separates squads from solos, and the one most teams waste. When an enemy goes down, they're **knocked**, not dead — a teammate can [revive them](/blog/pubg-battlegrounds/pubg-reviving-dbno-guide). The same is true for you. That single fact should reshape how you fight.
 
 **Trading** means that the instant an enemy knocks your teammate, you punish the enemy who's now exposed from the act of shooting. A knock is information: it tells you exactly where an enemy is and that they're committed. If your fragger goes down, the support trades the knocker immediately rather than backing off — now it's even, and you've still got a teammate to pick up. A squad that trades every knock turns "we lost a guy" into "we lost a guy and so did they, and we get ours back."
 
@@ -124,7 +124,7 @@ This is the mechanic that separates squads from solos, and the one most teams wa
 The reviving rules that keep you from throwing the game:
 
 - **Don't revive into a losing fight.** Picking up a teammate locks you in a slow animation, exposed and unable to shoot. If the enemy still has the angle, you'll just feed them a second knock. Win or neutralize the fight first, then revive.
-- **Smoke the revive.** A smoke grenade between you and the threat turns a suicidal pickup into a safe one. Carry smokes specifically for this. (More on smokes in our throwables guide.)
+- **Smoke the revive.** A smoke grenade between you and the threat turns a suicidal pickup into a safe one. Carry smokes specifically for this. (More on smokes in our [throwables guide](/blog/pubg-battlegrounds/pubg-throwables-utility-guide).)
 - **A knocked player is still useful.** Crawl to cover, keep calling enemy positions, and self-revive if your mode allows it. Don't just lie there typing in chat.
 - **Grab the Blue Chip / loot box if you can't pick up.** If a teammate dies fully, on some maps you can recall them later via the Blue Chip Transmitter (Erangel, Miramar, Deston) — collect their Blue Chip and bring them back in a later zone phase. On Taego, the self-AED and Comeback BR let players return on their own. Know which comeback tools your map has, because they change how aggressively you can spend a knock.
 

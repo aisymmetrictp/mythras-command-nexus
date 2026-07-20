@@ -97,7 +97,7 @@ How to think about the threshold without needing exact numbers:
 - **The bar is relative to the lobby.** You don't need to top the damage charts. You need to not be in the bottom group that's dragging the match. Being middle-of-the-pack on damage is generally enough to stay clear.
 - **It re-checks over time.** Surge isn't a one-time event. As the match goes on and the lobby stays too full, it can trigger again, and the threshold can climb. So "I dealt some damage twenty minutes ago" doesn't bank you safety forever.
 - **Damage dealt counts — not kills.** You don't have to finish anyone. Shots that connect, builds you break, chip damage in a skirmish — it all counts toward keeping you above the line. This is why even passive-leaning players can stay safe by just *participating* in fights rather than winning them outright.
-- **Mode and playlist change the tuning.** Squads, solos, casual, and ranked/competitive all dial the threshold and timing differently, and Epic adjusts it across updates. The shape stays the same; the exact bar moves.
+- **Mode and playlist change the tuning.** Squads, solos, casual, and [ranked/competitive](/blog/fortnite/fortnite-ranked-guide) all dial the threshold and timing differently, and Epic adjusts it across updates. The shape stays the same; the exact bar moves.
 
 The practical takeaway: Storm Surge is asking one question of you — "have you been fighting?" If the answer is yes, even modestly, you're fine. If you've been hiding all game, the threshold is how the game finds you.
 
@@ -110,7 +110,7 @@ Avoiding Surge is genuinely simple once you know what it measures: **deal damage
 - **Take fights you can win, especially early and mid-game.** Every fight you engage banks damage. You don't need the kill; landing shots counts. Early aggression is the cheapest Surge insurance there is.
 - **Shoot to chip, not just to kill.** Tagging an enemy across a gap, breaking someone's builds, hitting a player you can't fully push — all of it adds to your damage number. If you see a safe poke, take it.
 - **Don't hard-camp the whole match.** The play style Surge exists to punish is sitting in one spot doing nothing. Even if you're a passive, survival-first player, you have to participate in *some* fighting to stay above the line.
-- **Track the alive count.** If a lot of players are still alive deep into the match, Surge is coming. That's your cue to go find damage now, before the threshold rises and your shields start draining.
+- **Track the alive count.** If a lot of players are still alive deep into the match, Surge is coming — [reading the lobby](/blog/fortnite/fortnite-game-sense-guide) like this is your cue to go find damage now, before the threshold rises and your shields start draining.
 - **In squads, the team shares the pressure.** A team that collectively isn't dealing damage gets surged. Coordinate to take fights so your squad isn't the passive one — and don't rely on one teammate to carry the damage load if the others are hiding.
 
 The mindset that keeps you safe: treat dealing damage as a background objective you're always topping up, the same way you keep your shields full. A few fights' worth of damage across a match is usually all it takes, and it has the nice side effect of making you a better, more aggressive player anyway. Pair that with solid [endgame positioning](/blog/fortnite/fortnite-endgame-strategy) and you'll arrive at the final circles healthy *and* off the surge list.

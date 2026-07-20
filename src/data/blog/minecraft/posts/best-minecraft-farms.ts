@@ -65,7 +65,7 @@ export const bestMinecraftFarms: BlogPost = {
     { id: 'java-vs-bedrock-notes', label: 'Java vs Bedrock notes', level: 2 },
     { id: 'farm-priority-checklist', label: 'Farm priority checklist', level: 2 },
   ],
-  content: `A farm is the line between grinding Minecraft and actually playing it. Once you have one running, the game starts handing you resources while you do something else — iron stacks up in a chest while you explore, XP waits for you when you want to enchant, food never runs out. The trap most players fall into is building the wrong farm first: a fancy automatic XP grinder before they have a single iron block, or a pumpkin farm before they've solved the food problem.
+  content: `A farm is the line between grinding Minecraft and actually playing it. Once you have one running, the game starts handing you resources while you do something else — iron stacks up in a chest while you explore, XP waits for you when you want to [enchant](/blog/minecraft/best-minecraft-enchantments), food never runs out. The trap most players fall into is building the wrong farm first: a fancy automatic XP grinder before they have a single iron block, or a pumpkin farm before they've solved the food problem.
 
 So this is a ranking by value-per-effort for your early and mid game — not "the most impressive farm on YouTube," but the one that pays you back fastest for the materials and time you sink in. Every entry includes what unlocks it, what it actually produces, and the core mechanic that makes it tick. Build them roughly in this order and your world gets dramatically easier to play.
 
@@ -96,7 +96,7 @@ The natural upgrade is a **villager-run crop farm**: a farmer villager will harv
 
 **Unlocks:** Fast, repeatable XP for enchanting and anvil repairs, plus a steady drop supply. **Cost:** Low-to-medium, if you find a spawner.
 
-If you stumble on a **dungeon spawner** (zombie, skeleton, or spider) while caving, that's a gift — it continuously spawns mobs as long as a player is within 16 blocks and the area around it is dark. Wall off a room around it, funnel the mobs with water into a 1-block-wide kill chute, and weaken them so you can one-hit them for the XP. A skeleton spawner doubles as an **arrow and bone farm**; a zombie spawner gives you rotten flesh (villager trades, dog food) and the occasional iron.
+If you stumble on a **[dungeon spawner](/blog/minecraft/minecraft-spawner-guide)** (zombie, skeleton, or spider) while caving, that's a gift — it continuously spawns mobs as long as a player is within 16 blocks and the area around it is dark. Wall off a room around it, funnel the mobs with water into a 1-block-wide kill chute, and weaken them so you can one-hit them for the XP. A skeleton spawner doubles as an **arrow and bone farm**; a zombie spawner gives you rotten flesh (villager trades, dog food) and the occasional iron.
 
 The key mechanic: **a spawner only works while you're nearby, and only spawns in the dark.** Light the surrounding caves so the spawner is the only dark spot, and it'll keep pumping. Drop the mobs far enough (about 22–24 blocks for zombies/skeletons) and fall damage leaves them at one hit, which is the cleanest XP. This is the single best early enchanting engine because it lets you re-level 30 quickly between enchants.
 
@@ -106,7 +106,7 @@ The key mechanic: **a spawner only works while you're nearby, and only spawns in
 
 **Unlocks:** Effectively infinite iron — tools, armor, rails, hoppers, anvils, buckets, and the hardware for every other farm. **Cost:** Medium; you need villagers.
 
-This is the farm that changes your whole world economy. An iron farm exploits the **iron golem panic mechanic**: a group of **three villagers who are panicking** (because a zombie is nearby and visible to them) will try to summon an iron golem. Put three villagers in a small spawn platform, scare them with a held or contained zombie they can see, and golems spawn on a schedule. Drop or push the golems into a kill zone and collect the iron — typically a few hundred ingots an hour from a basic survival build.
+This is the farm that changes your whole world economy. An [iron farm](/blog/minecraft/minecraft-iron-farm-guide) exploits the **iron golem panic mechanic**: a group of **three villagers who are panicking** (because a zombie is nearby and visible to them) will try to summon an iron golem. Put three villagers in a small spawn platform, scare them with a held or contained zombie they can see, and golems spawn on a schedule. Drop or push the golems into a kill zone and collect the iron — typically a few hundred ingots an hour from a basic survival build.
 
 A few conditions matter: villagers must have **slept recently** (within the last 20 minutes), need to be **within about 10 blocks of each other**, and **no other iron golem can be within 16 blocks** for the spawn to fire. Bedrock has a different requirement — its village mechanic wants a real village with enough beds and working villagers — so the exact build differs by edition.
 
@@ -126,7 +126,7 @@ The core trick is the same spawn-cap logic from earlier: **a tower farm built hi
 
 **Unlocks:** Bulk gunpowder for TNT, rockets (elytra flight), and fireworks. **Cost:** Medium; a specialized variant of the mob farm.
 
-Once you have an elytra, **gunpowder becomes one of your most-used resources** — every firework rocket that boosts your flight costs gunpowder, and TNT for mining ancient debris does too. A dedicated creeper farm is a mob farm tuned to spawn *only* creepers.
+Once you have an [elytra](/blog/minecraft/minecraft-elytra-guide), **gunpowder becomes one of your most-used resources** — every firework rocket that boosts your flight costs gunpowder, and TNT for mining ancient debris does too. A dedicated creeper farm is a mob farm tuned to spawn *only* creepers.
 
 The mechanic that makes it work: **creepers are short.** Build the spawn floor with a ceiling exactly low enough — using trapdoors to bring it down to about 1 13⁄16 blocks — and tall mobs like zombies and skeletons can't spawn there, but creepers (and spiders) still can. Then you **herd the creepers with cats**: creepers are terrified of cats, so a cat placed at one end (often in a boat so it can't move) pushes them toward your kill zone. Kill them with a campfire or by hand — and a **Looting III sword multiplies the gunpowder drops**. It's not a day-one build, but it's the right call the moment you're flying around with an elytra burning rockets.
 
@@ -134,7 +134,7 @@ The mechanic that makes it work: **creepers are short.** Build the spawn floor w
 
 **Unlocks:** Massive emerald income, Totems of Undying, and enchanted gear. **Cost:** High and advanced — a mid-to-late build.
 
-A raid farm is the heavy hitter and the most involved on this list, which is why it ranks last for *first* farms despite being incredibly valuable. You trigger a **raid** (by killing a Pillager captain to get Bad Omen, then entering a village with the effect) and funnel the raid waves — pillagers, vindicators, evokers, ravagers — into a kill chamber.
+A raid farm is the heavy hitter and the most involved on this list, which is why it ranks last for *first* farms despite being incredibly valuable. You trigger a **[raid](/blog/minecraft/minecraft-raids-pillagers-guide)** (by killing a Pillager captain to get Bad Omen, then entering a village with the effect) and funnel the raid waves — pillagers, vindicators, evokers, ravagers — into a kill chamber.
 
 The payoff is enormous: **evokers drop Totems of Undying** (a free extra life when you take fatal damage), raiders drop heaps of emeralds, and you get enchanted weapons and armor along the way. An automated raid farm is one of the best emerald and totem sources in the game. But it requires understanding the raid mechanic, careful chamber design, and usually some redstone, so it's a project you take on after your iron, food, and XP are already handled — not your opening move.
 

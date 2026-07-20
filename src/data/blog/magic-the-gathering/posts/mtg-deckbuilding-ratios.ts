@@ -100,9 +100,9 @@ The throughlines:
 
 Lands get you mana. The non-land cards split into jobs, and every functional deck covers four of them. Skip one and you'll feel the hole every game.
 
-- **Ramp** — cards that accelerate or fix your mana (mana rocks, mana dorks, land-fetch spells). Crucial in Commander, optional-to-irrelevant in fast 60-card aggro.
-- **Card draw / advantage** — cards that refill your hand. The engine that keeps you from running out of gas in long games. Non-negotiable in Commander; aggro substitutes raw speed.
-- **Removal / interaction** — cards that answer the opponent's stuff (spot removal, board wipes, counterspells). The thing newer players cut first and miss most.
+- **Ramp** — cards that accelerate or fix your mana ([mana rocks](/blog/magic-the-gathering/best-mana-rocks-commander-mtg), [mana dorks](/blog/magic-the-gathering/best-mana-dorks-mtg), land-fetch spells). Crucial in Commander, optional-to-irrelevant in fast 60-card aggro.
+- **Card draw / advantage** — cards that refill your hand. The engine that keeps you from [running out of gas in long games](/blog/magic-the-gathering/best-card-draw-commander-mtg). Non-negotiable in Commander; aggro substitutes raw speed.
+- **Removal / interaction** — cards that answer the opponent's stuff (spot [removal](/blog/magic-the-gathering/best-removal-spells-mtg), [board wipes](/blog/magic-the-gathering/best-board-wipes-mtg), [counterspells](/blog/magic-the-gathering/best-counterspells-mtg)). The thing newer players cut first and miss most.
 - **Threats / win conditions** — the cards that actually end the game. Easy to over- or under-count; you need enough to close, not so many you flood on do-nothing-yet beaters.
 
 The mix between these four shifts by archetype. Aggro is mostly threats with a little reach. Control is mostly interaction and draw with a few finishers. Midrange is balanced. But all four jobs are present in every deck that works — the question is the proportion, not the presence.

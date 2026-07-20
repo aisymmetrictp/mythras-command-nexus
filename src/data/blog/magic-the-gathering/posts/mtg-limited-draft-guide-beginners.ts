@@ -92,7 +92,7 @@ That 23/17 split is the single most useful thing a new drafter can memorize. Whe
 
 When two cards are staring at you and you don't know which to take, you need a default. The classic one is **BREAD**:
 
-- **B — Bombs.** Cards that win the game by themselves if unanswered. A big flyer that also draws cards, a planeswalker, a creature that takes over the board. If you open a bomb, you take the bomb.
+- **B — Bombs.** Cards that win the game by themselves if unanswered. A big flyer that also draws cards, a [planeswalker](/blog/magic-the-gathering/best-planeswalkers-magic-the-gathering), a creature that takes over the board. If you open a bomb, you take the bomb.
 - **R — Removal.** Spells that kill or neutralize the opponent's stuff. The most consistently valuable category in Limited, because removal answers their bombs *and* trades up against their best creatures.
 - **E — Evasion.** Creatures that can't be easily blocked — flyers, menace, trample, anything that gets damage through a clogged board. Limited games stall on the ground constantly, and evasion is how you actually close them out.
 - **A — Aggro / Army.** Solid, efficient creatures that fill out your curve and your board. The bulk of your deck.
@@ -100,7 +100,7 @@ When two cards are staring at you and you don't know which to take, you need a d
 
 ![Murder, an unconditional kill spell — the kind of removal that answers the opponent's best creature no matter what it is.](/images/blog/magic-the-gathering/mtg-limited-draft-guide-beginners/murder.jpg)
 
-BREAD is a starting framework, not gospel. The most important practical refinement: **premium removal often beats a mediocre bomb.** A clean two-mana "destroy target creature" answers their bomb, kills their best blocker, and trades up all game. A flashy seven-mana creature does nothing the turn you cast it and dies to that same removal spell. When in doubt, the cheap unconditional removal is almost never a wrong pick.
+BREAD is a starting framework, not gospel. The most important practical refinement: **[premium removal](/blog/magic-the-gathering/best-removal-spells-mtg) often beats a mediocre bomb.** A clean two-mana "destroy target creature" answers their bomb, kills their best blocker, and trades up all game. A flashy seven-mana creature does nothing the turn you cast it and dies to that same removal spell. When in doubt, the cheap unconditional removal is almost never a wrong pick.
 
 Evasion deserves more respect than beginners give it. Ground stalls are the default state of a Limited game — both players build a wall of creatures nobody wants to attack into. A 2/2 flyer that chips in two damage a turn ends those games. That's why a card as plain as a Wind Drake is a real playable in basically every blue deck.
 
@@ -125,11 +125,11 @@ The single biggest level-up for a new drafter is learning to abandon your pack-1
 
 ## Commit to two colors, fast
 
-Two colors. That's the answer for almost every Limited deck you will ever draft. Two colors gives you access to the best cards in two thirds of the card pool while keeping your mana base clean enough that you actually cast your spells on time.
+Two colors. That's the answer for almost every Limited deck you will ever draft. [Two colors](/blog/magic-the-gathering/mtg-color-pairs-guide) gives you access to the best cards in two thirds of the card pool while keeping your mana base clean enough that you actually cast your spells on time.
 
 The trap is "staying open" too long. New drafters love the idea of keeping options across three colors deep into pack one. The problem is you end up with the eighth-best card in three colors instead of the third-best card in two. **By around pick five or six of pack one, you should know your two colors** — and from there you take cards in those colors unless something genuinely splashable and game-winning shows up.
 
-Three colors is a thing experienced drafters do when the signals and fixing support it, usually as a two-color base with a light splash for one or two bomb cards. As a beginner, force yourself into a clean two-color deck for your first dozen drafts. Discipline here is worth more than flexibility. The mana base of a strict two-color deck — 17 lands split roughly to match your spells — just works, and "my deck does things on time" beats "my deck has more powerful cards it can't cast."
+Three colors is a thing experienced drafters do when the signals and fixing support it, usually as a two-color base with a light splash for one or two bomb cards. As a beginner, force yourself into a clean two-color deck for your first dozen drafts. Discipline here is worth more than flexibility. The [mana base](/blog/magic-the-gathering/mtg-mana-base-guide) of a strict two-color deck — 17 lands split roughly to match your spells — just works, and "my deck does things on time" beats "my deck has more powerful cards it can't cast."
 
 ## Building the curve
 

@@ -83,7 +83,7 @@ Compare that to Pioneer or Modern, where the card pool only grows and never rota
 
 Rotation is the one mechanic every Standard player has to internalize, so let's be precise.
 
-Standard contains a rolling set of recent expansions. Once a year — typically in the fall, when the autumn set launches — the oldest sets "rotate out," meaning they're no longer legal in Standard. The cards still exist and still work in non-rotating formats like Pioneer, Modern, and Commander; they just stop being Standard-legal.
+Standard contains a rolling set of recent expansions. Once a year — typically in the fall, when the autumn set launches — the oldest sets "rotate out," meaning they're no longer legal in Standard. The cards still exist and still work in non-rotating formats like [Pioneer](/blog/magic-the-gathering/mtg-pioneer-format-guide), [Modern](/blog/magic-the-gathering/mtg-modern-format-guide), and Commander; they just stop being Standard-legal.
 
 What this means in practice:
 
@@ -123,7 +123,7 @@ A few structural realities define how Standard games actually play out.
 
 ## The archetype families
 
-Standard's decks sort into the same broad families you'll see in any Constructed format, with the lineup shifting set to set.
+Standard's decks sort into the [same broad families](/blog/magic-the-gathering/mtg-deck-archetypes-explained) you'll see in any Constructed format, with the lineup shifting set to set.
 
 - **Aggro.** Cheap creatures, efficient threats, and reach to close games before the slower decks set up. The default beginner-friendly archetype — low curve, clear gameplan, punishes stumbles. Mono-red and aggressive two-color decks are perennial.
 - **Midrange.** The format's center of gravity. Efficient removal, premium creatures, and value engines that win attrition wars. Decks built around bombs like Beza and resilient threats live here, and midrange is usually the safest competitive home base.
@@ -141,9 +141,9 @@ Standard is cheap by Magic standards, but you can still waste money. Do it in th
 
 1. **Pick a current top deck, don't brew.** Pull a recent tier-one or tier-two list from a results site (see below). Netdecking is not cheating — it's how you learn what a tuned deck looks like before you start changing things.
 2. **Confirm legality first.** Run every card through Scryfall's legality line or the official banlist. Make sure nothing has rotated out or been banned since the list was posted. This single step saves the most money and heartbreak.
-3. **Buy the lands and the format staples first.** The mana base and the cards that show up across many decks (removal, key two-drops) hold their value and carry over to your next deck. The flashy mythic bombs are where prices spike — buy those last, or proxy them while you test.
+3. **Buy the lands and the format staples first.** The [mana base](/blog/magic-the-gathering/mtg-mana-base-guide) and the cards that show up across many decks (removal, key two-drops) hold their value and carry over to your next deck. The flashy mythic bombs are where prices spike — buy those last, or proxy them while you test.
 4. **Test before you commit.** Play the list on MTG Arena or with proxies before buying paper. You'll often find you don't like the deck, or you'll learn which cards you can cut.
-5. **Build the sideboard.** New players skip the 15-card sideboard and then lose to decks they could've beaten. The sideboard is half your deck's win rate in any format with sideboarded games.
+5. **Build the sideboard.** New players skip the 15-card sideboard and then lose to decks they could've beaten. A good [sideboarding plan](/blog/magic-the-gathering/mtg-sideboarding-guide) is half your deck's win rate in any format with sideboarded games.
 
 The cheapest possible path is **MTG Arena**, where you build Standard digitally from packs and crafting, pay nothing for cardboard, and the format's legality is enforced for you automatically. Most serious Standard players test on Arena and only buy paper for the deck they've settled on.
 

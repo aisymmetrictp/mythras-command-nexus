@@ -66,7 +66,7 @@ export const pubgRondoMapGuide: BlogPost = {
   ],
   content: `Rondo is the prettiest map PUBG has ever shipped, and that's not a backhanded compliment. It's the 10th Battleground — an 8x8 Chinese-themed island where lush bamboo groves and a serene lake sit in the southwest, jagged karst-mountain ridges climb the northeast, and a full neon skyscraper city, Jadena City, glows in the southeast. The pitch is "traditional aesthetics fuse seamlessly with modern visual features," and for once the marketing line is accurate: you can drop into a willow-lined stone-bridge village and rotate into a downtown with escalators and rooftops in the same match.
 
-But Rondo isn't just a postcard. It's a full-size 8x8 with the largest playable area in the game, which means real big-map pacing, real rotation problems, and a mix of dense urban CQC and open long-range terrain that asks you to be good at both. If you've only seen the trailers, here's the actual guide: how the map is laid out, where to drop, how the bamboo-and-mountain terrain plays, how to rotate across that distance, and how to read the endgame on Map 10.
+But Rondo isn't just a postcard. It's a full-size 8x8 with the largest playable area in the game, which means real big-map pacing, real rotation problems, and a mix of dense urban CQC and open long-range terrain that asks you to be good at both. If you've only seen the trailers, here's the actual guide: how the map is laid out, where to drop, how the bamboo-and-mountain terrain plays, how to rotate across that distance, and how to [read the endgame](/blog/pubg-battlegrounds/pubg-endgame-circle-strategy) on Map 10.
 
 ![The full Rondo overview map — a Chinese-themed 8x8 with Jadena City in the southeast, bamboo and lake terrain in the southwest, and mountain ridges in the northeast.](/images/blog/pubg-battlegrounds/pubg-rondo-map-guide/rondo-overview.webp)
 
@@ -122,13 +122,13 @@ Rondo's terrain is the most varied in PUBG, and each type wants a different play
 - **Bamboo groves (southwest).** Tall, dense bamboo gives vertical cover that blocks sightlines without fully hiding movement at the base. It's strong for sneaking and ambushing, but it muffles audio cues and hides enemies as well as it hides you — don't assume a quiet grove is empty.
 - **The lake and water (southwest).** The serene lake and Rin Jiang's harbor mean boats and water crossings are part of the southern game. Water is a fast rotation and a defenseless one — cross it with purpose, not under fire.
 - **Mountain ridges (northeast).** The karst ridges are the long-range arena. High ground here is genuinely dominant, but the open rock between peaks is a death trap if you cross it watched. This is where a DMR or a 6x earns its slot.
-- **Farmland and villages (the connective tissue).** Open fields with hamlets dotted through them — classic PUBG mid-range terrain. Move village to village and tree line to tree line, the same field discipline that keeps you alive on Erangel.
+- **Farmland and villages (the connective tissue).** Open fields with hamlets dotted through them — classic PUBG mid-range terrain. Move village to village and tree line to tree line, the same field discipline that keeps you alive on [Erangel](/blog/pubg-battlegrounds/pubg-erangel-map-guide).
 
 The takeaway: there's no single "right" way to play Rondo, because the map changes character every kilometer. Know which terrain you're in and adjust — bamboo for ambush, ridges for range, city for CQC.
 
 ## Vehicles and rotations
 
-On an 8x8 this large, a vehicle isn't optional on an edge drop — the foot rotations across the mountains or in from the farmland fringe are brutal. Rondo spawns vehicles along the road network and near compounds (garages often guarantee a spawn), plus motor gliders at airstrips for an aerial option, and boats for the southern water.
+On an 8x8 this large, a [vehicle](/blog/pubg-battlegrounds/best-pubg-vehicles) isn't optional on an edge drop — the foot rotations across the mountains or in from the farmland fringe are brutal. Rondo spawns vehicles along the road network and near compounds (garages often guarantee a spawn), plus motor gliders at airstrips for an aerial option, and boats for the southern water.
 
 Rondo-specific rotation rules:
 
@@ -143,10 +143,10 @@ Park before the fight, kill the engine, and finish on foot — the same rule as 
 
 The Rondo endgame depends heavily on *where* the final circles land, because the three zones play completely differently:
 
-- **City endgame (southeast).** If the circle locks onto Jadena City, it's a vertical fight — rooftops and upper floors are the premium positions, and the team holding a covered high perch with watched access points wins. Treat it like a Deston city endgame.
+- **City endgame (southeast).** If the circle locks onto Jadena City, it's a vertical fight — rooftops and upper floors are the premium positions, and the team holding a covered high perch with watched access points wins. Treat it like a [Deston city endgame](/blog/pubg-battlegrounds/pubg-deston-map-guide).
 - **Mountain endgame (northeast).** On the ridges, literal high ground is king. Hold a peak with cover and a view of the open rock, and let other teams die crossing it to reach you. This is the most classic "high ground wins" Rondo endgame.
 - **Green/farmland endgame (southwest and middle).** In bamboo, lake, and field circles, it's about cover lines and angles — use the bamboo and village structures, and don't get caught in the open shallows or open fields.
-- **Respect the Red Zone.** As on every map, get under cover or out of the marked area rather than tanking the artillery in the open.
+- **Respect the [Red Zone](/blog/pubg-battlegrounds/pubg-red-zone-guide).** As on every map, get under cover or out of the marked area rather than tanking the artillery in the open.
 
 The meta-lesson for Rondo endgames: identify which zone the circle is committing to two or three rings out, and position for *that* terrain. The team that's already on the right ridge, rooftop, or tree line when the last circle forms has the game.
 

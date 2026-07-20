@@ -105,7 +105,7 @@ What makes Fisch work is the balance between chill and chase. You can play it as
 
 ## Arm Wrestle Simulator: the pure strength clicker
 
-**Arm Wrestle Simulator** is the simulator at its most distilled — and it owns it. The loop is dead simple: train to get stronger, arm-wrestle to win, use your growing strength to break through gates into new worlds, and chase pets and rebirths that multiply your gains. There's no pretense of depth here. It's a pure strength-and-rebirth clicker, and it's a well-made one with years of content and a long list of worlds to grind through.
+**Arm Wrestle Simulator** is the simulator at its most distilled — and it owns it. The loop is dead simple: train to get stronger, arm-wrestle to win, use your growing strength to break through gates into new worlds, and chase pets and rebirths that multiply your gains. There's no pretense of depth here. It's a pure strength-and-rebirth [clicker](/blog/roblox/best-roblox-clicker-games), and it's a well-made one with years of content and a long list of worlds to grind through.
 
 Its staying power comes from a relentless update schedule — it ships updates weekly and has built out dozens of worlds and new systems (like quest-driven currencies) over the years. That consistency is why it's held a real player base long after most clicker-sims of its type died off. It is exactly what it says on the tin, executed cleanly.
 
@@ -127,7 +127,7 @@ It keeps players around with regular content updates and a steady drip of new ar
 
 It's a different itch than the other games here — less about a number climbing steadily, more about the dopamine spike of finally hitting a one-in-a-million roll after hours of nothing. If chasing absurd rarities is your thing, nothing else scratches it like Sol's RNG. If it isn't, you'll bounce off it fast, because the "gameplay" is fundamentally rolling and waiting.
 
-**Time investment:** Heavily AFK-friendly — a lot of it is auto-rolling while you do something else — but the active chasing of rare auras and biomes can eat real hours. Know going in that this is a patience-and-luck game, not a skill or strategy one.
+**Time investment:** Heavily [AFK-friendly](/blog/roblox/best-roblox-idle-games) — a lot of it is auto-rolling while you do something else — but the active chasing of rare auras and biomes can eat real hours. Know going in that this is a patience-and-luck game, not a skill or strategy one.
 
 ## How to pick (and when to walk away)
 

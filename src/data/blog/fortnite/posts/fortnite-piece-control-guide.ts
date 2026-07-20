@@ -66,7 +66,7 @@ export const fortnitePieceControlGuide: BlogPost = {
   ],
   content: `Every Fortnite build fight you've ever lost while out-aiming the other guy came down to the same thing: you didn't own the wall. Piece control is the unglamorous skill underneath all the flashy edits and 90s — it's who controls the build pieces between two players, and it decides who gets the free shot and who eats it. You can have perfect aim and still lose, because a clean shot through a wall you don't control is a shot you never get to take.
 
-This guide is piece control broken all the way down, separate from box-fighting tempo and editing speed: the pieces you actually fight over, how to take a wall, the cone-on-wall that high-level players spam, refreshing walls to hold what you took, turtling when you're losing, and what it actually means to win the build battle. None of this rotates with the season — the walls, cones, and floors have behaved the same way for years. Get these habits into your hands and you stop trading and start controlling.
+This guide is piece control broken all the way down, separate from [box-fighting](/blog/fortnite/fortnite-box-fighting-guide) tempo and [editing speed](/blog/fortnite/fortnite-editing-guide): the pieces you actually fight over, how to take a wall, the cone-on-wall that high-level players spam, refreshing walls to hold what you took, turtling when you're losing, and what it actually means to win the build battle. None of this rotates with the season — the walls, cones, and floors have behaved the same way for years. Get these habits into your hands and you stop trading and start controlling.
 
 ## Piece control is the whole game
 
@@ -129,13 +129,13 @@ How to refresh and hold:
 
 - **Re-wall the instant they take it.** Piece control at speed is a rapid trade of "my wall, your wall, my wall." The moment the enemy slaps a wall over yours, take it right back. Whoever is faster on the retake controls the tempo and gets the free edits.
 - **Refresh before it breaks, not after.** If the enemy is spraying your wall, drop a fresh wall over it before the old one pops. Waiting until it shatters means a window where you have zero cover — that's the window they kill you in.
-- **Watch your mats while you trade.** Every wall and cone costs materials. A refresh war you're losing on mats is a fight you need to change — drop a level, tunnel out, or break off — before you go broke holding a piece. A builder with no mats is just a player standing in the open.
+- **Watch your mats while you trade.** Every wall and cone costs materials. A refresh war you're losing on [mats](/blog/fortnite/fortnite-mats-management-guide) is a fight you need to change — drop a level, tunnel out, or break off — before you go broke holding a piece. A builder with no mats is just a player standing in the open.
 
 The mindset: the wall in front of you should *always* be one you placed and one that's healthy. The second either of those stops being true, you've lost piece control, and you're now reacting. Refreshing is the maintenance that keeps you the one with the initiative.
 
 ## Turtling when you're on the back foot
 
-Not every fight starts with you on top. **Turtling** is the defensive side of piece control — when you're getting pressured, low on shield, or stuck below an enemy with height, you box up tight and play purely for the retake until you can swing the fight back. It's not hiding; it's holding piece control defensively while you stabilize.
+Not every fight starts with you on top. **Turtling** is the defensive side of piece control — when you're getting pressured, low on shield, or stuck below an [enemy with height](/blog/fortnite/fortnite-high-ground-retake-guide), you box up tight and play purely for the retake until you can swing the fight back. It's not hiding; it's holding piece control defensively while you stabilize.
 
 How to turtle without just dying slowly:
 
@@ -150,7 +150,7 @@ Turtling is what you do when you've *lost* the initiative but not the fight. Don
 A build battle — the back-and-forth where two players are both building, taking, and editing — is just piece control sustained over many exchanges. You win it by stacking small piece-control advantages until the enemy runs out of pieces, mats, or patience. Here's what winning it actually looks like:
 
 - **You're always the one editing in, never the one defending.** When you keep piece control, you keep forcing aggressive edits into *their* box while you sit safe behind your own coned wall. They react; you act.
-- **You corner them out of options.** Sustained control means tunneling toward them with protected pieces, taking the contested wall, and editing in. A cornered builder has fewer walls, fewer mats, and fewer escapes every exchange.
+- **You corner them out of options.** Sustained control means [tunneling](/blog/fortnite/fortnite-tunneling-guide) toward them with protected pieces, taking the contested wall, and editing in. A cornered builder has fewer walls, fewer mats, and fewer escapes every exchange.
 - **You don't over-build.** Winning the build battle isn't placing the most pieces — it's placing the *right* piece at the right moment. Spamming builds burns mats and gives the enemy easy pieces to take. One clean wall-take and cone beats five panicked walls.
 - **You close fast.** A drawn-out build battle is a dinner bell for a third party. Once you've got control, use it to finish — don't admire your piece control for ten seconds while someone rotates onto both of you.
 

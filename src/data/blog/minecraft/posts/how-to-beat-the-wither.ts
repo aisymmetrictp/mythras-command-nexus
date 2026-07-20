@@ -77,7 +77,7 @@ It also has passive regeneration (1 health per second on Java) and, on Java, hea
 
 Before anything else, you need **three wither skeleton skulls**, and this is the real time sink of the whole project.
 
-Wither skeleton skulls drop only from **wither skeletons**, the tall black skeletons that spawn in **nether fortresses** at light level 0-7. The drop is rare on purpose: a wither skeleton has a base **2.5% chance** to drop its skull when killed by a player (or a tamed wolf). That is roughly one skull per 40 kills at the base rate.
+Wither skeleton skulls drop only from **wither skeletons**, the tall black skeletons that spawn in **[nether fortresses](/blog/minecraft/minecraft-nether-fortress-bastion-guide)** at light level 0-7. The drop is rare on purpose: a wither skeleton has a base **2.5% chance** to drop its skull when killed by a player (or a tamed wolf). That is roughly one skull per 40 kills at the base rate.
 
 **Looting is how you speed this up.** Each level of Looting on your sword raises the drop chance:
 
@@ -107,11 +107,11 @@ The instant it spawns, the Wither enters an **11-second (220-tick) charge-up**: 
 You do not want to be underequipped for this. Minimum viable, then ideal:
 
 **Armor and weapon:**
-- **Full diamond armor at minimum; netherite is much better** thanks to its knockback resistance, which matters against the Wither's shove. Protection enchantments across the set.
+- **Full [diamond armor at minimum; netherite](/blog/minecraft/minecraft-armor-guide) is much better** thanks to its knockback resistance, which matters against the Wither's shove. Protection enchantments across the set.
 - **A Smite-enchanted sword.** The Wither counts as an **undead** mob, so **Smite** out-damages Sharpness against it specifically. A Smite V netherite sword is the fastest melee kill in the game here. (Keep a Looting III sword for the skull-farming phase, but for the boss itself, raw damage wins — bring Smite.)
 
 **Consumables:**
-- **Strength potions** — multiply your melee damage and shorten the fight dramatically.
+- **[Strength potions](/blog/minecraft/minecraft-potion-brewing-guide)** — multiply your melee damage and shorten the fight dramatically.
 - **Healing / Regeneration potions** to outpace the Wither effect's drain.
 - **Milk buckets** — drinking milk instantly clears the Wither effect. Carry several; this is your panic button.
 - **Golden apples or enchanted golden apples** for the absorption and regen buffer.
@@ -157,7 +157,7 @@ The practical takeaway: on **Java**, plan to melee it down with Smite and ignore
 
 When the Wither dies, it **always drops one nether star** — guaranteed, every time, no luck involved. The nether star is the entire reason you did this. It is even **immune to explosions**, so it will not get destroyed by the Wither's own death blast (though lava and the void can still claim it, so grab it).
 
-The nether star has exactly one use, and it is a great one: the **beacon**. The recipe is a 3x3 grid:
+The nether star has exactly one use, and it is a great one: the **[beacon](/blog/minecraft/minecraft-beacon-guide)**. The recipe is a 3x3 grid:
 
 - **Top row:** 3 glass blocks
 - **Middle row:** glass, nether star, glass
@@ -169,7 +169,7 @@ A working beacon projects a beam into the sky and grants area buffs — **Speed,
 
 ![A fully activated beacon projecting its beam skyward over a mixed-mineral pyramid — the payoff for the nether star the Wither drops.](/images/blog/minecraft/how-to-beat-the-wither/beacon.webp)
 
-If you have already cleared the Ender Dragon, the Wither is the natural next boss to chase — same endgame tier, but where the dragon gates the elytra, the Wither gates the beacon.
+If you have already [cleared the Ender Dragon](/blog/minecraft/how-to-beat-the-ender-dragon), the Wither is the natural next boss to chase — same endgame tier, but where the dragon gates the elytra, the Wither gates the beacon.
 
 ## Wither fight checklist
 

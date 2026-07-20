@@ -66,7 +66,7 @@ export const fortniteTunnelingGuide: BlogPost = {
   ],
   content: `You've watched it happen and you've been the guy it happened to: someone bolts across an open field to make zone, takes fire from two directions, and is dead before they reach the next tree line. Tunneling is the answer to that. It's the skill of moving across exposed ground inside a self-built box that travels with you — so the people shooting at you are shooting at walls and cones instead of your head. Done right, you cross a field that would otherwise kill you and pop out the other side at full health, ready to fight.
 
-This guide breaks tunneling all the way down, separate from raw movement and zone-reading: the move-and-rebuild rhythm that makes it work, cone tunneling as your default, tarp tunneling when you're pushing toward someone, double-tunneling for the safest crossings, tunneling while you're actively under fire, and the real decision of when to tunnel versus just rotate. None of this changes with the season — walls, cones, ramps, and floors have behaved the same way for years. Get the rhythm into your hands and open ground stops being where you die.
+This guide breaks tunneling all the way down, separate from raw [movement](/blog/fortnite/fortnite-movement-guide) and [zone-reading](/blog/fortnite/fortnite-rotation-guide): the move-and-rebuild rhythm that makes it work, cone tunneling as your default, tarp tunneling when you're pushing toward someone, double-tunneling for the safest crossings, tunneling while you're actively under fire, and the real decision of when to tunnel versus just rotate. None of this changes with the season — walls, cones, ramps, and floors have behaved the same way for years. Get the rhythm into your hands and open ground stops being where you die.
 
 ## Tunneling is how you survive the open
 
@@ -131,7 +131,7 @@ How double-tunneling actually plays:
 
 - **Two walls deep on the threatened side.** The enemy breaks the outer wall, you've still got the inner one up, and you replace the outer before they can break through to you. They never get a clean line.
 - **It buys reaction time, not invulnerability.** The point of the second layer is the half-second it costs the enemy to chew through twice the structure — that's the time you use to refresh and keep moving.
-- **It eats mats fast.** This is the expensive option. A double tunnel across a big field can run you a serious chunk of your wood, so you only spend on it when the crossing genuinely warrants it.
+- **It eats mats fast.** This is the expensive option. A double tunnel across a big field can run you a serious chunk of your [wood](/blog/fortnite/fortnite-mats-management-guide), so you only spend on it when the crossing genuinely warrants it.
 
 Which brings up the thing that governs all tunneling: **materials.** Every tunnel is a steady drain on your mats, and a double tunnel is that drain doubled. Build pieces cost materials per piece — a wall, ramp, floor, or cone each costs the same flat amount of whatever material you're using, and tunneling places a *lot* of them. The discipline is to carry enough mats before you commit to a long crossing, and to step down to a single tunnel or cone-only when you can't afford the double. A builder who tunnels themselves out of mats halfway across a field is worse off than one who never tunneled at all — at least the latter still has walls for the next fight.
 
@@ -161,7 +161,7 @@ When to tunnel:
 When to just rotate normally:
 
 - **Natural cover exists.** Tree lines, rocks, buildings, terrain folds — if the map gives you cover, use it for free instead of building your own.
-- **You have mobility.** A launch pad, a vehicle, or any movement item often beats a tunnel: it gets you across faster, costs no mats, and skips the exposed window entirely. Use mobility to *avoid* the open rather than tunnel through it.
+- **You have mobility.** A launch pad, a vehicle, or any [movement item](/blog/fortnite/fortnite-mobility-items-guide) often beats a tunnel: it gets you across faster, costs no mats, and skips the exposed window entirely. Use mobility to *avoid* the open rather than tunnel through it.
 - **You're low on mats or early game.** Early, when you should be farming and repositioning cheaply, full tunnels are a waste. Save them for the late-game crossings that actually demand them.
 
 The honest summary: tunneling is a tool inside rotating, not a replacement for it. Good players rotate early and smart so they rarely *need* to tunnel — and when they do need it, they've got the mats and the rhythm to do it clean.

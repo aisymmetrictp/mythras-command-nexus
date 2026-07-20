@@ -100,7 +100,7 @@ These are the cleanest possible starting points. Every one is mono-color or clos
 
 ![Talrand, Sky Summoner, the mono-blue merfolk wizard who makes a 2/2 flying Drake whenever you cast an instant or sorcery.](/images/blog/magic-the-gathering/best-commanders-for-beginners-mtg/talrand-sky-summoner.jpg)
 
-Once you've played a mono-color deck for a few games and want a little more flexibility, two-color commanders are the sweet spot. The mana base is still easy to fix with cheap dual lands, but you get access to more answers.
+Once you've played a mono-color deck for a few games and want a little more flexibility, two-color commanders are the sweet spot. The mana base is still easy to fix with [cheap dual lands](/blog/magic-the-gathering/best-lands-commander-mtg), but you get access to more answers.
 
 - **Wilhelt, the Rotcleaver** — {2}{U}{B}, Dimir Zombies. Make a 2/2 decayed Zombie token whenever a non-token Zombie dies, and draw cards by sacrificing them. A tribal deck where the synergies are obvious and the engine refuels itself. Forgiving because it grinds value even when behind.
 - **Lathril, Blade of the Elves** — {2}{B}{G}, Golgari Elves. Tap ten or more Elves to drain each opponent for ten — a clean, telegraphed win condition that teaches you how to build a wide board and then convert it. Elf tribal has one of the deepest, cheapest card pools in the game.
@@ -132,7 +132,7 @@ Some commanders get recommended to beginners constantly and shouldn't be. They'r
 | Any cEDH combo commander | Decks built to win on turn 3-4 with infinite combos teach you nothing about how the game is actually played in a casual pod |
 | Yarok, the Desecrated | Three-color ETB-doubling engine. Strong and beloved, but the value-stacking gets genuinely complex to track |
 
-The Ur-Dragon deserves a specific callout because Dragons are the single most tempting tribe for new players, and a five-color deck is the single hardest mana base in the game. You will spend your first twenty games unable to cast your own cards because you drew the wrong colors. The Dragons deck is a fantastic *third or fourth* deck once you understand fixing — just not your first. Same logic applies to Atraxa: it's the most popular commander of all time for good reason, but four colors plus a proliferate engine is a lot to manage while you're still learning what a board wipe is.
+The Ur-Dragon deserves a specific callout because Dragons are the single most tempting tribe for new players, and a five-color deck is the single hardest mana base in the game. You will spend your first twenty games unable to cast your own cards because you drew the wrong colors. The Dragons deck is a fantastic *third or fourth* deck once you understand fixing — just not your first. Same logic applies to Atraxa: it's the most popular commander of all time for good reason, but four colors plus a proliferate engine is a lot to manage while you're still learning what a [board wipe](/blog/magic-the-gathering/best-board-wipes-mtg) is.
 
 > If a commander's "average decklist" on EDHREC is full of fetchlands, shocklands, and tutors, it's telling you the deck needs those to function. That's a signal to wait until you've got the fundamentals down — and the budget.
 
@@ -144,7 +144,7 @@ You have two ways to start, and both are valid.
 
 **Build your own around a cheap legend.** Krenko, Talrand, and Sram all support cheap, mono-color builds you can assemble from EDHREC's average decklist. This teaches you more — you understand every card because you chose it — but it takes more time and a little more money up front. The advantage is you end up with a deck that's exactly yours.
 
-The honest recommendation: if you've never built a deck before, start with a precon to learn how a finished Commander deck *feels*, then build your second deck from scratch around one of the mono-color S-tier picks above. By then you'll know what 36 lands and a real ramp package look like, and you won't make the classic mistake of running 30 lands and getting screwed every game.
+The honest recommendation: if you've never built a deck before, start with a precon to learn how a finished Commander deck *feels*, then build your second deck from scratch around one of the mono-color S-tier picks above. By then you'll know what 36 lands and a real [ramp package](/blog/magic-the-gathering/best-ramp-spells-commander-mtg) look like, and you won't make the classic mistake of running 30 lands and getting screwed every game.
 
 For the full rules walkthrough before you pick, our [Commander format guide for beginners](/blog/magic-the-gathering/mtg-commander-format-guide-how-to-start) covers color identity, the command zone, and Rule 0. When you're ready to build, the [how to build a Commander deck guide](/blog/magic-the-gathering/how-to-build-a-commander-deck) lays out the deck skeleton.
 

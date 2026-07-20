@@ -73,9 +73,9 @@ Three things make recursion better in Commander than in any 60-card format.
 
 **The games are long.** A spell you bring back on turn ten was free to put in the bin on turn three. Sixty-card formats often end before recursion matters; Commander rewards you for grinding, and the grind is exactly where a regrowth effect shines.
 
-**Your best cards are singletons.** You run one Cyclonic Rift, one Demonic Tutor, one game-ending bomb. In a deck where you can't run four copies, the ability to recur the one copy you have is the closest thing the format has to redundancy. Recursion turns a singleton into a soft two-of.
+**Your best cards are singletons.** You run one Cyclonic Rift, one [Demonic Tutor](/blog/magic-the-gathering/best-tutors-commander-mtg), one game-ending bomb. In a deck where you can't run four copies, the ability to recur the one copy you have is the closest thing the format has to redundancy. Recursion turns a singleton into a soft two-of.
 
-**Sacrifice and ETB synergies stack.** Cards that die and come back power sacrifice outlets, blink decks, and aristocrat engines. A creature that loops in and out of the graveyard isn't card advantage once — it's card advantage every turn.
+**Sacrifice and ETB synergies stack.** Cards that die and come back power [sacrifice outlets](/blog/magic-the-gathering/best-mtg-sacrifice-outlets-commander), blink decks, and [aristocrat engines](/blog/magic-the-gathering/best-mtg-aristocrats-sacrifice-commander). A creature that loops in and out of the graveyard isn't card advantage once — it's card advantage every turn.
 
 > The honest catch: recursion is a value play, not a tempo play. You spend mana and a card to get a card back, which is card-neutral at best in the moment. It pays off over time. If your deck wins fast, you want interaction and threats, not a regrowth toolbox. If your deck wins late, recursion is some of the best card advantage in the game.
 
@@ -95,7 +95,7 @@ Ranked on overall power across the Commander decks that want recursion, with con
 
 ![Reanimate, the one-mana black sorcery that returns any creature from any graveyard to the battlefield, paying life equal to its mana value.](/images/blog/magic-the-gathering/best-graveyard-recursion-commander-mtg/reanimate.jpg)
 
-1. **Eternal Witness** — 1GG. The gold standard. A 2/1 that returns any card from your graveyard to your hand on entry — instant, sorcery, artifact, land, whatever you lost. It's a creature, so it loops with blink and flicker, dodges instant-speed counterspells aimed at sorceries, and chains with itself. If you're in green, this is the floor.
+1. **Eternal Witness** — 1GG. The gold standard. A 2/1 that returns any card from your graveyard to your hand on entry — instant, sorcery, artifact, land, whatever you lost. It's a creature, so it loops with [blink and flicker](/blog/magic-the-gathering/best-mtg-flicker-blink-commander), dodges instant-speed counterspells aimed at sorceries, and chains with itself. If you're in green, this is the floor.
 2. **Reanimate** — B. One mana to put any creature from any graveyard onto the battlefield; you pay life equal to its mana value. The most efficient reanimation spell ever printed and the engine of every black reanimator deck. "Any graveyard" means you can steal the bomb your opponent just lost, too.
 3. **Yawgmoth, Thran Physician** — 2BB. Not pure recursion, but the best graveyard *engine* in black. Pay a life, sacrifice a creature, draw a card, and put a -1/-1 counter somewhere — repeat. With any token maker or a creature that returns itself, Yawgmoth turns your graveyard into an infinite-feeling card-draw and removal machine. A cEDH and high-power staple.
 4. **Sun Titan** — 4WW. A 6/6 that returns a permanent with mana value 3 or less from your graveyard to the battlefield every time it attacks. Lands, mana rocks, removal creatures, your commander's support pieces — it's a repeatable engine on a beater, and it loops absurdly well with blink.
@@ -110,7 +110,7 @@ Past the top ten, the format runs dozens of narrower or color-specific options �
 
 ## The best reanimation spells
 
-Reanimation is the format's most explosive card-advantage play because it ignores mana cost. The plan: get a giant creature into your graveyard cheaply (discard, mill, self-sacrifice), then cheat it into play for a fraction of its cost.
+[Reanimation](/blog/magic-the-gathering/best-mtg-reanimation-spells) is the format's most explosive card-advantage play because it ignores mana cost. The plan: get a giant creature into your graveyard cheaply (discard, mill, self-sacrifice), then cheat it into play for a fraction of its cost.
 
 - **Reanimate** — B. One mana, any creature, any graveyard. The most efficient reanimation in the game; the life payment is real but rarely matters when you're putting a game-winner into play.
 - **Animate Dead** — 1B. Two mana, no life cost, slight stat reduction. Run it alongside Reanimate for redundancy in the reanimator shell.

@@ -75,7 +75,7 @@ We also assumed Commander as the default format because that is where most of yo
 
 ## Best removal and burn
 
-Lightning Bolt is the most important card in this section, and arguably in red period. One mana, instant, three damage to any target. It kills 80% of the small creatures ever printed, it kills planeswalkers that have been ticked down once or twice, it acts as direct damage to finish games, and it has done all of this for thirty years without ever rotating out of any format where it was legal. It is the card every other red removal spell is compared to. None of them have surpassed it.
+Lightning Bolt is the most important card in this section, and arguably in red period. One mana, instant, three damage to any target. It kills 80% of the small creatures ever printed, it kills [planeswalkers](/blog/magic-the-gathering/best-planeswalkers-magic-the-gathering) that have been ticked down once or twice, it acts as direct damage to finish games, and it has done all of this for thirty years without ever rotating out of any format where it was legal. It is the card every other red removal spell is compared to. None of them have surpassed it.
 
 ![Lightning Bolt, the one-mana red instant that deals three damage to any target, the benchmark burn spell since Alpha.](/images/blog/magic-the-gathering/best-red-cards-magic-the-gathering/lightning-bolt.jpg)
 
@@ -98,7 +98,7 @@ A note on burn-style direct damage as a deck strategy: Lightning Bolt plus Lava 
 
 ## Best wheel and rummaging effects
 
-This is where red has quietly become a card-advantage color. The "wheel" — a card that makes everyone discard their hand and draw a new one of equal size — used to be a niche effect. Now it is a build-around archetype, with Commanders like Magda, Brazen Outlaw and Birgi, God of Storytelling rewarding you for cycling through cards fast.
+This is where red has quietly become a card-advantage color. The ["wheel"](/blog/magic-the-gathering/best-mtg-wheel-effects) — a card that makes everyone discard their hand and draw a new one of equal size — used to be a niche effect. Now it is a build-around archetype, with Commanders like Magda, Brazen Outlaw and Birgi, God of Storytelling rewarding you for cycling through cards fast.
 
 ![Wheel of Fortune, the three-mana red sorcery that makes each player discard their hand and draw seven new cards.](/images/blog/magic-the-gathering/best-red-cards-magic-the-gathering/wheel-of-fortune.jpg)
 
@@ -123,7 +123,7 @@ Underworld Breach is the centerpiece of red's combo identity. One mana, enchantm
 
 ## Best equipment and combat tools
 
-Red is the second-best equipment color (behind white, which has all the spicy Boros options). The reason equipment matters in red is that red's creatures often want haste and protection, both of which the equipment package provides.
+Red is the second-best equipment color (behind white, which has all the spicy Boros options). The reason [equipment](/blog/magic-the-gathering/best-equipment-mtg) matters in red is that red's creatures often want haste and protection, both of which the equipment package provides.
 
 ![Lightning Greaves, the colorless equipment with zero-cost equip that grants the equipped creature haste and shroud.](/images/blog/magic-the-gathering/best-red-cards-magic-the-gathering/lightning-greaves.jpg)
 
@@ -131,7 +131,7 @@ Lightning Greaves is the single most-played piece of equipment in Commander. Zer
 
 Sword of Feast and Famine is the best Sword in the cycle. Three mana to cast, two to equip, +2/+2 plus protection from black and green plus the trigger: untap all your lands when you deal combat damage to a player, and they discard a card. The untap effectively gives you a second main phase, which in combo decks turns into a second wheel, a second ritual chain, or a second combat step. It is multicolor in flavor but slotted into mono-red decks all the time.
 
-Embercleave is the closest red gets to a "win the game" combat trick. Six mana base cost, but reduced by one for each attacking creature you control, and it gives the equipped creature double strike. In a deck with three or four attackers on the board, Embercleave costs 2-3 mana and ends the game in one combat step.
+Embercleave is the closest red gets to a "win the game" combat trick. Six mana base cost, but reduced by one for each attacking creature you control, and it gives the equipped creature [double strike](/blog/magic-the-gathering/best-mtg-double-strike-cards). In a deck with three or four attackers on the board, Embercleave costs 2-3 mana and ends the game in one combat step.
 
 For Modern and Legacy specifically, Bonesplitter and Skullclamp see niche play, and Hammer of Nazahn is great in Voltron-style Commander shells. The equipment package is one of the easier red toolboxes to assemble on a budget.
 

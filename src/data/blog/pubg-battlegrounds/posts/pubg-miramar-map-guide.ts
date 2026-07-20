@@ -128,8 +128,8 @@ Here's the thing the haters are actually mad about, stated honestly: **Miramar's
 The fixes:
 
 - **Plan rock to rock, not town to town.** Miramar's cover is the scattered boulders, ridgelines, and dry creek beds. Route your movement through them deliberately. The straight-line sprint across the flat is the single most common Miramar death.
-- **Carry the optics for the map.** This is a long-range map — a 4x or 6x and a DMR or AR earn their slot far more here than on Sanhok. If you're going to get shot at from distance, you want to be able to shoot back.
-- **Use smoke like it's mandatory, because it is.** When you *have* to cross open ground and there's no rock to chain to, a smoke grenade is the difference between a rotation and a funeral. Pop it, cross behind it, don't admire the view.
+- **Carry the optics for the map.** This is a long-range map — a 4x or 6x and a [DMR](/blog/pubg-battlegrounds/best-pubg-dmrs) or AR earn their slot far more here than on Sanhok. If you're going to get shot at from distance, you want to be able to shoot back.
+- **Use smoke like it's mandatory, because it is.** When you *have* to cross open ground and there's no rock to chain to, a [smoke grenade](/blog/pubg-battlegrounds/pubg-throwables-utility-guide) is the difference between a rotation and a funeral. Pop it, cross behind it, don't admire the view.
 - **Don't be the highest contrast thing on the hill.** Skyline yourself on a bare ridge and you're a black silhouette against the desert sky to every scope in range. Stay below crests, move along the slope, not over the top.
 
 ## Rotations, canyons, and mountains
@@ -144,7 +144,7 @@ The rotation rules that matter here:
 
 ## Vehicles are not optional here
 
-On a map this open and this big, a vehicle isn't a convenience — it's survival gear. Miramar spawns the usual desert-friendly roster, and crucially it has more vehicle spawns built into its rural sprawl than the green maps, because the developers know you can't foot-rotate this terrain.
+On a map this open and this big, a [vehicle](/blog/pubg-battlegrounds/best-pubg-vehicles) isn't a convenience — it's survival gear. Miramar spawns the usual desert-friendly roster, and crucially it has more vehicle spawns built into its rural sprawl than the green maps, because the developers know you can't foot-rotate this terrain.
 
 The Miramar vehicle rules:
 

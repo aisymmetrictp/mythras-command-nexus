@@ -63,7 +63,7 @@ This is the comparison without the tribalism: what each input genuinely does wel
 
 ## The short answer
 
-If you only read one paragraph: **either input can reach the top of the game, so pick the one that fits your platform and your hands, then commit to it.** On console with no setup, controller is the obvious call and aim assist will carry your close-range fights further than you'd expect. On PC, mouse and keyboard gives you the highest skill ceiling for building and editing, which is the Fortnite-specific layer that beats people who only shoot — but a controller plugged into a PC is completely viable too, and plenty of top players use exactly that.
+If you only read one paragraph: **either input can reach the top of the game, so pick the one that fits your platform and your hands, then commit to it.** On console with no setup, controller is the obvious call and aim assist will carry your close-range fights further than you'd expect. On PC, mouse and keyboard gives you the highest skill ceiling for [building and editing](/blog/fortnite/fortnite-building-basics), which is the Fortnite-specific layer that beats people who only shoot — but a controller plugged into a PC is completely viable too, and plenty of top players use exactly that.
 
 There is no input that's strictly better. There's the one that matches where and how you play, and the mistake almost everyone makes is switching back and forth instead of committing to one long enough to actually get good with it.
 
@@ -120,10 +120,10 @@ The lesson isn't to copy a specific pro's input. It's that both inputs clearly w
 
 Strip away the tribalism and it comes down to a few clean cases:
 
-- **You play on console and just want to play:** Controller. It's the native input, aim assist is a real help, and there's nothing to set up. Don't overthink it.
+- **You play on console and just want to play:** Controller. It's the native input, aim assist is a real help, and there's nothing to set up beyond dialing in your [controller settings](/blog/fortnite/fortnite-controller-settings). Don't overthink it.
 - **You're on PC and want the highest building/editing ceiling (Build mode):** Keyboard and mouse. The construction speed and aim precision give you the most room to grow into a serious Build-mode player. Expect a rough first stretch while your hands learn the keys.
 - **You're on PC but love controller / hate the KBM learning curve:** Controller on PC is completely valid and used by top players. You keep aim assist and the ergonomics you're used to.
-- **You mostly play Zero Build:** This tilts toward whichever input you aim better with, since building isn't the deciding factor. Many players find controller very comfortable for Zero Build's pure aim-and-position game — though mouse precision still helps at range.
+- **You mostly play [Zero Build](/blog/fortnite/fortnite-zero-build-guide):** This tilts toward whichever input you aim better with, since building isn't the deciding factor. Many players find controller very comfortable for Zero Build's pure aim-and-position game — though mouse precision still helps at range.
 - **You want the lowest skill floor (good fast):** Controller. Aim assist and a familiar input get you competent in close fights quickly. KBM has a higher ceiling but a slower start.
 
 The wrong move in every case is **not committing.** Pick the input that fits your platform and goal, then give it real time. Muscle memory — especially for building — only forms if you stop switching.
@@ -135,7 +135,7 @@ If you're thinking about jumping from controller to mouse (or back), go in with 
 - **Expect to get worse before you get better.** Moving to mouse-and-keyboard means relearning aim *and* every build/edit input at once. The first stretch feels awful. That's normal and temporary.
 - **Building is the hardest part of the switch**, not aiming. Aim transfers some intuition; building is a whole new physical vocabulary of keys you have to drill in Creative until it's automatic.
 - **Only switch for a real reason.** Chasing a higher building ceiling on PC is a real reason. "I saw a video saying mouse is better" is not — if you're already comfortable and improving on controller, switching can set you back months.
-- **Whichever you land on, lock your settings first.** Get your keybinds (or Builder Pro layout), sensitivity, and multipliers sorted, then commit and grind. Constantly retuning is its own way of never improving.
+- **Whichever you land on, lock your settings first.** Get your [keybinds](/blog/fortnite/best-fortnite-keybinds) (or Builder Pro layout), sensitivity, and multipliers sorted, then commit and grind. Constantly retuning is its own way of never improving.
 
 The players who plateau aren't usually on the "wrong" input. They're the ones who never stuck with one long enough for it to click.
 

@@ -81,7 +81,7 @@ There is no shortcut here. A nether star drops only from the **Wither**, and it 
 
 The Wither is a boss you build:
 
-- Farm **3 wither skeleton skulls** from wither skeletons in nether fortresses (a 2.5% base drop, so bring a Looting III sword to speed it up).
+- Farm **3 wither skeleton skulls** from wither skeletons in [nether fortresses](/blog/minecraft/minecraft-nether-fortress-bastion-guide) (a 2.5% base drop, so bring a Looting III sword to speed it up).
 - Place **4 blocks of soul sand or soul soil in a T shape**, then put the 3 skulls on top of the upper row. The third skull triggers the spawn.
 - Fight it inside a contained arena — it explodes on spawn, so never summon it in your base.
 
@@ -138,7 +138,7 @@ The five primary effects are **Speed, Haste, Resistance, Jump Boost, and Strengt
 
 The two effects worth building toward:
 
-- **Haste** is the mining buff. Haste I from a tier-2+ beacon noticeably speeds up every swing; **Haste II** (only available at a full pyramid via the level-II secondary option) lets an Efficiency V pickaxe instamine deepslate, which is why serious mining bases park a max beacon at their dig site.
+- **Haste** is the mining buff. Haste I from a tier-2+ beacon noticeably speeds up every swing; **Haste II** (only available at a full pyramid via the level-II secondary option) lets an Efficiency V pickaxe instamine deepslate, which is why serious [mining bases](/blog/minecraft/minecraft-mining-guide) park a max beacon at their dig site.
 - **Resistance** flatly reduces incoming damage. Around a base, Resistance plus Regeneration is a survivability blanket that makes most mobs a non-threat.
 
 Speed is great for traversal, Strength turns a melee build into a blender, and Jump Boost is mostly niche.
@@ -170,7 +170,7 @@ The pyramid can be made of any mix of these five block types, and **mixing is to
 - **Block of Emerald**
 - **Block of Netherite**
 
-Each of those is 9 ingots/gems crafted into a solid block (netherite blocks are 9 netherite ingots, which is brutally expensive). Because mixing is allowed, the standard advice is simple: **build it out of iron.** A tier-4 beacon is 164 blocks, and iron is by far the most farmable of the five — an iron farm can pump out blocks for days, while 164 diamond blocks (1,476 diamonds) is a fantasy for most worlds.
+Each of those is 9 ingots/gems crafted into a solid block (netherite blocks are 9 netherite ingots, which is brutally expensive). Because mixing is allowed, the standard advice is simple: **build it out of iron.** A tier-4 beacon is 164 blocks, and iron is by far the most farmable of the five — an [iron farm](/blog/minecraft/minecraft-iron-farm-guide) can pump out blocks for days, while 164 diamond blocks (1,476 diamonds) is a fantasy for most worlds.
 
 A common move is to build the bulk in iron and trim the visible top layer in diamond or emerald purely for looks. The effect is identical no matter what it is made of; the pretty blocks are a vanity tax. If you want a flex pyramid, mixed-material builds (the iron/gold/diamond/emerald checkerboard look) are a popular show-off project once you are rich.
 

@@ -95,8 +95,8 @@ Rank your XP sources by reliability and these are the evergreen faucets, roughly
 - **Quests (punchcards, dailies, weeklies, milestones).** This is where the real XP lives. Quest payouts dwarf incidental gameplay XP, and milestone quests (repeatable goals like "deal X damage" or "harvest Y materials") keep paying out as you naturally play. Treat your quest log as your to-do list every session.
 - **Matchplay performance.** Placement and eliminations both pay. Surviving deep into a match is consistently rewarded — often more than aggressive early kills — because XP scales with how long you last and how well you place. Playing the full game matters.
 - **First-of-the-day / accelerated XP.** Whatever the season's "first match" or "first win" bonus is, it's free value you only get by showing up. Always claim it.
-- **Friends / squad XP.** Playing with others frequently grants bonus XP, both for grouping up and for the simple fact that coordinated play tends to mean better placement and more completed objectives. Squadding up is genuinely faster leveling, not just more fun.
-- **Creative / Reload and alternate modes.** Many modes award XP toward the same pass — sometimes with caps, sometimes with bonus events. More on the honest reality of this below.
+- **Friends / squad XP.** Playing with others frequently grants bonus XP, both for grouping up and for the simple fact that coordinated play tends to mean better placement and more completed objectives. [Squadding up](/blog/fortnite/fortnite-team-play-guide) is genuinely faster leveling, not just more fun.
+- **Creative / Reload and alternate modes.** Many modes award XP toward the same pass — sometimes with caps, sometimes with bonus events, whether you're in [Creative](/blog/fortnite/fortnite-creative-mode-guide) or another playlist. More on the honest reality of this below.
 
 The pattern across all of them: **XP rewards engagement breadth, not just kills.** The system pays you for completing objectives, lasting in matches, playing with friends, and showing up daily — so the fastest leveler is the most well-rounded player, not the most aggressive one.
 
@@ -109,7 +109,7 @@ Stack these and you'll level as fast as the system allows without grinding yours
 - **Play full matches and play for placement.** Don't suicide-rush every drop. Surviving deep is XP-rich and quietly out-earns the hot-drop kill-chase. Place well *and* complete quest objectives in the same match for double value.
 - **Squad up.** Friends/team XP plus better placement makes group play one of the most efficient routes. Even matchmade fills help.
 - **Stack quest objectives with normal play.** Pick a landing and route that lets you complete active quests (visit X, use Y weapon, harvest Z) during a match you were going to play anyway. Never make a dedicated "quest-only" trip if you can fold it into a real game.
-- **Don't ignore alternate modes during XP events.** When a mode is flagged with bonus XP, that's the time to play it. Outside those windows, play what's fun — the difference is smaller than the grind-guides claim.
+- **Don't ignore alternate modes during XP events.** When a [mode](/blog/fortnite/fortnite-modes-overview) is flagged with bonus XP, that's the time to play it. Outside those windows, play what's fun — the difference is smaller than the grind-guides claim.
 
 The meta-strategy: **front-load the guaranteed XP (quests + daily bonus), then free-play.** Everything guaranteed gets done while you're fresh; the rest of your session is just fun that happens to also pay XP.
 
@@ -122,7 +122,7 @@ You'll see "AFK XP map" and "infinite XP glitch" content constantly. Here's the 
 - **There are caps and diminishing returns.** Epic actively limits and rebalances how much XP you can farm from Creative and idle-style maps, precisely because people try to break it. Whatever "broken" map is trending this week is usually nerfed shortly after, and the truly AFK exploits get patched. Anything promising "level 100 in an hour AFK" is selling you a video, not a strategy.
 - **Legit Creative/Reload play is fine and sometimes great.** Playing actual Creative experiences, completing their objectives, and jumping into Reload or other modes during flagged XP events is normal, supported leveling. It's the "leave the game running on a treadmill map overnight" stuff that's against the spirit (and often the rules) and gets patched into uselessness.
 
-The honest recommendation: **use Creative and Reload when they're paying bonus XP and you actually enjoy them, and stack their quests like any other mode.** Don't build your whole leveling plan around an exploit that'll be dead next patch. Quests + daily bonus + full matches is the route that never gets nerfed.
+The honest recommendation: **use Creative and [Reload](/blog/fortnite/fortnite-reload-mode-guide) when they're paying bonus XP and you actually enjoy them, and stack their quests like any other mode.** Don't build your whole leveling plan around an exploit that'll be dead next patch. Quests + daily bonus + full matches is the route that never gets nerfed.
 
 ## Common leveling mistakes
 

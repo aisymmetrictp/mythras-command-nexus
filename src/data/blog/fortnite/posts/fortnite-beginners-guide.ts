@@ -85,11 +85,11 @@ This is the most important call you'll make, and most beginners get it wrong by 
 | Battle Royale (Build) | Yes | Players who want the full, original Fortnite skill ceiling |
 | Zero Build | No | Beginners, returning players, anyone who hates getting walled |
 
-**Start in Zero Build.** No question. Zero Build strips out construction entirely and gives you a passive overshield that regenerates, so fights come down to aim, positioning, and cover you find in the world rather than walls you slap up in half a second. It is the honest on-ramp to the game. You learn the loop, the loot, and the storm without simultaneously fighting a building tutorial you'll lose every time.
+**Start in [Zero Build](/blog/fortnite/fortnite-zero-build-guide).** No question. Zero Build strips out construction entirely and gives you a passive overshield that regenerates, so fights come down to aim, positioning, and cover you find in the world rather than walls you slap up in half a second. It is the honest on-ramp to the game. You learn the loop, the loot, and the storm without simultaneously fighting a building tutorial you'll lose every time.
 
 > If a fight in regular Build mode ends with an opponent instantly boxing themselves in a 1x1 tower while you stand there confused — that's the exact wall (literally) that Zero Build removes. Learn the game first. Add building later, on purpose, when you decide you want it.
 
-Beyond the two battle royale modes, Fortnite hosts a sprawl of other experiences that come and go as the lineup rotates: a smaller, faster respawn-enabled battle royale that's great for warming up your aim (often called **Reload**), an **OG**-style throwback to the original island and loot for the nostalgia crowd, a rhythm/music **Festival** mode, plus various LEGO survival and racing modes. The respawn-enabled mode deserves a mention for beginners: because you respawn, you get far more reps per minute, which is exactly what a new player needs. Use it as a gym, then take what you learn into the real thing.
+Beyond the two battle royale modes, Fortnite hosts a sprawl of other experiences that come and go as the lineup rotates: a smaller, faster respawn-enabled battle royale that's great for warming up your aim (often called **[Reload](/blog/fortnite/fortnite-reload-mode-guide)**), an **OG**-style throwback to the original island and loot for the nostalgia crowd, a rhythm/music **Festival** mode, plus various LEGO survival and racing modes. The respawn-enabled mode deserves a mention for beginners: because you respawn, you get far more reps per minute, which is exactly what a new player needs. Use it as a gym, then take what you learn into the real thing.
 
 ## The core loop every match follows
 
@@ -149,7 +149,7 @@ If you're outgunned and outpositioned, the right move is often to not fight at a
 
 Your first Victory Royale is mostly a patience exam. Here's the concrete plan that gets new players over the line faster than anything else:
 
-1. **Land somewhere quiet.** Pick a low-traffic spot on the edge of the map, not the loud named location with the loot beacon over it. Survive the first three minutes uncontested and you've already beaten half the lobby.
+1. **Land somewhere quiet.** Pick a [low-traffic spot on the edge of the map](/blog/fortnite/best-fortnite-landing-spots), not the loud named location with the loot beacon over it. Survive the first three minutes uncontested and you've already beaten half the lobby.
 2. **Get geared, then get scarce.** Once you have a gun, full shield, and some heals, stop looking for fights. Start playing the circle.
 3. **Win by attrition.** Stay inside the storm, hold the edge of every circle, and let the lobby thin itself out. Fewer players left means fewer ways to die.
 4. **Play the endgame slow.** When it's down to the final handful, don't push. Hold cover, watch for movement, and let opponents reveal themselves or take storm damage. The last fight comes to you.

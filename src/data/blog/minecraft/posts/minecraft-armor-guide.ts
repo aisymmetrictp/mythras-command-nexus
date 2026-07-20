@@ -118,7 +118,7 @@ Armor trims are **purely cosmetic** — they change how your armor looks and do 
 
 A trim is two choices stacked together:
 
-- **The pattern**, set by a **smithing template** you find in a structure. There are many patterns (Coast, Dune, Eye, Rib, Sentry, Snout, Spire, Tide, Vex, Ward, Wild, plus the rarer Silence, Wayfinder, Raiser, Shaper, Host, Flow, and Bolt). Each comes from a specific structure — the Sentry trim from pillager outposts, the Eye trim from strongholds, the Vex trim from woodland mansions, the Snout from bastions, and so on. The rarest ones (like Silence from the deep dark / ancient cities and Flow/Bolt from trial chamber vaults) are genuine trophies.
+- **The pattern**, set by a **smithing template** you find in a structure. There are many patterns (Coast, Dune, Eye, Rib, Sentry, Snout, Spire, Tide, Vex, Ward, Wild, plus the rarer Silence, Wayfinder, Raiser, Shaper, Host, Flow, and Bolt). Each comes from a specific structure — the Sentry trim from pillager outposts, the Eye trim from strongholds, the Vex trim from [woodland mansions](/blog/minecraft/minecraft-woodland-mansion-guide), the Snout from bastions, and so on. The rarest ones (like Silence from the deep dark / ancient cities and Flow/Bolt from [trial chamber vaults](/blog/minecraft/minecraft-trial-chambers-guide)) are genuine trophies.
 - **The color**, set by the **material** you add: iron, copper, gold, lapis, emerald, diamond, netherite, redstone, amethyst, or quartz. Each tints the trim differently, so the same pattern looks completely different in gold versus amethyst.
 
 Like the netherite template, **trim templates can be duplicated** — combine the template with 7 of the matching material's diamond-tier equivalent (7 diamonds, for the standard duplication) plus the base block, so once you've found a pattern you can apply it forever. The hunt is finding the pattern the first time.
@@ -146,7 +146,7 @@ This is where armor is won. The general rule: **Protection IV + Unbreaking III +
 
 | Piece | Core enchants | Piece-specific pick | Notes |
 | --- | --- | --- | --- |
-| Helmet | Protection IV, Unbreaking III, Mending | Respiration III + Aqua Affinity I | Underwater breathing + no mining penalty. Essential for ocean monuments |
+| Helmet | Protection IV, Unbreaking III, Mending | Respiration III + Aqua Affinity I | Underwater breathing + no mining penalty. Essential for [ocean monuments](/blog/minecraft/minecraft-ocean-monument-guide) |
 | Chestplate | Protection IV, Unbreaking III, Mending | — | Your highest-defense slot; no special add-on needed |
 | Leggings | Protection IV, Unbreaking III, Mending | Swift Sneak III (treasure) | Sneak at near-normal speed — huge in ancient cities |
 | Boots | Protection IV, Unbreaking III, Mending | Feather Falling IV | Slashes fall damage. Add Depth Strider III for water or Soul Speed for the Nether |

@@ -93,9 +93,9 @@ Before you commit to a deep run, bring:
 - **Food.** You will be down there a while; hunger drains your health regen.
 - **A water bucket.** This is your anti-lava insurance — more on that below.
 - **A few stacks of cobblestone or dirt** to wall off lava and patch holes.
-- **Optional but huge: a Fortune III pickaxe.** Fortune multiplies the diamonds a single ore block drops, often turning one block into two, three, or four diamonds. If you have one, this is the single biggest force multiplier on the entire trip. (Don't use Silk Touch unless you specifically want the ore block intact — it collects the block, not the gem.)
+- **Optional but huge: a [Fortune III pickaxe](/blog/minecraft/best-minecraft-enchantments).** Fortune multiplies the diamonds a single ore block drops, often turning one block into two, three, or four diamonds. If you have one, this is the single biggest force multiplier on the entire trip. (Don't use Silk Touch unless you specifically want the ore block intact — it collects the block, not the gem.)
 
-If you have brewing access, a **Night Vision potion** makes spotting ore in dark tunnels dramatically easier, and **Haste** (from a beacon) speeds up every swing. Neither is required, but both turn a slow grind into a quick one.
+If you have brewing access, a **[Night Vision potion](/blog/minecraft/minecraft-potion-brewing-guide)** makes spotting ore in dark tunnels dramatically easier, and **Haste** (from a [beacon](/blog/minecraft/minecraft-beacon-guide)) speeds up every swing. Neither is required, but both turn a slow grind into a quick one.
 
 ## Method 1: branch mining (the reliable one)
 
@@ -111,7 +111,7 @@ It is methodical and a little boring, but it is the most thorough sweep of a chu
 
 ## Method 2: cave and ravine diving (the fast one)
 
-The fastest way to find diamonds is to let the game expose them for you. Caves, ravines, and especially the giant open dripstone and deep dark cave systems carve through thousands of blocks of stone, and any diamond ore in those walls is already sitting in the open. You just have to look.
+The fastest way to find diamonds is to let the game expose them for you. Caves, ravines, and especially the giant open dripstone and [deep dark](/blog/minecraft/minecraft-deep-dark-warden-guide) cave systems carve through thousands of blocks of stone, and any diamond ore in those walls is already sitting in the open. You just have to look.
 
 Drop into a deep cave, get yourself down to around Y -58, and walk the walls with torches, scanning for the cyan flecks. In a big cavern you can spot multiple veins in minutes that branch mining would take an hour to reach.
 
@@ -123,7 +123,7 @@ The trade-off is danger. Caves are dark, full of mobs, and frequently flooded wi
 
 Strip mining is branch mining's blunt cousin: instead of careful branches, you just dig wide, open tunnels — clearing 2- or 3-wide corridors and exposing big flat walls of deepslate. You see a lot of blocks fast, you do not have to think about spacing, and you can zone out.
 
-It is genuinely effective if you have Efficiency and Haste making each swing instant, because then sheer block throughput matters more than efficiency-per-block. With a beacon Haste boost and an Efficiency V netherite pick, you can clear deepslate so fast that the "wasteful" pattern stops mattering. Without that setup, it burns through pickaxe durability and stamina for diminishing returns compared to tidy branch mining. Use this one when you are already geared and just want to vacuum a chunk.
+It is genuinely effective if you have Efficiency and Haste making each swing instant, because then sheer block throughput matters more than efficiency-per-block. With a beacon Haste boost and an Efficiency V [netherite pick](/blog/minecraft/how-to-find-netherite-minecraft), you can clear deepslate so fast that the "wasteful" pattern stops mattering. Without that setup, it burns through pickaxe durability and stamina for diminishing returns compared to tidy branch mining. Use this one when you are already geared and just want to vacuum a chunk.
 
 ## The lava problem
 

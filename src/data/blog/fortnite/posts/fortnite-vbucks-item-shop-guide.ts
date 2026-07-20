@@ -71,9 +71,9 @@ This is the plain-English map of the entire economy: what V-Bucks are, how the I
 
 ![The Fortnite V-Bucks icon — the blue in-game currency used for every cosmetic purchase.](/images/blog/fortnite/fortnite-vbucks-item-shop-guide/vbucks-icon.webp)
 
-V-Bucks (short for VinderBucks) are Fortnite's single in-game currency. There's only one thing to understand and it's important: **V-Bucks buy cosmetics and the Battle Pass — nothing that affects gameplay.** No weapons, no advantages, no pay-to-win. Every skin, pickaxe, glider, emote, wrap, and back bling is purely visual. A free-to-play player and someone who's spent a fortune have the exact same guns and the exact same odds of winning a fight. You're only ever paying to look cool.
+V-Bucks (short for VinderBucks) are Fortnite's single in-game currency. There's only one thing to understand and it's important: **V-Bucks buy cosmetics and the Battle Pass — nothing that affects gameplay.** No weapons, no advantages, no pay-to-win. Every skin, pickaxe, glider, emote, wrap, and back bling is purely visual. A free-to-play player and someone who's spent a fortune have the exact same guns and the exact same odds of winning a fight. You're only ever paying to look cool — and some of the flashiest flexes, like the [Victory Crown](/blog/fortnite/fortnite-victory-crown-guide), you earn by playing rather than buy.
 
-You get V-Bucks two ways: **buy them** in bundles with real money, or **earn them** in-game through the Battle Pass and certain quests (covered below). They sit in your account balance and work across the whole Fortnite ecosystem — the skin you buy shows up in Battle Royale, LEGO Fortnite, and the other modes, because cosmetics are account-wide. Buy them once, spend them anywhere in the app.
+You get V-Bucks two ways: **buy them** in bundles with real money, or **earn them** in-game through the Battle Pass and certain quests (covered below). They sit in your account balance and work across the whole Fortnite ecosystem — the skin you buy shows up in Battle Royale, LEGO Fortnite, and the [other modes](/blog/fortnite/fortnite-modes-overview), because cosmetics are account-wide. Buy them once, spend them anywhere in the app.
 
 The bundles scale so that bigger packs give you slightly more V-Bucks per dollar — the standard free-to-play nudge to buy more at once. Actual prices and bundle sizes vary by platform and region and get adjusted over time, so I'm not quoting numbers that'll rot; check the in-game V-Bucks tab for what's current. The mechanic that matters is just this: real money in, V-Bucks out, cosmetics only.
 
@@ -131,7 +131,7 @@ Gifting is genuinely one of the nicer parts of the system — it's how you grab 
 
 ![A Fortnite Battle Pass progression asset — the Battle Pass rewards V-Bucks as you level, fueling the self-funding loop.](/images/blog/fortnite/fortnite-vbucks-item-shop-guide/battle-pass.webp)
 
-This is the single most important thing a new player can learn about the economy, so read this part twice. The **Battle Pass is a seasonal track of cosmetic rewards you unlock by earning XP and leveling up.** You buy it once with V-Bucks, and as you progress through its tiers, **it hands you V-Bucks back as rewards along the way.**
+This is the single most important thing a [new player](/blog/fortnite/fortnite-beginners-guide) can learn about the economy, so read this part twice. The **Battle Pass is a seasonal track of cosmetic rewards you unlock by [earning XP and leveling up](/blog/fortnite/fortnite-xp-leveling-guide).** You buy it once with V-Bucks, and as you progress through its tiers, **it hands you V-Bucks back as rewards along the way.**
 
 Here's the loop that makes it special: **a Battle Pass, fully completed, typically returns more V-Bucks than it cost to buy.** That means if you buy one pass, play enough to finish it, and then use the V-Bucks you earned to buy the *next* season's pass, you can keep the cycle going — the Battle Pass effectively pays for itself, season after season, as long as you keep completing it. Your initial purchase is the only one you ever truly pay for out of pocket.
 

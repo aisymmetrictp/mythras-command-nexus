@@ -64,7 +64,7 @@ export const minecraftAllayGuide: BlogPost = {
     { id: 'java-vs-bedrock-notes', label: 'Java vs Bedrock notes', level: 2 },
     { id: 'quick-action-checklist', label: 'Quick Action Checklist', level: 2 },
   ],
-  content: `The allay is the rare Minecraft mob that is genuinely useful *and* adorable, and most players still only have one or two because they never bothered to clone them. That is the mistake. The allay is the best soft item-sorter in the game — hand it an item and it scoops every matching drop off the floor and brings them back — and unlike a wolf or a horse, you can **duplicate it on demand** until you have a swarm. One trip to a pillager outpost plus a jukebox and a stack of amethyst gets you an entire workforce.
+  content: `The allay is the rare Minecraft mob that is genuinely useful *and* adorable, and most players still only have one or two because they never bothered to clone them. That is the mistake. The allay is the best soft item-sorter in the game — hand it an item and it scoops every matching drop off the floor and brings them back — and unlike a wolf or a horse, you can **duplicate it on demand** until you have a swarm. One trip to a [pillager outpost](/blog/minecraft/minecraft-raids-pillagers-guide) plus a jukebox and a stack of amethyst gets you an entire workforce.
 
 This guide covers the full loop: where allays live and how to free them, exactly how the item-collection behavior works, how note blocks redirect where they drop loot, the duplication trick (and the part people get wrong about it), and a simple sorter build that turns a couple of allays into automation. Where Java and Bedrock diverge, I will flag it.
 
@@ -83,7 +83,7 @@ The reason it is worth a special trip: there is no crafting recipe for an allay.
 Allays spawn captive in exactly two structures, trapped and waiting to be released:
 
 - **Pillager outposts** — held in **dark oak cages** scattered around the outpost. Each cage has a 50% chance of containing 1-3 allays.
-- **Woodland mansions** — held in small **jail cells / dark prison rooms** inside the mansion, again with a 50% chance of 1-3 allays per room.
+- **[Woodland mansions](/blog/minecraft/minecraft-woodland-mansion-guide)** — held in small **jail cells / dark prison rooms** inside the mansion, again with a 50% chance of 1-3 allays per room.
 
 ![A Minecraft pillager outpost tower in a plains biome, with the dark oak allay cages that hold captive allays around its base.](/images/blog/minecraft/minecraft-allay-guide/pillager-outpost.webp)
 
@@ -140,7 +140,7 @@ Amethyst comes from amethyst geodes (those purple crystal pockets in caves); bre
 
 ## Building an allay item sorter
 
-You do not need redstone wizardry to make allays earn their keep. A minimal "mob-powered sorter" looks like this:
+You do not need [redstone](/blog/minecraft/minecraft-redstone-basics) wizardry to make allays earn their keep. A minimal "mob-powered sorter" looks like this:
 
 - **A collection point:** a hopper feeding a chest, with a **note block placed on top** (or directly beside) the hopper.
 - **A confined space** so your allays do not wander off — a glass or fence enclosure around the farm output and the drop point keeps the 32-block search working on just the items you care about.

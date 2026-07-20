@@ -58,7 +58,7 @@ export const bestMinecraftShaders: BlogPost = {
     { id: 'what-about-bedrock-and-rtx', label: 'What about Bedrock and RTX', level: 2 },
     { id: 'quick-action-checklist', label: 'Quick Action Checklist', level: 2 },
   ],
-  content: `Vanilla Minecraft lighting is a lie. Blocks are either lit or they are not, water is a flat blue pane, and the sun is a sticker that slides across the sky without casting a single real shadow. Then you drop in a shader pack and the same world suddenly has god rays cutting through the trees, water that reflects the clouds, and shadows that stretch and shorten as the day moves. It is the single biggest visual upgrade you can make to the game, and unlike a texture pack, it changes how the world *behaves* in light, not just what the blocks look like.
+  content: `Vanilla Minecraft lighting is a lie. Blocks are either lit or they are not, water is a flat blue pane, and the sun is a sticker that slides across the sky without casting a single real shadow. Then you drop in a shader pack and the same world suddenly has god rays cutting through the trees, water that reflects the clouds, and shadows that stretch and shorten as the day moves. It is the single biggest visual upgrade you can make to the game, and unlike a [texture pack](/blog/minecraft/best-minecraft-texture-packs), it changes how the world *behaves* in light, not just what the blocks look like.
 
 The catch is that shaders are expensive. A heavy pack can cut your frame rate in half or worse, and the shader scene is full of packs that look identical in screenshots but perform wildly differently in motion. So this is a ranking by the only metric that matters: how good it looks weighed against how hard it hits your FPS. We are Java-focused throughout, because real shader packs are a Java feature — Bedrock's RTX is a completely separate system, and we cover that at the bottom.
 
@@ -80,7 +80,7 @@ None of this changes gameplay. Mobs do not get smarter, blocks do not gain new p
 
 Before any shader pack, you need something that can load it. For years that meant **OptiFine**, the all-in-one optimization-and-shader mod. In 2026 the better answer for most people is **Iris**.
 
-- **Iris** — a modern shader loader built on the Fabric loader. It runs on top of (and bundles) **Sodium**, the rendering rewrite that roughly doubles vanilla FPS, so you get a performance boost *and* shader support from the same install. It updates to new Minecraft versions fast and runs most popular shader packs better than OptiFine does.
+- **Iris** — a modern shader loader built on the Fabric loader. It runs on top of (and bundles) **[Sodium](/blog/minecraft/best-minecraft-mods)**, the rendering rewrite that roughly doubles vanilla FPS, so you get a performance boost *and* shader support from the same install. It updates to new Minecraft versions fast and runs most popular shader packs better than OptiFine does.
 - **OptiFine** — the old standard. It still works and still loads shaders, but it has fallen behind: slower to update, lower base FPS than the Sodium-plus-Iris stack, and it does not play nicely with the modern Fabric mod ecosystem. The one thing it has going for it is that a handful of older shader packs were written specifically against OptiFine's quirks.
 
 The practical rule: **install Iris.** You get faster base performance from Sodium underneath, and nearly every shader pack worth running supports it. Only reach for OptiFine if a specific pack you want explicitly requires it. Iris and OptiFine cannot both be active at once — you pick one per profile.
@@ -103,7 +103,7 @@ Ranked by visual payoff against performance cost. Every one of these runs on Iri
 
 **3. Sildur's Vibrant Shaders** is really a family of presets — Lite, Medium, High, and Extreme — so it is the pack that scales across the widest range of hardware. Run Lite on a weak machine and Extreme on a strong one, all from the same download. The look is warm and saturated. It is the friendliest pack for "I'm not sure what my PC can handle."
 
-**4. SEUS (Sonic Ether's Unbelievable Shaders)** is the screenshot king. The PTGI and HRR builds chase path-traced-style lighting and produce some of the most photorealistic Minecraft you will ever see. The price is steep: SEUS is heavy and the cutting-edge ray-tracing builds want a strong GPU. Run it when you want to take screenshots, not necessarily for daily play on a mid-range rig.
+**4. SEUS (Sonic Ether's Unbelievable Shaders)** is the screenshot king. The PTGI and HRR builds chase path-traced-style lighting and produce some of the most photorealistic Minecraft you will ever see. The price is steep: SEUS is heavy and the cutting-edge ray-tracing builds want a strong GPU. Run it when you want to take screenshots of your [builds](/blog/minecraft/minecraft-building-tips), not necessarily for daily play on a mid-range rig.
 
 **5. Photon** is the newer realism pick — natural, physically-grounded lighting without BSL's saturation. It sits in the mid-weight tier alongside BSL and is worth a look if you want "realistic" over "vibrant."
 
@@ -118,7 +118,7 @@ If your machine struggles with vanilla, you can still run shaders — you just p
 - **MakeUp Ultra Fast** — designed from the ground up for weak hardware; you still get shadows and decent water at a fraction of the cost.
 - **Builder's QOL / Potato-tier packs** — minimalist shaders that add basic shadows and waving foliage for almost no frame-rate hit.
 
-The biggest free win on any machine is the **Sodium-plus-Iris base** itself — you are starting from a higher FPS floor than OptiFine would give you, which leaves more headroom for the shader to spend. Lower your render distance to 8-12 chunks before blaming the shader; render distance is usually the bigger frame-rate lever than the pack you chose.
+The biggest free win on any machine is the **[Sodium-plus-Iris base](/blog/minecraft/best-minecraft-mods)** itself — you are starting from a higher FPS floor than OptiFine would give you, which leaves more headroom for the shader to spend. Lower your render distance to 8-12 chunks before blaming the shader; render distance is usually the bigger frame-rate lever than the pack you chose.
 
 ## How to install shaders with Iris
 

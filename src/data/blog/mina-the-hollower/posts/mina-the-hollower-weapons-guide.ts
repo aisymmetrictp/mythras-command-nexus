@@ -170,7 +170,7 @@ The strategic read: do not spread upgrades across all five weapons. Ten upgrades
 
 Note also that Battery Buster upgrades are flagged as late-game or expensive. If you unlock it and immediately want to invest, be aware you are choosing a slower payoff than upgrading a weapon you have been carrying since hour one.
 
-Bones are also your level-up currency, since earning enough triggers an automatic Bone Up where you raise Attack, Defense, or Sidearms. Weapon upgrades compete directly with that. When in doubt, remember that Boning Up also restores your health, Joules, and Sparks, which makes it a better emergency purchase than a weapon upgrade ever is.
+Bones are also your level-up currency, since earning enough triggers an [automatic Bone Up](/blog/mina-the-hollower/mina-the-hollower-beginner-guide) where you raise Attack, Defense, or Sidearms. Weapon upgrades compete directly with that. When in doubt, remember that Boning Up also restores your health, [Joules](/blog/mina-the-hollower/mina-the-hollower-sidearms-trinkets-guide), and Sparks, which makes it a better emergency purchase than a weapon upgrade ever is.
 
 ## What This Ranking Does Not Tell You
 

@@ -81,7 +81,7 @@ Skipping the silver-bullet tier on purpose. Spell Pierce, Stifle, Trickbind — 
 
 ## Best counterspells in blue
 
-Counterspells are blue's signature mechanic. The color owns the entire category. Every other color that gets a counterspell — Mana Tithe in white, Stubborn Denial in black — pays a rate penalty or attaches a restriction. Blue just gets to cast Counterspell.
+[Counterspells](/blog/magic-the-gathering/best-counterspells-mtg) are blue's signature mechanic. The color owns the entire category. Every other color that gets a counterspell — Mana Tithe in white, Stubborn Denial in black — pays a rate penalty or attaches a restriction. Blue just gets to cast Counterspell.
 
 ![Counterspell, the two-mana blue instant that hard-counters any spell with no restrictions, in print since Alpha.](/images/blog/magic-the-gathering/best-blue-cards-magic-the-gathering/counterspell.jpg)
 
@@ -104,11 +104,11 @@ Mana Drain is the single most powerful counterspell ever printed. Same mana cost
 
 > Fierce Guardianship looks like a Force of Will reprint at first read. Read it again. Free in Commander only when you control your commander, and it counters any spell. In a format where everyone has their commander in play roughly 60 percent of the time, Fierce Guardianship is a one-mana hard counter. That is the actual rate.
 
-An Offer You Can't Refuse is the one-mana option. Counter any instant or sorcery for U, opponents get two treasures. Two treasures is real mana that can swing back at you, so think before you fire this off at a fair midrange table. At cEDH and high-power tables you cast it on the game-winning Thoracle activation and you do not care that the opponent gets two treasures because the game is ending in five seconds anyway.
+An Offer You Can't Refuse is the one-mana option. Counter any instant or sorcery for U, opponents get two treasures. Two treasures is real mana that can swing back at you, so think before you fire this off at a fair midrange table. At cEDH and high-power tables you cast it on the game-winning [Thoracle combo](/blog/magic-the-gathering/best-commander-combos-mtg) activation and you do not care that the opponent gets two treasures because the game is ending in five seconds anyway.
 
 ## Best card-draw engines
 
-Card-draw engines are the second pillar of blue's dominance. Other colors have to bend over backwards to draw cards. Blue casts a one-drop and refills its hand every turn for the next eight rounds.
+[Card-draw engines](/blog/magic-the-gathering/best-card-draw-commander-mtg) are the second pillar of blue's dominance. Other colors have to bend over backwards to draw cards. Blue casts a one-drop and refills its hand every turn for the next eight rounds.
 
 | Card | Mana | Type | What it does |
 | --- | --- | --- | --- |
@@ -132,7 +132,7 @@ Consecrated Sphinx is the win-the-game-on-your-next-turn creature. Six mana for 
 
 ## Best cantrips and selection
 
-Cantrips are blue's other unique weapon. Blue gets to look at its deck, fix its draws, dig for answers, and refill its hand for one mana. Other colors get scry 1 stapled onto five-mana spells and call it a day.
+[Cantrips](/blog/magic-the-gathering/best-mtg-cantrips) are blue's other unique weapon. Blue gets to look at its deck, fix its draws, dig for answers, and refill its hand for one mana. Other colors get scry 1 stapled onto five-mana spells and call it a day.
 
 ![Brainstorm, the one-mana blue instant that draws three and puts two back, the most-played card in Legacy.](/images/blog/magic-the-gathering/best-blue-cards-magic-the-gathering/brainstorm.jpg)
 

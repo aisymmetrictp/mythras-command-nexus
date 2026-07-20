@@ -75,7 +75,7 @@ Every landing spot is graded on three axes. The best spot for *you* depends on w
 
 - **Loot density** is the obvious one. Named locations and dense building clusters have the most chests. But raw loot only helps if you live long enough to use it.
 - **Contest level** is the one beginners underweight and good players obsess over. A medium-loot spot with nobody contesting it beats a max-loot spot with six other players every single time. You can't shoot a chest with a gun you haven't found yet.
-- **Rotation** is the sleeper. A loot-stuffed corner of the map sounds great until the first circle pulls to the far side and you're sprinting across open ground while the storm chews your heels. Centrality buys you flexible, safe rotations.
+- **Rotation** is the sleeper. A loot-stuffed corner of the map sounds great until the first circle pulls to the far side and you're sprinting across open ground while the storm chews your heels. Centrality buys you flexible, safe [rotations](/blog/fortnite/fortnite-rotation-guide).
 
 > The cheat code most beginners miss: **unnamed locations.** Small clusters of buildings, gas stations, lone houses, underground bunkers — the spots without a label on the map. They carry a surprising amount of loot and almost nobody drops there, because players' eyes go straight to the named POIs. Low contest plus decent loot is the sweet spot, and it lives in the map's blank space.
 
@@ -118,9 +118,9 @@ Don't anchor to specific location names from any guide, including this one — a
 The window from touchdown to roughly 90 seconds in is where landings are won or lost. Execute this sequence:
 
 1. **Land on loot, not next to it.** Aim your glide to touch down on a roof or directly on a chest. Seconds matter.
-2. **Weapon first, instantly.** Grab any gun before anything else. An unarmed player at a contested spot is a free elimination.
+2. **Weapon first, instantly.** Grab any gun before anything else, then upgrade toward a balanced kit as you loot — our [Fortnite weapon tier list](/blog/fortnite/fortnite-weapon-tier-list) covers how to rank what you find. An unarmed player at a contested spot is a free elimination.
 3. **Clear your immediate area.** If someone contested your spot, deal with them now while you both have weak loot — fighting later when they're geared is worse.
-4. **Shield up.** Once the area's safe, drink shields and grab heals. Now you're a real threat.
+4. **Shield up.** Once the area's safe, drink shields and grab heals, and start building toward a [full loadout priority](/blog/fortnite/fortnite-loadout-priority-guide). Now you're a real threat.
 5. **Open the map and pick your rotation.** Where's the first circle? Start thinking about your path out before the storm forces it.
 
 Nail this and you're geared, healthy, and moving with purpose while a chunk of the lobby is already eliminated. From here, the survival fundamentals take over — and our [Fortnite beginner's guide](/blog/fortnite/fortnite-beginners-guide) covers how to play the storm and the endgame from this strong starting position.

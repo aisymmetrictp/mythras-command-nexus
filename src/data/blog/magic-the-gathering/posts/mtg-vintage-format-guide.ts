@@ -92,7 +92,7 @@ The nine:
 - **Timetwister** — {2}{U} sorcery. Each player shuffles their hand and graveyard into their library and draws seven. A symmetrical refill that the right deck breaks in half.
 - **Mox Pearl, Mox Sapphire, Mox Jet, Mox Ruby, Mox Emerald** — five {0} artifacts, one per color. Each taps for one mana of its color. Free mana rocks that accelerate you a full turn ahead with no cost but the card.
 
-Every one of the Power Nine is restricted, not banned, in Vintage. They are banned in Legacy and (with a couple of exceptions like Timetwister) banned in Commander, which is exactly why Vintage is the only sanctioned home they have. Note that **Sol Ring and Mana Crypt**, two other format-warping fast-mana artifacts, are also restricted in Vintage — they are not technically part of the "Power Nine," but they live on the restricted list right alongside it.
+Every one of the Power Nine is restricted, not banned, in Vintage. They are banned in [Legacy](/blog/magic-the-gathering/mtg-legacy-format-guide) and (with a couple of exceptions like Timetwister) banned in [Commander](/blog/magic-the-gathering/mtg-commander-format-guide-how-to-start), which is exactly why Vintage is the only sanctioned home they have. Note that **Sol Ring and Mana Crypt**, two other format-warping [fast-mana artifacts](/blog/magic-the-gathering/best-mtg-fast-mana-commander), are also restricted in Vintage — they are not technically part of the "Power Nine," but they live on the restricted list right alongside it.
 
 ## Restricted vs banned: the part everyone gets wrong
 
@@ -136,7 +136,7 @@ Vintage is fast — the fastest sanctioned constructed format by a wide margin. 
 
 ![Time Walk, a two-mana sorcery that grants an extra turn — restricted in Vintage and a textbook example of why the format limits its most powerful cards to one copy.](/images/blog/magic-the-gathering/mtg-vintage-format-guide/time-walk.jpg)
 
-But "turn-one win" is the ceiling, not the average. The format's defining tension is between the explosive proactive decks trying to win immediately and the **blue control and tempo decks** packed with free interaction — Force of Will, Mental Misstep, and the rest — whose whole job is to say "no" to the broken opening. Blue is the dominant color in Vintage for exactly this reason: the free counterspells are the brakes on the fast-mana engine.
+But "turn-one win" is the ceiling, not the average. The format's defining tension is between the explosive proactive decks trying to win immediately and the **blue control and tempo decks** packed with free interaction — Force of Will, Mental Misstep, and the rest — whose whole job is to say "no" to the broken opening. Blue is the dominant color in Vintage for exactly this reason: the [free counterspells](/blog/magic-the-gathering/best-counterspells-mtg) are the brakes on the fast-mana engine.
 
 The metagame sorts into a few families: **fast combo** decks assembling a game-winning interaction off the restricted fast mana, **blue control / tempo** decks leaning on free counters and restricted card-advantage engines, and **Workshop-style artifact decks** locking the opponent out under a fast clock. Whatever the lists, everything operates a turn or two faster than any other format, and games are decided by who blinks first.
 

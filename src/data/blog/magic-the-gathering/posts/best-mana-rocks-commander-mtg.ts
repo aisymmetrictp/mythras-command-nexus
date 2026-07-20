@@ -63,7 +63,7 @@ export const bestManaRocksCommanderMtg: BlogPost = {
   ],
   content: `Sol Ring is in your opening hand or it isn't, and the game usually goes the way that coin flips. That is the uncomfortable truth at the center of every Commander game: the format runs on artifact ramp, and the player who deploys a turn-one rock is playing a different, faster game than everyone else.
 
-Mana rocks are the artifacts that tap for mana. They get a deck out ahead on the curve, fix colors a three-color manabase can't, and rebuild your mana after a board wipe in a way that lands on the battlefield never will. Green decks get away with fewer of them because green ramps with creatures and lands. Everyone else leans on rocks hard.
+Mana rocks are the artifacts that tap for mana. They get a deck out ahead on the curve, fix colors a three-color manabase can't, and rebuild your mana after a [board wipe](/blog/magic-the-gathering/best-board-wipes-mtg) in a way that lands on the battlefield never will. Green decks get away with fewer of them because green [ramps with creatures](/blog/magic-the-gathering/best-mana-dorks-mtg) and lands. Everyone else leans on rocks hard.
 
 This is the working list. Not a 1-to-50 ranking, because rankings in a category this deep are noise. Instead: which jobs do mana rocks do, and which rocks do each job best. We're sticking to artifacts that tap for mana — no Dark Ritual one-shots, no land-based ramp, no green sorceries. Just the rocks.
 
@@ -121,7 +121,7 @@ Once you climb past two mana, a rock needs to earn the slot with extra fixing or
 
 - **Chromatic Lantern.** Three mana. Every land you control taps for any color, and the Lantern itself taps for any color. This is the five-color manabase fixer. If your deck plays four or five colors and you're tired of getting color-screwed, the Lantern fixes it permanently. In two-color decks it's overkill.
 - **Coalition Relic.** Three mana. Taps for any one color, or charges up to produce two mana next turn. Slow but powerful in decks that want a big payoff turn.
-- **Smothering Tithe.** Not technically an artifact, but the best "rock-adjacent" ramp in white. It prints a Treasure off every opponent's draw step unless they pay 2, and nobody pays. We cover it in the white guide; mentioning it here because it out-ramps most actual rocks in a four-player game.
+- **[Smothering Tithe](/blog/magic-the-gathering/best-enchantments-mtg).** Not technically an artifact, but the best "rock-adjacent" ramp in white. It prints a Treasure off every opponent's draw step unless they pay 2, and nobody pays. We cover it in the white guide; mentioning it here because it out-ramps most actual rocks in a four-player game.
 - **Talismans you don't have colors for.** Skip them. A rock that taps for colors your deck can't use is a worse Sol Ring.
 
 The honest rule for three-plus-mana rocks: they need to fix colors you genuinely struggle to produce, or generate card advantage, or both. A vanilla three-mana rock that taps for three colorless (like a Worn Powerstone or a Hedron Archive without the draw mode) is usually a worse play than just running another two-drop.

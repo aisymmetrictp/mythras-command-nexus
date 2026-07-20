@@ -79,7 +79,7 @@ On its own the elytra is a one-way ticket down. To fly level or climb indefinite
 
 ## The one place it lives: End ships
 
-Elytra spawn in **End ships**, which are the floating galleon-shaped structures that generate alongside some (not all) **End cities** out in the outer End islands. An End city without a ship has no elytra. The ship hangs off the side of the city, usually reachable by a bridge of purpur blocks or a short glide across.
+Elytra spawn in **End ships**, which are the floating galleon-shaped structures that generate alongside some (not all) **[End cities](/blog/minecraft/minecraft-end-cities-guide)** out in the outer End islands. An End city without a ship has no elytra. The ship hangs off the side of the city, usually reachable by a bridge of purpur blocks or a short glide across.
 
 ![A Minecraft End city — tall purpur towers in the outer End, where End ships and the elytra generate.](/images/blog/minecraft/minecraft-elytra-guide/end-city.webp)
 
@@ -91,7 +91,7 @@ Crucially: there is only ever **one elytra per ship**. If you want multiple pair
 
 You cannot reach the outer End islands until you have dealt with the dragon. Here is the chain:
 
-1. **Beat the Ender Dragon.** Killing her spawns an **End gateway portal** near the edge of the central island — a small black bedrock frame with a tiny portal in the middle.
+1. **Beat the Ender Dragon.** [Killing her](/blog/minecraft/how-to-beat-the-ender-dragon) spawns an **End gateway portal** near the edge of the central island — a small black bedrock frame with a tiny portal in the middle.
 2. **Reach the gateway.** It hangs in the air, so you either pillar up to it, build a bridge, or throw an ender pearl through it. The opening is small; an ender pearl is the reliable way in.
 3. **Go through.** The gateway teleports you roughly a thousand blocks out, dropping you on (or near) the outer End islands where the cities and ships generate.
 
@@ -130,7 +130,7 @@ Key facts that matter:
 
 - **Use plain rockets, not the explosive star ones.** A firework rocket *with a firework star* explodes and **damages you** when used for elytra flight. Craft travel rockets from **paper + gunpowder only** — no star. The number of gunpowder (1 to 3) sets the flight duration; **3 gunpowder = longest boost** and the standard travel rocket.
 - **One rocket = several seconds of thrust.** With 3-gunpowder rockets you cover enormous distances per rocket. A single stack will fly you across most of a survival map.
-- **Set up a gunpowder farm.** Rockets are cheap but you burn through them constantly once you are addicted to flying. A creeper farm (or a witch farm, which also drops gunpowder) keeps you stocked. Paper comes from sugar cane, which is trivial to farm.
+- **Set up a gunpowder farm.** Rockets are cheap but you burn through them constantly once you are addicted to flying. A [creeper farm](/blog/minecraft/best-minecraft-farms) (or a witch farm, which also drops gunpowder) keeps you stocked. Paper comes from sugar cane, which is trivial to farm.
 
 The practical loop: jump, deploy, then spam rockets while keeping your camera roughly level or slightly up to climb. Watch your speed — flying full-tilt into a mountain or a tree at rocket speed is the number-one way pilots die.
 
@@ -138,7 +138,7 @@ The practical loop: jump, deploy, then spam rockets while keeping your camera ro
 
 Here is the trap. The elytra has only **432 durability**, and gliding drains it **one point per second of flight**. That sounds like a lot until you realize a long cross-country flight can be several real minutes — and a freshly looted elytra can wear down faster than you expect. When it hits 1 durability it becomes a **broken elytra** that *cannot* be used to fly until repaired. It does not vanish; it just stops working as wings.
 
-The fix is **Mending**. Put Mending on your elytra (from an enchanted book via an anvil — Mending is a treasure enchantment you cannot roll at a table) and it repairs itself with the XP you pick up. Combined with **Unbreaking III**, a Mending elytra effectively never breaks as long as you keep gaining experience. This is the difference between a tool you baby and a tool you forget about.
+The fix is **Mending**. Put [Mending](/blog/minecraft/best-minecraft-enchantments) on your elytra (from an enchanted book via an anvil — Mending is a treasure enchantment you cannot roll at a table) and it repairs itself with the XP you pick up. Combined with **Unbreaking III**, a Mending elytra effectively never breaks as long as you keep gaining experience. This is the difference between a tool you baby and a tool you forget about.
 
 If you do not have Mending yet, you repair a damaged elytra on an anvil using **phantom membrane** (one membrane restores a chunk of durability). That is the bridge fix until you get the enchanted book — but realistically, getting Mending onto your wings should be a top priority the moment you start flying seriously.
 

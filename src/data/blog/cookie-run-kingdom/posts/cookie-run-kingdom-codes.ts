@@ -54,7 +54,7 @@ export const crkCodes: BlogPost = {
 
   content: `Nine codes, roughly 18,500 Crystals, 10,000+ Rainbow Cubes, a stack of Fateful Cookie Cutters and a Butter Amber are sitting on Devsisters' coupon page right now — and most players miss at least half of them because the codes never appear in-game. This is the running list for **May 2026**, freshly checked against the official DevPlay portal, with redemption steps and the recently-expired ones flagged so you don't waste a tap.
 
-If you just landed in **v7.4 Timeline of Fate** (live since 2026-05-07), stacking these codes before your first Cake Tower run or Arena season is the highest-EV thing you can do today. Free Crystals translate directly into Soulstone pulls, which means faster 6-star promotions under the new growth system. Long-time players coming back after a break should also start here — the anniversary and 2M-subscriber codes alone will rebuild a significant chunk of the Crystal economy you lost during your hiatus.
+If you just landed in [**v7.4 Timeline of Fate**](/blog/cookie-run-kingdom/timeline-of-fate-update-guide) (live since 2026-05-07), stacking these codes before your first Cake Tower run or Arena season is the highest-EV thing you can do today. Free Crystals translate directly into [Soulstone pulls](/blog/cookie-run-kingdom/crk-gacha-pull-guide), which means faster 6-star promotions under the new growth system. Long-time players coming back after a break should also start here — the anniversary and 2M-subscriber codes alone will rebuild a significant chunk of the Crystal economy you lost during your hiatus.
 
 This page is updated weekly. If you bookmark it once and check back every Monday, you'll catch most new codes within a day or two of release, which matters because Devsisters has shifted to a faster expiry cadence in 2026 — codes that once lived for two months now sometimes expire inside three weeks.
 
@@ -80,7 +80,7 @@ Every code below has been verified as redeemable on the global DevPlay coupon pa
 
 Total haul if you grab everything: roughly **18,000+ Crystals**, **10,000+ Rainbow Cubes**, **10 Fateful Cookie Cutters**, **100 Radiant Beascuit Dough**, **2 Butter Amber**, plus stamina and Choco Chalk on the side. For a free-to-play account, that is genuinely a few weeks of progress packed into ten minutes of typing.
 
-To put that in context: 18,000 Crystals is roughly **60 single pulls** or **6 ten-pulls** on the current banner — enough to plausibly hit a rate-up Legendary if you're chasing one. 10 Fateful Cookie Cutters is a guaranteed swing at the Fateful banner if it's active during your session. And the 100 Radiant Beascuit Dough plus Butter Amber are the exact crafting mats needed for high-end Beascuit pieces, which is the gear bottleneck for most mid-game accounts.
+To put that in context: 18,000 Crystals is roughly **60 single pulls** or **6 ten-pulls** on the current banner — enough to plausibly hit a rate-up Legendary if you're chasing one. 10 Fateful Cookie Cutters is a guaranteed swing at the Fateful banner if it's active during your session. And the 100 Radiant Beascuit Dough plus Butter Amber are the exact crafting mats needed for [high-end Beascuit pieces](/blog/cookie-run-kingdom/beascuit-tier-list), which is the gear bottleneck for most mid-game accounts.
 
 ## How to redeem CRK codes
 Codes do not redeem inside the game itself on global — Devsisters routes redemption through their **DevPlay coupon site** in a browser. The flow takes about 30 seconds per code once you've grabbed your Player ID.
@@ -152,7 +152,7 @@ For most regions, there is **no** in-game coupon entry box for global CRK in 202
 
 ![Dark Enchantress Cookie render, the rate-up Legendary your code Crystals are best spent chasing](/images/cookies/dark-enchantress-cookie.png)
 
-Once the mail hits and you've claimed everything, the temptation is to dump it all on the first banner you see. Resist. Here's the rough priority order for spending fresh code rewards in May 2026:
+Once the mail hits and you've claimed everything, the temptation is to dump it all on the first banner you see. Resist. Here's the [rough priority order for spending](/blog/cookie-run-kingdom/f2p-crystal-optimization) fresh code rewards in May 2026:
 
 | Currency | Best use right now |
 |---|---|

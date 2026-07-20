@@ -71,13 +71,13 @@ While something is on the stack, it is not yet a permanent, it has not dealt its
 
 ![Counterspell, the blue instant that counters target spell while it is still on the stack, before it ever resolves.](/images/blog/magic-the-gathering/mtg-stack-priority-explained/counterspell.jpg)
 
-That waiting period is the whole point. It is why Counterspell exists. Counterspell reads "Counter target spell," and the only window in which a spell is a *spell on the stack* — rather than a permanent on the battlefield or a resolved effect — is that gap between casting and resolving. The stack is the place where that gap lives.
+That waiting period is the whole point. It is why [Counterspell](/blog/magic-the-gathering/best-counterspells-mtg) exists. Counterspell reads "Counter target spell," and the only window in which a spell is a *spell on the stack* — rather than a permanent on the battlefield or a resolved effect — is that gap between casting and resolving. The stack is the place where that gap lives.
 
 ## Last in, first out: the only resolution rule
 
 The stack resolves **last in, first out** (LIFO). The most recently added object resolves first, then the next one down, and so on until the stack is empty. If you have ever stacked plates, you know this instinctively: the last plate you put on top is the first one you take off.
 
-Concretely. You cast a creature. Before it resolves, your opponent casts a removal spell targeting it. The stack now reads, top to bottom: removal spell (added last), your creature (added first). When players stop adding to the stack, the **removal resolves first** — but your creature is not on the battlefield yet, it is still on the stack, so the removal often fizzles or has to target the spell, not the creature. (Most creature removal can only target creatures *on the battlefield*, which is exactly why you cannot "kill" a creature while it is still a spell on the stack.)
+Concretely. You cast a creature. Before it resolves, your opponent casts a removal spell targeting it. The stack now reads, top to bottom: removal spell (added last), your creature (added first). When players stop adding to the stack, the **removal resolves first** — but your creature is not on the battlefield yet, it is still on the stack, so the removal often fizzles or has to target the spell, not the creature. (Most [creature removal](/blog/magic-the-gathering/best-removal-spells-mtg) can only target creatures *on the battlefield*, which is exactly why you cannot "kill" a creature while it is still a spell on the stack.)
 
 The LIFO rule produces the most important practical instinct in the game: **the last thing said is the first thing that happens.** If your opponent responds to your spell, their response resolves before your spell does. People lose games because they assume the spell they cast first goes off first. It does not. It goes off last.
 
@@ -144,9 +144,9 @@ Whenever a player would receive priority, the game first checks for a list of co
 - A **token or copy** in a zone other than where it is allowed ceases to exist.
 - The "legend rule" and "planeswalker uniqueness": if you control two legendary permanents with the same name, you choose one to keep and the rest go to the graveyard.
 
-The key consequence: you **cannot respond to a state-based action.** If your 3/3 takes 3 damage, it dies the next time the game checks — you do not get a priority window to "save it in response to it dying," because dying-from-lethal-damage is not a spell or ability on the stack. To save it, you had to act *earlier*, while there was still a priority window (for example, pumping its toughness in the combat-damage step before damage was dealt, or before the SBA check). Once the condition exists, the correction is automatic and uninterruptible.
+The key consequence: you **cannot respond to a state-based action.** If your 3/3 takes 3 damage, it dies the next time the game checks — you do not get a priority window to "save it in response to it dying," because dying-from-lethal-damage is not a spell or ability on the stack. To save it, you had to act *earlier*, while there was still a priority window (for example, pumping its toughness in the [combat-damage step](/blog/magic-the-gathering/mtg-combat-explained) before damage was dealt, or before the SBA check). Once the condition exists, the correction is automatic and uninterruptible.
 
-SBAs also explain why some "infinite" boards resolve the way they do, and why a creature reduced to 0 toughness by a -X/-X effect dies even though nothing "destroyed" it — toughness 0 is a state-based action, and indestructible does not save you from it.
+SBAs also explain why some "infinite" boards resolve the way they do, and why a creature reduced to 0 toughness by a -X/-X effect dies even though nothing "destroyed" it — toughness 0 is a state-based action, and [indestructible](/blog/magic-the-gathering/mtg-keywords-explained) does not save you from it.
 
 ## What does not use the stack
 

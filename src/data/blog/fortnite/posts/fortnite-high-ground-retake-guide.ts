@@ -66,7 +66,7 @@ export const fortniteHighGroundRetakeGuide: BlogPost = {
   ],
   content: `Someone walls you in, ramps up over your head, and now they're raining shots down on your box while you scramble to wall the top. That's the moment that decides most late-game fights in Build mode, and the difference between a good player and a great one is what happens next. The great one doesn't panic-spam walls and die — they execute a clean high ground retake, take the top back, and flip the fight in about three seconds. Losing high ground is not the same as losing the fight; it's just the start of getting it back.
 
-This guide is the high ground retake broken all the way down, separate from box-fighting and piece-control tempo: why height is worth fighting for, the cone-rush, the wall-and-ramp retake, the 50/50 you trade at the top, how to survive on low ground long enough to attempt any of it, and when to just reset the fight instead. None of this rotates with the season — ramps, cones, walls, and floors have behaved the same way for years. Get these retakes into your hands and being under someone stops being a death sentence.
+This guide is the high ground retake broken all the way down, separate from [box-fighting](/blog/fortnite/fortnite-box-fighting-guide) and [piece-control](/blog/fortnite/fortnite-piece-control-guide) tempo: why height is worth fighting for, the cone-rush, the wall-and-ramp retake, the 50/50 you trade at the top, how to survive on low ground long enough to attempt any of it, and when to just reset the fight instead. None of this rotates with the season — ramps, cones, walls, and floors have behaved the same way for years. Get these retakes into your hands and being under someone stops being a death sentence.
 
 ## Why high ground wins fights
 
@@ -90,7 +90,7 @@ How the cone-rush plays:
 
 - **Wall toward them, then cone up.** Put a wall on the side the enemy is on so their shots hit it, then place a cone overhead and jump as you place the next one. Each cone is a step up that also protects the top.
 - **You rise protected.** Because there's always a cone over your head, the enemy can't simply shoot or edit straight down onto you while you climb — they're hitting the cone, and the angled piece is awkward to edit through cleanly.
-- **You arrive level and take the wall.** When you reach their height, you transition straight into taking their wall and editing in — you've turned a low-ground position into a level fight in a few cone placements.
+- **You arrive level and take the wall.** When you reach their height, you transition straight into taking their wall and [editing in](/blog/fortnite/fortnite-editing-guide) — you've turned a low-ground position into a level fight in a few cone placements.
 
 The cone-rush is the bread-and-butter retake because it's protected the whole way and it doesn't over-commit. It's the answer to "they're right above me and shooting down" — you cone up under their fire and arrive even.
 
@@ -141,8 +141,8 @@ Sometimes the right move isn't to retake at all — it's to **reset.** Resetting
 
 When resetting beats retaking:
 
-- **You're low on mats or health.** No mats means no retake. Bail, top off, refarm, and come back able to actually build the climb.
-- **A third party is incoming.** Two players in a tall, loud high-ground fight are a beacon. If you hear or see a third squad rotating in, reset — let them clash with the enemy instead of you fighting both.
+- **You're low on [mats](/blog/fortnite/fortnite-mats-management-guide) or health.** No mats means no retake. Bail, top off, refarm, and come back able to actually build the climb.
+- **A [third party](/blog/fortnite/fortnite-third-party-guide) is incoming.** Two players in a tall, loud high-ground fight are a beacon. If you hear or see a third squad rotating in, reset — let them clash with the enemy instead of you fighting both.
 - **The enemy has a big height lead.** If they're already several levels up and stable, grinding a retake into that is expensive and exposed. Disengage and re-take height somewhere they aren't looking.
 - **The storm gives you an out.** Sometimes the zone itself forces a reset — use the rotation as cover to disengage and reposition with height of your own.
 

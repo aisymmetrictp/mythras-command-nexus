@@ -143,8 +143,8 @@ A pitched, overhanging stair-and-slab roof on top of a depth-varied wall in a go
 
 Once the structure is right, small details push it over the line. These are cheap and high-impact:
 
-- **Lighting.** Lanterns, sea lanterns, hidden glowstone, and campfires. Warm light at night makes any build feel alive (and stops mobs spawning on it — handy for your [survival base](/blog/minecraft/minecraft-survival-guide-beginners)).
-- **Trapdoors and item frames.** Trapdoors make shutters, awnings, and detail panels. Item frames hang tools, maps, and decoration.
+- **Lighting.** Lanterns, sea lanterns, hidden glowstone, and campfires. Warm light at night makes any build feel alive (and stops [hostile mobs](/blog/minecraft/minecraft-hostile-mobs-guide) spawning on it — handy for your [survival base](/blog/minecraft/minecraft-survival-guide-beginners)).
+- **Trapdoors and item frames.** Trapdoors make shutters, awnings, and detail panels. Item frames hang tools, [maps](/blog/minecraft/minecraft-maps-cartography-guide), and decoration.
 - **Plants.** Flower pots, leaf blocks, vines, and hanging foliage break up hard edges and add color.
 - **Asymmetry.** A perfectly symmetrical build can look sterile. A chimney on one side, an attached lean-to, an offset entrance — small asymmetry reads as lived-in.
 - **Paths and surroundings.** A build floating on flat grass looks unfinished. A gravel or path-block walkway, some fences, and a bit of terraforming tie it to the world.

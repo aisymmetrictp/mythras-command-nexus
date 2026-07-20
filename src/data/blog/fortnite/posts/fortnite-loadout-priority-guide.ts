@@ -58,7 +58,7 @@ export const fortniteLoadoutPriorityGuide: BlogPost = {
     { id: 'what-to-grab-first-and-what-to-drop', label: 'What to grab first and what to drop', level: 2 },
     { id: 'quick-action-checklist', label: 'Quick Action Checklist', level: 2 },
   ],
-  content: `The best loadout in Fortnite is not a list of specific weapons. It's a set of *jobs* your inventory needs to do, and the weapons are just whoever's available to do them this match. This is the single most useful reframe for looting, because the gun pool rotates every season — new weapons get added, old ones get vaulted, the "meta gun" changes constantly — but the jobs never change. You will always need a way to win a close fight, a way to deal damage at range, a way to heal, and a way to move. Build your inventory around those roles and a grey weapon that fills an empty slot beats a gold one you had no room for.
+  content: `The best loadout in Fortnite is not a list of specific weapons. It's a set of *jobs* your inventory needs to do, and the weapons are just whoever's available to do them this match. This is the single most useful reframe for looting, because the [gun pool rotates every season](/blog/fortnite/fortnite-weapon-tier-list) — new weapons get added, old ones get vaulted, the "meta gun" changes constantly — but the jobs never change. You will always need a way to win a close fight, a way to deal damage at range, a way to heal, and a way to move. Build your inventory around those roles and a grey weapon that fills an empty slot beats a gold one you had no room for.
 
 This guide is the durable theory of inventory: the weapon roles (close, mid, long), the heals you can't skip, the mobility and utility that round it out, how mats fit in, and the actual priority order for what to grab off the ground and what to leave. We're deliberately not naming this season's flavor-of-the-month guns, because those change. The framework doesn't.
 
@@ -84,7 +84,7 @@ Close range is the slot that wins the fights that actually kill you. Most elimin
 
 What fills this role, in general terms:
 
-- **Shotguns** are the classic close-range pick — high damage per shot, built for the one-or-two-hit burst that ends a close fight. Whatever shotgun the current loot pool offers, one belongs in your kit.
+- **[Shotguns](/blog/fortnite/fortnite-shotgun-guide)** are the classic close-range pick — high damage per shot, built for the one-or-two-hit burst that ends a close fight. Whatever shotgun the current loot pool offers, one belongs in your kit.
 - **SMGs** are the other strong close-range option — lower per-shot damage but a high fire rate that shreds at point-blank, and they double as a wall-spray tool in Build mode. Many players carry an SMG instead of or alongside a shotgun.
 - The general rule: **carry at least one dedicated close-range weapon**, and lean toward whichever archetype suits your aim — shotguns reward precise burst timing, SMGs reward tracking and spray control.
 
@@ -124,7 +124,7 @@ Here's the slot players under-prioritize most: **at least one heal slot is manda
 
 How to stock the healing slots:
 
-- **Shields are your effective extra health bar.** Shield items (the blue potions and similar) sit on top of your white HP and are the difference between winning and losing a peek battle. Prioritize being at full shield going into every fight.
+- **Shields are your effective extra health bar.** [Shield items](/blog/fortnite/fortnite-shield-heal-management-guide) (the blue potions and similar) sit on top of your white HP and are the difference between winning and losing a peek battle. Prioritize being at full shield going into every fight.
 - **Carry a mix of fast and slow heals.** Slow, long-channel heals (full-health Medkits, big shield items) are for *between* fights behind cover. Fast heals (minis, splashes, anything quick) are for topping up mid-fight or on the move. Carrying only slow heals means you can't heal in a firefight at all.
 - **Two heal slots is the comfortable default.** One for shields, one for health, or one fast and one slow — enough to refill a couple of times across a match without constantly scavenging.
 - **Heal to full during downtime, not during damage.** Walk into every fight topped up. Healing while exposed gets you killed in the channel.
@@ -133,7 +133,7 @@ The rule of thumb: **never run more than three weapons if it means zero heals.**
 
 ## Mobility and utility
 
-The last role is the one that quietly wins rotations and saves your life: **a mobility or utility item.** This is anything that lets you reposition, escape, or rotate without spending your fighting slots — movement items, deployable traversal tools, consumables that grant speed, and so on.
+The last role is the one that quietly wins rotations and saves your life: **a mobility or utility item.** This is anything that lets you reposition, escape, or rotate without spending your fighting slots — [movement items](/blog/fortnite/fortnite-mobility-items-guide), deployable traversal tools, consumables that grant speed, and so on.
 
 Why it earns a slot:
 

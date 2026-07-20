@@ -87,7 +87,7 @@ On PC, the goal is maximum frames and maximum enemy visibility — not pretty sc
 
 > Turning shadows off is the closest thing to a free competitive cheat the game offers. You gain frames *and* visibility at once, because enemies no longer blend into shaded terrain. Nearly every serious player runs shadows off, and it's the first toggle you should flip.
 
-The frame-rate target depends on your monitor: there's no point pushing 240 FPS into a 60 Hz panel. Match your frame cap to your refresh rate, and if you have a high-refresh monitor (144 Hz, 240 Hz), getting frames up to it is worth dropping every visual setting to low. Smoothness beats beauty in a shooter, full stop.
+The frame-rate target depends on your monitor: there's no point pushing 240 FPS into a 60 Hz panel. Match your frame cap to your refresh rate, and if you have a high-refresh monitor (144 Hz, 240 Hz), getting frames up to it is worth dropping every visual setting to low — our [Fortnite performance guide](/blog/fortnite/fortnite-performance-fps-guide) digs deeper into squeezing out high FPS. Smoothness beats beauty in a shooter, full stop.
 
 ## Console settings: performance mode first
 
@@ -128,8 +128,8 @@ If you're new to building, start near the lower end of those ranges so your edit
 
 The keybind rule is the same one that governs building: **every action gets a clean, dedicated input you never have to hunt for.**
 
-- **Controller — use Builder Pro.** It maps each build piece to its own button/trigger so you place exactly what you want with one press. It's the standard competitive preset and it's not close.
-- **PC — bind the four build pieces near WASD.** Wall, ramp, floor, and cone on keys and mouse buttons your fingers reach without leaving movement (Q, mouse side buttons, F, C, and similar). The default binds work, but moving them closer to your hand removes the reach.
+- **Controller — use Builder Pro.** It maps each build piece to its own button/trigger so you place exactly what you want with one press. It's the standard competitive preset and it's not close — our [Fortnite controller settings guide](/blog/fortnite/fortnite-controller-settings) covers the aim-assist and sensitivity layer that goes with it.
+- **PC — bind the four build pieces near WASD.** Wall, ramp, floor, and cone on keys and mouse buttons your fingers reach without leaving movement (Q, mouse side buttons, F, C, and similar). The default binds work, but moving them closer to your hand removes the reach — see our [best Fortnite keybinds guide](/blog/fortnite/best-fortnite-keybinds) for a full layout.
 - **Bind edit and reset to comfortable, fast keys.** You edit constantly; a comfortable edit/confirm bind pays off every fight.
 - **Mash-build / turbo build on.** Make sure you can hold a button to place pieces continuously rather than tapping for each one.
 
@@ -137,7 +137,7 @@ The test for any keybind: in a real fight, can you execute the action without th
 
 ## Audio and visibility tweaks
 
-Sound is information, and a couple of audio settings turn it into a real advantage:
+Sound is information, and a couple of audio settings turn it into a real advantage — our [Fortnite audio settings guide](/blog/fortnite/fortnite-audio-settings-guide) goes deep on hearing every footstep:
 
 - **Use headphones, always.** Stereo separation tells you which direction footsteps, chests, and gunfire come from. Speakers throw that away.
 - **Turn on the Visualize Sound Effects option** if it exists in your version — it shows on-screen indicators for footsteps and gunfire direction, which is a genuine edge and a great training aid for learning to read audio.

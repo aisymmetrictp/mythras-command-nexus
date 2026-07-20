@@ -96,7 +96,7 @@ Zoom out from a single pack and the shape of the whole game gets clearer. The of
 
 Two things jump out. First, Commons and Uncommons are the overwhelming majority - well over half the entire pool - which is exactly why building a *playable* deck is affordable even when the chase cards aren't. Second, the Secret tiers (SEC/SSR/SUR) roughly mirror their base counterparts in number, because they're alternate printings of those same cards. That's the single most important fact about Braverse collecting, and it deserves its own section below.
 
-By card type, the pool is heavily Cookie-focused - Cookies are by far the largest group, followed by FLIP, Item, Trap, Stage, and the newer EXTRA cards. And by color, the five core colors (Red, Yellow, Green, Blue, Purple) are near-evenly represented at roughly 380-390 cards each, with two small extras: a tiny **PURE** group of special cards and the newer **BLACK** faction (around 35 cards) introduced with The Dark Enchantress War.
+By card type, the pool is heavily Cookie-focused - Cookies are by far the largest group, followed by FLIP, Item, Trap, Stage, and the newer EXTRA cards. And by color, the [five core colors (Red, Yellow, Green, Blue, Purple)](/blog/cookie-run-braverse-tcg/cookie-run-braverse-colors-explained) are near-evenly represented at roughly 380-390 cards each, with two small extras: a tiny **PURE** group of special cards and the newer **BLACK** faction (around 35 cards) introduced with The Dark Enchantress War.
 
 ## Standard rarities, from Common to Extra Rare
 
@@ -137,7 +137,7 @@ Arena of Glory is a clean example: its ten Rares each have a SEC alt, its Super 
 
 **EXR (Extra Rare)** and **GXR (Genesis Extra Rare)** sit outside the tidy R-SR-UR ladder. There are only about **eleven EXR cards in the entire game**, and they're an eclectic bunch rather than a clean per-set set. Most are attached to the premium **EXTRA-type Cookies** - the alt-art EXR printings of **Golden Cheese Cookie (BS8-027)**, **Dark Cacao Cookie (BS8-104)**, **Hollyberry Cookie (BS10-024)**, **White Lily Cookie (BS10-073)**, and **Pure Vanilla Cookie (BS9-088)** - with a few landing on special "title" cards named after their own set (like the *Arena of Glory* and *Cookies of Legend* cards). If you pull an EXR, you've pulled one of the scarcest things in the box.
 
-**GXR** is the top of the mountain, and it's not a category so much as a single card: **Dark Enchantress Cookie (BS11-115@3)** from The Dark Enchantress War is the *only* GXR in the game. That one Cookie actually exists at four escalating treatments off the same base number - UR (BS11-115), SUR (@1), EXR (@2), and finally GXR (@3) - so it's a neat illustration of the whole system in one card, capped by a rarity that exists exactly once. If longevity-minded collectors want a single "grail," that's the one.
+**GXR** is the top of the mountain, and it's not a category so much as a single card: **Dark Enchantress Cookie (BS11-115@3)** from [The Dark Enchantress War](/blog/cookie-run-braverse-tcg/best-dark-enchantress-war-cards) is the *only* GXR in the game. That one Cookie actually exists at four escalating treatments off the same base number - UR (BS11-115), SUR (@1), EXR (@2), and finally GXR (@3) - so it's a neat illustration of the whole system in one card, capped by a rarity that exists exactly once. If longevity-minded collectors want a single "grail," that's the one.
 
 ## What "hidden" cards mean
 
@@ -154,7 +154,7 @@ For the current English-language products, a booster box is built like this:
 
 That's the configuration to expect on shelves now. You may run into older or overseas listings citing a different layout (for instance, more packs with fewer cards each) - those reflect a different region or era, so don't use them to plan an English-product purchase. Configurations differ across regions and eras, so confirm the pack and box layout for the specific product you're buying.
 
-We are deliberately not quoting box or pack prices, because they vary by retailer and over time. Check a current listing before you buy.
+We are deliberately not quoting box or pack prices, because they vary by retailer and over time. Check a current listing before you buy, and see our [buying guide](/blog/cookie-run-braverse-tcg/cookie-run-braverse-buying-guide) for what to pick up first.
 
 ## A collecting strategy that won't break the bank
 

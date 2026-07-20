@@ -72,7 +72,7 @@ This is a practical guide to every throwable that matters: how the frag cook tim
 
 The reframe that fixes most players' throwable game: **a throwable is a tool for a problem your gun can't solve.** Your rifle is great at "enemy I can see in the open." It's useless against an enemy behind hard cover, a teammate you need to revive in the open, a corner you have to push blind, or a road you have to cross under watch. That's the entire job of throwables, and each one solves a different version of it.
 
-So the question isn't "should I carry grenades?" It's "which problem am I likely to face, and what do I throw at it?" A balanced loadout for most fights is roughly **two smokes, one or two frags, and a Molotov or stun depending on whether you're attacking buildings.** Smokes first — they're the most useful and the most underused, and we'll get to why. Carry them like ammo, not like souvenirs.
+So the question isn't "should I carry grenades?" It's "which problem am I likely to face, and what do I throw at it?" A balanced [loadout](/blog/pubg-battlegrounds/best-pubg-loadouts) for most fights is roughly **two smokes, one or two frags, and a Molotov or stun depending on whether you're attacking buildings.** Smokes first — they're the most useful and the most underused, and we'll get to why. Carry them like ammo, not like souvenirs.
 
 ## The frag grenade: cooking and arcs
 
@@ -96,7 +96,7 @@ If you take one thing from this guide: **carry smokes and actually use them.** T
 What smoke is actually for:
 
 - **Crossing open ground.** Pop a smoke across the road or field you need to traverse and walk through the cloud instead of sprinting through an open kill lane. The single best use of a smoke is making a dangerous rotation a non-event.
-- **Reviving safely.** Drop a smoke between you and the threat before you pick up a knocked teammate. The revive animation leaves you exposed and unable to shoot; smoke turns a suicidal pickup into a routine one.
+- **[Reviving safely](/blog/pubg-battlegrounds/pubg-reviving-dbno-guide).** Drop a smoke between you and the threat before you pick up a knocked teammate. The revive animation leaves you exposed and unable to shoot; smoke turns a suicidal pickup into a routine one.
 - **Resetting a fight you're losing.** When a gunfight goes bad, a smoke wall breaks line of sight so you can disengage, heal, or reposition instead of trading your way to death in the open.
 - **Smoke chaining for long crossings.** For a genuinely long open stretch, throw a second smoke before the first fully fades and walk the moving wall across — a smoke rotation that keeps you covered the whole way. This is why you carry two or three, not one.
 
@@ -113,7 +113,7 @@ Where the Molotov earns its slot:
 - **Flushing campers out of corners.** An enemy holding the one corner of a room you can't safely peek? Molotov the corner. The fire forces them to move or burn, and now they're peeking on your terms instead of theirs.
 - **Denying a revive.** Throw it on a knocked enemy. Their teammates can't crawl into a fire to pick them up, and the burn finishes the down for you.
 - **Blocking a doorway or stairwell.** A wall of fire across the only entrance to your position buys you the time to heal or reposition — nobody's sprinting through flames to push you.
-- **Denying ground in the final circle.** On a tiny endgame play area, a Molotov on the patch of cover an enemy needs forces them out of it and into the open.
+- **Denying ground in the [final circle](/blog/pubg-battlegrounds/pubg-endgame-circle-strategy).** On a tiny endgame play area, a Molotov on the patch of cover an enemy needs forces them out of it and into the open.
 
 The catch: fire on a wooden floor or in dry grass can spread, and it'll burn you just as happily as the enemy. Don't Molotov the room you're about to push *into*, and don't drop one at your own feet to "block" a doorway you're standing in. It's for space you want to deny, not space you want to occupy.
 
@@ -133,7 +133,7 @@ Beyond the four staples, PUBG has throwables that are either niche or locked to 
 
 - **Decoy grenade.** Detonates into a burst of fake gunfire sounds for several seconds, designed to bait enemies into thinking a fight is happening somewhere it isn't. A genuine mind-game tool for repositioning or drawing a push the wrong way. It appears on a limited set of maps rather than everywhere, so don't plan around finding one.
 - **BZ grenade.** A gas-style grenade that creates a lingering cloud causing disorientation and damage over time to anyone inside it — think of it as a longer-lasting area-denial throwable in the stun/gas family. Useful for holding ground or denying a chokepoint over time. Availability varies by map and mode.
-- **Sticky bomb.** A breaching tool found on Karakin, where the map's destructible walls are a core mechanic. It sticks to a surface and blows a hole in it, letting you breach into compounds from unexpected angles. You can throw it at players in a pinch, but it's a tool for the wall, not the man.
+- **Sticky bomb.** A breaching tool found on [Karakin](/blog/pubg-battlegrounds/pubg-karakin-map-guide), where the map's destructible walls are a core mechanic. It sticks to a surface and blows a hole in it, letting you breach into compounds from unexpected angles. You can throw it at players in a pinch, but it's a tool for the wall, not the man.
 - **C4.** A heavy demolition charge with a long automatic fuse (around sixteen seconds) and a big blast radius that can penetrate cover. It auto-detonates and can't be triggered early, so it's a deliberate area-denial and breaching tool — cut off a building entrance or force a camped squad out of a position — rather than something you frag with mid-fight. It's limited to certain maps.
 
 The honest takeaway: master the four staples (frag, smoke, Molotov, stun) because they're on most maps and they win most fights. Treat the decoy, BZ, sticky bomb, and C4 as bonus tools you use well when the map hands them to you, not as the core of your kit.
@@ -144,7 +144,7 @@ PUBG's "utility" extends past throwables into the items that bring teammates bac
 
 - **Blue Chip Transmitter.** On Erangel, Miramar, and Deston, when a teammate dies fully you can collect their Blue Chip from their loot box and activate the transmitter to recall them — they parachute back in during a later zone phase. The activation takes time and makes noise, locking you in place, so use it from a safe position. The recall window closes in the later phases of the match, so don't sit on a dead teammate's chip forever.
 - **Blue Chip Detector.** A tactical-slot gadget introduced with Deston that pings nearby enemy positions on a delay (not real-time), and on Deston also detects Blue Chips on the ground, in deathboxes, and in vehicle trunks. It's an information tool — worth running when you find one, because knowing roughly where the enemy is beats walking in blind.
-- **Taego comeback tools.** Taego has its own system: the self-AED lets a player who's been eliminated come back on their own, and the Comeback BR is a deathmatch round where eliminated players fight for a slot back into the match. These change how aggressively you can spend a knock on that map, because death isn't necessarily final.
+- **[Taego](/blog/pubg-battlegrounds/pubg-taego-map-guide) comeback tools.** Taego has its own system: the self-AED lets a player who's been eliminated come back on their own, and the Comeback BR is a deathmatch round where eliminated players fight for a slot back into the match. These change how aggressively you can spend a knock on that map, because death isn't necessarily final.
 
 The throughline with all of these: utility is information and second chances. Throwables solve the problem in front of you; the blue-chip and comeback tools decide whether a lost teammate stays lost. Both matter more than the third gun you were going to carry.
 

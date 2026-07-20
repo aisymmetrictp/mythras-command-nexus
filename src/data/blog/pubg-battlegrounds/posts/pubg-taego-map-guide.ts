@@ -66,7 +66,7 @@ Taego is an 8x8 set in a 1980s-themed Korean battleground — mountains, farmlan
 
 ## The map that gives you a second life
 
-Taego is a full 8x8 — the same big-map class as Erangel and Miramar, so the pacing is "loot up, move with purpose, play the circle," not the frantic 4x4 knife-fight. What sets it apart is a pair of second-chance systems introduced when the map launched (Update 12.2): the **Comeback BR** and the **Self-AED**. No other big map is built around forgiving an early mistake the way Taego is.
+Taego is a full 8x8 — the same big-map class as Erangel and [Miramar](/blog/pubg-battlegrounds/pubg-miramar-map-guide), so the pacing is "loot up, move with purpose, play the circle," not the frantic 4x4 knife-fight. What sets it apart is a pair of second-chance systems introduced when the map launched (Update 12.2): the **Comeback BR** and the **Self-AED**. No other big map is built around forgiving an early mistake the way Taego is.
 
 That changes the whole risk calculus. On Erangel, dropping a hot contested POI and losing the opening fight just ends your match. On Taego, losing that fight can buy you a ticket to the Comeback Arena instead — which means hot drops are a *more* reasonable gamble here than anywhere else, because the downside isn't always a hard exit. Players who don't know the systems play Taego scared. Players who do play it aggressive on purpose.
 
@@ -97,7 +97,7 @@ These two are why Taego is special, so it's worth getting them exactly right.
 
 **The Comeback BR** is a second-chance system: players who die during the first Blue Zone phase aren't immediately out — they get sent to the **Comeback Arena**, a separate location off the main Taego battleground, to fight a smaller battle royale among the other early casualties. Survive long enough in the Arena and you're transported by helicopter back to the Taego mainland in a later phase to resume your run at the Chicken Dinner. In other words, an early death is a demotion, not an elimination — you earn your way back in.
 
-**The Self-AED** is the solo version of a teammate revive. It's a world-loot item that lets a downed player revive *themselves* when DBNO, with no teammate required, and it works in both Solo and Squad matches. In solo, where there's normally no "knocked" state at all, a Self-AED in your bag means a hit that would eliminate you instead puts you into a DBNO state you can recover from yourself. It's a genuine get-out-of-jail item — finding one changes how aggressively you can play a fight.
+**The Self-AED** is the solo version of a [teammate revive](/blog/pubg-battlegrounds/pubg-reviving-dbno-guide). It's a world-loot item that lets a downed player revive *themselves* when DBNO, with no teammate required, and it works in both Solo and Squad matches. In solo, where there's normally no "knocked" state at all, a Self-AED in your bag means a hit that would eliminate you instead puts you into a DBNO state you can recover from yourself. It's a genuine get-out-of-jail item — finding one changes how aggressively you can play a fight.
 
 What this means for how you play Taego:
 
@@ -129,7 +129,7 @@ For gearing up with less heat, the **smaller towns and compounds** scattered acr
 
 ## Gliders, vehicles and rotations
 
-Taego has a rotation tool the other maps don't lean on the same way: **motor gliders**. They spawn reliably around the map and give you genuine air mobility — a way to cover the big 8x8 distances fast and reposition over terrain that would be a slog on foot or a death drive across open farmland. Used well, a glider beats the blue, scouts the next circle, and drops you into a strong position; used badly, it's a loud, visible target in the sky that everyone can shoot at.
+Taego has a rotation tool the other maps don't lean on the same way: **[motor gliders](/blog/pubg-battlegrounds/best-pubg-vehicles)**. They spawn reliably around the map and give you genuine air mobility — a way to cover the big 8x8 distances fast and reposition over terrain that would be a slog on foot or a death drive across open farmland. Used well, a glider beats the blue, scouts the next circle, and drops you into a strong position; used badly, it's a loud, visible target in the sky that everyone can shoot at.
 
 The rotation principles for Taego:
 

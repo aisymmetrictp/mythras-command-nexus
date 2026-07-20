@@ -63,9 +63,9 @@ export const fortniteBoxFightingGuide: BlogPost = {
     { id: 'drills-to-actually-get-good', label: 'Drills to actually get good', level: 2 },
     { id: 'quick-action-checklist', label: 'Quick Action Checklist', level: 2 },
   ],
-  content: `Box fighting is where most Build-mode players find out their aim was never the problem. You can outshoot someone in the open all day and still lose every close-range build fight, because a box fight isn't an aim duel — it's a fight over who controls the four walls between you. The player who owns the right wall at the right moment gets the free shot. Everyone else is reacting.
+  content: `Box fighting is where most Build-mode players find out their [aim](/blog/fortnite/fortnite-aim-training-guide) was never the problem. You can outshoot someone in the open all day and still lose every close-range build fight, because a box fight isn't an aim duel — it's a fight over who controls the four walls between you. The player who owns the right wall at the right moment gets the free shot. Everyone else is reacting.
 
-This is the close-range Build-mode fight broken all the way down: how to box up the instant pressure starts, the three edits that win these exchanges, how piece control hands you free damage, taking an opponent's wall, and tunneling someone into a corner they can't build out of. None of it is season-dependent — the four pieces, the edits, and piece control have worked the same way for years. Get these reps in and you stop losing fights you out-aimed.
+This is the close-range Build-mode fight broken all the way down: how to box up the instant pressure starts, the three edits that win these exchanges, how [piece control](/blog/fortnite/fortnite-piece-control-guide) hands you free damage, taking an opponent's wall, and [tunneling](/blog/fortnite/fortnite-tunneling-guide) someone into a corner they can't build out of. None of it is season-dependent — the [four pieces](/blog/fortnite/fortnite-building-basics), the edits, and piece control have worked the same way for years. Get these reps in and you stop losing fights you out-aimed.
 
 ## A box fight is a fight over walls
 
@@ -99,7 +99,7 @@ The box isn't where you win the fight; it's where you *stop losing* it long enou
 
 ![The Fortnite cone (roof) build piece — the cone edit lets you change levels and is one of the three edits that win box fights.](/images/blog/fortnite/fortnite-box-fighting-guide/build-cone.webp)
 
-Once you're boxed, the fight becomes an edit war: you open a hole in your wall, shoot, and close it before they can shoot back. Three edits cover almost every box fight, and drilling these three is more valuable than learning twenty fancy ones.
+Once you're boxed, the fight becomes an [edit war](/blog/fortnite/fortnite-editing-guide): you open a hole in your wall, shoot, and close it before they can shoot back. Three edits cover almost every box fight, and drilling these three is more valuable than learning twenty fancy ones.
 
 - **The door (or doorway).** Edit a wall into a doorway — knock out the bottom-center segment — and you get a tall opening to peek and shoot through, then reset the edit to close it. The classic "edit, peek, shoot, reset" rhythm runs on the door. It's your bread-and-butter aggressive edit.
 - **The window.** Edit out the center segment of a wall to make a small window at eye level. It exposes less of you than a full door, which makes it the safer peek when your opponent has good aim — you show a sliver, take your shot, and close. Use the window when you want to chunk someone without putting your whole body in the open.

@@ -94,7 +94,7 @@ The mana base is where you save the most money. A budget Commander mana base loo
 
 For the full land breakdown, the [best Commander lands](/blog/magic-the-gathering/best-lands-commander-mtg) guide covers the budget swaps in depth.
 
-Skip premium tutors too. Vampiric Tutor, Demonic Tutor, Mystical Tutor. These are great cards and they all cost more than half your deck. A budget deck wins by playing its game plan, not by tutoring for a specific answer.
+Skip [premium tutors](/blog/magic-the-gathering/best-tutors-commander-mtg) too. Vampiric Tutor, Demonic Tutor, Mystical Tutor. These are great cards and they all cost more than half your deck. A budget deck wins by playing its game plan, not by tutoring for a specific answer.
 
 One or two splash cards are fine if a deck genuinely needs them. Edgar Markov decks want Cathars' Crusade. Goblin decks want Krenko himself. Build around the engine, fill in the rest with theme.
 
@@ -133,7 +133,7 @@ One or two splash cards are fine if a deck genuinely needs them. Edgar Markov de
 **Key cards:**
 - Talrand, Sky Summoner — Drake-per-spell engine
 - Brainstorm, Ponder, Preordain — cheap card filtering that makes a Drake
-- Counterspell, Negate, Swan Song — interaction that makes a Drake
+- Counterspell, Negate, Swan Song — [interaction](/blog/magic-the-gathering/best-counterspells-mtg) that makes a Drake
 - Lightning Greaves — Talrand dies to a stiff breeze, protect him
 - Rhystic Study — the most-printed budget card draw engine in blue
 - Mystic Remora — three turns of insane card draw, then crack it
@@ -178,7 +178,7 @@ One or two splash cards are fine if a deck genuinely needs them. Edgar Markov de
 
 **Key cards:**
 - Lathril, Blade of the Elves — the win condition
-- Elvish Mystic, Llanowar Elves, Fyndhorn Elves — turn-1 ramp
+- Elvish Mystic, Llanowar Elves, Fyndhorn Elves — [turn-1 ramp](/blog/magic-the-gathering/best-mana-dorks-mtg)
 - Elvish Archdruid — taps for green equal to your Elf count
 - Priest of Titania — does the same, often better
 - Marwyn, the Nurturer — scales infinitely with your tribe

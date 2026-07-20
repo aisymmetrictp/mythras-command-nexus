@@ -72,19 +72,19 @@ export const halfLife2GravityGunGuide: BlogPost = {
     { id: 'the-super-gravity-gun-in-our-benefactors', label: 'The super gravity gun in Our Benefactors', level: 2 },
     { id: 'quick-action-checklist', label: 'Quick Action Checklist', level: 2 },
   ],
-  content: `There is a moment in Ravenholm, usually about four minutes in, when a player who has been rationing pistol ammo finally notices the circular sawblade bolted to the wall. They pull it off with secondary fire, punt it into a zombie, and it cuts the thing in half. Then they walk over, pick the same blade back up, and do it again. And again. Free, infinite, reusable lethality that was sitting in the level the whole time.
+  content: `There is a moment in [Ravenholm](/blog/half-life-2/half-life-2-beginner-guide), usually about four minutes in, when a player who has been rationing pistol ammo finally notices the circular sawblade bolted to the wall. They pull it off with secondary fire, punt it into a zombie, and it cuts the thing in half. Then they walk over, pick the same blade back up, and do it again. And again. Free, infinite, reusable lethality that was sitting in the level the whole time.
 
-That is the Zero Point Energy Field Manipulator working as intended, and most players never push it further than that. The gravity gun is treated as a puzzle tool with a fun combat mode. It is closer to the opposite: it is one of the highest-damage weapons in Half-Life 2, and it has a list of specific, verifiable interactions that trivialize encounters people otherwise grind through.
+That is the Zero Point Energy Field Manipulator working as intended, and most players never push it further than that. The gravity gun is treated as a puzzle tool with a fun combat mode. It is closer to the opposite: it is [one of the highest-damage weapons in Half-Life 2](/blog/half-life-2/half-life-2-weapons-guide), and it has a list of specific, verifiable interactions that trivialize encounters people otherwise grind through.
 
 This is the full list.
 
 ## Where you get it and what it really is
 
-You receive the gravity gun in Chapter 5, **Black Mesa East**, where Alyx Vance introduces it shortly after you arrive. It was built by her father, **Eli Vance**, and at its core is a substance that appears to be a Xen crystal. Officially it is a tractor-beam device designed for handling hazardous materials, though as Alyx puts it, mostly it gets used for heavy lifting.
+You receive the gravity gun in [Chapter 5, **Black Mesa East**](/blog/half-life-2/half-life-2-beginner-guide), where Alyx Vance introduces it shortly after you arrive. It was built by her father, **Eli Vance**, and at its core is a substance that appears to be a Xen crystal. Officially it is a tractor-beam device designed for handling hazardous materials, though as Alyx puts it, mostly it gets used for heavy lifting.
 
 Mechanically, its rate of fire sits around **120 RPM**, but that number is misleading in practice. Because it fires physics props rather than ammunition, there is effectively no limit to how many times you can shoot it. The real constraint is that you have to reload by grabbing a new object after every shot.
 
-Alongside the crowbar, it is Gordon Freeman's signature weapon, and it is carried by more than just him across the series: Alyx uses one, Dog has one integrated into his arm, and Wallace Breen briefly holds one during the Dark Energy chapter.
+Alongside [the crowbar](/blog/half-life-2/half-life-2-weapons-guide), it is Gordon Freeman's signature weapon, and it is carried by more than just him across the series: Alyx uses one, Dog has one integrated into his arm, and Wallace Breen briefly holds one during the Dark Energy chapter.
 
 ## Primary fire versus secondary fire
 

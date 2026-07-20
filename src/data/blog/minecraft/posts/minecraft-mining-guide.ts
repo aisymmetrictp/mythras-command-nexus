@@ -116,7 +116,7 @@ Iron only needs a **stone pickaxe or better**, and mining the ore gives you **ra
 Three ores that sit at very different heights:
 
 - **Copper peaks at Y 48.** It is densest in the mid-positive levels and is genuinely abundant — copper is the easiest of the metals to stockpile, and dripstone caves are loaded with it. It needs a **stone pickaxe or better** and drops raw copper. Most players end up with more copper than they know what to do with.
-- **Gold peaks at Y -16**, just above the diamond layer. It needs an **iron pickaxe or better**. Two bonuses worth knowing: gold gets a big spawn boost in **badlands (mesa) biomes** between roughly Y 32 and 79, where it generates in extra blobs near the surface, and the Nether has its own nether gold ore. If you have a badlands nearby, that is your gold mine — literally.
+- **Gold peaks at Y -16**, just above the diamond layer. It needs an **iron pickaxe or better**. Two bonuses worth knowing: gold gets a big spawn boost in **badlands (mesa) biomes** between roughly Y 32 and 79, where it generates in extra blobs near the surface, and the [Nether](/blog/minecraft/minecraft-nether-guide) has its own nether gold ore. If you have a badlands nearby, that is your gold mine — literally.
 - **Redstone peaks at the very bottom**, around **Y -59 and lower**, getting denser the closer you get to bedrock. It shares the diamond depth, so your diamond trip is also your redstone trip. Redstone needs an **iron pickaxe or better** and, like the gems, benefits hugely from Fortune.
 
 ## Lapis, emerald, and coal
@@ -135,7 +135,7 @@ Once you are at the right Y level, the pattern you dig decides how efficient you
 
 **Branch mining** is the precise one. You dig a single straight main corridor, then cut narrow side branches off it every two or three blocks. Leaving exactly two blocks of stone between branches means no ore vein can fully hide in the gap — you will clip at least one block of it from a branch on one side. It is the most thorough sweep of a chunk per block you actually break, and it keeps you locked at one Y level the whole time. This is the default for hunting specific ores like diamond.
 
-**Strip mining** is the blunt-force version: you carve wide, open tunnels — 2 or 3 blocks tall and wide — exposing big flat walls fast. You see a lot of blocks quickly and do not have to think about spacing, but you break far more "empty" stone per ore found. It only makes sense when each swing is basically free — that is, when you have **Efficiency V and a Haste II beacon** making deepslate instamine. With that setup, raw throughput beats efficiency-per-block. Without it, branch mining wins.
+**Strip mining** is the blunt-force version: you carve wide, open tunnels — 2 or 3 blocks tall and wide — exposing big flat walls fast. You see a lot of blocks quickly and do not have to think about spacing, but you break far more "empty" stone per ore found. It only makes sense when each swing is basically free — that is, when you have **Efficiency V and a [Haste II beacon](/blog/minecraft/minecraft-beacon-guide)** making deepslate instamine. With that setup, raw throughput beats efficiency-per-block. Without it, branch mining wins.
 
 A third option that beats both for speed: **cave and ravine diving.** Big cave systems have already carved through thousands of blocks and exposed ore in their walls for free — you just descend to the right Y level and scan. It is the fastest way to find ore and the most dangerous, because deep caves are dark, mob-filled, and flooded with lava.
 

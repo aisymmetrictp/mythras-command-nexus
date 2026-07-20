@@ -60,7 +60,7 @@ export const bestManaDorksMtg: BlogPost = {
   ],
   content: `A turn-one mana dork is the fastest acceleration in Magic. Drop a Llanowar Elves on turn one and your turn-three play happens on turn two — you are a full turn ahead of everyone who just played a land and passed. No artifact does that for one mana. No ramp spell does that for one mana. The dork does, and it does it the moment the game starts.
 
-Then someone casts a board wipe and your entire ramp plan dies in a single card. That is the deal you sign every time you run dorks: the cheapest, fastest mana in the format, attached to the most fragile body in the format. A mana dork is a creature that taps for mana, which means it eats removal, chump-blocks itself into the graveyard, and evaporates to any Wrath of God, Blasphemous Act, or random Pyroclasm that hits the table.
+Then someone casts a [board wipe](/blog/magic-the-gathering/best-board-wipes-mtg) and your entire ramp plan dies in a single card. That is the deal you sign every time you run dorks: the cheapest, fastest mana in the format, attached to the most fragile body in the format. A mana dork is a creature that taps for mana, which means it eats removal, chump-blocks itself into the graveyard, and evaporates to any Wrath of God, Blasphemous Act, or random Pyroclasm that hits the table.
 
 This is a ranked breakdown of the dorks actually worth a slot, verified for card name and Commander legality against Scryfall, plus the part most lists skip: when a one-mana dork is a better play than a Sol Ring, and when it absolutely is not. We are ranking by what each dork does for a real Commander deck, not by raw power in a vacuum.
 
@@ -147,7 +147,7 @@ This is the section the topic actually turns on. Dorks and rocks both get you a 
 
 - You're in green and want the cheapest turn-one acceleration. A {G} dork is online a full turn before a two-mana Arcane Signet.
 - You need one-mana color fixing. Birds of Paradise and the Hierarchs fix colors on turn one for a single mana; no rock does that.
-- Your deck has creature synergies — sacrifice outlets, blink, +1/+1 counters, convoke, "creatures you control" payoffs. A dork feeds all of that on top of making mana. A rock just makes mana.
+- Your deck has creature synergies — [sacrifice outlets](/blog/magic-the-gathering/best-mtg-sacrifice-outlets-commander), [blink](/blog/magic-the-gathering/best-mtg-flicker-blink-commander), +1/+1 counters, convoke, "creatures you control" payoffs. A dork feeds all of that on top of making mana. A rock just makes mana.
 
 **Rocks beat dorks when:**
 

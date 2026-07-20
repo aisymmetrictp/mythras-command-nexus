@@ -140,7 +140,7 @@ You collect the early arsenal in a tight sequence, and each one has a job.
 - **Crowbar** (Chapter 2). Ten damage a swing in Half-Life 2. It is your infinite-ammo answer to headcrabs, breakable crates, and boarded-up windows. Break every wooden crate and pallet you pass; that is where ammo and health live.
 - **USP Match 9mm pistol** (Chapter 3). Five damage a shot, an 18-round magazine, and 150 rounds of maximum reserve. Tapping the trigger fires at roughly 600 RPM while holding it down drops to around 120 RPM, so deliberate taps are genuinely better than mashing. It is a precision tool for manhacks and unarmored targets, not a fight-winner.
 - **MP7 submachine gun** (Chapter 3). Four damage per round, a 45-round magazine, 225 reserve, and an 800 RPM fire rate. The wiki rates its accuracy as poor with medium-to-high spread, and that is accurate to the feel: it is a short-range panic button. It also carries **three grenade rounds** on secondary fire, which are easy to forget and excellent against clustered enemies.
-- **SPAS-12 shotgun** (Chapter 6, Ravenholm). Eight damage per pellet, 56 total on primary fire and 84 total on the double-barrel secondary. This is your close-quarters answer for the rest of the game.
+- **SPAS-12 shotgun** (Chapter 6, Ravenholm). [Eight damage per pellet, 56 total on primary fire](/blog/half-life-2/half-life-2-weapons-guide) and 84 total on the double-barrel secondary. This is your close-quarters answer for the rest of the game.
 
 Note the gap: you do not get the shotgun until Ravenholm. That single fact explains most early frustration, and it is why the next section matters so much.
 
@@ -160,7 +160,7 @@ It also cannot affect most organic material, with a few exceptions such as wood.
 
 Chapter 6 is where first playthroughs go wrong. You enter a zombie-infested town, ammunition is scarce, and you have a pistol, an SMG with poor spread, and a crowbar.
 
-The intended solution is the gravity gun. The wiki puts it plainly: the gravity gun is one of the most suitable weapons for Ravenholm before you get the shotgun, precisely because the town is stuffed with environmental props and conventional ammo is thin.
+The intended solution is the gravity gun. The wiki puts it plainly: [the gravity gun is one of the most suitable weapons for Ravenholm](/blog/half-life-2/half-life-2-gravity-gun-guide) before you get the shotgun, precisely because the town is stuffed with environmental props and conventional ammo is thin.
 
 Practical Ravenholm rules:
 
@@ -187,7 +187,7 @@ Overwatch soldiers flank, suppress, and throw grenades to flush you out of cover
 
 ### Manhacks and scanners
 
-Flying blades that chase you. The pistol handles them precisely, but the gravity gun is better: you can catch a manhack in secondary fire and use it as a makeshift chainsaw against other enemies, or punt it into a nearby wall to destroy it. Punted over long distances they will stabilize and fly on, so hit a wall that is close.
+Flying blades that chase you. The pistol handles them precisely, but the gravity gun is better: you can catch a manhack in secondary fire and [use it as a makeshift chainsaw](/blog/half-life-2/half-life-2-gravity-gun-guide) against other enemies, or punt it into a nearby wall to destroy it. Punted over long distances they will stabilize and fly on, so hit a wall that is close.
 
 ## Vehicle chapters are not shooting chapters
 
@@ -202,7 +202,7 @@ Also: get out and explore. Both chapters hide supply caches, health, and ammo in
 1. **Ignoring the gravity gun in combat.** It is not a puzzle tool. It is frequently your best weapon.
 2. **Charging the wrong wall unit.** Health Stations and Charging Devices are separate. Top off both.
 3. **Not breaking crates.** Wooden crates and pallets hide the ammo and health you say you cannot find.
-4. **Hoarding the .357 and crossbow.** Saving powerful ammo for a boss that never arrives is a classic. Spend it.
+4. **Hoarding [the .357 and crossbow](/blog/half-life-2/half-life-2-weapons-guide).** Saving powerful ammo for a boss that never arrives is a classic. Spend it.
 5. **Camping in cover against Combine soldiers.** They flank and grenade. Move.
 6. **Forgetting SMG grenades.** Three of them, secondary fire, and most players finish the campaign having thrown one.
 

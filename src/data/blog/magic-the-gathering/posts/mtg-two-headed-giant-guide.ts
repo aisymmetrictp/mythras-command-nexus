@@ -60,13 +60,13 @@ export const mtgTwoHeadedGiantGuide: BlogPost = {
   ],
   content: `Two-Headed Giant is the best way to play Magic *with* a friend instead of *against* everyone. Most multiplayer Magic is a free-for-all where your closest ally is whoever isn't attacking you this turn. 2HG flips that: you and a teammate share one life total, take one turn together, and win or lose as a single unit. It's the format for the person who wants to scheme with a buddy across the table instead of negotiating temporary truces in a four-player politics knife-fight.
 
-It's also the most popular team format Wizards officially supports — it shows up at prereleases, Grand Prix side events, and kitchen tables constantly. The catch is that the rules changes are bigger than they look. "Two players on a team" sounds simple until you hit the shared turn, the way damage doubles against you, and the combat rules that let your teammate block for you. Get those wrong and you'll misplay the format badly. Here's how 2HG actually works, and how to win it.
+It's also the most popular team format Wizards officially supports — it shows up at prereleases, Grand Prix side events, and kitchen tables constantly. The catch is that the rules changes are bigger than they look. "Two players on a team" sounds simple until you hit the shared turn, the way damage doubles against you, and the [combat rules](/blog/magic-the-gathering/mtg-combat-explained) that let your teammate block for you. Get those wrong and you'll misplay the format badly. Here's how 2HG actually works, and how to win it.
 
 ## What Two-Headed Giant is
 
 Two-Headed Giant is a **two-versus-two team format**. Four players, two teams of two, sitting on opposite sides of the table. Each team is treated as a single "head" in a lot of rules-relevant ways: one shared life total, one shared turn, one team that wins and one that loses.
 
-You can play it with any deck type. Constructed 2HG uses 60-card decks, Limited (the most common way it's played, at prereleases) uses 40-card decks, and there's even a Commander variant with 99-card singleton decks. The format layers on top of whatever you're already playing — the deck rules don't change, only the *game* rules do.
+You can play it with any deck type. Constructed 2HG uses 60-card decks, Limited (the most common way it's played, at prereleases) uses 40-card decks, and there's even a [Commander variant](/blog/magic-the-gathering/mtg-commander-format-guide-how-to-start) with 99-card singleton decks. The format layers on top of whatever you're already playing — the deck rules don't change, only the *game* rules do.
 
 The teamwork is real and structural, not just vibes. You and your teammate share a life total, take your turns at the same time, and can freely tell each other your plans and even what's in your hands (in casual play). Your cards are still yours — your teammate can't cast spells from your hand or use your mana — but you're building toward one shared win condition. That's the whole appeal.
 
@@ -127,7 +127,7 @@ Getting a 2HG game going is straightforward once you know the setup steps.
 - Four players, two teams of two, sitting across from your teammate's opponents (teammates on the same side).
 - Each team starts at **30 life** (Constructed/Limited) or **60** (Commander).
 - Randomly determine which team goes first; that team **skips its first draw step**.
-- Each player draws a 7-card opening hand and may take **one free mulligan** (teammates decide together).
+- Each player draws a 7-card opening hand and may take **[one free mulligan](/blog/magic-the-gathering/mtg-mulligan-guide-london-mulligan)** (teammates decide together).
 
 **Deckbuilding:** You're each building your own legal deck for the format you're playing — 60 cards Constructed, a 40-card Limited pool, or a 99+commander Commander deck. The trick is to build the two decks to *complement* each other rather than as two independent good decks:
 
@@ -140,11 +140,11 @@ Getting a 2HG game going is straightforward once you know the setup steps.
 
 The shared everything rewrites how you evaluate cards and lines.
 
-**Symmetric and "each opponent" damage is premium.** As covered, anything that hits each opponent doubles against the enemy team's single life pool. A "deal 2 to each opponent" effect is a Lightning Bolt-and-a-half against the team. Conversely, *symmetric* effects that hit each player also hurt *you and your teammate* — a board wipe or a "each player loses life" symmetric effect costs your team double too, so weigh them carefully.
+**Symmetric and "each opponent" damage is premium.** As covered, anything that hits each opponent doubles against the enemy team's single life pool. A "deal 2 to each opponent" effect is a Lightning Bolt-and-a-half against the team. Conversely, *symmetric* effects that hit each player also hurt *you and your teammate* — a [board wipe](/blog/magic-the-gathering/best-board-wipes-mtg) or a "each player loses life" symmetric effect costs your team double too, so weigh them carefully.
 
 **Big, splashy threats are safer.** In a four-player free-for-all, the player who taps out for the giant haymaker often gets ganged up on. In 2HG there are only two opposing decks, your teammate is helping, and you can afford to commit harder. The format rewards proactive, powerful plays more than cagey politics.
 
-**Removal and protection get pulled in two directions.** You've got two opponents' boards to answer, but also two of your own to protect. Interaction that can cover the whole team — flexible removal, team-wide combat tricks, counterspells held up for the scary spell — is worth more than narrow, single-target tech.
+**Removal and protection get pulled in two directions.** You've got two opponents' boards to answer, but also two of your own to protect. Interaction that can cover the whole team — flexible removal, team-wide combat tricks, [counterspells](/blog/magic-the-gathering/best-counterspells-mtg) held up for the scary spell — is worth more than narrow, single-target tech.
 
 **Coordinate your turn like one player with two hands.** The best teams sequence their shared turn deliberately: ramp before threats, hold up the answer while the partner commits, and decide *together* who attacks and who holds back blockers. Talking through the turn is not just allowed, it's the skill.
 

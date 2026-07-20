@@ -101,7 +101,7 @@ Forests, fertile plains, rivers and mountains. This is where you start, and it i
 
 Hernand's identity is medieval politics. The quests here are about local conflicts, land, and the people caught between rival powers. Mechanically it is the most forgiving terrain in the game — rolling rather than vertical, which suits a Kliff who does not yet have the mobility toolkit.
 
-Do not treat it as a tutorial zone to be cleared and abandoned. Enemy variety in Hernand is genuinely useful for the Watch and Learn system, and coming back later with full traversal opens up parts of it you physically could not reach on your first pass.
+Do not treat it as a tutorial zone to be cleared and abandoned. Enemy variety in Hernand is genuinely useful for the [Watch and Learn system](/blog/crimson-desert/crimson-desert-combat-guide), and coming back later with full traversal opens up parts of it you physically could not reach on your first pass.
 
 ### Pailune
 
@@ -203,7 +203,7 @@ What worked for me:
 
 **Explore one region at a time and let the others wait.** The map does not care about your order. Regional focus preserves the sense of place that makes Pywel work.
 
-**Let the terrain pick your objectives.** Crimson Desert rewards seeing something on a ridge and going to look at it far more than it rewards clearing icons. The hand-built encounters and world detail are the good stuff; the density of markers is the noise.
+**Let the terrain pick your objectives.** Crimson Desert rewards seeing something on a ridge and going to look at it far more than it rewards clearing icons. The hand-built encounters and world detail are the good stuff; the density of markers is the noise. Those bosses are also your most reliable source of [Abyss Cores](/blog/crimson-desert/crimson-desert-abyss-cores-guide), so the exploring pays for your build too.
 
 **Use camps.** Base-building, companion expeditions for resources, and cooking and farming for stat buffs to HP, Spirit and Stamina all run through the camp system. Cooked stat buffs directly extend traversal range, which makes camps an exploration tool and not just a home base.
 

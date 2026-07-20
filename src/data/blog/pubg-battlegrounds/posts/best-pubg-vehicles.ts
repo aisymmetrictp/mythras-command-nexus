@@ -64,7 +64,7 @@ export const bestPubgVehicles: BlogPost = {
     { id: 'map-specific-oddballs', label: 'Map-specific oddballs', level: 2 },
     { id: 'quick-action-checklist', label: 'Quick Action Checklist', level: 2 },
   ],
-  content: `A vehicle in PUBG: Battlegrounds is not just a taxi. It's mobile cover, a rotation tool that can save you from a bad spot on the map, a way to bait and bodyblock, and — if you pick the wrong one or drive it dumb — a loud, explosive coffin that announces your position to the whole lobby before it kills you. Treating every vehicle as "the thing that gets me to the circle" is how you end up flipping a Buggy on a hill or getting your whole squad blown up in a UAZ.
+  content: `A vehicle in PUBG: Battlegrounds is not just a taxi. It's mobile cover, a rotation tool that can save you from a bad spot on the map, a way to [bait and bodyblock](/blog/pubg-battlegrounds/pubg-vehicle-combat-guide), and — if you pick the wrong one or drive it dumb — a loud, explosive coffin that announces your position to the whole lobby before it kills you. Treating every vehicle as "the thing that gets me to the circle" is how you end up flipping a Buggy on a hill or getting your whole squad blown up in a UAZ.
 
 So here's every PUBG vehicle ranked by the three things that actually decide whether it's worth jumping in: **how fast it is, how much punishment it soaks, and how useful it is for the job you need a vehicle for** — which is almost always rotating into the circle alive. A few notes up front: PUBG splits its vehicles across maps, so the "best" one available to you depends on where you landed, and the studio tunes vehicle stats over time, so treat the exact numbers as ballpark and the *relative* rankings as the durable part.
 
@@ -108,7 +108,7 @@ When you need raw pace — outrunning the blue solo, or a fast point-A-to-B dash
 
 ![The Coupe RB, PUBG's vintage two-seat sportscar and the fastest four-wheeled vehicle in the game, exclusive to Miramar.](/images/blog/pubg-battlegrounds/best-pubg-vehicles/coupe-rb.webp)
 
-**Coupe RB — the fastest car in the game.** The Coupe RB is a vintage two-seat sportscar and the **fastest four-wheeled vehicle in PUBG**, edged out for outright top speed only by the motorcycle. It's a Miramar-exclusive, which fits — the open desert is exactly where you want to cover huge distances fast. The catch is in the name: two seats, low-slung handling that hates rough ground, and not much protection. As a solo or duo speed machine on Miramar, it's spectacular. For a full squad on broken terrain, it's the wrong tool.
+**Coupe RB — the fastest car in the game.** The Coupe RB is a vintage two-seat sportscar and the **fastest four-wheeled vehicle in PUBG**, edged out for outright top speed only by the motorcycle. It's a [Miramar](/blog/pubg-battlegrounds/pubg-miramar-map-guide)-exclusive, which fits — the open desert is exactly where you want to cover huge distances fast. The catch is in the name: two seats, low-slung handling that hates rough ground, and not much protection. As a solo or duo speed machine on Miramar, it's spectacular. For a full squad on broken terrain, it's the wrong tool.
 
 **Motorcycle — fastest on the map, made of paper.** The two-seat motorcycle is the **fastest vehicle in the game**, full stop, and the version with a sidecar adds a third seat and a passenger who can shoot. It's a blast and unbeatable for closing distance in a hurry. It's also wildly exposed — no cover, you go flying off it if you clip terrain, and it dies fast under fire. Brilliant for an aggressive solo or a duo that knows the risk; a liability if you're trying to play safe. The dirt bike is the off-road cousin: similar fragility, better on rough ground.
 
@@ -125,7 +125,7 @@ Not bad, just outclassed. You take these when they're what's in front of you.
 
 ## Boats and water vehicles
 
-On the water maps (Erangel, Miramar, Sanhok and others with big water), boats matter more than people give them credit for — water is often the safest, least-watched rotation lane.
+On the water maps (Erangel, Miramar, Sanhok and others with big water), boats matter more than people give them credit for — [water is often the safest, least-watched rotation lane](/blog/pubg-battlegrounds/pubg-water-play-guide).
 
 - **PG-117 — the durable speedboat.** A four-seat speedboat with thick, tough material and a boost. It's the squad water vehicle: it carries the whole team, takes a beating, and the boost gives it real pace across water. The trade-off is it's less nimble than the jet ski. For moving a squad across water, it's the pick.
 - **Aquarail — the jet ski.** A two-seat personal watercraft that's significantly more maneuverable than the PG-117 and a touch quicker with boost, but far flimsier. Great for a solo or duo zipping across water; bad if you need to carry four or expect to take fire.
@@ -136,7 +136,7 @@ Water rotations are underused. If the circle's pulling toward or across water an
 
 PUBG locks several vehicles to particular maps, and a few are worth knowing:
 
-- **Snowmobile — Vikendi only.** The two-seat snowmobile is the snow-map special: nimble and fun on Vikendi's terrain, exposed like the other open vehicles.
+- **Snowmobile — Vikendi only.** The two-seat snowmobile is the snow-map special: nimble and fun on [Vikendi](/blog/pubg-battlegrounds/pubg-vikendi-map-guide)'s terrain, exposed like the other open vehicles.
 - **Motor Glider — the flying one.** A two-seat powered glider that actually flies, available on some maps. It's a niche, high-skill rotation and scouting tool — incredible for repositioning over terrain, very loud and very visible, and it'll get you shot out of the sky if you fly over the wrong people.
 - **Coupe RB and Mirado — Miramar.** Covered above; both lean into the desert map's wide-open distances.
 - **Tukshai, Zima, and other regional vehicles** show up on specific maps as flavor transport — fine to use, nothing that changes a ranking.

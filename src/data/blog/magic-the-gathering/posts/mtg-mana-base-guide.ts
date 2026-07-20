@@ -86,7 +86,7 @@ The rough breakdown for 60-card decks:
 | Control (top end 5-7 mana) | 25-27 | You must hit every land drop to cast your expensive spells |
 | Ramp / big mana | 24-26 + ramp | Lands plus mana rocks/dorks to power out the top end |
 
-The single most useful rule of thumb: count your **mana sources**, not just lands. A deck with 23 lands plus four cheap mana rocks effectively has 27 sources. If you cut lands for ramp, you have to actually count the ramp — most flooding-and-screwing problems come from people who cut lands for spells and never added sources back.
+The single most useful rule of thumb: count your **mana sources**, not just lands. A deck with 23 lands plus four cheap [mana rocks](/blog/magic-the-gathering/best-mana-rocks-commander-mtg) effectively has 27 sources. If you cut lands for ramp, you have to actually count the ramp — most flooding-and-screwing problems come from people who cut lands for spells and never added sources back.
 
 ## Counting color requirements: pips, not cards
 
@@ -160,12 +160,12 @@ If you are building Commander specifically, we go deep on the staples, the budge
 
 The patterns that quietly cost the most games:
 
-- **Eyeballing the land count.** "Twenty-two feels right" is how you lose to mana screw. Count your curve and your sources.
+- **Eyeballing the land count.** "Twenty-two feels right" is how you lose to mana screw. Count your [curve and your land-to-spell ratios](/blog/magic-the-gathering/mtg-deckbuilding-ratios), and your sources.
 - **Splitting lands by card count instead of pips.** You do not need equal white and blue lands because you have equal white and blue cards — you need them weighted to wherever the early double pips are.
 - **Splashing a double-pip card.** A {B}{B} two-drop is not a splash. Either commit real sources to black or cut the card.
 - **Running fetchlands with nothing to fetch.** A fetch in an all-basics deck is a worse basic that costs a life. Run the duals first.
 - **Too many tapped lands in a fast deck.** Three tapped lands in your opener means you are a full turn behind. Aggro and tempo decks want untapped sources; pay the life or the 2-or-fewer-lands condition instead.
-- **Cutting lands for spells without adding ramp.** If you drop from 24 lands to 22 to fit two more spells, you just made the deck worse unless you added mana sources back.
+- **Cutting lands for spells without adding [ramp](/blog/magic-the-gathering/best-ramp-spells-commander-mtg).** If you drop from 24 lands to 22 to fit two more spells, you just made the deck worse unless you added mana sources back.
 - **Ignoring the legend rule on your fixers.** In Commander you cannot run two Command Towers — singleton fixing means redundancy comes from *different* good lands, not copies.
 
 ## Quick Action Checklist

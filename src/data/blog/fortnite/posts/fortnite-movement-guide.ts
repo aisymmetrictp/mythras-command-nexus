@@ -65,7 +65,7 @@ Fortnite's movement toolkit is bigger than "hold W." There's tactical sprint, ma
 
 ![A Fortnite player sprinting through a window — good movement decides who arrives at the fight with the advantage.](/images/blog/fortnite/fortnite-movement-guide/tactical-sprint.webp)
 
-Here's the thing most players miss: a fight is usually decided by positioning *before* the first shot, and positioning is movement. The player who reaches cover first, takes the high ground, or closes the gap on their terms starts the fight ahead. Aim only resolves the fight — movement sets it up.
+Here's the thing most players miss: a fight is usually decided by positioning *before* the first shot, and positioning is movement. The player who reaches cover first, takes the high ground, or closes the gap on their terms starts the fight ahead. [Aim](/blog/fortnite/fortnite-aim-training-guide) only resolves the fight — movement sets it up.
 
 Movement does three jobs that win games:
 
@@ -96,7 +96,7 @@ Mantling and hurdling are how you stop letting terrain slow you down. **Mantling
 Why they matter more than they look:
 
 - **They keep your momentum.** Running up to a fence and stopping is dead time you're exposed for. Hurdling straight over it keeps your speed and your unpredictability — you're already moving when you land.
-- **They open routes opponents don't expect.** Mantling onto a roof or through a high window gets you to angles and high ground that a player stuck on the ground can't quickly reach. Surprise height wins fights.
+- **They open routes opponents don't expect.** Mantling onto a roof or through a high window gets you to angles and [high ground](/blog/fortnite/fortnite-high-ground-retake-guide) that a player stuck on the ground can't quickly reach. Surprise height wins fights.
 - **They beat the long way around.** Why run around a building when you can vault through it? Cutting corners with hurdles and mantles is free distance on every rotation, and distance is time you're not in the open.
 
 The habit to build: stop seeing low obstacles as walls and start seeing them as things you flow over. When you're rotating or pushing, look for the vault and the climb instead of the detour — you'll arrive faster and from an angle they weren't watching.

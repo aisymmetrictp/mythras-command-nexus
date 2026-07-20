@@ -93,7 +93,7 @@ Step on a vibration near a city shrieker and your warning level ticks up. Hit **
 
 ## The Warden, the one mob you're not meant to fight
 
-The Warden has **500 health (250 hearts)** — more than the Ender Dragon and the Wither. It is completely blind. It does not spawn from light level or darkness like normal mobs; it only appears when a natural sculk shrieker reaches warning level 4, or when you stand still too long near active shriekers. It is not a boss you go looking for. It is a punishment for being loud.
+The Warden has **500 health (250 hearts)** — more than the [Ender Dragon](/blog/minecraft/how-to-beat-the-ender-dragon) and the [Wither](/blog/minecraft/how-to-beat-the-wither). It is completely blind. It does not spawn from light level or darkness like normal mobs; it only appears when a natural sculk shrieker reaches warning level 4, or when you stand still too long near active shriekers. It is not a boss you go looking for. It is a punishment for being loud.
 
 When it spawns it starts at a low anger level and gives you a brief window. If it cannot find anything to be angry at — no vibrations, no smells — for **60 seconds**, it burrows back into the ground and despawns. That window is your escape route, and most successful city runs end with the player hiding behind wool while the Warden gives up and digs itself back under.
 
@@ -142,7 +142,7 @@ The center platform sits over a basement with hidden piston doors wired to sculk
 The realistic, no-death plan looks like this:
 
 1. **Bring the right kit, not just good armor.** Pack **wool** (a full stack), a Silk Touch tool, food, milk to clear Darkness later, and ideally a pair of leggings with **Swift Sneak** if you already have one from a previous run. Splash water bottles or snowballs to throw as decoy vibrations are a nice extra.
-2. **Light the place up carefully.** You can place torches, but breaking and placing blocks both make vibrations — do it slowly and watch for shriekers nearby. Many players bring soul torches or just rely on Night Vision potions to avoid the noise.
+2. **Light the place up carefully.** You can place torches, but breaking and placing blocks both make vibrations — do it slowly and watch for shriekers nearby. Many players bring soul torches or just rely on [Night Vision potions](/blog/minecraft/minecraft-potion-brewing-guide) to avoid the noise.
 3. **Sneak everywhere.** Hold crouch the entire time you are in the city. A sneaking, moving player produces *no* vibration the sensors can read. Without Swift Sneak this is painfully slow; with it, it is the whole reason the enchantment exists.
 4. **Wool over shriekers and sensors.** Drop a wool block directly on or next to a shrieker/sensor to muffle the vibration it would otherwise hear. Wool is the Deep Dark's silk-touch-for-sound. Covering the sensors near a chest cluster lets you open chests safely.
 5. **Open chests in sneak, near muffled sensors.** Opening a chest is a vibration. If the nearby sensors are wooled or you are far enough away, it will not register.

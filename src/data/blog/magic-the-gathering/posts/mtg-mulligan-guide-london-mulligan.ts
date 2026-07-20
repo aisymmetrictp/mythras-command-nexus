@@ -80,7 +80,7 @@ The key insight: you always look at seven fresh cards, every single time. The ol
 
 > The London mulligan rewards aggression. Because you see a full seven every time and only pay the cost when you keep, mulliganing a bad hand to six is much cheaper than it used to be. Ship marginal hands more often than your gut tells you to.
 
-This matters most for combo and aggressive decks that need specific cards. They can dig hard for their key piece, see seven cards twice, and only lose one card off a six-card keep. The system is built to let consistent decks find their gameplan.
+This matters most for [combo and aggressive decks](/blog/magic-the-gathering/mtg-deck-archetypes-explained) that need specific cards. They can dig hard for their key piece, see seven cards twice, and only lose one card off a six-card keep. The system is built to let consistent decks find their gameplan.
 
 ## The only question that matters
 
@@ -114,9 +114,9 @@ For a normal 60-card deck running ~17 lands, the rough math:
 
 Two-land hands are the entire skill of mulliganing. A two-land hand is keepable when your spells cost one and two mana and you have a cantrip or a turn-three play that lets you keep developing. A two-land hand is a ship when your spells cost three-plus and you have no way to find land four. The difference is whether the hand functions if you never draw another land for two turns.
 
-Mana dorks count as half a land. Llanowar Elves, Birds of Paradise, and Sylvan Caryatid all turn a marginal land count into a keepable one, because they ramp you to your spells and fix colors. A "two-land" hand with a turn-one Llanowar Elves is really a two-and-a-half-land hand — keep it.
+[Mana dorks](/blog/magic-the-gathering/best-mana-dorks-mtg) count as half a land. Llanowar Elves, Birds of Paradise, and Sylvan Caryatid all turn a marginal land count into a keepable one, because they ramp you to your spells and fix colors. A "two-land" hand with a turn-one Llanowar Elves is really a two-and-a-half-land hand — keep it.
 
-The same logic runs in reverse for cheap card selection. A hand with two lands and a Ponder, Serum Visions, or Brainstorm is far more keepable than one without, because the cantrip digs you toward your third land. Card selection turns shaky keeps into solid ones.
+The same logic runs in reverse for [cheap card selection](/blog/magic-the-gathering/best-mtg-cantrips). A hand with two lands and a Ponder, Serum Visions, or Brainstorm is far more keepable than one without, because the cantrip digs you toward your third land. Card selection turns shaky keeps into solid ones.
 
 ## Hands you keep
 

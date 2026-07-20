@@ -130,7 +130,7 @@ Four damage per round at 800 RPM means the MP7 empties a 45-round magazine in a 
 
 A Franchi SPAS-12, first found in Ravenholm in Chapter 6. Primary fire delivers seven pellets for 56 damage. Secondary fire is a double blast that lands 84 damage at the cost of a longer recovery.
 
-The timing of when you get it matters enormously. You do not have a shotgun for the first five chapters, which is exactly why Ravenholm's early stretch is meant to be solved with the gravity gun. Once you have it, the SPAS-12 becomes your default close-range weapon for the remainder of the campaign.
+The timing of when you get it matters enormously. You do not have a shotgun for the first five chapters, which is exactly why [Ravenholm's early stretch](/blog/half-life-2/half-life-2-beginner-guide) is meant to be solved with the gravity gun. Once you have it, the SPAS-12 becomes your default close-range weapon for the remainder of the campaign.
 
 Discipline note on secondary fire: 84 versus 56 damage is a 50% increase, but the recovery leaves you exposed. Use the double blast on something you are confident it kills, like a fast zombie or a soldier already damaged. Against a group, single blasts and footwork beat greedy doubles.
 
@@ -150,7 +150,7 @@ The mistake nearly everyone makes here is **hoarding**. Players save .357 rounds
 
 The OSIPR is the Combine's standard-issue assault rifle, and it is the best conventional weapon in the game on both modes.
 
-Primary fire does 8 damage at 600 RPM. That is double the SMG's per-bullet damage at a lower fire rate, with far better handling. Once you can reliably find pulse ammo, which happens from the Nova Prospekt chapters onward, the pulse rifle should displace the MP7 as your automatic weapon permanently.
+Primary fire does 8 damage at 600 RPM. That is double the SMG's per-bullet damage at a lower fire rate, with far better handling. Once you can reliably find pulse ammo, which happens from [the Nova Prospekt chapters](/blog/half-life-2/half-life-2-beginner-guide) onward, the pulse rifle should displace the MP7 as your automatic weapon permanently.
 
 Secondary fire is the real prize. The **energy ball** deals **1000 damage** and is instant death to any human-sized enemy. It ricochets off surfaces, so it can clear a corridor or bounce around a corner into a group. You carry only **three** at a time, they fire at 60 RPM, and spent balls can sometimes be recovered from the environment where they come to rest.
 
@@ -194,9 +194,9 @@ The Zero Point Energy Field Manipulator has no fixed damage value, because its d
 
 Where it lands on a weapons list: **heavy props like metal barrels and propane tanks can kill an Overwatch soldier in a single hit.** That is better than any conventional weapon in the game except an energy ball or a crossbow bolt, and unlike those it costs you nothing. Light props like plastic crates and wooden pallets do almost no damage, so the skill is prop selection.
 
-It cannot affect most organic matter, though three primary-fire punts will kill any headcrab, and antlions flip onto their vulnerable undersides when hit. From Chapter 12 onward the supercharged version can punt Overwatch soldiers directly for an instant kill.
+It cannot affect most organic matter, though three primary-fire punts will kill any headcrab, and antlions flip onto their vulnerable undersides when hit. From Chapter 12 onward [the supercharged version](/blog/half-life-2/half-life-2-gravity-gun-guide) can punt Overwatch soldiers directly for an instant kill.
 
-For a full breakdown of its interactions, including the manhack chainsaw trick and hopper mine harvesting, see the dedicated gravity gun guide.
+For a full breakdown of its interactions, including the manhack chainsaw trick and hopper mine harvesting, see [the dedicated gravity gun guide](/blog/half-life-2/half-life-2-gravity-gun-guide).
 
 ## The practical loadout ranking
 

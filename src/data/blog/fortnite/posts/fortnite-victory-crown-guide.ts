@@ -121,10 +121,10 @@ None of this is a reason to avoid crowns — it's a reason to **change how you p
 Keeping a crown means winning (or placing high) *again* with the disadvantage of being a marked target. The adjustments that actually work:
 
 - **Play quieter and more passive than usual.** The crown is not the match to practice aggressive pushes. Take the fights you have to take, skip the ones you don't, and let other players burn each other down while you position. You don't lose the crown for getting fewer kills — you lose it for dying.
-- **Land smarter, not hotter.** A contested drop is a coin-flip on a normal game and a bad bet with a crown on. Favor a quieter landing where you can gear up uncontested, then rotate in with a full loadout instead of fighting from empty.
+- **Land smarter, not hotter.** A contested drop is a coin-flip on a normal game and a bad bet with a crown on. Favor a [quieter landing](/blog/fortnite/best-fortnite-landing-spots) where you can gear up uncontested, then rotate in with a full loadout instead of fighting from empty.
 - **Use cover and avoid the open.** Because everyone's looking for you, open-ground crossings are where crowned players die. Move cover-to-cover, respect rotations early, and don't be the silhouette on the hilltop. This is doubly true in Zero Build, where you can't wall up — our [Zero Build guide](/blog/fortnite/fortnite-zero-build-guide) covers reading cover, which is the exact skill a crowned no-build player lives on.
 - **Win the placement game.** Since high placement keeps a crown alive even without the win, surviving deep is itself a successful crown defense. Prioritize being alive in the final circles over topping the kill feed. The same endgame discipline that earns crowns is what keeps them.
-- **Heal and rotate proactively.** A marked player can't afford to be caught low or out of position, because the punishment for it is doubled. Stay topped up, move with the zone early, and never get caught mid-rotation in the open.
+- **Heal and rotate proactively.** A marked player can't afford to be caught low or out of position, because the punishment for it is doubled. Stay topped up, [move with the zone early](/blog/fortnite/fortnite-rotation-guide), and never get caught mid-rotation in the open.
 
 The mindset shift that matters: **a crown turns Fortnite from a kill game into a survival game.** Players who keep crowns for long streaks are almost never the most aggressive ones — they're the disciplined ones who treat the crown as a reason to play tighter, not flashier.
 

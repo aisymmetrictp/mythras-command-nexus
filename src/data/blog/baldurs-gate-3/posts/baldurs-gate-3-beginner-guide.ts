@@ -85,7 +85,7 @@ Backgrounds are lighter than they look. They grant **two skill proficiencies** a
 
 ![Shadowheart, one of the earliest companions you can recruit in Baldur's Gate 3.](/images/blog/baldurs-gate-3/baldurs-gate-3-beginner-guide/shadowheart.webp)
 
-One structural fact that should shape every decision: **the level cap is 12.** Not 20. You have twelve levels across a roughly hundred-hour campaign, which means every single level-up is a meaningful percentage of your total build. It also means the classic tabletop advice about "it comes online at level 14" is worthless here. If a class feature arrives after level 12, it does not exist.
+One structural fact that should shape every decision: [**the level cap is 12.**](/blog/baldurs-gate-3/baldurs-gate-3-multiclassing-guide) Not 20. You have twelve levels across a roughly hundred-hour campaign, which means every single level-up is a meaningful percentage of your total build. It also means the classic tabletop advice about "it comes online at level 14" is worthless here. If a class feature arrives after level 12, it does not exist.
 
 ## The four systems that decide every fight
 
@@ -124,7 +124,7 @@ Your active party is capped at **four**, and every companion you have recruited 
 Treat the slot allocation as coverage, not affection. Across four characters you want, at minimum:
 
 - **A frontline body** in heavy armour with high HP to absorb hits and hold a chokepoint.
-- **A healer with utility** — in practice a Cleric or Druid, so you can revive a downed ally without burning a Scroll of Revivify.
+- **A healer with utility** — in practice [a Cleric or Druid](/blog/baldurs-gate-3/best-baldurs-gate-3-classes-for-beginners), so you can revive a downed ally without burning a Scroll of Revivify.
 - **A skill monkey** with high Dexterity and proficiency in Sleight of Hand and Perception. Failing a lockpick is annoying. Failing to spot a trap in Act 2 is a party wipe.
 - **A face.** Charisma checks gate an enormous amount of content, and the character who speaks is your protagonist. A main character with Charisma 8 is locked out of the game's best outcomes.
 

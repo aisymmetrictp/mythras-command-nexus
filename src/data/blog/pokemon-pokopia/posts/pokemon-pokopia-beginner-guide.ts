@@ -66,7 +66,7 @@ export const pokemonPokopiaBeginnerGuide: BlogPost = {
   ],
   content: `The single most expensive mistake in Pokopia is building something gorgeous in the first ten hours. Not because the game penalizes creativity, but because you unlock Strength from Machoke in Rocky Ridges, which lets you push large boulders and blocks around, and you unlock Rollout from Graveler in the same region, which chews through terrain far faster than Rock Smash does. Anything you carefully terraformed by hand before those two skills existed is going to look like it took four times the effort it needed to, and half of it you will want to move anyway.
 
-So the early game is not really about making a nice island. It is about acquiring verbs. Every skill Ditto learns is a new way to edit the world, and the players who front-load skill acquisition end up with better towns in less time than the players who start decorating on day one.
+So the early game is not really about making a nice island. It is about acquiring verbs. [Every skill Ditto learns](/blog/pokemon-pokopia/pokemon-pokopia-ditto-transformations-guide) is a new way to edit the world, and the players who front-load skill acquisition end up with better towns in less time than the players who start decorating on day one.
 
 Pokopia released March 5, 2026 as a Nintendo Switch 2 exclusive, and it landed harder than a Pokemon spin-off has any right to: 2.2 million units in its first four days and an 89 on Metacritic, making it the highest-rated Pokemon game on the site. That reception makes sense once you play it, because underneath the pastel life-sim surface it is a genuinely deep building game. This guide covers the order of operations that gets you to the good part fastest.
 
@@ -103,7 +103,7 @@ Two things matter:
 
 There is also a pacing trick worth internalizing: alternate heavy-cost moves with cheap ones. Rock Smash and Rollout drain the bar quickly; Water Gun and Leafage are light. Interleaving them stretches a session considerably compared to spamming one expensive move until you are empty.
 
-Food does double duty, too, because certain dishes permanently upgrade specific moves. Soup extends Water Gun's range. Salad expands Leafage so it can create duckweed on water and pull moss. Bread lets Cut work at range and through metal. Hamburger Steak hardens Rock Smash so it breaks tougher materials. These are not consumable buffs you have to re-apply — they are unlocks, and they are easy to miss entirely if you treat cooking as flavor text.
+Food does double duty, too, because certain dishes [permanently upgrade specific moves](/blog/pokemon-pokopia/pokemon-pokopia-ditto-transformations-guide). Soup extends Water Gun's range. Salad expands Leafage so it can create duckweed on water and pull moss. Bread lets Cut work at range and through metal. Hamburger Steak hardens Rock Smash so it breaks tougher materials. These are not consumable buffs you have to re-apply — they are unlocks, and they are easy to miss entirely if you treat cooking as flavor text.
 
 ## Fix your bag before you fix your island
 
@@ -141,7 +141,7 @@ Pokopia runs on your Switch 2 system clock, so it has real daily content. Five m
 - **Check the Pokemon Center PC** for daily challenges, the shop, and stamps. Challenges pay Life Coins.
 - **Visit a Dream Island.** Unlocked after befriending Drifloon, these are resource runs that do not alter your town terrain, which makes them the safe way to farm. You can only visit one type per day, so do it every day.
 - **Play on Sunday if you can.** Shiny spots — the sparkles in water and on flowers — appear noticeably more often on Sundays. Sunday is your Honey and recipe stockpiling day.
-- **Ask residents about their comfort level** and act on one of them.
+- **Ask residents about their [comfort level](/blog/pokemon-pokopia/pokemon-pokopia-habitat-comfort-guide)** and act on one of them.
 
 ## Early mistakes that cost you a rebuild
 

@@ -57,7 +57,7 @@ export const bestFortniteKeybinds: BlogPost = {
     { id: 'how-to-rebind-without-tanking-your-muscle-memory', label: 'How to rebind without tanking your muscle memory', level: 2 },
     { id: 'quick-action-checklist', label: 'Quick Action Checklist', level: 2 },
   ],
-  content: `Watch a clip of yourself building and pause the moment you fumble. Nine times out of ten it isn't your hands being slow — it's that the piece you wanted lives on a key your fingers had to leave WASD to reach, or that you tapped the build button twice trying to find the cone. Building in Fortnite is a sequence of fast, dedicated inputs, and the layout those inputs sit on is the single biggest thing capping your speed before your mechanics even enter the picture.
+  content: `Watch a clip of yourself building and pause the moment you fumble. Nine times out of ten it isn't your hands being slow — it's that the piece you wanted lives on a key your fingers had to leave WASD to reach, or that you tapped the build button twice trying to find the cone. [Building in Fortnite](/blog/fortnite/fortnite-building-basics) is a sequence of fast, dedicated inputs, and the layout those inputs sit on is the single biggest thing capping your speed before your mechanics even enter the picture.
 
 This is a keybind guide, not a "copy my pro's config" guide. The default binds work, but they scatter your build pieces across keys that pull your hand off movement, which is why almost everyone who gets serious rebinds them. Below is a clean, fast PC layout for wall, ramp, floor, cone, edit, and reset, the real reasoning behind each one, and the best controller approach — Builder Pro versus a custom layout — so you can pick the setup that fits your hands. None of this is season-dependent; these binds have done the same job for years.
 
@@ -113,7 +113,7 @@ Editing is where slow binds get punished hardest, because an edit is three actio
 - **Edit confirm.** Most players leave **confirm on left click** because your finger is already there, which makes the open-select-confirm motion one fluid action. That pairs directly with edit-on-release timing (covered in our editing guide).
 - **Reset edit.** You need a fast way to discard a half-made edit or snap a piece back to whole. Many players use the **same input to reset**, which is what "reset-on-key" formalizes — more on that next.
 
-The thing to avoid is putting edit on a key that shares a finger with wall or ramp. If your edit key and your most-used build piece fight over the same finger, you'll be late on one of them in every box fight. Keep them on separate fingers and the whole edit chain smooths out. Our [Fortnite editing guide](/blog/fortnite/fortnite-editing-guide) covers the edit-on-release technique these binds are built to serve.
+The thing to avoid is putting edit on a key that shares a finger with wall or ramp. If your edit key and your most-used build piece fight over the same finger, you'll be late on one of them in every [box fight](/blog/fortnite/fortnite-box-fighting-guide). Keep them on separate fingers and the whole edit chain smooths out. Our [Fortnite editing guide](/blog/fortnite/fortnite-editing-guide) covers the edit-on-release technique these binds are built to serve.
 
 ## Best controller binds Builder Pro vs custom
 
@@ -123,7 +123,7 @@ How Builder Pro works and why it wins:
 
 - **Each piece on its own input.** Wall, ramp, floor, and cone each get a dedicated button/bumper/trigger in Build mode, so there's no piece-cycling — the same one-input-per-piece rule that makes PC layouts fast.
 - **Fast piece swaps.** Because the pieces don't share a button, you can throw a wall then immediately a ramp without a menu in between, which is the whole point of building quickly.
-- **It's the standard for a reason.** Nearly every serious controller player runs Builder Pro or a lightly-tweaked version of it. If you're on controller and still using the combat-first default in Build mode, switching to Builder Pro is the single biggest building upgrade available to you.
+- **It's the standard for a reason.** Nearly every serious [controller player](/blog/fortnite/fortnite-controller-settings) runs Builder Pro or a lightly-tweaked version of it. If you're on controller and still using the combat-first default in Build mode, switching to Builder Pro is the single biggest building upgrade available to you.
 
 When a **custom layout** makes sense: if you use a controller with back paddles or extra buttons (a "pro" controller), you can move build pieces or edit onto paddles so your thumbs never leave the sticks — meaning you can build *and* keep aiming/moving at the same time, which a standard pad can't do cleanly. That's the one situation where rolling your own beats stock Builder Pro: extra inputs let you keep both thumbs on the sticks. On a standard controller, Builder Pro as-is is the right answer for nearly everyone.
 

@@ -81,7 +81,7 @@ We are deliberately not ranking cards 1-50. Tier lists in a color this deep are 
 
 ## Best removal in white
 
-White removal is the cleanest in the game. Other colors deal damage, force sacrifices, or lock permanents under enchantments that can be answered. White just exiles things. No regrowth, no Reanimate, no graveyard recursion shenanigans.
+[White removal](/blog/magic-the-gathering/best-removal-spells-mtg) is the cleanest in the game. Other colors deal damage, force sacrifices, or lock permanents under enchantments that can be answered. White just exiles things. No regrowth, no Reanimate, no graveyard recursion shenanigans.
 
 ![Swords to Plowshares, the one-mana white instant that exiles any creature, the benchmark removal spell in Magic.](/images/blog/magic-the-gathering/best-white-cards-magic-the-gathering/swords-to-plowshares.jpg)
 
@@ -99,7 +99,7 @@ Swords to Plowshares is the floor and the ceiling. If a white deck cannot fit on
 
 Generous Gift deserves more praise than it gets. White historically could not touch lands, planeswalkers, or enchantments at instant speed. Generous Gift hits all three for three mana, and the 3/3 token "drawback" is irrelevant in 90% of games. You played Generous Gift because they had a Cyclonic Rift on the stack or a game-winning planeswalker ult queued up. A 3/3 elephant is a fair trade.
 
-Farewell is the headline card and the reason white now actually scares the table. Six mana for "exile any combination of artifacts, creatures, enchantments, and graveyards" reads like a Commander deck checklist. Cast it modally — usually you only need three of the four modes — and you turn off most win conditions in the format simultaneously. Reanimator decks hate it. Token decks hate it. Storm decks hate it. Everyone hates it. That is exactly what you want from a top-shelf board wipe.
+Farewell is the headline card and the reason white now actually scares the table. Six mana for "exile any combination of artifacts, creatures, enchantments, and graveyards" reads like a Commander deck checklist. Cast it modally — usually you only need three of the four modes — and you turn off most win conditions in the format simultaneously. Reanimator decks hate it. Token decks hate it. Storm decks hate it. Everyone hates it. That is exactly what you want from a top-shelf [board wipe](/blog/magic-the-gathering/best-board-wipes-mtg).
 
 > Farewell's exile-the-graveyards mode is the silent killer. Most decks in 2026 have at least one graveyard win condition lurking in the 99 — Underworld Breach in blue/red, Reanimate in black, Splinter Twin recursion in red. Farewell hits all of them at once for one extra mana over a normal wipe.
 
@@ -131,7 +131,7 @@ Sun Titan is the value-engine creature. Six mana for a 6/6 vigilance that recurs
 White's creature suite is deeper than the color's reputation suggests. The trick is that white creatures get their value from the board, not from card-draw triggers like blue creatures or sacrifice payoffs like black creatures. You build a white board state and the creatures pay you in damage and disruption.
 
 - **Serra Ascendant.** One mana, 1/1 lifelink. Becomes a 6/6 flying lifelink at 30 life. In Commander you start at 40. Translation: turn-one 6/6 flying lifelink if it survives. The card has been at the top of mono-white aggro shells for over a decade and remains there.
-- **Anointed Procession.** Four mana, doubles tokens. The white half of the Doubling Season family. Every token your deck produces — soldiers, angels, treasures, clues, food, blood — comes in doubled. If you are running any token producer at all, Procession is the multiplier.
+- **Anointed Procession.** Four mana, [doubles tokens](/blog/magic-the-gathering/best-mtg-token-doublers). The white half of the Doubling Season family. Every token your deck produces — soldiers, angels, treasures, clues, food, blood — comes in doubled. If you are running any token producer at all, Procession is the multiplier.
 - **Sun Titan.** Already covered above, but it lives in this bucket too. Most white midrange decks treat Sun Titan as the primary value engine post-board-wipe.
 - **Linvala, Keeper of Silence.** Silver bullet against any deck whose creatures have activated abilities. cEDH staple, casually punishing.
 - **Karmic Guide.** Reanimate-a-creature on a flying 2/2 protection-from-black. The backbone of every Karmic Guide / Reveillark loop and a clean value play even outside the combo.

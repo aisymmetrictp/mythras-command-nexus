@@ -59,7 +59,7 @@ export const bestCounterspellsMtg: BlogPost = {
   ],
   content: `The best counterspell is the one that's still in your hand when the opponent tries to win. Everything else — mana cost, restrictions, the cute card-advantage rider — is downstream of that. A counter you can't afford to hold up is a dead card, and a counter that's too restrictive to stop the thing that beats you is worse than no counter at all.
 
-So ranking counterspells "best to worst" in a vacuum is a fool's errand, because the right counter depends entirely on the format you're playing. Counterspell is unbeatable in Commander and merely fine in Legacy. Daze is a Legacy all-star and unplayable in Commander. What follows is a ranked list with that context baked in: what each counter does, where it shines, and when a hard counter beats a soft one. Every card here has been legality-checked, and I'll flag the format restrictions that actually matter.
+So ranking counterspells "best to worst" in a vacuum is a fool's errand, because the right counter depends entirely on the format you're playing. Counterspell is unbeatable in [Commander](/blog/magic-the-gathering/mtg-commander-format-guide-how-to-start) and merely fine in Legacy. Daze is a Legacy all-star and unplayable in Commander. What follows is a ranked list with that context baked in: what each counter does, where it shines, and when a hard counter beats a soft one. Every card here has been legality-checked, and I'll flag the format restrictions that actually matter.
 
 ## What makes a counterspell good
 
@@ -97,7 +97,7 @@ Ranked on overall power across the formats where they're legal, with context. Th
 6. **Archmage's Charm** — UUU. Counter a spell, OR draw two, OR steal a small permanent. Three blue pips is demanding, but "counter their spell or refill my hand" is exactly what a control deck wants. A Modern and Commander workhorse.
 7. **Mystic Confluence** — 3UU. Modal times three: counter, bounce, or draw, choosing three modes (you can repeat them). Five mana is a lot, but countering one spell while drawing two cards is a blowout. A premium Commander card.
 8. **An Offer You Can't Refuse** — U. Counter target noncreature spell; its controller gets two Treasures. The best one-mana counter printed in years for spell-heavy formats. The Treasures rarely matter when you're countering the spell that ends the game.
-9. **Swan Song** — U. Counter target instant, sorcery, or enchantment; opponent gets a 2/2 Bird. One mana, dodges nothing relevant in most spots, and the Bird is trivial. A Commander and cEDH staple for protecting your own combo.
+9. **Swan Song** — U. Counter target instant, sorcery, or enchantment; opponent gets a 2/2 Bird. One mana, dodges nothing relevant in most spots, and the Bird is trivial. A Commander and cEDH staple for protecting your own [combo](/blog/magic-the-gathering/best-commander-combos-mtg).
 10. **Dovin's Veto** — WU. Counter target noncreature spell; it can't be countered. Two mana, no rider, but uncounterable means it's the cleanest answer in Azorius (white-blue) decks across every format it's legal in.
 
 Past the top ten, the cheap conditional counters — Mana Leak, Negate, Spell Pierce, Daze, Dispel, Stubborn Denial — are format specialists rather than universal staples. They get their own sections below.
@@ -118,7 +118,7 @@ The trade-off with every free counter is card disadvantage or a deferred cost. Y
 
 One mana is where tempo lives. These don't stop everything, but they cost so little that the asymmetry is enormous when they connect.
 
-- **Spell Pierce** — U. Counter target noncreature spell unless its controller pays 2. A surgical tempo counter that wrecks planeswalkers, removal, and board wipes on the early turns when nobody has 2 spare mana. Blank against creatures. A Legacy, Modern, and Pioneer staple.
+- **Spell Pierce** — U. Counter target noncreature spell unless its controller pays 2. A surgical tempo counter that wrecks [planeswalkers](/blog/magic-the-gathering/best-planeswalkers-magic-the-gathering), [removal](/blog/magic-the-gathering/best-removal-spells-mtg), and [board wipes](/blog/magic-the-gathering/best-board-wipes-mtg) on the early turns when nobody has 2 spare mana. Blank against creatures. A Legacy, Modern, and Pioneer staple.
 - **An Offer You Can't Refuse** — U. The premium one-mana counter for noncreature spells; covered above. Best in Commander and cEDH where giving up two Treasures rarely changes the outcome.
 - **Swan Song** — U. Hits instants, sorceries, and enchantments. The narrowness is real, but in combo-heavy Commander most of what wins is an instant or sorcery, so Swan Song catches it.
 - **Stubborn Denial** — U. Counter target noncreature spell; if you control a creature with power 4+ (ferocious), counter any spell instead. A cheap, aggressive-deck counter — excellent in tempo shells that already field a big threat.
