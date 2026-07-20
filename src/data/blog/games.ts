@@ -71,6 +71,176 @@ export const GAMES: Game[] = [
     accentColor: '#D4A853',
     active: true,
   },
+  {
+    slug: 'genshin-impact',
+    name: 'Genshin Impact',
+    shortName: 'Genshin',
+    description:
+      'HoYoverse\'s open-world action RPG. Character builds, artifact and weapon guides, team comps, elemental reactions, Spiral Abyss clears, and version update coverage.',
+    icon: '🌀',
+    accentColor: '#D4A853',
+    active: true,
+  },
+  {
+    slug: 'elden-ring',
+    name: 'Elden Ring',
+    shortName: 'Elden Ring',
+    description:
+      'FromSoftware\'s open-world action RPG. Build guides, boss strategies, weapon and spell scaling, Legacy Dungeon routes, and Lands Between exploration.',
+    icon: '🌗',
+    accentColor: '#D4A853',
+    active: true,
+  },
+  {
+    slug: 'baldurs-gate-3',
+    name: 'Baldur\'s Gate 3',
+    shortName: 'BG3',
+    description:
+      'Larian\'s D&D 5e CRPG. Class and subclass builds, companion and origin guides, multiclassing, act-by-act walkthroughs, and Honour Mode strategy.',
+    icon: '🎲',
+    accentColor: '#D4A853',
+    active: true,
+  },
+  {
+    slug: 'counter-strike-2',
+    name: 'Counter-Strike 2',
+    shortName: 'CS2',
+    description:
+      'Valve\'s tactical FPS. Aim and recoil control, utility lineups, map callouts and strategy, economy management, rank climbing, and settings tuning.',
+    icon: '🔫',
+    accentColor: '#D4A853',
+    active: true,
+  },
+  {
+    slug: 'the-witcher-3',
+    name: 'The Witcher 3: Wild Hunt',
+    shortName: 'Witcher 3',
+    description:
+      'CD Projekt Red\'s open-world RPG. Build and sign guides, Witcher gear sets, alchemy, Gwent, quest walkthroughs, and the Hearts of Stone / Blood and Wine expansions.',
+    icon: '🐺',
+    accentColor: '#D4A853',
+    active: true,
+  },
+  {
+    slug: 'zelda-breath-of-the-wild',
+    name: 'The Legend of Zelda: Breath of the Wild',
+    shortName: 'BOTW',
+    description:
+      'Nintendo\'s genre-defining open-world Zelda. Shrine and Divine Beast guides, cooking and armor upgrades, Korok hunting, combat tech, and exploration routes.',
+    icon: '🗡️',
+    accentColor: '#D4A853',
+    active: true,
+  },
+  {
+    slug: 'zelda-ocarina-of-time',
+    name: 'The Legend of Zelda: Ocarina of Time',
+    shortName: 'Ocarina',
+    description:
+      'The N64 classic that defined 3D action-adventure. Dungeon walkthroughs, item and heart-piece locations, boss strategies, and speedrun routing.',
+    icon: '🎶',
+    accentColor: '#D4A853',
+    active: true,
+  },
+  {
+    slug: 'zelda-a-link-to-the-past',
+    name: 'The Legend of Zelda: A Link to the Past',
+    shortName: 'ALttP',
+    description:
+      'The 16-bit action-adventure benchmark. Light and Dark World routing, dungeon order, item and upgrade locations, and randomizer basics.',
+    icon: '🛡️',
+    accentColor: '#D4A853',
+    active: true,
+  },
+  {
+    slug: 'super-mario-64',
+    name: 'Super Mario 64',
+    shortName: 'Mario 64',
+    description:
+      'The blueprint for 3D platforming. Star-by-star guides, movement tech, course routing, secret stars, and the 70-star and 120-star runs.',
+    icon: '⭐',
+    accentColor: '#D4A853',
+    active: true,
+  },
+  {
+    slug: 'half-life-2',
+    name: 'Half-Life 2',
+    shortName: 'HL2',
+    description:
+      'Valve\'s landmark physics-driven shooter. Chapter walkthroughs, gravity gun techniques, combat and puzzle solutions, and the Episodes.',
+    icon: '🦺',
+    accentColor: '#D4A853',
+    active: true,
+  },
+  {
+    slug: 'the-last-of-us',
+    name: 'The Last of Us',
+    shortName: 'TLOU',
+    description:
+      'Naughty Dog\'s narrative survival-action benchmark. Chapter guides, collectible locations, crafting and stealth strategy, and difficulty-mode tips.',
+    icon: '🍄',
+    accentColor: '#D4A853',
+    active: true,
+  },
+  {
+    slug: 'resident-evil-4',
+    name: 'Resident Evil 4',
+    shortName: 'RE4',
+    description:
+      'The over-the-shoulder survival horror landmark. Chapter walkthroughs, weapon and upgrade priorities, boss strategies, merchant requests, and NG+ runs.',
+    icon: '🪚',
+    accentColor: '#D4A853',
+    active: true,
+  },
+  {
+    slug: 'resident-evil-requiem',
+    name: 'Resident Evil Requiem',
+    shortName: 'RE Requiem',
+    description:
+      'The latest mainline Resident Evil survival horror entry. Coverage of its systems, enemies, resource management, and progression.',
+    icon: '🧟',
+    accentColor: '#D4A853',
+    active: true,
+  },
+  {
+    slug: 'tetris',
+    name: 'Tetris',
+    shortName: 'Tetris',
+    description:
+      'The puzzle benchmark. Stacking fundamentals, T-spins and finesse, versus strategy and garbage management, and modern guideline mechanics.',
+    icon: '🧱',
+    accentColor: '#D4A853',
+    active: true,
+  },
+  {
+    slug: 'mina-the-hollower',
+    name: 'Mina the Hollower',
+    shortName: 'Mina',
+    description:
+      'Yacht Club Games\' retro-styled gothic action-adventure. Combat and burrow mechanics, gear and sidearm guides, boss strategies, and exploration.',
+    icon: '🦇',
+    accentColor: '#D4A853',
+    active: true,
+  },
+  {
+    slug: 'pokemon-pokopia',
+    name: 'Pokémon Pokopia',
+    shortName: 'Pokopia',
+    description:
+      'The Pokémon life-sim entry. Building and terraforming, Pokémon residents and their abilities, resource gathering, and island progression.',
+    icon: '🌱',
+    accentColor: '#D4A853',
+    active: true,
+  },
+  {
+    slug: 'crimson-desert',
+    name: 'Crimson Desert',
+    shortName: 'Crimson Desert',
+    description:
+      'Pearl Abyss\' open-world action-adventure. Combat systems and combos, exploration, boss encounters, and progression across Pywel.',
+    icon: '🏜️',
+    accentColor: '#D4A853',
+    active: true,
+  },
 ];
 
 export function getGameBySlug(slug: string): Game | undefined {

@@ -7,6 +7,23 @@ import { ROBLOX_POSTS } from './roblox';
 import { PUBG_POSTS } from './pubg-battlegrounds';
 import { FORTNITE_POSTS } from './fortnite';
 import { MINECRAFT_POSTS } from './minecraft';
+import { GENSHIN_POSTS } from './genshin-impact';
+import { ELDEN_RING_POSTS } from './elden-ring';
+import { BG3_POSTS } from './baldurs-gate-3';
+import { CS2_POSTS } from './counter-strike-2';
+import { WITCHER_3_POSTS } from './the-witcher-3';
+import { BOTW_POSTS } from './zelda-breath-of-the-wild';
+import { OCARINA_POSTS } from './zelda-ocarina-of-time';
+import { ALTTP_POSTS } from './zelda-a-link-to-the-past';
+import { MARIO_64_POSTS } from './super-mario-64';
+import { HALF_LIFE_2_POSTS } from './half-life-2';
+import { LAST_OF_US_POSTS } from './the-last-of-us';
+import { RE4_POSTS } from './resident-evil-4';
+import { RE_REQUIEM_POSTS } from './resident-evil-requiem';
+import { TETRIS_POSTS } from './tetris';
+import { MINA_POSTS } from './mina-the-hollower';
+import { POKOPIA_POSTS } from './pokemon-pokopia';
+import { CRIMSON_DESERT_POSTS } from './crimson-desert';
 
 export const ALL_POSTS: BlogPost[] = [
   ...CRK_POSTS,
@@ -16,6 +33,23 @@ export const ALL_POSTS: BlogPost[] = [
   ...PUBG_POSTS,
   ...FORTNITE_POSTS,
   ...MINECRAFT_POSTS,
+  ...GENSHIN_POSTS,
+  ...ELDEN_RING_POSTS,
+  ...BG3_POSTS,
+  ...CS2_POSTS,
+  ...WITCHER_3_POSTS,
+  ...BOTW_POSTS,
+  ...OCARINA_POSTS,
+  ...ALTTP_POSTS,
+  ...MARIO_64_POSTS,
+  ...HALF_LIFE_2_POSTS,
+  ...LAST_OF_US_POSTS,
+  ...RE4_POSTS,
+  ...RE_REQUIEM_POSTS,
+  ...TETRIS_POSTS,
+  ...MINA_POSTS,
+  ...POKOPIA_POSTS,
+  ...CRIMSON_DESERT_POSTS,
 ].sort((a, b) => new Date(b.publishDate).getTime() - new Date(a.publishDate).getTime());
 
 /** Posts whose game is currently indexed/discoverable (excludes hidden games).

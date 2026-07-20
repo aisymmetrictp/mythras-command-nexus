@@ -16,7 +16,11 @@ const BASE = 'https://gamertagmythras.com';
 
 // Keep in sync with HIDDEN_GAME_SLUGS in src/data/blog/games.ts.
 const HIDDEN = new Set([]);
-const GAMES = ['cookie-run-kingdom', 'cookie-run-braverse-tcg', 'magic-the-gathering', 'minecraft', 'roblox', 'fortnite', 'pubg-battlegrounds'];
+const GAMES = ['cookie-run-kingdom', 'cookie-run-braverse-tcg', 'magic-the-gathering', 'minecraft', 'roblox', 'fortnite', 'pubg-battlegrounds',
+  'genshin-impact', 'elden-ring', 'baldurs-gate-3', 'counter-strike-2', 'the-witcher-3',
+  'zelda-breath-of-the-wild', 'zelda-ocarina-of-time', 'zelda-a-link-to-the-past',
+  'super-mario-64', 'half-life-2', 'the-last-of-us', 'resident-evil-4',
+  'resident-evil-requiem', 'tetris', 'mina-the-hollower', 'pokemon-pokopia', 'crimson-desert'];
 
 const lastmodArg = (process.argv.find(a => a.startsWith('--lastmod=')) || '').split('=')[1];
 const LASTMOD = lastmodArg || new Date().toISOString().slice(0, 10);

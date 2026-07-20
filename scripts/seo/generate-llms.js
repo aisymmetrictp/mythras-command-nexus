@@ -27,6 +27,23 @@ const GAMES = [
   { slug: 'roblox', name: 'Roblox', blurb: 'The user-generated game platform: getting started safely, Robux, Roblox Studio and game-making, and best-of genre lists (horror, tycoon, simulator, anime, RPG, tower defense, FPS, roleplay, obby).' },
   { slug: 'fortnite', name: 'Fortnite', blurb: 'Epic\'s battle royale: beginner fundamentals, building and editing, Zero Build, settings and keybinds, aim, movement, rotations, box fighting, and endgame strategy.' },
   { slug: 'pubg-battlegrounds', name: 'PUBG: Battlegrounds', blurb: 'Krafton\'s battle royale: weapon and loadout tier lists, recoil control, maps, landing spots, vehicles, throwables, squad play, looting, movement, and endgame.' },
+  { slug: 'genshin-impact', name: 'Genshin Impact', blurb: 'HoYoverse\'s open-world action RPG: character builds, artifact and weapon guides, team comps, elemental reactions, and Spiral Abyss strategy.' },
+  { slug: 'elden-ring', name: 'Elden Ring', blurb: 'FromSoftware\'s open-world action RPG: starting-class and build guides, boss strategies, weapon and spell scaling, and Lands Between exploration routes.' },
+  { slug: 'baldurs-gate-3', name: 'Baldur\'s Gate 3', blurb: 'Larian\'s D&D 5e CRPG: class and subclass builds, companion and origin guides, multiclassing, act walkthroughs, and Honour Mode strategy.' },
+  { slug: 'counter-strike-2', name: 'Counter-Strike 2', blurb: 'Valve\'s tactical FPS: aim and recoil control, utility lineups, map callouts, economy management, rank climbing, and settings tuning.' },
+  { slug: 'the-witcher-3', name: 'The Witcher 3: Wild Hunt', blurb: 'CD Projekt Red\'s open-world RPG: build and sign guides, Witcher gear sets, alchemy, Gwent, and expansion walkthroughs.' },
+  { slug: 'zelda-breath-of-the-wild', name: 'The Legend of Zelda: Breath of the Wild', blurb: 'Nintendo\'s open-world Zelda: shrine and Divine Beast guides, cooking and armor upgrades, Korok hunting, combat tech, and exploration routing.' },
+  { slug: 'zelda-ocarina-of-time', name: 'The Legend of Zelda: Ocarina of Time', blurb: 'The N64 classic: dungeon walkthroughs, ocarina songs, item and heart-piece locations, boss strategies, and speedrun routing.' },
+  { slug: 'zelda-a-link-to-the-past', name: 'The Legend of Zelda: A Link to the Past', blurb: 'The 16-bit benchmark: Light and Dark World routing, dungeon order, item and upgrade locations, and randomizer basics.' },
+  { slug: 'super-mario-64', name: 'Super Mario 64', blurb: 'The 3D platforming blueprint: star-by-star guides, movement tech, course routing, secret stars, and 70/120-star runs.' },
+  { slug: 'half-life-2', name: 'Half-Life 2', blurb: 'Valve\'s physics-driven shooter: chapter walkthroughs, gravity gun techniques, combat and puzzle solutions, and the Episodes.' },
+  { slug: 'the-last-of-us', name: 'The Last of Us', blurb: 'Naughty Dog\'s survival-action benchmark: chapter guides, collectible locations, crafting and stealth strategy, and difficulty-mode tips.' },
+  { slug: 'resident-evil-4', name: 'Resident Evil 4', blurb: 'The survival horror landmark: chapter walkthroughs, weapon and upgrade priorities, merchant requests, boss strategies, and NG+ runs.' },
+  { slug: 'resident-evil-requiem', name: 'Resident Evil Requiem', blurb: 'The latest mainline Resident Evil: systems and enemy breakdowns, resource management, and progression coverage.' },
+  { slug: 'tetris', name: 'Tetris', blurb: 'The puzzle benchmark: stacking fundamentals, T-spins and finesse, versus strategy and garbage management, and modern guideline mechanics.' },
+  { slug: 'mina-the-hollower', name: 'Mina the Hollower', blurb: 'Yacht Club Games\' gothic action-adventure: combat and burrow mechanics, gear and sidearm guides, boss strategies, and exploration.' },
+  { slug: 'pokemon-pokopia', name: 'Pokémon Pokopia', blurb: 'The Pokémon life-sim: building and terraforming, Pokémon residents and their abilities, resource gathering, and island progression.' },
+  { slug: 'crimson-desert', name: 'Crimson Desert', blurb: 'Pearl Abyss\' open-world action-adventure: combat systems and combos, exploration, boss encounters, and progression across Pywel.' },
 ];
 
 // Extract a JS string-literal field from a file header, honoring \-escapes and
@@ -78,9 +95,9 @@ const totalPosts = allByGame.reduce((n, g) => n + g.posts.length, 0);
 // ---------- llms.txt (concise index) ----------
 let llms = `# Mythras // The Multiverse
 
-> Independent gaming creator hub run by Mythras. Long-form strategy guides, tier lists, deck techs, and per-character build pages across seven games: Cookie Run: Kingdom, Cookie Run: Braverse (TCG), Magic: The Gathering, Minecraft, Roblox, Fortnite, and PUBG: Battlegrounds. Launched as the CookieRun Mythras YouTube channel in 2022; now a multi-channel ecosystem with ${totalPosts}+ blog guides.
+> Independent gaming creator hub run by Mythras. Long-form strategy guides, tier lists, deck techs, and per-character build pages across 24 games: Cookie Run: Kingdom, Cookie Run: Braverse (TCG), Magic: The Gathering, Minecraft, Roblox, Fortnite, PUBG: Battlegrounds, Genshin Impact, Elden Ring, Baldur's Gate 3, Counter-Strike 2, The Witcher 3: Wild Hunt, The Legend of Zelda: Breath of the Wild, Ocarina of Time and A Link to the Past, Super Mario 64, Half-Life 2, The Last of Us, Resident Evil 4, Resident Evil Requiem, Tetris, Mina the Hollower, Pokemon Pokopia, and Crimson Desert. Launched as the CookieRun Mythras YouTube channel in 2022; now a multi-channel ecosystem with ${totalPosts}+ blog guides.
 
-The site combines four content systems: (1) the blog at /blog covers tier lists, build/deck guides, format and mechanic primers, beginner walkthroughs, and patch/set coverage across all seven games; (2) /gear-guide covers per-Cookie build recommendations for 167+ Cookies in Cookie Run: Kingdom; (3) /cake-tower covers tower-strategy walkthroughs; (4) /assistant is a chat interface that answers from site content and recommends relevant guides. Every guide is written by the Mythras team and fact-checked against authoritative sources (Scryfall for MTG card legality, the official Cookie Run: Braverse card database, and the game wikis) before publishing.
+The site combines four content systems: (1) the blog at /blog covers tier lists, build/deck guides, format and mechanic primers, beginner walkthroughs, and patch/set coverage across all 24 games; (2) /gear-guide covers per-Cookie build recommendations for 167+ Cookies in Cookie Run: Kingdom; (3) /cake-tower covers tower-strategy walkthroughs; (4) /assistant is a chat interface that answers from site content and recommends relevant guides. Every guide is written by the Mythras team and fact-checked against authoritative sources (Scryfall for MTG card legality, the official Cookie Run: Braverse card database, and the game wikis) before publishing.
 `;
 
 for (const g of allByGame) {
@@ -95,7 +112,7 @@ for (const g of allByGame) {
 llms += `
 ## Site systems
 
-- [Blog Index](${BASE}/blog): All guides across all seven games, interleaved, freshest first.
+- [Blog Index](${BASE}/blog): All guides across all 24 games, interleaved, freshest first.
 - [Mythras Assistant](${BASE}/assistant): Site-content-powered chat assistant. Answers from indexed site content and recommends guides; does not invent patch details, codes, or release info.
 - [Gear Guide Hub](${BASE}/gear-guide): Build pages for 167+ Cookie Run: Kingdom Cookies — toppings, beascuits, topping tarts, substat priority, team synergies.
 - [Cake Tower Hub](${BASE}/cake-tower): Decadent Choco Tower and Endless Strawberry Tower strategy.
@@ -125,11 +142,11 @@ Cookie Run: Kingdom and Cookie Run: Braverse and related characters, art, and tr
 // ---------- llms-full.txt (full content directory) ----------
 let full = `# Mythras // The Multiverse — Full Content Directory
 
-> Comprehensive site directory for AI systems indexing gamertagmythras.com. Includes every published blog post with title, summary, and canonical URL across all seven games, plus the gear-guide structure and major site sections. ${totalPosts} blog posts total.
+> Comprehensive site directory for AI systems indexing gamertagmythras.com. Includes every published blog post with title, summary, and canonical URL across all 24 games, plus the gear-guide structure and major site sections. ${totalPosts} blog posts total.
 
 ## About the publisher
 
-Mythras // The Multiverse is an independent gaming creator brand operated by an individual in the United States. The project began as the CookieRun Mythras YouTube channel in 2022 and has expanded into a multi-channel ecosystem and a content website at gamertagmythras.com — long-form guides, tier lists, deck/build techs, and reference data — paired with video content on YouTube. Blog coverage spans seven games: Cookie Run: Kingdom, Cookie Run: Braverse (TCG), Magic: The Gathering, Minecraft, Roblox, Fortnite, and PUBG: Battlegrounds.
+Mythras // The Multiverse is an independent gaming creator brand operated by an individual in the United States. The project began as the CookieRun Mythras YouTube channel in 2022 and has expanded into a multi-channel ecosystem and a content website at gamertagmythras.com — long-form guides, tier lists, deck/build techs, and reference data — paired with video content on YouTube. Blog coverage spans 24 games: Cookie Run: Kingdom, Cookie Run: Braverse (TCG), Magic: The Gathering, Minecraft, Roblox, Fortnite, PUBG: Battlegrounds, Genshin Impact, Elden Ring, Baldur's Gate 3, Counter-Strike 2, The Witcher 3: Wild Hunt, The Legend of Zelda: Breath of the Wild, Ocarina of Time and A Link to the Past, Super Mario 64, Half-Life 2, The Last of Us, Resident Evil 4, Resident Evil Requiem, Tetris, Mina the Hollower, Pokemon Pokopia, and Crimson Desert.
 
 Editorial guarantee: every guide is written by the Mythras team and fact-checked against authoritative sources before publishing (Scryfall for MTG legality, the official Cookie Run: Braverse card database, and the game wikis). Posts include their refresh cadence so readers know how often the information is updated.
 `;
