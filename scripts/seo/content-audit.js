@@ -26,15 +26,8 @@ const BLOG = path.join(ROOT, 'src', 'data', 'blog');
 const OUT_MD = path.join(__dirname, 'content-inventory.md');
 const OUT_JSON = path.join(__dirname, 'content-inventory.json');
 
-const GAMES = [
-  { slug: 'cookie-run-kingdom', name: 'Cookie Run: Kingdom' },
-  { slug: 'cookie-run-braverse-tcg', name: 'Cookie Run: Braverse' },
-  { slug: 'magic-the-gathering', name: 'Magic: The Gathering' },
-  { slug: 'minecraft', name: 'Minecraft' },
-  { slug: 'roblox', name: 'Roblox' },
-  { slug: 'fortnite', name: 'Fortnite' },
-  { slug: 'pubg-battlegrounds', name: 'PUBG: Battlegrounds' },
-];
+const { getGames } = require('../lib/site-games');
+const GAMES = getGames(); // [{ slug, name }] — always in sync with src/data/blog/games.ts
 
 const todayArg = (process.argv.find(a => a.startsWith('--today=')) || '').split('=')[1];
 const TODAY = todayArg ? new Date(todayArg + 'T00:00:00Z') : new Date();

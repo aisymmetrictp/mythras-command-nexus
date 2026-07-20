@@ -11,6 +11,7 @@ export const timelineOfFateUpdateGuide: BlogPost = {
     'Honest breakdown of Cookie Run: Kingdom v7.4 Timeline of Fate Act 2 — Timekeeper, Ash Salt, 6-star Legendaries, Arcade Arena, Unstable Timeline, and which players should actually log in.',
   excerpt:
     'Timeline of Fate Act 2 dropped May 7, 2026 with two new Cookies, a 6-star Legendary ceiling, a fresh PvP mode, and an entire timeline-rewinding mechanic. Here is what it actually changes for you — by account level — and whether the patch deserves your weekend.',
+  tldr: 'Timeline of Fate Act 2 (CRK v7.4, live May 7, 2026) is worth it for almost everyone: Timekeeper is the must-pull anti-revive Legendary for Arena players, Ash Salt is the budget Epic debuffer, and the new 6-star Legendary system means one focused Legendary now beats two spread ones. Log in before June 4 to bank the Rewound Glory Arcade Arena rewards.',
   featuredImagePrompt:
     'Cookie Run Kingdom Timeline of Fate v7.4 patch banner, Timekeeper Cookie and Ash Salt Cookie standing in a fractured timeline rift, swirling clock-gear energy, the Ash-Bound Soul region in the background, cinematic painterly art, purple gold and ash-grey palette',
 

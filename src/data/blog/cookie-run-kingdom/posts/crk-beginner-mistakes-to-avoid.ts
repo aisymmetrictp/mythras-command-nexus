@@ -11,6 +11,7 @@ export const crkBeginnerMistakesToAvoid: BlogPost = {
     'The 10 Cookie Run Kingdom beginner mistakes that quietly delete weeks of progress. Mythras fixes for rerolls, toppings, treasures, candy and pulls.',
   excerpt:
     'These are the Cookie Run Kingdom beginner mistakes that quietly delete weeks of progress. Most of them feel reasonable at the time. Here is how to spot them and how to recover.',
+  tldr: 'The 10 account-stalling CRK beginner mistakes: linking before you finish rerolling (unrecoverable), spreading Soulstones across five Legendaries, ignoring topping substats (a 30-40% damage loss), skipping codes and treasures, over-investing in Common cookies, dead guilds, auto-running endgame, skipping Magic Candy, and chasing every limited banner. Fix order: claim codes, join an active guild, then focus one Legendary to 30 Soulstones.',
   featuredImagePrompt:
     'Dark fantasy illustration of a confused Cookie Run Kingdom hero standing in front of a giant chalkboard covered in glowing red Xs and crossed-out icons of toppings, soulstones and pull tickets, painterly cinematic style, gold and obsidian color palette',
   heroImage: '/images/cookies/pure-vanilla-cookie.png',

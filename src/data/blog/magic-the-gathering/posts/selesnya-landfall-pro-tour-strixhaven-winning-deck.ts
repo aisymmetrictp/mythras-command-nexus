@@ -10,6 +10,7 @@ export const selesnyaLandfallProTourStrixhavenWinningDeck: BlogPost = {
     "Nathan Steuer won Pro Tour Strixhaven on Selesnya Landfall in an Izzet meta. Decklist breakdown, sideboard plan, and how to tune it post-bans for paper Standard.",
   excerpt:
     "Nathan Steuer brought Selesnya Landfall to a Pro Tour where 49% of the field was Izzet. Then he won the mirror in the finals. Here is how the deck actually works and how to build it now that the bans hit.",
+  tldr: 'Nathan Steuer won Pro Tour Strixhaven with Selesnya Landfall — beating a field that was roughly 49% Izzet and taking the mirror final against Christoffer Larsen. The deck chains fetchland landfall triggers into free-scaling creatures that outpace spell-based tempo, and after the May 18 Cori-Steel Cutter ban it\'s the benchmark deck in Standard. Full list runs $400+, budget builds $80-150.',
   featuredImagePrompt:
     'A triumphant Selesnya-aligned planeswalker standing on a battlefield of cracked fetchlands, surrounded by towering green creatures and white spirit tokens, golden Pro Tour trophy in the foreground, Strixhaven campus silhouette in the distance, dark fantasy painterly style, gold and forest-green lighting',
   heroImage: '/images/blog/magic-the-gathering/selesnya-landfall-pro-tour-strixhaven-winning-deck/scute-swarm.jpg',

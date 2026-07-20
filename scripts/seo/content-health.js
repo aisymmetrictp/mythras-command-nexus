@@ -22,7 +22,8 @@ const path = require('path');
 
 const ROOT = path.join(__dirname, '..', '..');
 const BLOG = path.join(ROOT, 'src', 'data', 'blog');
-const GAMES = ['cookie-run-kingdom', 'cookie-run-braverse-tcg', 'magic-the-gathering', 'minecraft', 'roblox', 'fortnite', 'pubg-battlegrounds'];
+const { getGameSlugs } = require('../lib/site-games');
+const GAMES = getGameSlugs(); // always in sync with src/data/blog/games.ts
 
 // Quality thresholds (tunable).
 const T = { thinWords: 1200, veryThinWords: 900, minInlineImg: 2, minInternal: 3, minFaq: 3 };

@@ -10,6 +10,7 @@ export const crkTreasuresGuide: BlogPost = {
     'A 2026 Cookie Run: Kingdom treasures guide covering how treasures work, the 8 must-build picks, mode-specific loadouts, and the F2P upgrade order that actually matters.',
   excerpt:
     'Treasures are the second-most-impactful resource in Cookie Run: Kingdom after Cookies themselves. Here is exactly which ones to build, in what order, and which to ignore.',
+  tldr: 'Squishy Jelly Watch is the best treasure in Cookie Run: Kingdom — max it to level 5 first, then Old Pilgrim\'s Scroll, then Bookseller\'s Monocle. You equip three treasures per battle, active treasures beat auras roughly three to one, and two maxed treasures beat eight half-built ones in every mode.',
   featuredImagePrompt:
     'A glowing display of magical fantasy treasures floating above a marble pedestal in Cookie Run: Kingdom art style. A jelly-encased pocket watch, a golden scroll, and a crystal monocle glow with soft light. Warm pastel palette, painterly shading, dark gold backdrop.',
   heroImage: '/images/blog/cookie-run-kingdom/cookie-run-kingdom-treasures-guide/squishy-jelly-watch.webp',

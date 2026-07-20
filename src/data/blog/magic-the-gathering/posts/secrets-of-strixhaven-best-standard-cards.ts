@@ -10,6 +10,7 @@ export const secretsOfStrixhavenBestStandardCards: BlogPost = {
     "Secrets of Strixhaven tier list for Standard (May 2026). The 20 SSH cards that survived the bans and define the post-ban meta, ranked S through B with honest takes.",
   excerpt:
     "Secrets of Strixhaven shipped 270 cards. Most will never see Standard play. Here are the 20 that actually matter, the hype mythics that flopped, and what the May 18 bans changed.",
+  tldr: 'Only about 20 of Secrets of Strixhaven\'s 270+ cards matter in Standard. Flow State — a two-mana uncommon in 34.8% of Pro Tour decks — is the set\'s defining card, with the Witherbloom and Quandrix Elder Dragons and Dina\'s Guidance leading the mythics post-ban. The Silverquill dragon flopped, and Cori-Steel Cutter was banned on May 18, 2026.',
   featuredImagePrompt:
     'A grand college library at Strixhaven with five Elder Dragons perched on different floors, glowing arcane diagrams floating between them, a single uncommon spell card labeled FLOW STATE radiating gold light in the foreground, dark academic fantasy art, jewel-tone lighting',
   heroImage: '/images/blog/magic-the-gathering/secrets-of-strixhaven-best-standard-cards/lorehold-the-historian.jpg',

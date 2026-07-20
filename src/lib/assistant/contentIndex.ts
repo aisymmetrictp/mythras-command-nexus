@@ -3,6 +3,7 @@
 import type { ContentIndexItem } from './types';
 import { ALL_COOKIES } from '@/data/cookieData';
 import { ALL_POSTS } from '@/data/blog/blogIndex';
+import { VISIBLE_GAMES } from '@/data/blog/games';
 import { GEAR_CATEGORIES } from '@/data/gearData';
 import { channels } from '@/data/mockData';
 
@@ -174,52 +175,6 @@ const STATIC_PAGE_ITEMS: ContentIndexItem[] = [
     keywords: ['contact', 'email', 'support', 'feedback', 'discord'],
     priority: 0.3,
   },
-  // Per-game blog hub pages
-  {
-    id: 'page:mtg-blog',
-    title: 'Magic: The Gathering Blog',
-    href: '/blog/magic-the-gathering',
-    category: 'page',
-    summary: 'Magic: The Gathering guides, color staples, Standard meta, Pro Tour coverage, and set tier lists.',
-    keywords: ['mtg blog', 'magic the gathering blog', 'mtg guides', 'commander guides', 'standard meta', 'mtg deck guides'],
-    priority: 0.9,
-  },
-  {
-    id: 'page:roblox-blog',
-    title: 'Roblox Blog',
-    href: '/blog/roblox',
-    category: 'page',
-    summary: 'Roblox guides — getting started, the best games, earning Robux safely, Roblox Studio basics, and games to play with friends.',
-    keywords: ['roblox blog', 'roblox guides', 'best roblox games', 'how to get robux', 'roblox studio', 'roblox beginner', 'roblox'],
-    priority: 0.85,
-  },
-  {
-    id: 'page:pubg-blog',
-    title: 'PUBG: Battlegrounds Blog',
-    href: '/blog/pubg-battlegrounds',
-    category: 'page',
-    summary: 'PUBG: Battlegrounds guides — survival fundamentals, weapon tier lists, best loadouts and attachments, landing spots, and settings/sensitivity.',
-    keywords: ['pubg blog', 'pubg guides', 'pubg weapons', 'pubg loadout', 'pubg landing spots', 'pubg settings', 'battlegrounds', 'pubg'],
-    priority: 0.85,
-  },
-  {
-    id: 'page:fortnite-blog',
-    title: 'Fortnite Blog',
-    href: '/blog/fortnite',
-    category: 'page',
-    summary: 'Fortnite guides — beginner fundamentals, building basics, the best landing spots, weapon tier lists, and best settings for PC and console.',
-    keywords: ['fortnite blog', 'fortnite guides', 'fortnite building', 'fortnite landing spots', 'fortnite weapons', 'fortnite settings', 'fortnite'],
-    priority: 0.85,
-  },
-  {
-    id: 'page:minecraft-blog',
-    title: 'Minecraft Blog',
-    href: '/blog/minecraft',
-    category: 'page',
-    summary: 'Minecraft guides — survival for beginners, best enchantments, redstone basics, the best seeds, and building tips.',
-    keywords: ['minecraft blog', 'minecraft guides', 'minecraft enchantments', 'redstone', 'minecraft seeds', 'minecraft building', 'minecraft survival', 'minecraft'],
-    priority: 0.85,
-  },
   {
     id: 'page:glossary-crk',
     title: 'Cookie Run: Kingdom Glossary',
@@ -243,11 +198,32 @@ const STATIC_PAGE_ITEMS: ContentIndexItem[] = [
     title: 'Mythras Assistant',
     href: '/assistant',
     category: 'page',
-    summary: 'Chat assistant powered by site content. Ask about any game we cover — Cookie Run: Kingdom, MTG, Roblox, PUBG, Fortnite, Minecraft — and get guide recommendations.',
+    summary: 'Chat assistant powered by site content. Ask about any of the 24 games we cover — from Cookie Run: Kingdom and MTG to Elden Ring, BG3, and Zelda — and get guide recommendations.',
     keywords: ['assistant', 'chat', 'ask', 'mythras assistant', 'help'],
     priority: 0.5,
   },
 ];
+
+// Per-game blog hub pages, generated from the game registry so every game in
+// games.ts is automatically searchable by the assistant. (These were hand-written
+// for 5 games once and silently missed the rest — never again.)
+function makeGameHubItems(): ContentIndexItem[] {
+  return VISIBLE_GAMES.map(g => ({
+    id: `page:${g.slug}-blog`,
+    title: `${g.name} Blog`,
+    href: `/blog/${g.slug}`,
+    category: 'page',
+    summary: `${g.name} guides — ${g.description}`,
+    keywords: [
+      `${g.name.toLowerCase()} blog`,
+      `${g.name.toLowerCase()} guides`,
+      g.name.toLowerCase(),
+      g.shortName.toLowerCase(),
+      g.slug.replace(/-/g, ' '),
+    ],
+    priority: 0.85,
+  }));
+}
 
 function makeChannelItems(): ContentIndexItem[] {
   return channels.map(c => ({
@@ -271,6 +247,7 @@ export function getContentIndex(): ContentIndexItem[] {
     ...makeGearCategoryItems(),
     ...makeGearTypeItems(),
     ...makeChannelItems(),
+    ...makeGameHubItems(),
     ...STATIC_PAGE_ITEMS,
   ];
   return _cached;

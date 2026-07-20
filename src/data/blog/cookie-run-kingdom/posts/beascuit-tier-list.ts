@@ -11,6 +11,7 @@ export const beascuitTierList: BlogPost = {
     'A full Cookie Run: Kingdom beascuit tier list for 2026: every beascuit family ranked by build priority, which cookie type each one gears, roll priorities, and where to spend your dough first.',
   excerpt:
     'Beascuits are the most misunderstood gear slot in CRK — you cannot pick your cookie\'s family, but you can absolutely pick which beascuits to build first. Here is every family ranked by how much it actually moves your roster.',
+  tldr: 'Zesty (Magic) and Crispy (Ambush) are the S-tier beascuit families — build a Zesty with a Skill Power main line on your best Magic DPS first, then a Crispy for your arena burst cookie. Sweet and Hearty rank A, Hard and Chewy B, Light and Spicy C. Fully attune one family before spending dough on the next.',
   featuredImagePrompt:
     'Eight glowing beascuit crystals of different colors arranged in a tier-list grid on a dark obsidian table, gold rim lighting, Cookie Run Kingdom mobile-game key art style, dramatic shadows, 16:9 hero banner.',
 

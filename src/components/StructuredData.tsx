@@ -1,7 +1,20 @@
 // Stable @id values so other schema types can reference Organization + Person
 // without re-declaring the full entity each time.
+import { GAMES } from '@/data/blog/games';
+
 export const MYTHRAS_ORG_ID = 'https://gamertagmythras.com/#organization';
 export const MYTHRAS_PERSON_ID = 'https://gamertagmythras.com/#person-mythras';
+export const MYTHRAS_WEBSITE_ID = 'https://gamertagmythras.com/#website';
+
+// knowsAbout derives from the game registry (every covered game) plus the
+// TCG/channel topics that aren't blog verticals — stays current automatically.
+const KNOWS_ABOUT = [
+  ...GAMES.map(g => g.name),
+  'Pokemon Trading Card Game',
+  'Disney Lorcana',
+  'Trading card game strategy',
+  'Mobile gacha games',
+];
 
 export function OrganizationSchema() {
   const data = {
@@ -23,15 +36,8 @@ export function OrganizationSchema() {
       'https://twitter.com/MythrasCookie',
       'https://discord.gg/mFg8mbxtTS',
     ],
-    knowsAbout: [
-      'Cookie Run: Kingdom',
-      'Magic: The Gathering',
-      'Pokemon Trading Card Game',
-      'Disney Lorcana',
-      'Trading card game strategy',
-      'Mobile gacha games',
-    ],
-    description: 'Independent gaming creator brand. Long-form strategy guides, tier lists, deck techs, and per-Cookie gear builds for Cookie Run: Kingdom and Magic: The Gathering.',
+    knowsAbout: KNOWS_ABOUT,
+    description: 'Independent gaming creator brand. Long-form strategy guides, tier lists, deck techs, and per-Cookie gear builds across 24 games — from Cookie Run: Kingdom and Magic: The Gathering to Elden Ring, Baldur\'s Gate 3, and Zelda.',
     founder: { '@id': MYTHRAS_PERSON_ID },
   };
   return (
@@ -52,7 +58,7 @@ export function PersonSchema() {
     url: 'https://gamertagmythras.com/about',
     image: 'https://gamertagmythras.com/images/mythras-logo-new.png',
     jobTitle: 'Gaming Creator & Strategy Writer',
-    description: 'Gaming creator behind the Mythras // The Multiverse brand. Covers Cookie Run: Kingdom, Magic: The Gathering, Pokemon TCG, and Disney Lorcana across five YouTube channels plus the gamertagmythras.com blog. Posts are written from actual gameplay testing, not aggregated.',
+    description: 'Gaming creator behind the Mythras // The Multiverse brand. Covers 24 games — Cookie Run: Kingdom, Magic: The Gathering, Elden Ring, Baldur\'s Gate 3, Zelda, and more — across five YouTube channels plus the gamertagmythras.com blog. Posts are written from actual gameplay testing, not aggregated.',
     sameAs: [
       'https://www.youtube.com/@cookierunmythras',
       'https://www.youtube.com/@gamertagmythras',
@@ -62,15 +68,32 @@ export function PersonSchema() {
       'https://www.twitch.tv/3mythras3',
       'https://twitter.com/MythrasCookie',
     ],
-    knowsAbout: [
-      'Cookie Run: Kingdom',
-      'Magic: The Gathering',
-      'Commander format',
-      'MTG Standard',
-      'Pokemon Trading Card Game',
-      'Disney Lorcana',
-    ],
+    knowsAbout: [...KNOWS_ABOUT, 'Commander format', 'MTG Standard'],
     worksFor: { '@id': MYTHRAS_ORG_ID },
+  };
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(data) }}
+    />
+  );
+}
+
+/**
+ * Sitewide WebSite entity — tells search/answer engines the site's identity and
+ * who publishes it. Emitted once from the root layout next to Organization.
+ */
+export function WebSiteSchema() {
+  const data = {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    '@id': MYTHRAS_WEBSITE_ID,
+    name: 'GamerTag Mythras',
+    alternateName: 'Mythras // The Multiverse',
+    url: 'https://gamertagmythras.com',
+    description: 'Strategy guides, tier lists, and build guides across 24 games, written from actual gameplay by the Mythras team.',
+    publisher: { '@id': MYTHRAS_ORG_ID },
+    inLanguage: 'en-US',
   };
   return (
     <script

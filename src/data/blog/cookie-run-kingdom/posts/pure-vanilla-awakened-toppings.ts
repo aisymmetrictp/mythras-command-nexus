@@ -8,6 +8,7 @@ export const pureVanillaAwakenedToppings: BlogPost = {
   title: 'Pure Vanilla Cookie (Awakened) — Best Toppings, Beascuit & Team Comps',
   metaDescription: 'Best Pure Vanilla Cookie Awakened toppings, beascuit, tart, and team comps. The Warmth of Compassion rally still defines arena and guild battle meta.',
   excerpt: 'Awakened Pure Vanilla has been S+ for over a year. Here is the build, the rally, and the comps that keep her on top of the Cookie Run: Kingdom ladder in 2026.',
+  tldr: 'Pure Vanilla Awakened\'s only correct build is 5x Truthful Raspberry toppings (sub-stats: DMG Resist 50%, HP 30%, CRIT Damage 15%), a Tainted Gleaming Sweet beascuit attuned DMGRB x3 + CD x1, and a Raspberry tart with Attack priority. Pair her with Aegis Hollyberry to trigger the Warmth of Compassion rally — she\'s been S+ for over a year and sits in roughly 78% of top-1000 arena defenses.',
   featuredImagePrompt: 'Pure Vanilla Cookie in her Awakened form, glowing white and gold robes, standing in front of the Vanilla Kingdom castle, soft radiant light, anime style, cinematic lighting, hero pose',
   heroImage: '/images/cookies/pure-vanilla-cookie.png',
   heroImageAlt: 'Pure Vanilla Cookie, the S+ Awakened Ancient healer who anchors arena, Guild Battle, and Cake Tower comps in CRK.',

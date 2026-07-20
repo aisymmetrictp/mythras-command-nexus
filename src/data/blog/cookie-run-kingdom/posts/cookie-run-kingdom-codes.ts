@@ -11,6 +11,7 @@ export const crkCodes: BlogPost = {
     'Every working Cookie Run: Kingdom code for May 2026. Free Crystals, Rainbow Cubes, Cookie Cutters and Beascuit Dough — plus how to redeem and which codes just expired.',
   excerpt:
     'A full list of every active CRK code in May 2026, what each one drops, and the fastest way to redeem them through the DevPlay coupon page.',
+  tldr: 'Nine Cookie Run: Kingdom codes are active in May 2026, worth roughly 18,000+ Crystals and 10,000+ Rainbow Cubes combined. Redeem HAPPY5THANNIVERSARY and 2MSUBSCRIBERSCRK first — they\'re the biggest drops. Codes redeem on the DevPlay coupon page in a browser using your Player ID from Settings, then Customer Service, not in-game.',
   featuredImagePrompt:
     'A glowing Cookie Run: Kingdom coupon UI mockup with stacks of Crystals, Rainbow Cubes, and Cookie Cutters spilling out, set against a dark candy-blue background with subtle confetti — vibrant, mobile-friendly, no text overlays.',
 

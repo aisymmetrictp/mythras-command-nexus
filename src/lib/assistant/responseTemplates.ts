@@ -6,6 +6,7 @@ import { searchContent, findByKeywords, topInCategory, toRecommendedLink } from 
 import { getContentIndex } from './contentIndex';
 import type { AssistantResponse, RecommendedLink, ContentIndexItem } from './types';
 import { ALL_COOKIES } from '@/data/cookieData';
+import { GAMES } from '@/data/blog/games';
 
 export interface Intent {
   name: string;
@@ -33,31 +34,41 @@ function answerOpener(): string {
   return openers[Math.floor(Math.random() * openers.length)];
 }
 
-type GameKey = 'crk' | 'mtg' | 'roblox' | 'pubg' | 'fortnite' | 'minecraft';
-
-function pathGame(path?: string): GameKey | undefined {
+/**
+ * Path → canonical game slug, derived from the game registry so every game in
+ * games.ts gets context-aware routing automatically. CRK-adjacent sections
+ * (/gear-guide, /cake-tower) and short aliases (/mtg, /pubg) map explicitly.
+ */
+function pathGame(path?: string): string | undefined {
   if (!path) return undefined;
-  if (path.includes('/magic-the-gathering') || path.includes('/mtg')) return 'mtg';
-  if (path.includes('/roblox')) return 'roblox';
-  if (path.includes('/pubg-battlegrounds') || path.includes('/pubg')) return 'pubg';
-  if (path.includes('/fortnite')) return 'fortnite';
-  if (path.includes('/minecraft')) return 'minecraft';
-  if (
-    path.includes('/cookie-run-kingdom') ||
-    path.startsWith('/gear-guide') ||
-    path.startsWith('/cake-tower')
-  ) return 'crk';
-  return undefined;
+  if (path.startsWith('/gear-guide') || path.startsWith('/cake-tower')) return 'cookie-run-kingdom';
+  if (path.includes('/mtg')) return 'magic-the-gathering';
+  if (path.includes('/pubg')) return 'pubg-battlegrounds';
+  return GAMES.find(g => path.includes(`/${g.slug}`))?.slug;
+}
+
+function gameName(slug: string | undefined): string | undefined {
+  return GAMES.find(g => g.slug === slug)?.shortName;
 }
 
 // True when the message clearly references a non-CRK game, so the generic CRK
 // intents below stand down and the query falls through to search (which finds
-// the right indexed post).
+// the right indexed post). Game names/shortNames come from the registry; the
+// extra words are game-specific vocab strongly implying a title.
+const OTHER_GAME_WORDS: RegExp = (() => {
+  const registry = GAMES
+    .filter(g => g.slug !== 'cookie-run-kingdom' && g.slug !== 'cookie-run-braverse-tcg')
+    .flatMap(g => [g.name, g.shortName])
+    .map(n => n.toLowerCase().replace(/[^a-z0-9 ]/g, '').trim());
+  const vocab = ['robux', 'battlegrounds', 'redstone', 'enchantment', 'tarnished', 'hyrule', 'gwent', 'artifact farming', 'spiral abyss'];
+  const words = [...new Set([...registry, ...vocab])].filter(Boolean);
+  return new RegExp(`\\b(${words.map(w => w.replace(/ /g, '\\s+')).join('|')})\\b`, 'i');
+})();
 function mentionsOtherGame(msg: string): boolean {
-  return /\b(roblox|robux|pubg|battlegrounds|fortnite|minecraft|redstone|enchantment)\b/i.test(msg);
+  return OTHER_GAME_WORDS.test(msg);
 }
-function isNonCrkGame(game: GameKey | undefined): boolean {
-  return game === 'mtg' || game === 'roblox' || game === 'pubg' || game === 'fortnite' || game === 'minecraft';
+function isNonCrkGame(game: string | undefined): boolean {
+  return game !== undefined && game !== 'cookie-run-kingdom';
 }
 
 function detectCookieMention(msg: string): ContentIndexItem | undefined {
@@ -476,8 +487,8 @@ function intentGlossary(): Intent {
 
       const matchesMtg = mtgTerms.some(t => msg.includes(t));
       const matchesCrk = crkTerms.some(t => msg.includes(t));
-      const preferMtg = game === 'mtg' || (matchesMtg && !matchesCrk);
-      const preferCrk = game === 'crk' || (matchesCrk && !matchesMtg);
+      const preferMtg = game === 'magic-the-gathering' || (matchesMtg && !matchesCrk);
+      const preferCrk = game === 'cookie-run-kingdom' || (matchesCrk && !matchesMtg);
 
       const glossaryMtg = getContentIndex().find(i => i.id === 'page:glossary-mtg')!;
       const glossaryCrk = getContentIndex().find(i => i.id === 'page:glossary-crk')!;
@@ -510,21 +521,13 @@ function intentWhatToRead(): Intent {
     name: 'what-to-read',
     match: msg => containsAny(msg, ['what should i read', 'what next', 'recommend', 'suggest a guide', 'show me guides', 'latest']),
     build: (_msg, path) => {
-      const game = pathGame(path);
-      const slugByGame: Record<GameKey, string> = {
-        crk: 'cookie-run-kingdom', mtg: 'magic-the-gathering', roblox: 'roblox',
-        pubg: 'pubg-battlegrounds', fortnite: 'fortnite', minecraft: 'minecraft',
-      };
-      const nameByGame: Record<GameKey, string> = {
-        crk: 'Cookie Run: Kingdom', mtg: 'MTG', roblox: 'Roblox',
-        pubg: 'PUBG', fortnite: 'Fortnite', minecraft: 'Minecraft',
-      };
-      const slug = game ? slugByGame[game] : undefined;
+      // pathGame returns the canonical slug; display name comes from the registry.
+      const slug = pathGame(path);
       const all = topInCategory('blog', 8);
       const filtered = slug ? all.filter(r => r.item.href.includes(`/blog/${slug}/`)) : all;
       const links = (filtered.length > 0 ? filtered : all).slice(0, 5).map(toRecommendedLink);
       return {
-        answer: `${answerOpener()} ${game ? `Latest ${nameByGame[game]} guides on the blog` : 'Latest guides across all our games'}, freshest first.\n\n${joinLinks(links)}`,
+        answer: `${answerOpener()} ${slug ? `Latest ${gameName(slug)} guides on the blog` : 'Latest guides across all our games'}, freshest first.\n\n${joinLinks(links)}`,
         recommendedLinks: links,
         matchedTopics: ['blog', 'navigation'],
         confidence: 0.85,

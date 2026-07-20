@@ -1,11 +1,13 @@
 'use client';
 
-export type PromptGameContext = 'crk' | 'mtg' | 'roblox' | 'pubg' | 'fortnite' | 'minecraft' | 'mixed';
+export type PromptGameContext = 'crk' | 'mtg' | 'roblox' | 'pubg' | 'fortnite' | 'minecraft' | 'game' | 'mixed';
 
 interface Props {
   onPick: (prompt: string) => void;
   /** Derived from the current page path by the parent. */
   gameContext?: PromptGameContext;
+  /** Display name for the generic 'game' context (any game without bespoke prompts). */
+  gameName?: string;
 }
 
 const CRK_PROMPTS = [
@@ -71,18 +73,33 @@ const MIXED_PROMPTS = [
   { label: 'What should I read next?', emoji: '📰' },
 ];
 
-const PROMPTS: Record<PromptGameContext, { label: string; emoji: string }[]> = {
+// Generic starter prompts for any game without a bespoke set above — works for
+// all current and future games because the parent passes the display name in.
+function gamePrompts(name: string): { label: string; emoji: string }[] {
+  return [
+    { label: `Beginner guide to ${name}?`, emoji: '🌱' },
+    { label: `Best ${name} strategies?`, emoji: '🏆' },
+    { label: `Show me ${name} guides`, emoji: '📖' },
+    { label: 'What should I read next?', emoji: '📰' },
+  ];
+}
+
+const PROMPTS: Record<Exclude<PromptGameContext, 'game'>, { label: string; emoji: string }[]> = {
   crk: CRK_PROMPTS, mtg: MTG_PROMPTS, roblox: ROBLOX_PROMPTS,
   pubg: PUBG_PROMPTS, fortnite: FORTNITE_PROMPTS, minecraft: MINECRAFT_PROMPTS, mixed: MIXED_PROMPTS,
 };
-const LABELS: Record<PromptGameContext, string> = {
+const LABELS: Record<Exclude<PromptGameContext, 'game'>, string> = {
   crk: 'Try asking · CRK', mtg: 'Try asking · MTG', roblox: 'Try asking · Roblox',
   pubg: 'Try asking · PUBG', fortnite: 'Try asking · Fortnite', minecraft: 'Try asking · Minecraft', mixed: 'Try asking',
 };
 
-export default function SuggestedPrompts({ onPick, gameContext = 'mixed' }: Props) {
-  const prompts = PROMPTS[gameContext] ?? MIXED_PROMPTS;
-  const label = LABELS[gameContext] ?? 'Try asking';
+export default function SuggestedPrompts({ onPick, gameContext = 'mixed', gameName }: Props) {
+  const prompts = gameContext === 'game' && gameName
+    ? gamePrompts(gameName)
+    : PROMPTS[gameContext as Exclude<PromptGameContext, 'game'>] ?? MIXED_PROMPTS;
+  const label = gameContext === 'game' && gameName
+    ? `Try asking · ${gameName}`
+    : LABELS[gameContext as Exclude<PromptGameContext, 'game'>] ?? 'Try asking';
 
   return (
     <div>

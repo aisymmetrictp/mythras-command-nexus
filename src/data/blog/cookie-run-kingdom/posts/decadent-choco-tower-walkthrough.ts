@@ -10,6 +10,7 @@ export const decadentChocoTowerWalkthrough: BlogPost = {
     'Push past floor 30 in Decadent Choco Tower. Full 2026 walkthrough with floor tier breakdown, the F2P, mid-game, and endgame comps that actually clear, plus treasures and topping priorities for all 55 trays.',
   excerpt:
     'Cake Tower expanded to 55 trays in v7.4 and most players stall at floor 30. The fix is not more damage. It is sustain, cooldown toppings, and a comp swap. Here is the full Decadent Choco walkthrough for 2026.',
+  tldr: 'Decadent Choco Tower runs 55 floors as of v7.4, and the floor-30 wall is a sustain problem, not a damage problem: run two healers minimum past floor 25, put Swift Chocolate cooldown toppings on healers and supports, and swap to the Squishy Jelly Watch + Bookseller\'s Monocle + Healing Power-Pack treasure set. Manual-play everything from floor 23 up — auto cannot clear floors 51-55.',
   featuredImagePrompt:
     'A towering chocolate cake fortress rising into a purple void sky, layered with dripping ganache trays and faintly glowing rune sigils on each level. A small line of Cookie Run-style chibi heroes silhouetted at the base, golden lion crest banner planted in the foreground. Cinematic lighting, painterly, moody.',
   heroImage: '/images/cookies/pavlova-cookie.png',

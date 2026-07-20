@@ -11,6 +11,7 @@ export const timekeeperToppings: BlogPost = {
     'The complete Timekeeper Cookie build guide: best toppings, beascuit, topping tart, top arena and tower comps, counters, and an honest F2P-vs-whale verdict for v7.4.',
   excerpt:
     'Timekeeper Cookie just rewrote the Kingdom Arena rulebook. Here is the exact topping build, beascuit, and team comp that turns her anti-revive lock into a stage-clearing nuke.',
+  tldr: 'Timekeeper Cookie\'s best build is 5x Searing Raspberry (ATK%) toppings with 18%+ Cooldown sub-stats, a Chewy beascuit with a Skill Power main line, and a Time Distortion or Cooldown tart. Cast her Sealed Hour right before an enemy revive fires, not at fight start. She\'s the most must-pull Legendary since Dark Enchantress — save for her if you\'re F2P with a built arena core.',
   featuredImagePrompt:
     'A glowing magical Cookie Run: Kingdom character standing on a clock face, hourglass spilling violet sand, surrounded by frozen revival glyphs — dark purple and gold palette, mobile-game key art, dramatic rim lighting.',
 

@@ -11,6 +11,7 @@ export const beastYeastBossCounters: BlogPost = {
     'Counter teams for every Cookie Run: Kingdom Beast-Yeast boss: the mechanic that wrecks you, the cookie that hard-counters it, and the full 5-cookie comp for each fight.',
   excerpt:
     'Beast-Yeast bosses do not lose to raw power — they lose to the right counter. Here is the specific mechanic, hard-counter cookie, and full comp for every Beast-Yeast boss.',
+  tldr: 'Every Beast-Yeast boss falls to a specific counter, not raw power: burst Burning Spice down with a cleanse healer before burn stacks ramp, out-sustain Eternal Sugar with steady DPS, bring debuff immunity for Mystic Flour, layered defensive cooldowns for Shadow Milk, and a no-revive comp for Silent Salt. The core of Dark Enchantress, Pure Vanilla, and Hollyberry carries all five fights.',
   featuredImagePrompt:
     'Five towering Beast Cookies silhouetted against a stormy purple sky on a dough-textured continent, a single party of cookies facing them from below, cinematic Cookie Run Kingdom key art, 16:9 hero banner, dramatic rim lighting.',
 

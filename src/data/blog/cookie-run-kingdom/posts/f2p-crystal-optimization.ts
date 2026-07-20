@@ -11,6 +11,7 @@ export const f2pCrystalOptimization: BlogPost = {
     'A Cookie Run: Kingdom F2P crystal guide: where crystals come from, the save-vs-spend decision tree, which banners are worth pulling, and the spending traps that stall F2P accounts.',
   excerpt:
     'Every F2P CRK account lives or dies on one habit: pulling on the wrong banner. Here is the full crystal income map and a save-vs-spend decision tree that keeps your stash pointed at the pulls that actually matter.',
+  tldr: 'F2P crystal rule: default to saving, and pull only when a banner passes all four gates — the cookie is S-tier, fills a real roster gap, changes a result you can\'t currently clear, and you have a full pity\'s worth banked. Your two biggest crystal faucets are climbing arena rank and clearing new Beast-Yeast episodes launch week; skip collab and collection banners entirely.',
   featuredImagePrompt:
     'A glowing pile of blue Cookie Run Kingdom crystals on a dark obsidian vault floor, a single golden gacha banner glowing above, gold rim lighting, mobile-game key art, 16:9 hero banner.',
 

@@ -10,6 +10,7 @@ export const bestF2pArenaTeam: BlogPost = {
     'The best F2P arena team in CRK for June 2026. Five fully free-to-play cookies that consistently push Diamond and brush Champion with zero Legendary pulls. Toppings, treasures, and upgrade path included.',
   excerpt:
     'The meta arena comp needs three Legendaries you do not own. This one needs zero, loses about two ranks of ceiling, and costs you exactly nothing in crystals.',
+  tldr: 'The best F2P arena team in CRK is Hollyberry and Black Sapphire up front, Pavlova and Ash Salt in mid, and Pure Vanilla in back — zero Legendary pulls required. It holds Diamond consistently and tops out at mid-Champion. Invest Magic Lab dust in Pavlova first with Searing Raspberry x5, and run Squishy Jelly Watch plus Old Pilgrim\'s Scroll as treasures.',
   featuredImagePrompt:
     'A Cookie Run: Kingdom arena lineup of five cookies — Hollyberry, Black Sapphire, Pavlova, Ash Salt, Pure Vanilla — standing on a Kingdom Arena platform with soft gold light, no Legendary glow effects, painterly chibi style, banner aspect ratio.',
   heroImage: '/images/cookies/hollyberry-cookie.png',

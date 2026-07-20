@@ -8,6 +8,7 @@ export const crkBeastYeastGuide: BlogPost = {
   title: 'Cookie Run: Kingdom Beast-Yeast Guide — Episode Runs, Boss Comps & Investment Path',
   metaDescription: 'Cookie Run: Kingdom Beast-Yeast guide for 2026: episode walls, Beast Raid bosses, best team comps, treasure picks, and where to spend soulstones.',
   excerpt: 'Beast-Yeast is the second continent in Cookie Run: Kingdom and the highest-EV farm in the game once you can clear it. This is the comp, treasure, and investment guide.',
+  tldr: 'Beast-Yeast is CRK\'s highest-value F2P income: run Beast Raid every weekly reset for beascuit dough and clear new episodes launch week for first-clear chests. The real walls are Episode 10 (bring double healer plus a damage-reduction tank) and Episode 13 (needs an Awakened Ancient or an attune-3 Beast Cookie). Invest soulstones in Eternal Sugar first, then Silent Salt.',
   featuredImagePrompt: 'Dark fantasy painterly illustration of a towering moonlit beast-yeast continent with five glowing beast cookies silhouetted in front, mist and dough-like terrain, cinematic lighting, 16:9 hero banner',
   heroImage: '/images/cookies/eternal-sugar-cookie.png',
   heroImageAlt: 'Eternal Sugar Cookie, the Beast Cookie and best first soulstone investment for Beast-Yeast thanks to her front-line tanking.',

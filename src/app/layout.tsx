@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Script from "next/script";
-import { OrganizationSchema, PersonSchema } from "@/components/StructuredData";
+import { OrganizationSchema, PersonSchema, WebSiteSchema } from "@/components/StructuredData";
 import { SiteAdSenseLoader } from "@/components/AdUnit";
 import CookieConsent from "@/components/CookieConsent";
 import ChatWidget from "@/components/assistant/ChatWidget";
@@ -93,6 +93,7 @@ export default function RootLayout({
         <AnalyticsEvents />
         <OrganizationSchema />
         <PersonSchema />
+        <WebSiteSchema />
         {/* Hidden forms for Netlify build-time form detection (the real forms are client-rendered) */}
         <form name="contact" data-netlify="true" netlify-honeypot="bot-field" hidden>
           <input name="bot-field" />

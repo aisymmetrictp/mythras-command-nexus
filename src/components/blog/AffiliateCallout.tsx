@@ -3,23 +3,23 @@
  * chosen by the post's game so it matches buying intent (TCG games → cards, the
  * rest → gaming gear). rel="sponsored" + an "affiliate" label keep it honest; the
  * amzn.to/tcgplayer links auto-fire the GA4 `affiliate_click` event (AnalyticsEvents).
- * Edit OFFERS to retarget. Returns null for any game without a mapped offer.
+ * Edit OFFERS to retarget. Games without a specific offer get DEFAULT_OFFER
+ * (the same gear link the non-TCG games already use) so no game ships with
+ * zero monetization — 17 games silently earned nothing before this fallback.
  */
 type Offer = { label: string; sub: string; href: string };
 
 const OFFERS: Record<string, Offer> = {
   'magic-the-gathering': { label: 'Shop Magic: The Gathering', sub: 'Singles, sealed & accessories on Amazon', href: 'https://amzn.to/49FZPkr' },
   'cookie-run-braverse-tcg': { label: 'Shop Cookie Run: Braverse', sub: 'Booster boxes, decks & singles on Amazon', href: 'https://amzn.to/46ytRqz' },
-  'cookie-run-kingdom': { label: 'Gaming gear we actually use', sub: 'Our hand-picked setup on Amazon', href: 'https://amzn.to/463bCrF' },
-  'roblox': { label: 'Gaming gear we actually use', sub: 'Our hand-picked setup on Amazon', href: 'https://amzn.to/463bCrF' },
   'fortnite': { label: 'Gaming gear we actually use', sub: 'Peripherals & stream gear on Amazon', href: 'https://amzn.to/463bCrF' },
   'pubg-battlegrounds': { label: 'Gaming gear we actually use', sub: 'Peripherals & stream gear on Amazon', href: 'https://amzn.to/463bCrF' },
-  'minecraft': { label: 'Gaming gear we actually use', sub: 'Our hand-picked setup on Amazon', href: 'https://amzn.to/463bCrF' },
 };
 
+const DEFAULT_OFFER: Offer = { label: 'Gaming gear we actually use', sub: 'Our hand-picked setup on Amazon', href: 'https://amzn.to/463bCrF' };
+
 export default function AffiliateCallout({ game }: { game: string }) {
-  const offer = OFFERS[game];
-  if (!offer) return null;
+  const offer = OFFERS[game] ?? DEFAULT_OFFER;
   return (
     <aside className="my-10 rounded-xl border border-[#D4A853]/20 bg-[#0c0c18]/60 p-5 flex flex-col sm:flex-row sm:items-center gap-4">
       <div className="flex-1">

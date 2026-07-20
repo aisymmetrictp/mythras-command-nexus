@@ -9,6 +9,7 @@ import type { ChatMessage as ChatMessageType } from '@/lib/assistant';
 import ChatMessage from './ChatMessage';
 import ChatInput from './ChatInput';
 import SuggestedPrompts, { type PromptGameContext } from './SuggestedPrompts';
+import { GAMES } from '@/data/blog/games';
 
 interface Props {
   /** When `embed` is true, renders inline (used by /assistant page). Otherwise floating widget. */
@@ -45,18 +46,21 @@ function saveHistory(history: ChatMessageType[]) {
 export default function ChatWidget({ embed }: Props) {
   const pathname = usePathname();
 
-  // Game context lets SuggestedPrompts show CRK / MTG / mixed starter prompts
-  // based on the page the user opened the widget on.
+  // Game context lets SuggestedPrompts show per-game starter prompts based on
+  // the page the user opened the widget on. The six original games keep their
+  // bespoke prompt sets; every other game in the registry gets generic prompts
+  // via the 'game' context + its display name — new games need no edit here.
+  const BESPOKE: Record<string, PromptGameContext> = {
+    'magic-the-gathering': 'mtg', 'roblox': 'roblox', 'pubg-battlegrounds': 'pubg',
+    'fortnite': 'fortnite', 'minecraft': 'minecraft', 'cookie-run-kingdom': 'crk',
+  };
+  const pathGame =
+    (pathname?.startsWith('/gear-guide') || pathname?.startsWith('/cake-tower'))
+      ? GAMES.find(g => g.slug === 'cookie-run-kingdom')
+      : GAMES.find(g => pathname?.includes(`/${g.slug}`));
   const gameContext: PromptGameContext =
-    pathname?.includes('/magic-the-gathering') ? 'mtg' :
-    pathname?.includes('/roblox') ? 'roblox' :
-    pathname?.includes('/pubg') ? 'pubg' :
-    pathname?.includes('/fortnite') ? 'fortnite' :
-    pathname?.includes('/minecraft') ? 'minecraft' :
-    (pathname?.includes('/cookie-run-kingdom') ||
-      pathname?.startsWith('/gear-guide') ||
-      pathname?.startsWith('/cake-tower')) ? 'crk' :
-    'mixed';
+    pathGame ? (BESPOKE[pathGame.slug] ?? 'game') : 'mixed';
+  const gameName = pathGame?.shortName;
   const [open, setOpen] = useState(false);
   const [messages, setMessages] = useState<ChatMessageType[]>([]);
   const [input, setInput] = useState('');
@@ -188,7 +192,7 @@ export default function ChatWidget({ embed }: Props) {
                 point you at the closest guide.
               </p>
             </div>
-            <SuggestedPrompts onPick={p => handleSubmit(p)} gameContext={gameContext} />
+            <SuggestedPrompts onPick={p => handleSubmit(p)} gameContext={gameContext} gameName={gameName} />
           </div>
         ) : (
           messages.map(m => <ChatMessage key={m.id} message={m} />)

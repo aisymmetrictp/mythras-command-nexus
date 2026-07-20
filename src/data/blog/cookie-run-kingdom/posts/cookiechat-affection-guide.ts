@@ -11,6 +11,7 @@ export const cookiechatAffectionGuide: BlogPost = {
     'Complete guide to CookieChat and the Affection system in Cookie Run: Kingdom — all 10 favorability levels, the gift mechanic, favorite gift list, and which cookies to raise first.',
   excerpt:
     'Everything you need to know about CRK\'s CookieChat and Affection system from v7.2: the 10 favorability levels, what each one unlocks, how the gift mechanic actually works, and the favorite-gift list you should keep open while playing.',
+  tldr: 'CookieChat (added in v7.2) gives every cookie a 10-level Affection track raised by gifting, chat replies, and co-deployment. Favorite-tier gifts give roughly 3-4x the affection of Neutral ones — match the gift to the cookie\'s design archetype for an ~80% hit rate. Focus 3-5 priority cookies (Guild Battle anchors and Arena leaders) to Level 5, where the Crystal and Soulstone rewards are front-loaded.',
   featuredImagePrompt:
     'A cozy Cookie Run: Kingdom CookieChat scene with several cookies sitting around a candy table exchanging glowing wrapped gifts, hearts floating above them, set against a warm pastel kingdom background — warm, friendly, no text overlays.',
 

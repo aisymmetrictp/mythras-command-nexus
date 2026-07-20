@@ -11,6 +11,7 @@ export const ashSaltCookieToppings: BlogPost = {
     'Ash Salt Cookie best toppings, beascuit, team comps and pull verdict for v7.4. Mythras-tested CD build that strips revive shields like a Legendary.',
   excerpt:
     'Ash Salt is the Epic anti-revive debuffer the F2P roster has been waiting for. Here is the exact toppings, beascuit and team build we run in v7.4.',
+  tldr: 'Ash Salt Cookie\'s best build is Swift Chocolate x5 toppings with 3 Cooldown and 2 ATK SPD sub-stats, a Tainted Chewy beascuit attuned 3 CD + 1 DMGR, and a Chocolate topping tart. She\'s the v7.4 Epic anti-revive debuffer — worth pulling only if you already have Timekeeper or 500+ crystals saved.',
   featuredImagePrompt:
     'Dark fantasy portrait of Ash Salt Cookie surrounded by glowing corrosion stacks, ashen sigils floating around a Cookie Run Kingdom battlefield, cinematic lighting, painterly style, gold and obsidian color palette',
 

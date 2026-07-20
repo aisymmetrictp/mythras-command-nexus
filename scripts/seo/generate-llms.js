@@ -12,6 +12,7 @@
  */
 const fs = require('fs');
 const path = require('path');
+const { assertCovers } = require('../lib/site-games');
 
 const ROOT = path.join(__dirname, '..', '..');
 const BLOG = path.join(ROOT, 'src', 'data', 'blog');
@@ -45,6 +46,11 @@ const GAMES = [
   { slug: 'pokemon-pokopia', name: 'Pokémon Pokopia', blurb: 'The Pokémon life-sim: building and terraforming, Pokémon residents and their abilities, resource gathering, and island progression.' },
   { slug: 'crimson-desert', name: 'Crimson Desert', blurb: 'Pearl Abyss\' open-world action-adventure: combat systems and combos, exploration, boss encounters, and progression across Pywel.' },
 ];
+
+// Blurbs are hand-written per game, so this map can't be fully derived from
+// games.ts — instead, fail LOUDLY if games.ts has a game this map doesn't.
+// (A missing game here used to mean it silently vanished from llms.txt.)
+assertCovers('generate-llms.js', GAMES);
 
 // Extract a JS string-literal field from a file header, honoring \-escapes and
 // single/double/backtick quotes. Returns null if not found.

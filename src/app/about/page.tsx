@@ -10,7 +10,7 @@ import { BreadcrumbSchema, WebPageSchema, PersonSchema } from '@/components/Stru
 export const metadata: Metadata = {
   title: 'About Mythras',
     description:
-    'Mythras // The Multiverse is a gaming creator brand built around a multi-channel YouTube presence, a deep Cookie Run: Kingdom gear database, and written strategy guides across Cookie Run: Kingdom, Cookie Run: Braverse, Magic: The Gathering, Minecraft, Roblox, Fortnite, and PUBG. Meet the creator behind gamertagmythras.com.',
+    'Mythras // The Multiverse is a gaming creator brand built around a multi-channel YouTube presence, a deep Cookie Run: Kingdom gear database, and written strategy guides across 24 games — from Cookie Run: Kingdom and Magic: The Gathering to Elden Ring, Baldur\'s Gate 3, and Zelda. Meet the creator behind gamertagmythras.com.',
   alternates: { canonical: 'https://gamertagmythras.com/about' },
   openGraph: {
     title: 'About Mythras // The Multiverse',
@@ -117,8 +117,10 @@ export default function AboutPage() {
                 </li>
                 <li>
                   <strong><Link href="/blog">Blog</Link></strong> — tier lists, patch and set breakdowns,
-                  build and deck guides, and beginner walkthroughs across seven games: Cookie Run: Kingdom,
-                  Cookie Run: Braverse, Magic: The Gathering, Minecraft, Roblox, Fortnite, and PUBG.
+                  build and deck guides, and beginner walkthroughs across 24 games — the Cookie Run titles,
+                  Magic: The Gathering, Minecraft, Roblox, Fortnite, and PUBG, plus Genshin Impact, Elden Ring,
+                  Baldur&apos;s Gate 3, Counter-Strike 2, The Witcher 3, three Zelda classics, Super Mario 64,
+                  Half-Life 2, The Last of Us, Resident Evil, Tetris, and more.
                 </li>
                 <li>
                   <strong><Link href="/#content-hub">Video hub</Link></strong> — where we&apos;ve covered a

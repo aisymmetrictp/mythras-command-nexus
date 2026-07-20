@@ -11,6 +11,7 @@ export const crkRerollGuide: BlogPost = {
     'Should you reroll in Cookie Run: Kingdom in May 2026? The 12 best starting Cookies to chase, fastest reroll method, and what to do after you land a great account.',
   excerpt:
     'A no-fluff reroll guide for new CRK players in May 2026 — which Legendaries are worth restarting for, how to reroll in under 25 minutes, and the post-reroll checklist that locks in your account.',
+  tldr: 'Reroll in CRK only if you\'re brand new and haven\'t linked your account. Use the guest-account clear-data loop (20-30 minutes per attempt), redeem the active May 2026 codes for 30-60 free pulls, and stop the moment you land Dark Enchantress, Timekeeper, Sugar Swan, Millennial Tree, Aegis Hollyberry, Silent Salt, Awakened Pure Vanilla, or Eternal Sugar. Cap yourself at 10 attempts.',
   featuredImagePrompt:
     'A new Cookie Run: Kingdom save-file selection screen with glowing Legendary summon orbs floating above three candy-themed kingdoms, vibrant pastels with deep purple accents, no text, mobile-friendly framing.',
 

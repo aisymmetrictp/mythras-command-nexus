@@ -1,7 +1,7 @@
 {
- "generated": "2026-06-25",
- "total": 337,
- "withVideo": 6,
+ "generated": "2026-07-20",
+ "total": 508,
+ "withVideo": 38,
  "thresholds": {
   "thinWords": 1200,
   "veryThinWords": 900,
@@ -21,7 +21,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 28,
+   "ageDays": 53,
    "score": 3,
    "flags": [
     "thin-body",
@@ -39,7 +39,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 3,
    "flags": [
     "thin-body",
@@ -57,10 +57,28 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 3,
    "flags": [
     "few-images",
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "pokemon-pokopia",
+   "slug": "pokemon-pokopia-ditto-transformations-guide",
+   "words": 1448,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 0,
+   "score": 2,
+   "flags": [
     "few-internal-links",
     "no-video"
    ]
@@ -76,7 +94,25 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "pokemon-pokopia",
+   "slug": "pokemon-pokopia-habitat-comfort-guide",
+   "words": 1543,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -94,7 +130,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -112,7 +148,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -130,7 +166,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -148,7 +184,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -166,7 +202,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 7,
+   "ageDays": 32,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -184,7 +220,25 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "mina-the-hollower",
+   "slug": "mina-the-hollower-weapons-guide",
+   "words": 1707,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -202,7 +256,25 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "resident-evil-requiem",
+   "slug": "resident-evil-requiem-beginner-guide",
+   "words": 1715,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -220,7 +292,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 27,
+   "ageDays": 52,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -238,7 +310,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -256,7 +328,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -274,7 +346,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 19,
+   "ageDays": 44,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -292,7 +364,25 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "pokemon-pokopia",
+   "slug": "pokemon-pokopia-beginner-guide",
+   "words": 1769,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -310,7 +400,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -328,7 +418,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -346,7 +436,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -364,7 +454,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 27,
+   "ageDays": 52,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -382,7 +472,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -400,7 +490,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 7,
+   "ageDays": 32,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -418,7 +508,25 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 21,
+   "ageDays": 46,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "the-witcher-3",
+   "slug": "witcher-3-beginner-guide",
+   "words": 1829,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -436,7 +544,43 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "the-witcher-3",
+   "slug": "witcher-3-witcher-gear-guide",
+   "words": 1852,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 0,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "mina-the-hollower",
+   "slug": "mina-the-hollower-sidearms-trinkets-guide",
+   "words": 1859,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -454,7 +598,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -472,7 +616,25 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 14,
+   "ageDays": 39,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "zelda-ocarina-of-time",
+   "slug": "ocarina-of-time-dungeon-order-guide",
+   "words": 1876,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -490,7 +652,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -508,7 +670,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 1,
+   "ageDays": 26,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -526,7 +688,25 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 1,
+   "ageDays": 26,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "resident-evil-4",
+   "slug": "resident-evil-4-remake-beginner-guide",
+   "words": 1895,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -544,7 +724,25 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 7,
+   "ageDays": 32,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "the-witcher-3",
+   "slug": "witcher-3-build-guide",
+   "words": 1898,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -562,7 +760,25 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 14,
+   "ageDays": 39,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "zelda-ocarina-of-time",
+   "slug": "ocarina-of-time-songs-guide",
+   "words": 1900,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -580,25 +796,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 19,
-   "score": 2,
-   "flags": [
-    "few-internal-links",
-    "no-video"
-   ]
-  },
-  {
-   "game": "minecraft",
-   "slug": "best-minecraft-farms",
-   "words": 1915,
-   "inlineImg": 4,
-   "hasHero": true,
-   "internal": 0,
-   "faq": 6,
-   "hasTldr": true,
-   "hasItemList": true,
-   "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 44,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -616,7 +814,61 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "best-minecraft-farms",
+   "words": 1915,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 48,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "resident-evil-4",
+   "slug": "resident-evil-4-remake-weapon-upgrade-guide",
+   "words": 1924,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 0,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "crimson-desert",
+   "slug": "crimson-desert-abyss-cores-guide",
+   "words": 1931,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -634,7 +886,25 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "crimson-desert",
+   "slug": "crimson-desert-pywel-exploration-guide",
+   "words": 1936,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -652,7 +922,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -670,7 +940,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 29,
+   "ageDays": 54,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -688,7 +958,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 20,
+   "ageDays": 45,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -706,7 +976,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 18,
+   "ageDays": 43,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -724,7 +994,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -742,7 +1012,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 27,
+   "ageDays": 52,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -760,7 +1030,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 2,
+   "ageDays": 27,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -775,10 +1045,10 @@
    "hasHero": true,
    "internal": 1,
    "faq": 7,
-   "hasTldr": false,
+   "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 33,
+   "ageDays": 58,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -796,7 +1066,25 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 18,
+   "ageDays": 43,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "elden-ring",
+   "slug": "best-elden-ring-starting-class",
+   "words": 1985,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -814,7 +1102,43 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 19,
+   "ageDays": 44,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "crimson-desert",
+   "slug": "crimson-desert-combat-guide",
+   "words": 1992,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "half-life-2",
+   "slug": "half-life-2-gravity-gun-guide",
+   "words": 2002,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -832,7 +1156,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 8,
+   "ageDays": 33,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -850,7 +1174,43 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "resident-evil-4",
+   "slug": "resident-evil-4-remake-merchant-guide",
+   "words": 2004,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "super-mario-64",
+   "slug": "super-mario-64-movement-guide",
+   "words": 2005,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -868,7 +1228,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -886,7 +1246,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -904,7 +1264,25 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 14,
+   "ageDays": 39,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "zelda-ocarina-of-time",
+   "slug": "ocarina-of-time-water-temple-guide",
+   "words": 2027,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -922,7 +1300,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 19,
+   "ageDays": 44,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -940,7 +1318,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 29,
+   "ageDays": 54,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -958,7 +1336,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -976,7 +1354,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 7,
+   "ageDays": 32,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -994,7 +1372,25 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 15,
+   "ageDays": 40,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "mina-the-hollower",
+   "slug": "mina-the-hollower-beginner-guide",
+   "words": 2066,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1012,7 +1408,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 20,
+   "ageDays": 45,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1030,7 +1426,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 1,
+   "ageDays": 26,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1048,7 +1444,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 0,
+   "ageDays": 25,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1066,7 +1462,25 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 18,
+   "ageDays": 43,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "elden-ring",
+   "slug": "elden-ring-weapon-scaling-explained",
+   "words": 2101,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1084,7 +1498,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 18,
+   "ageDays": 43,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1102,7 +1516,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 1,
+   "ageDays": 26,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1120,7 +1534,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 20,
+   "ageDays": 45,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1138,7 +1552,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1156,7 +1570,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 8,
+   "ageDays": 33,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1174,7 +1588,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 20,
+   "ageDays": 45,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1192,7 +1606,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 4,
+   "ageDays": 29,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1210,7 +1624,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 4,
+   "ageDays": 29,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1228,7 +1642,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 3,
+   "ageDays": 28,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1246,7 +1660,25 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 2,
+   "ageDays": 27,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "elden-ring",
+   "slug": "elden-ring-early-game-route",
+   "words": 2145,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1264,7 +1696,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 8,
+   "ageDays": 33,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1282,7 +1714,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 21,
+   "ageDays": 46,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1300,7 +1732,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 7,
+   "ageDays": 32,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1318,7 +1750,43 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 1,
+   "ageDays": 26,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "half-life-2",
+   "slug": "half-life-2-beginner-guide",
+   "words": 2159,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "super-mario-64",
+   "slug": "super-mario-64-secret-stars-guide",
+   "words": 2165,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1336,7 +1804,25 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 15,
+   "ageDays": 40,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "half-life-2",
+   "slug": "half-life-2-weapons-guide",
+   "words": 2170,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 0,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1354,7 +1840,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 19,
+   "ageDays": 44,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1372,7 +1858,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1390,7 +1876,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 14,
+   "ageDays": 39,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1408,7 +1894,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 21,
+   "ageDays": 46,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1426,7 +1912,25 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 18,
+   "ageDays": 43,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "baldurs-gate-3",
+   "slug": "baldurs-gate-3-beginner-guide",
+   "words": 2181,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1444,7 +1948,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1459,6 +1963,24 @@
    "hasHero": true,
    "internal": 0,
    "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 25,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "baldurs-gate-3",
+   "slug": "best-baldurs-gate-3-classes-for-beginners",
+   "words": 2185,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 5,
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
@@ -1480,7 +2002,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 3,
+   "ageDays": 28,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1498,7 +2020,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 8,
+   "ageDays": 33,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1516,7 +2038,25 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 7,
+   "ageDays": 32,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "super-mario-64",
+   "slug": "super-mario-64-beginner-guide",
+   "words": 2193,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 1,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1534,7 +2074,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 21,
+   "ageDays": 46,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1552,7 +2092,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1570,7 +2110,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 3,
+   "ageDays": 28,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1588,7 +2128,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 18,
+   "ageDays": 43,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1606,7 +2146,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1624,7 +2164,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1642,7 +2182,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 2,
+   "ageDays": 27,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1660,7 +2200,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 32,
+   "ageDays": 57,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1678,7 +2218,25 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 19,
+   "ageDays": 44,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "baldurs-gate-3",
+   "slug": "baldurs-gate-3-multiclassing-guide",
+   "words": 2245,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1696,7 +2254,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 19,
+   "ageDays": 44,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1714,7 +2272,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 3,
+   "ageDays": 28,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1732,7 +2290,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 1,
+   "ageDays": 26,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1750,7 +2308,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 4,
+   "ageDays": 29,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1768,7 +2326,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1786,7 +2344,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 15,
+   "ageDays": 40,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1804,7 +2362,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 2,
+   "ageDays": 27,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1822,7 +2380,25 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "genshin-impact",
+   "slug": "genshin-elemental-reactions-guide",
+   "words": 2317,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1840,7 +2416,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 29,
+   "ageDays": 54,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1858,7 +2434,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 2,
+   "ageDays": 27,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1876,7 +2452,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1894,7 +2470,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1912,7 +2488,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1930,7 +2506,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1948,7 +2524,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 18,
+   "ageDays": 43,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1966,7 +2542,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -1984,7 +2560,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 19,
+   "ageDays": 44,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -2002,7 +2578,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 21,
+   "ageDays": 46,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -2020,7 +2596,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 32,
+   "ageDays": 57,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -2038,7 +2614,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 32,
+   "ageDays": 57,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -2056,7 +2632,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 3,
+   "ageDays": 28,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -2074,7 +2650,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 2,
+   "ageDays": 27,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -2092,7 +2668,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 32,
+   "ageDays": 57,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -2110,7 +2686,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 15,
+   "ageDays": 40,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -2128,7 +2704,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "crk-speedrun-teams-guide",
+   "words": 1371,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 20,
    "score": 1,
    "flags": [
     "no-video"
@@ -2145,7 +2738,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 28,
+   "ageDays": 53,
    "score": 1,
    "flags": [
     "no-video"
@@ -2162,7 +2755,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 1,
    "flags": [
     "no-video"
@@ -2179,7 +2772,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 1,
    "flags": [
     "no-video"
@@ -2196,7 +2789,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "crk-tree-of-wishes-guide",
+   "words": 1460,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 6,
    "score": 1,
    "flags": [
     "no-video"
@@ -2213,7 +2823,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 1,
    "flags": [
     "no-video"
@@ -2230,7 +2840,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 1,
    "flags": [
     "no-video"
@@ -2247,7 +2857,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 1,
    "flags": [
     "no-video"
@@ -2264,7 +2874,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 1,
    "flags": [
     "no-video"
@@ -2281,7 +2891,24 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "crk-todays-bounties-guide",
+   "words": 1562,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 7,
    "score": 1,
    "flags": [
     "no-video"
@@ -2298,7 +2925,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 1,
    "flags": [
     "no-video"
@@ -2315,7 +2942,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 28,
+   "ageDays": 53,
    "score": 1,
    "flags": [
     "no-video"
@@ -2332,7 +2959,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 8,
+   "ageDays": 33,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "tetris",
+   "slug": "tetris-finesse-guide",
+   "words": 1590,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 1,
    "flags": [
     "no-video"
@@ -2349,7 +2993,41 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 33,
+   "ageDays": 58,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "crk-mileage-points-guide",
+   "words": 1613,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 10,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 19,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "crk-bear-jelly-train-guide",
+   "words": 1626,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 2,
    "score": 1,
    "flags": [
     "no-video"
@@ -2366,7 +3044,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 1,
    "flags": [
     "no-video"
@@ -2380,10 +3058,27 @@
    "hasHero": true,
    "internal": 5,
    "faq": 7,
-   "hasTldr": false,
+   "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 33,
+   "ageDays": 58,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "best-crk-arena-defense-teams",
+   "words": 1655,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 9,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 20,
    "score": 1,
    "flags": [
     "no-video"
@@ -2397,10 +3092,10 @@
    "hasHero": true,
    "internal": 4,
    "faq": 6,
-   "hasTldr": false,
+   "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 27,
+   "ageDays": 52,
    "score": 1,
    "flags": [
     "no-video"
@@ -2414,10 +3109,10 @@
    "hasHero": true,
    "internal": 7,
    "faq": 6,
-   "hasTldr": false,
+   "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 27,
+   "ageDays": 52,
    "score": 1,
    "flags": [
     "no-video"
@@ -2434,7 +3129,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 7,
+   "ageDays": 32,
    "score": 1,
    "flags": [
     "no-video"
@@ -2451,7 +3146,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 7,
+   "ageDays": 32,
    "score": 1,
    "flags": [
     "no-video"
@@ -2468,7 +3163,24 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 4,
+   "ageDays": 29,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "crk-star-jelly-guide",
+   "words": 1704,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 11,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 8,
    "score": 1,
    "flags": [
     "no-video"
@@ -2485,7 +3197,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 18,
+   "ageDays": 43,
    "score": 1,
    "flags": [
     "no-video"
@@ -2499,10 +3211,27 @@
    "hasHero": true,
    "internal": 5,
    "faq": 7,
-   "hasTldr": false,
+   "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 32,
+   "ageDays": 57,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-emergency-pickup-guide",
+   "words": 1718,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 2,
    "score": 1,
    "flags": [
     "no-video"
@@ -2519,7 +3248,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-mtg-anthem-effects",
+   "words": 1759,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 6,
    "score": 1,
    "flags": [
     "no-video"
@@ -2536,7 +3282,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 1,
    "flags": [
     "no-video"
@@ -2553,7 +3299,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 8,
+   "ageDays": 33,
    "score": 1,
    "flags": [
     "no-video"
@@ -2567,10 +3313,27 @@
    "hasHero": true,
    "internal": 8,
    "faq": 6,
-   "hasTldr": false,
+   "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 27,
+   "ageDays": 52,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-wolf-armor-guide",
+   "words": 1774,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 6,
    "score": 1,
    "flags": [
     "no-video"
@@ -2587,7 +3350,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 1,
+   "ageDays": 26,
    "score": 1,
    "flags": [
     "no-video"
@@ -2604,7 +3367,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
    "score": 1,
    "flags": [
     "no-video"
@@ -2621,7 +3384,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "resident-evil-requiem",
+   "slug": "resident-evil-requiem-leon-combat-guide",
+   "words": 1786,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 1,
    "flags": [
     "no-video"
@@ -2638,7 +3418,41 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 14,
+   "ageDays": 39,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-scope-zeroing-guide",
+   "words": 1790,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 8,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-mtg-landfall-payoffs",
+   "words": 1796,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 9,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 6,
    "score": 1,
    "flags": [
     "no-video"
@@ -2655,7 +3469,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 8,
+   "ageDays": 33,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "crk-seaside-market-guide",
+   "words": 1798,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 9,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 3,
    "score": 1,
    "flags": [
     "no-video"
@@ -2672,7 +3503,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 4,
+   "ageDays": 29,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-red-zone-guide",
+   "words": 1800,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 2,
    "score": 1,
    "flags": [
     "no-video"
@@ -2689,7 +3537,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 1,
    "flags": [
     "no-video"
@@ -2706,7 +3554,58 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
+   "ageDays": 44,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-mono-color-decks",
+   "words": 1821,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 9,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 3,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-shotgun-guide",
+   "words": 1823,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
    "ageDays": 19,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-sniffer-guide",
+   "words": 1824,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 7,
    "score": 1,
    "flags": [
     "no-video"
@@ -2723,7 +3622,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-shulker-box-guide",
+   "words": 1833,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 6,
    "score": 1,
    "flags": [
     "no-video"
@@ -2740,7 +3656,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 14,
+   "ageDays": 39,
    "score": 1,
    "flags": [
     "no-video"
@@ -2757,7 +3673,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 0,
+   "ageDays": 25,
    "score": 1,
    "flags": [
     "no-video"
@@ -2774,7 +3690,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
    "score": 1,
    "flags": [
     "no-video"
@@ -2791,7 +3707,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 15,
+   "ageDays": 40,
    "score": 1,
    "flags": [
     "no-video"
@@ -2808,7 +3724,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 7,
+   "ageDays": 32,
    "score": 1,
    "flags": [
     "no-video"
@@ -2825,7 +3741,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 0,
+   "ageDays": 25,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-villager-jobs-guide",
+   "words": 1867,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 19,
    "score": 1,
    "flags": [
     "no-video"
@@ -2842,7 +3775,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 19,
+   "ageDays": 44,
    "score": 1,
    "flags": [
     "no-video"
@@ -2859,7 +3792,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 20,
+   "ageDays": 45,
    "score": 1,
    "flags": [
     "no-video"
@@ -2876,7 +3809,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 2,
+   "ageDays": 27,
    "score": 1,
    "flags": [
     "no-video"
@@ -2893,7 +3826,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 1,
    "flags": [
     "no-video"
@@ -2910,7 +3843,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 18,
+   "ageDays": 43,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-mtg-token-doublers",
+   "words": 1877,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 9,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 2,
    "score": 1,
    "flags": [
     "no-video"
@@ -2927,7 +3877,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 3,
+   "ageDays": 28,
    "score": 1,
    "flags": [
     "no-video"
@@ -2944,7 +3894,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 2,
+   "ageDays": 27,
    "score": 1,
    "flags": [
     "no-video"
@@ -2961,7 +3911,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 32,
+   "ageDays": 57,
    "score": 1,
    "flags": [
     "no-video"
@@ -2978,7 +3928,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 21,
+   "ageDays": 46,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-firework-guide",
+   "words": 1890,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 8,
    "score": 1,
    "flags": [
     "no-video"
@@ -2992,10 +3959,10 @@
    "hasHero": true,
    "internal": 4,
    "faq": 7,
-   "hasTldr": false,
+   "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 32,
+   "ageDays": 57,
    "score": 1,
    "flags": [
     "no-video"
@@ -3009,10 +3976,10 @@
    "hasHero": true,
    "internal": 4,
    "faq": 7,
-   "hasTldr": false,
+   "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 32,
+   "ageDays": 57,
    "score": 1,
    "flags": [
     "no-video"
@@ -3029,7 +3996,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 28,
+   "ageDays": 53,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-banner-guide",
+   "words": 1901,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 7,
    "score": 1,
    "flags": [
     "no-video"
@@ -3046,7 +4030,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 29,
+   "ageDays": 54,
    "score": 1,
    "flags": [
     "no-video"
@@ -3063,7 +4047,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 4,
+   "ageDays": 29,
    "score": 1,
    "flags": [
     "no-video"
@@ -3080,7 +4064,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 21,
+   "ageDays": 46,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "zelda-a-link-to-the-past",
+   "slug": "alttp-items-upgrades-guide",
+   "words": 1909,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 1,
    "flags": [
     "no-video"
@@ -3097,7 +4098,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 8,
+   "ageDays": 33,
    "score": 1,
    "flags": [
     "no-video"
@@ -3111,10 +4112,44 @@
    "hasHero": true,
    "internal": 3,
    "faq": 7,
-   "hasTldr": false,
+   "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 33,
+   "ageDays": 58,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-flanking-guide",
+   "words": 1913,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 9,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 8,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-status-effects-guide",
+   "words": 1915,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 20,
    "score": 1,
    "flags": [
     "no-video"
@@ -3131,7 +4166,41 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 19,
+   "ageDays": 44,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "resident-evil-requiem",
+   "slug": "resident-evil-requiem-grace-survival-guide",
+   "words": 1925,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "crk-guild-battle-guide",
+   "words": 1926,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 22,
    "score": 1,
    "flags": [
     "no-video"
@@ -3148,7 +4217,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 1,
    "flags": [
     "no-video"
@@ -3165,7 +4234,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 2,
+   "ageDays": 27,
    "score": 1,
    "flags": [
     "no-video"
@@ -3182,7 +4251,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 28,
+   "ageDays": 53,
    "score": 1,
    "flags": [
     "no-video"
@@ -3199,7 +4268,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "tetris",
+   "slug": "tetris-stacking-fundamentals",
+   "words": 1935,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 1,
    "flags": [
     "no-video"
@@ -3216,7 +4302,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 20,
+   "ageDays": 45,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-piglin-bartering-guide",
+   "words": 1936,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 22,
    "score": 1,
    "flags": [
     "no-video"
@@ -3233,7 +4336,41 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 21,
+   "ageDays": 46,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-edit-courses-guide",
+   "words": 1939,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 6,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "counter-strike-2",
+   "slug": "cs2-utility-guide",
+   "words": 1941,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 1,
    "flags": [
     "no-video"
@@ -3250,7 +4387,41 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
+   "ageDays": 25,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "zelda-a-link-to-the-past",
+   "slug": "a-link-to-the-past-beginner-guide",
+   "words": 1945,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
    "ageDays": 0,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-mtg-haste-enablers",
+   "words": 1946,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 2,
    "score": 1,
    "flags": [
     "no-video"
@@ -3267,24 +4438,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 15,
-   "score": 1,
-   "flags": [
-    "no-video"
-   ]
-  },
-  {
-   "game": "cookie-run-kingdom",
-   "slug": "shadow-milk-cookie-toppings-build",
-   "words": 1954,
-   "inlineImg": 3,
-   "hasHero": true,
-   "internal": 7,
-   "faq": 6,
-   "hasTldr": true,
-   "hasItemList": false,
-   "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 40,
    "score": 1,
    "flags": [
     "no-video"
@@ -3301,7 +4455,41 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 0,
+   "ageDays": 25,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-color-pairs-guide",
+   "words": 1956,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 9,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 20,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-name-tags-guide",
+   "words": 1956,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 2,
    "score": 1,
    "flags": [
     "no-video"
@@ -3318,7 +4506,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 8,
+   "ageDays": 33,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-mtg-pillowfort-cards",
+   "words": 1958,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 7,
    "score": 1,
    "flags": [
     "no-video"
@@ -3332,10 +4537,27 @@
    "hasHero": true,
    "internal": 6,
    "faq": 7,
-   "hasTldr": false,
+   "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 33,
+   "ageDays": 58,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "tetris",
+   "slug": "tetris-t-spin-guide",
+   "words": 1973,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 1,
    "flags": [
     "no-video"
@@ -3352,7 +4574,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 19,
+   "ageDays": 44,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-cherry-grove-guide",
+   "words": 1977,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 10,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 3,
    "score": 1,
    "flags": [
     "no-video"
@@ -3369,7 +4608,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 2,
+   "ageDays": 27,
    "score": 1,
    "flags": [
     "no-video"
@@ -3386,7 +4625,24 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "counter-strike-2",
+   "slug": "cs2-economy-guide",
+   "words": 1985,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 1,
    "flags": [
     "no-video"
@@ -3403,7 +4659,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
    "score": 1,
    "flags": [
     "no-video"
@@ -3420,7 +4676,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 4,
+   "ageDays": 29,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-smithing-templates-guide",
+   "words": 1987,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 11,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 3,
    "score": 1,
    "flags": [
     "no-video"
@@ -3437,7 +4710,24 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 3,
+   "ageDays": 28,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "roblox-remote-events-guide",
+   "words": 1989,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 19,
    "score": 1,
    "flags": [
     "no-video"
@@ -3454,7 +4744,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 33,
+   "ageDays": 58,
    "score": 1,
    "flags": [
     "no-video"
@@ -3471,7 +4761,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 4,
+   "ageDays": 29,
    "score": 1,
    "flags": [
     "no-video"
@@ -3488,7 +4778,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
    "score": 1,
    "flags": [
     "no-video"
@@ -3505,7 +4795,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 19,
+   "ageDays": 44,
    "score": 1,
    "flags": [
     "no-video"
@@ -3519,10 +4809,10 @@
    "hasHero": true,
    "internal": 5,
    "faq": 7,
-   "hasTldr": false,
+   "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 32,
+   "ageDays": 57,
    "score": 1,
    "flags": [
     "no-video"
@@ -3539,7 +4829,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 19,
+   "ageDays": 44,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "counter-strike-2",
+   "slug": "cs2-spray-control-guide",
+   "words": 2002,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 1,
    "flags": [
     "no-video"
@@ -3556,7 +4863,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 1,
+   "ageDays": 26,
    "score": 1,
    "flags": [
     "no-video"
@@ -3573,7 +4880,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-map-art-guide",
+   "words": 2009,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 2,
    "score": 1,
    "flags": [
     "no-video"
@@ -3590,7 +4914,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 4,
+   "ageDays": 29,
    "score": 1,
    "flags": [
     "no-video"
@@ -3607,7 +4931,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 1,
    "flags": [
     "no-video"
@@ -3624,7 +4948,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
    "score": 1,
    "flags": [
     "no-video"
@@ -3641,7 +4965,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 3,
+   "ageDays": 28,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "zelda-a-link-to-the-past",
+   "slug": "alttp-dungeon-order-guide",
+   "words": 2029,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 1,
    "flags": [
     "no-video"
@@ -3658,7 +4999,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 19,
+   "ageDays": 44,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "crk-balloon-expedition-guide",
+   "words": 2038,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 9,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 22,
    "score": 1,
    "flags": [
     "no-video"
@@ -3675,7 +5033,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
    "score": 1,
    "flags": [
     "no-video"
@@ -3692,7 +5050,24 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 15,
+   "ageDays": 40,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-early-game-guide",
+   "words": 2048,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 7,
    "score": 1,
    "flags": [
     "no-video"
@@ -3709,7 +5084,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 1,
    "flags": [
     "no-video"
@@ -3726,7 +5101,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 21,
+   "ageDays": 46,
    "score": 1,
    "flags": [
     "no-video"
@@ -3743,7 +5118,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 18,
+   "ageDays": 43,
    "score": 1,
    "flags": [
     "no-video"
@@ -3760,7 +5135,41 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 0,
+   "ageDays": 25,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-budget-upgrades",
+   "words": 2060,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 7,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-mtg-voltron-equipment-commander",
+   "words": 2061,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 19,
    "score": 1,
    "flags": [
     "no-video"
@@ -3777,7 +5186,58 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 3,
+   "ageDays": 28,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-iron-farm-guide",
+   "words": 2063,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 22,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-paramo-map-guide",
+   "words": 2066,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 22,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-lush-caves-guide",
+   "words": 2067,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 19,
    "score": 1,
    "flags": [
     "no-video"
@@ -3794,7 +5254,75 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-mtg-double-strike-cards",
+   "words": 2070,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 9,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 0,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "roblox-tween-animation-guide",
+   "words": 2070,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 7,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-third-party-guide",
+   "words": 2072,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 19,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-team-communication-guide",
+   "words": 2073,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 6,
    "score": 1,
    "flags": [
     "no-video"
@@ -3811,7 +5339,58 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 8,
+   "ageDays": 33,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-mtg-cantrips",
+   "words": 2075,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 19,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-shield-heal-management-guide",
+   "words": 2079,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 2,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-mtg-sacrifice-outlets-commander",
+   "words": 2081,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 7,
    "score": 1,
    "flags": [
     "no-video"
@@ -3828,7 +5407,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 14,
+   "ageDays": 39,
    "score": 1,
    "flags": [
     "no-video"
@@ -3845,7 +5424,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 29,
+   "ageDays": 54,
    "score": 1,
    "flags": [
     "no-video"
@@ -3862,7 +5441,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 19,
+   "ageDays": 44,
    "score": 1,
    "flags": [
     "no-video"
@@ -3879,7 +5458,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "the-last-of-us",
+   "slug": "the-last-of-us-grounded-mode-guide",
+   "words": 2096,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 1,
    "flags": [
     "no-video"
@@ -3896,7 +5492,41 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 21,
+   "ageDays": 46,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-mtg-fight-removal",
+   "words": 2102,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 3,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-mtg-fast-mana-commander",
+   "words": 2103,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 20,
    "score": 1,
    "flags": [
     "no-video"
@@ -3913,7 +5543,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 20,
+   "ageDays": 45,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-spotting-guide",
+   "words": 2109,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 6,
    "score": 1,
    "flags": [
     "no-video"
@@ -3930,7 +5577,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 8,
+   "ageDays": 33,
    "score": 1,
    "flags": [
     "no-video"
@@ -3947,7 +5594,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 20,
+   "ageDays": 45,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "genshin-impact",
+   "slug": "genshin-gacha-wish-guide",
+   "words": 2112,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 1,
    "flags": [
     "no-video"
@@ -3964,7 +5628,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 1,
+   "ageDays": 26,
    "score": 1,
    "flags": [
     "no-video"
@@ -3981,7 +5645,41 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 8,
+   "ageDays": 33,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-conduit-guide",
+   "words": 2117,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 20,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "zelda-breath-of-the-wild",
+   "slug": "botw-combat-tips",
+   "words": 2117,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 1,
    "flags": [
     "no-video"
@@ -3998,7 +5696,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 19,
+   "ageDays": 44,
    "score": 1,
    "flags": [
     "no-video"
@@ -4015,7 +5713,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 19,
+   "ageDays": 44,
    "score": 1,
    "flags": [
     "no-video"
@@ -4032,7 +5730,41 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 19,
+   "ageDays": 44,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-crosshair-placement-guide",
+   "words": 2126,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 7,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-water-play-guide",
+   "words": 2127,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 3,
    "score": 1,
    "flags": [
     "no-video"
@@ -4049,24 +5781,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 19,
+   "ageDays": 44,
    "score": 1,
    "flags": [
     "no-video"
    ]
   },
   {
-   "game": "cookie-run-kingdom",
-   "slug": "capsaicin-cookie-toppings-build",
+   "game": "magic-the-gathering",
+   "slug": "best-mtg-reanimation-spells",
    "words": 2132,
-   "inlineImg": 3,
+   "inlineImg": 2,
    "hasHero": true,
-   "internal": 8,
-   "faq": 6,
+   "internal": 7,
+   "faq": 5,
    "hasTldr": true,
-   "hasItemList": false,
+   "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 2,
+   "ageDays": 20,
    "score": 1,
    "flags": [
     "no-video"
@@ -4083,7 +5815,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 8,
+   "ageDays": 33,
    "score": 1,
    "flags": [
     "no-video"
@@ -4100,7 +5832,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "roblox-teleport-service-guide",
+   "words": 2134,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 2,
    "score": 1,
    "flags": [
     "no-video"
@@ -4117,7 +5866,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 3,
+   "ageDays": 28,
    "score": 1,
    "flags": [
     "no-video"
@@ -4130,6 +5879,57 @@
    "inlineImg": 3,
    "hasHero": true,
    "internal": 5,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 28,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-sideboard-guide",
+   "words": 2146,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 6,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-mtg-mana-sinks",
+   "words": 2147,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 3,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "snapdragon-cookie-toppings-build",
+   "words": 2149,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 8,
    "faq": 5,
    "hasTldr": true,
    "hasItemList": false,
@@ -4151,7 +5951,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-mtg-cost-reducers",
+   "words": 2153,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 10,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 1,
    "flags": [
     "no-video"
@@ -4168,7 +5985,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 20,
+   "ageDays": 45,
    "score": 1,
    "flags": [
     "no-video"
@@ -4185,19 +6002,19 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 2,
+   "ageDays": 27,
    "score": 1,
    "flags": [
     "no-video"
    ]
   },
   {
-   "game": "cookie-run-kingdom",
-   "slug": "star-coral-cookie-toppings-build",
+   "game": "zelda-breath-of-the-wild",
+   "slug": "botw-cooking-guide",
    "words": 2156,
-   "inlineImg": 4,
+   "inlineImg": 3,
    "hasHero": true,
-   "internal": 8,
+   "internal": 3,
    "faq": 5,
    "hasTldr": true,
    "hasItemList": false,
@@ -4219,7 +6036,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 4,
+   "ageDays": 29,
    "score": 1,
    "flags": [
     "no-video"
@@ -4236,7 +6053,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 15,
+   "ageDays": 40,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "crk-kingdom-pass-guide",
+   "words": 2164,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 1,
    "flags": [
     "no-video"
@@ -4253,7 +6087,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 15,
+   "ageDays": 40,
    "score": 1,
    "flags": [
     "no-video"
@@ -4270,7 +6104,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 21,
+   "ageDays": 46,
    "score": 1,
    "flags": [
     "no-video"
@@ -4287,7 +6121,58 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 7,
+   "ageDays": 32,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-mtg-goad-cards",
+   "words": 2179,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 8,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-fishing-guide",
+   "words": 2182,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 9,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 5,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "the-last-of-us",
+   "slug": "the-last-of-us-infected-guide",
+   "words": 2183,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 1,
    "flags": [
     "no-video"
@@ -4304,7 +6189,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 32,
+   "ageDays": 57,
    "score": 1,
    "flags": [
     "no-video"
@@ -4321,7 +6206,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "the-last-of-us",
+   "slug": "the-last-of-us-crafting-guide",
+   "words": 2185,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 1,
    "flags": [
     "no-video"
@@ -4338,7 +6240,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 14,
+   "ageDays": 39,
    "score": 1,
    "flags": [
     "no-video"
@@ -4355,7 +6257,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-mtg-treasure-payoffs",
+   "words": 2196,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 8,
    "score": 1,
    "flags": [
     "no-video"
@@ -4372,7 +6291,58 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 20,
+   "ageDays": 45,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-mid-game-guide",
+   "words": 2198,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 3,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-weapon-mastery-guide",
+   "words": 2208,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-tnt-guide",
+   "words": 2208,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 9,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 5,
    "score": 1,
    "flags": [
     "no-video"
@@ -4389,7 +6359,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 15,
+   "ageDays": 40,
    "score": 1,
    "flags": [
     "no-video"
@@ -4406,24 +6376,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 0,
-   "score": 1,
-   "flags": [
-    "no-video"
-   ]
-  },
-  {
-   "game": "cookie-run-kingdom",
-   "slug": "cookie-run-kingdom-tier-list",
-   "words": 2218,
-   "inlineImg": 4,
-   "hasHero": true,
-   "internal": 5,
-   "faq": 7,
-   "hasTldr": true,
-   "hasItemList": true,
-   "hasVideo": false,
-   "ageDays": 33,
+   "ageDays": 25,
    "score": 1,
    "flags": [
     "no-video"
@@ -4437,10 +6390,27 @@
    "hasHero": true,
    "internal": 8,
    "faq": 7,
-   "hasTldr": false,
+   "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 32,
+   "ageDays": 57,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "roblox-ui-design-basics-guide",
+   "words": 2222,
+   "inlineImg": 5,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 8,
    "score": 1,
    "flags": [
     "no-video"
@@ -4457,24 +6427,41 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 14,
+   "ageDays": 39,
    "score": 1,
    "flags": [
     "no-video"
    ]
   },
   {
-   "game": "cookie-run-kingdom",
-   "slug": "mystic-flour-cookie-toppings-build",
-   "words": 2231,
+   "game": "magic-the-gathering",
+   "slug": "best-mtg-hatebears",
+   "words": 2226,
    "inlineImg": 4,
    "hasHero": true,
-   "internal": 7,
-   "faq": 6,
+   "internal": 10,
+   "faq": 5,
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 5,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-vehicle-combat-guide",
+   "words": 2229,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 19,
    "score": 1,
    "flags": [
     "no-video"
@@ -4491,7 +6478,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 0,
+   "ageDays": 25,
    "score": 1,
    "flags": [
     "no-video"
@@ -4508,7 +6495,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 14,
+   "ageDays": 39,
    "score": 1,
    "flags": [
     "no-video"
@@ -4525,7 +6512,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 7,
+   "ageDays": 32,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-vehicles-guide",
+   "words": 2236,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 9,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 3,
    "score": 1,
    "flags": [
     "no-video"
@@ -4542,7 +6546,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 7,
+   "ageDays": 32,
    "score": 1,
    "flags": [
     "no-video"
@@ -4559,7 +6563,41 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "roblox-game-passes-developer-products-guide",
+   "words": 2238,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 20,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-tempo-deck-guide",
+   "words": 2239,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 22,
    "score": 1,
    "flags": [
     "no-video"
@@ -4573,10 +6611,10 @@
    "hasHero": true,
    "internal": 6,
    "faq": 7,
-   "hasTldr": false,
+   "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 32,
+   "ageDays": 57,
    "score": 1,
    "flags": [
     "no-video"
@@ -4593,7 +6631,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
    "score": 1,
    "flags": [
     "no-video"
@@ -4610,7 +6648,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 4,
+   "ageDays": 29,
    "score": 1,
    "flags": [
     "no-video"
@@ -4627,7 +6665,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 3,
+   "ageDays": 28,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-mythic-weapons-guide",
+   "words": 2256,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 7,
    "score": 1,
    "flags": [
     "no-video"
@@ -4644,7 +6699,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 19,
+   "ageDays": 44,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-tech-cards-guide",
+   "words": 2257,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 9,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 8,
    "score": 1,
    "flags": [
     "no-video"
@@ -4661,7 +6733,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 18,
+   "ageDays": 43,
    "score": 1,
    "flags": [
     "no-video"
@@ -4678,7 +6750,24 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-mtg-protection-spells",
+   "words": 2270,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 22,
    "score": 1,
    "flags": [
     "no-video"
@@ -4695,7 +6784,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 20,
+   "ageDays": 45,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-spawner-guide",
+   "words": 2271,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 1,
    "flags": [
     "no-video"
@@ -4712,7 +6818,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
    "score": 1,
    "flags": [
     "no-video"
@@ -4729,7 +6835,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 20,
+   "ageDays": 45,
    "score": 1,
    "flags": [
     "no-video"
@@ -4746,7 +6852,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 20,
+   "ageDays": 45,
    "score": 1,
    "flags": [
     "no-video"
@@ -4763,7 +6869,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "zelda-breath-of-the-wild",
+   "slug": "botw-beginner-guide",
+   "words": 2290,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 1,
    "flags": [
     "no-video"
@@ -4780,24 +6903,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 1,
-   "score": 1,
-   "flags": [
-    "no-video"
-   ]
-  },
-  {
-   "game": "cookie-run-kingdom",
-   "slug": "pure-vanilla-awakened-toppings",
-   "words": 2298,
-   "inlineImg": 3,
-   "hasHero": true,
-   "internal": 5,
-   "faq": 7,
-   "hasTldr": false,
-   "hasItemList": false,
-   "hasVideo": false,
-   "ageDays": 32,
+   "ageDays": 26,
    "score": 1,
    "flags": [
     "no-video"
@@ -4814,7 +6920,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 2,
+   "ageDays": 27,
    "score": 1,
    "flags": [
     "no-video"
@@ -4831,7 +6937,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 1,
    "flags": [
     "no-video"
@@ -4848,7 +6954,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
    "score": 1,
    "flags": [
     "no-video"
@@ -4862,10 +6968,44 @@
    "hasHero": true,
    "internal": 5,
    "faq": 7,
-   "hasTldr": false,
+   "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 32,
+   "ageDays": 57,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "crk-hall-of-ancient-heroes-guide",
+   "words": 2309,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 9,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 5,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-extra-deck-guide",
+   "words": 2309,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 10,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 5,
    "score": 1,
    "flags": [
     "no-video"
@@ -4882,7 +7022,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
    "score": 1,
    "flags": [
     "no-video"
@@ -4899,7 +7039,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
    "score": 1,
    "flags": [
     "no-video"
@@ -4916,7 +7056,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 19,
+   "ageDays": 44,
    "score": 1,
    "flags": [
     "no-video"
@@ -4933,24 +7073,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 23,
-   "score": 1,
-   "flags": [
-    "no-video"
-   ]
-  },
-  {
-   "game": "cookie-run-kingdom",
-   "slug": "burning-spice-cookie-toppings-build",
-   "words": 2316,
-   "inlineImg": 3,
-   "hasHero": true,
-   "internal": 7,
-   "faq": 6,
-   "hasTldr": true,
-   "hasItemList": false,
-   "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
    "score": 1,
    "flags": [
     "no-video"
@@ -4967,7 +7090,24 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 4,
+   "ageDays": 29,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-training-mode-guide",
+   "words": 2317,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 10,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 1,
    "flags": [
     "no-video"
@@ -4984,7 +7124,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 21,
+   "ageDays": 46,
    "score": 1,
    "flags": [
     "no-video"
@@ -5001,7 +7141,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 14,
+   "ageDays": 39,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "roblox-pathfinding-guide",
+   "words": 2321,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 5,
    "score": 1,
    "flags": [
     "no-video"
@@ -5018,7 +7175,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 1,
    "flags": [
     "no-video"
@@ -5035,7 +7192,58 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-mtg-wheel-effects",
+   "words": 2333,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 5,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-automatic-farms-guide",
+   "words": 2333,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-break-area-guide",
+   "words": 2335,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 10,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 1,
    "flags": [
     "no-video"
@@ -5052,24 +7260,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 28,
-   "score": 1,
-   "flags": [
-    "no-video"
-   ]
-  },
-  {
-   "game": "cookie-run-kingdom",
-   "slug": "golden-cheese-cookie-toppings-build",
-   "words": 2344,
-   "inlineImg": 3,
-   "hasHero": true,
-   "internal": 10,
-   "faq": 6,
-   "hasTldr": true,
-   "hasItemList": false,
-   "hasVideo": false,
-   "ageDays": 7,
+   "ageDays": 53,
    "score": 1,
    "flags": [
     "no-video"
@@ -5086,7 +7277,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 15,
+   "ageDays": 40,
    "score": 1,
    "flags": [
     "no-video"
@@ -5103,7 +7294,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 19,
+   "ageDays": 44,
    "score": 1,
    "flags": [
     "no-video"
@@ -5120,7 +7311,41 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 15,
+   "ageDays": 40,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "genshin-impact",
+   "slug": "genshin-artifact-guide",
+   "words": 2359,
+   "inlineImg": 5,
+   "hasHero": true,
+   "internal": 3,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-siphon-guide",
+   "words": 2362,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 8,
    "score": 1,
    "flags": [
     "no-video"
@@ -5137,41 +7362,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 1,
+   "ageDays": 26,
    "score": 1,
    "flags": [
     "no-video"
    ]
   },
   {
-   "game": "cookie-run-kingdom",
-   "slug": "candy-apple-cookie-toppings-build",
-   "words": 2364,
+   "game": "roblox",
+   "slug": "roblox-lighting-atmosphere-guide",
+   "words": 2367,
    "inlineImg": 4,
    "hasHero": true,
-   "internal": 9,
-   "faq": 6,
+   "internal": 6,
+   "faq": 5,
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 1,
-   "score": 1,
-   "flags": [
-    "no-video"
-   ]
-  },
-  {
-   "game": "cookie-run-kingdom",
-   "slug": "black-pearl-cookie-toppings-build",
-   "words": 2368,
-   "inlineImg": 3,
-   "hasHero": true,
-   "internal": 7,
-   "faq": 6,
-   "hasTldr": true,
-   "hasItemList": false,
-   "hasVideo": false,
-   "ageDays": 18,
+   "ageDays": 6,
    "score": 1,
    "flags": [
     "no-video"
@@ -5188,24 +7396,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 26,
-   "score": 1,
-   "flags": [
-    "no-video"
-   ]
-  },
-  {
-   "game": "cookie-run-kingdom",
-   "slug": "elder-faerie-cookie-toppings-build",
-   "words": 2373,
-   "inlineImg": 4,
-   "hasHero": true,
-   "internal": 10,
-   "faq": 6,
-   "hasTldr": true,
-   "hasItemList": false,
-   "hasVideo": false,
-   "ageDays": 3,
+   "ageDays": 51,
    "score": 1,
    "flags": [
     "no-video"
@@ -5222,24 +7413,58 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 3,
+   "ageDays": 28,
    "score": 1,
    "flags": [
     "no-video"
    ]
   },
   {
-   "game": "cookie-run-kingdom",
-   "slug": "twizzly-gummy-cookie-toppings-build",
-   "words": 2397,
-   "inlineImg": 5,
+   "game": "roblox",
+   "slug": "roblox-datastore-saving-guide",
+   "words": 2390,
+   "inlineImg": 3,
    "hasHero": true,
-   "internal": 7,
+   "internal": 5,
    "faq": 5,
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 0,
+   "ageDays": 22,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-mangrove-swamp-guide",
+   "words": 2396,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 5,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-90s-building-guide",
+   "words": 2397,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 20,
    "score": 1,
    "flags": [
     "no-video"
@@ -5256,7 +7481,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 28,
+   "ageDays": 53,
    "score": 1,
    "flags": [
     "no-video"
@@ -5273,7 +7498,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
    "score": 1,
    "flags": [
     "no-video"
@@ -5290,7 +7515,24 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 4,
+   "ageDays": 29,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-inventory-management-guide",
+   "words": 2410,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 1,
    "flags": [
     "no-video"
@@ -5307,7 +7549,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 14,
+   "ageDays": 39,
    "score": 1,
    "flags": [
     "no-video"
@@ -5324,7 +7566,24 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 19,
+   "ageDays": 44,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-boss-cards-guide",
+   "words": 2434,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 9,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 2,
    "score": 1,
    "flags": [
     "no-video"
@@ -5341,7 +7600,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 32,
+   "ageDays": 57,
    "score": 1,
    "flags": [
     "no-video"
@@ -5358,7 +7617,58 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 21,
+   "ageDays": 46,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "magic-the-gathering",
+   "slug": "best-mtg-stax-pieces-commander",
+   "words": 2453,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 22,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-matchup-guide",
+   "words": 2461,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 12,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 19,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "mala-sauce-cookie-toppings-build",
+   "words": 2463,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 1,
    "flags": [
     "no-video"
@@ -5375,24 +7685,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
    "score": 1,
    "flags": [
     "no-video"
    ]
   },
   {
-   "game": "cookie-run-kingdom",
-   "slug": "frost-queen-cookie-toppings-build",
-   "words": 2472,
-   "inlineImg": 2,
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-compound-clearing-guide",
+   "words": 2474,
+   "inlineImg": 4,
    "hasHero": true,
-   "internal": 9,
-   "faq": 6,
+   "internal": 7,
+   "faq": 5,
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 19,
+   "ageDays": 20,
    "score": 1,
    "flags": [
     "no-video"
@@ -5409,7 +7719,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 18,
+   "ageDays": 43,
    "score": 1,
    "flags": [
     "no-video"
@@ -5426,7 +7736,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 19,
+   "ageDays": 44,
    "score": 1,
    "flags": [
     "no-video"
@@ -5443,7 +7753,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 18,
+   "ageDays": 43,
    "score": 1,
    "flags": [
     "no-video"
@@ -5460,24 +7770,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 2,
+   "ageDays": 27,
    "score": 1,
    "flags": [
     "no-video"
    ]
   },
   {
-   "game": "cookie-run-kingdom",
-   "slug": "dark-cacao-cookie-toppings-build",
-   "words": 2505,
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-bridge-crossing-guide",
+   "words": 2504,
    "inlineImg": 3,
    "hasHero": true,
-   "internal": 10,
-   "faq": 6,
+   "internal": 7,
+   "faq": 5,
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 7,
+   "ageDays": 5,
    "score": 1,
    "flags": [
     "no-video"
@@ -5494,7 +7804,41 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-karakin-map-guide",
+   "words": 2513,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 4,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 22,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "cream-puff-cookie-toppings-build",
+   "words": 2514,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
    "score": 1,
    "flags": [
     "no-video"
@@ -5511,7 +7855,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 23,
+   "ageDays": 48,
    "score": 1,
    "flags": [
     "no-video"
@@ -5528,7 +7872,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 1,
    "flags": [
     "no-video"
@@ -5545,7 +7889,24 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 1,
+   "ageDays": 26,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "roblox",
+   "slug": "roblox-particle-effects-guide",
+   "words": 2563,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 3,
    "score": 1,
    "flags": [
     "no-video"
@@ -5562,7 +7923,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 14,
+   "ageDays": 39,
    "score": 1,
    "flags": [
     "no-video"
@@ -5576,10 +7937,44 @@
    "hasHero": true,
    "internal": 7,
    "faq": 7,
-   "hasTldr": false,
+   "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 33,
+   "ageDays": 58,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-duo-strategy-guide",
+   "words": 2604,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 5,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "pubg-battlegrounds",
+   "slug": "pubg-haven-map-guide",
+   "words": 2605,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 9,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 20,
    "score": 1,
    "flags": [
     "no-video"
@@ -5596,7 +7991,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 26,
+   "ageDays": 51,
    "score": 1,
    "flags": [
     "no-video"
@@ -5613,7 +8008,24 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 0,
+   "ageDays": 25,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "fortnite",
+   "slug": "fortnite-creative-mode-guide",
+   "words": 2623,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 22,
    "score": 1,
    "flags": [
     "no-video"
@@ -5630,24 +8042,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 1,
-   "score": 1,
-   "flags": [
-    "no-video"
-   ]
-  },
-  {
-   "game": "cookie-run-kingdom",
-   "slug": "white-lily-cookie-toppings-build",
-   "words": 2781,
-   "inlineImg": 3,
-   "hasHero": true,
-   "internal": 10,
-   "faq": 6,
-   "hasTldr": true,
-   "hasItemList": false,
-   "hasVideo": false,
-   "ageDays": 4,
+   "ageDays": 26,
    "score": 1,
    "flags": [
     "no-video"
@@ -5661,10 +8056,27 @@
    "hasHero": true,
    "internal": 8,
    "faq": 7,
-   "hasTldr": false,
+   "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 32,
+   "ageDays": 57,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "minecraft",
+   "slug": "minecraft-copper-guide",
+   "words": 2805,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 8,
    "score": 1,
    "flags": [
     "no-video"
@@ -5681,41 +8093,7 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 28,
-   "score": 1,
-   "flags": [
-    "no-video"
-   ]
-  },
-  {
-   "game": "cookie-run-kingdom",
-   "slug": "crunchy-chip-cookie-toppings-build",
-   "words": 2832,
-   "inlineImg": 4,
-   "hasHero": true,
-   "internal": 7,
-   "faq": 6,
-   "hasTldr": true,
-   "hasItemList": false,
-   "hasVideo": false,
-   "ageDays": 14,
-   "score": 1,
-   "flags": [
-    "no-video"
-   ]
-  },
-  {
-   "game": "cookie-run-kingdom",
-   "slug": "stormbringer-cookie-toppings-build",
-   "words": 2840,
-   "inlineImg": 4,
-   "hasHero": true,
-   "internal": 8,
-   "faq": 6,
-   "hasTldr": true,
-   "hasItemList": false,
-   "hasVideo": false,
-   "ageDays": 15,
+   "ageDays": 53,
    "score": 1,
    "flags": [
     "no-video"
@@ -5732,7 +8110,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": false,
-   "ageDays": 8,
+   "ageDays": 33,
    "score": 1,
    "flags": [
     "no-video"
@@ -5749,11 +8127,118 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": false,
-   "ageDays": 15,
+   "ageDays": 40,
    "score": 1,
    "flags": [
     "no-video"
    ]
+  },
+  {
+   "game": "roblox",
+   "slug": "roblox-sound-music-guide",
+   "words": 2966,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": false,
+   "ageDays": 0,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "smoked-cheese-cookie-toppings-build",
+   "words": 1592,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 6,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "cotton-cookie-toppings-build",
+   "words": 1604,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 19,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "black-lemonade-cookie-toppings-build",
+   "words": 1618,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 6,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "clotted-cream-cookie-toppings-build",
+   "words": 1635,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 10,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 22,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "sherbet-cookie-toppings-build",
+   "words": 1657,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 9,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 19,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "mercurial-knight-cookie-toppings-build",
+   "words": 1678,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 20,
+   "score": 0,
+   "flags": []
   },
   {
    "game": "cookie-run-kingdom",
@@ -5766,7 +8251,82 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": true,
-   "ageDays": 29,
+   "ageDays": 54,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "financier-cookie-toppings-build",
+   "words": 1845,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 9,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 8,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "wildberry-cookie-toppings-build",
+   "words": 1852,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 8,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "moonlight-cookie-toppings-build",
+   "words": 1905,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 7,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "peppermint-cookie-toppings-build",
+   "words": 1911,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 2,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "shadow-milk-cookie-toppings-build",
+   "words": 1954,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 48,
    "score": 0,
    "flags": []
   },
@@ -5781,7 +8341,67 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": true,
-   "ageDays": 23,
+   "ageDays": 48,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "caramel-arrow-cookie-toppings-build",
+   "words": 2104,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 7,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "capsaicin-cookie-toppings-build",
+   "words": 2132,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 27,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "star-coral-cookie-toppings-build",
+   "words": 2156,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 25,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "camellia-cookie-toppings-build",
+   "words": 2174,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 3,
    "score": 0,
    "flags": []
   },
@@ -5796,7 +8416,172 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": true,
-   "ageDays": 20,
+   "ageDays": 45,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "tea-knight-cookie-toppings-build",
+   "words": 2198,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 2,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "cookie-run-kingdom-tier-list",
+   "words": 2218,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 7,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": true,
+   "ageDays": 58,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "mystic-flour-cookie-toppings-build",
+   "words": 2231,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": true,
+   "ageDays": 48,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "oyster-cookie-toppings-build",
+   "words": 2260,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 5,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "pure-vanilla-awakened-toppings",
+   "words": 2298,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 5,
+   "faq": 7,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 57,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "burning-spice-cookie-toppings-build",
+   "words": 2316,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 48,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "golden-cheese-cookie-toppings-build",
+   "words": 2344,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 10,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 32,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "candy-apple-cookie-toppings-build",
+   "words": 2364,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 9,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 26,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "black-pearl-cookie-toppings-build",
+   "words": 2368,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 43,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "elder-faerie-cookie-toppings-build",
+   "words": 2373,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 10,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 28,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "twizzly-gummy-cookie-toppings-build",
+   "words": 2397,
+   "inlineImg": 5,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 25,
    "score": 0,
    "flags": []
   },
@@ -5811,7 +8596,52 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": true,
-   "ageDays": 21,
+   "ageDays": 46,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "crimson-coral-cookie-toppings-build",
+   "words": 2454,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 5,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "frost-queen-cookie-toppings-build",
+   "words": 2472,
+   "inlineImg": 2,
+   "hasHero": true,
+   "internal": 9,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 44,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "dark-cacao-cookie-toppings-build",
+   "words": 2505,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 10,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 32,
    "score": 0,
    "flags": []
   },
@@ -5826,7 +8656,7 @@
    "hasTldr": true,
    "hasItemList": false,
    "hasVideo": true,
-   "ageDays": 19,
+   "ageDays": 44,
    "score": 0,
    "flags": []
   },
@@ -5841,7 +8671,52 @@
    "hasTldr": true,
    "hasItemList": true,
    "hasVideo": true,
-   "ageDays": 19,
+   "ageDays": 44,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "white-lily-cookie-toppings-build",
+   "words": 2781,
+   "inlineImg": 3,
+   "hasHero": true,
+   "internal": 10,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 29,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "crunchy-chip-cookie-toppings-build",
+   "words": 2832,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 39,
+   "score": 0,
+   "flags": []
+  },
+  {
+   "game": "cookie-run-kingdom",
+   "slug": "stormbringer-cookie-toppings-build",
+   "words": 2840,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 8,
+   "faq": 6,
+   "hasTldr": true,
+   "hasItemList": false,
+   "hasVideo": true,
+   "ageDays": 40,
    "score": 0,
    "flags": []
   }

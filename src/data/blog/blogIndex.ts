@@ -78,6 +78,25 @@ const PILLAR_SLUGS: Record<string, string[]> = {
   'pubg-battlegrounds': ['best-pubg-weapons-tier-list', 'best-pubg-loadouts', 'pubg-beginners-guide'],
   'fortnite': ['fortnite-weapon-tier-list', 'best-fortnite-settings', 'fortnite-beginners-guide'],
   'minecraft': ['minecraft-survival-guide-beginners', 'best-minecraft-enchantments', 'best-minecraft-seeds'],
+  // New verticals (2026-07-20): pillar = the beginner/entry guide each game's
+  // deeper posts should funnel authority into as the catalog grows.
+  'genshin-impact': ['genshin-artifact-guide'],
+  'elden-ring': ['best-elden-ring-starting-class'],
+  'baldurs-gate-3': ['baldurs-gate-3-beginner-guide'],
+  'counter-strike-2': ['cs2-economy-guide'],
+  'the-witcher-3': ['witcher-3-beginner-guide'],
+  'zelda-breath-of-the-wild': ['botw-beginner-guide'],
+  'zelda-ocarina-of-time': ['ocarina-of-time-dungeon-order-guide'],
+  'zelda-a-link-to-the-past': ['a-link-to-the-past-beginner-guide'],
+  'super-mario-64': ['super-mario-64-beginner-guide'],
+  'half-life-2': ['half-life-2-beginner-guide'],
+  'the-last-of-us': ['the-last-of-us-infected-guide'],
+  'resident-evil-4': ['resident-evil-4-remake-beginner-guide'],
+  'resident-evil-requiem': ['resident-evil-requiem-beginner-guide'],
+  'tetris': ['tetris-stacking-fundamentals'],
+  'mina-the-hollower': ['mina-the-hollower-beginner-guide'],
+  'pokemon-pokopia': ['pokemon-pokopia-beginner-guide'],
+  'crimson-desert': ['crimson-desert-combat-guide'],
 };
 
 /**
