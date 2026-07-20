@@ -2,6 +2,7 @@
 // Walks intent matchers first, falls back to fuzzy search across the content index.
 import type { AssistantProvider, AssistantRequest, AssistantResponse } from '../types';
 import { matchIntent, buildSearchFallback, buildGreeting } from '../responseTemplates';
+import { GAMES } from '@/data/blog/games';
 
 const GREETING_PATTERNS = [
   /^(hi|hey|hello|yo|sup)\b/i,
@@ -19,7 +20,7 @@ export const localRetrievalProvider: AssistantProvider = {
     const raw = req.message.trim();
     if (raw.length === 0) {
       return {
-        answer: 'Ask me a question about any game we cover — Cookie Run: Kingdom, MTG, Roblox, PUBG, Fortnite, or Minecraft. Builds, tier lists, beginner guides, and more.',
+        answer: `Ask me a question about any of the ${GAMES.length} games we cover — from Cookie Run: Kingdom and MTG to Elden Ring, Baldur's Gate 3, and Zelda. Builds, tier lists, beginner guides, and more.`,
         recommendedLinks: [],
         matchedTopics: [],
         confidence: 1,

@@ -117,8 +117,8 @@ const STATIC_PAGE_ITEMS: ContentIndexItem[] = [
     title: 'Mythras Blog',
     href: '/blog',
     category: 'page',
-    summary: 'Guides, tier lists, and meta analysis across every game we cover — Cookie Run: Kingdom, Magic: The Gathering, Roblox, PUBG, Fortnite, and Minecraft.',
-    keywords: ['blog', 'guides', 'tier list', 'meta', 'gaming guides', 'cookie run kingdom blog', 'mtg blog', 'roblox', 'pubg', 'fortnite', 'minecraft'],
+    summary: `Guides, tier lists, and meta analysis across all ${VISIBLE_GAMES.length} games we cover — ${VISIBLE_GAMES.slice(0, 6).map(g => g.name).join(', ')}, and more.`,
+    keywords: ['blog', 'guides', 'tier list', 'meta', 'gaming guides', ...VISIBLE_GAMES.map(g => `${g.shortName.toLowerCase()} blog`)],
     priority: 0.7,
   },
   {

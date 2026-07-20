@@ -184,12 +184,12 @@ export default function ChatWidget({ embed }: Props) {
           <div className="space-y-5">
             <div className="rounded-xl border border-[#D4A853]/15 bg-[#0c0c18]/60 p-4 text-sm text-[#c8c8d4] leading-relaxed">
               <p>
-                Hey! I answer from what&apos;s actually on Mythras — guides for{' '}
-                <strong className="text-white">Cookie Run: Kingdom</strong>, <strong className="text-white">Magic: The Gathering</strong>,{' '}
-                <strong className="text-white">Roblox</strong>, <strong className="text-white">PUBG</strong>,{' '}
-                <strong className="text-white">Fortnite</strong>, and <strong className="text-white">Minecraft</strong>. I won&apos;t
-                invent patch details, codes, prices, or release info that aren&apos;t in our content. If I don&apos;t know I&apos;ll
-                point you at the closest guide.
+                Hey! I answer from what&apos;s actually on Mythras — guides across all{' '}
+                <strong className="text-white">{GAMES.length} games</strong> we cover, from{' '}
+                <strong className="text-white">Cookie Run: Kingdom</strong> and <strong className="text-white">Magic: The Gathering</strong> to{' '}
+                <strong className="text-white">Elden Ring</strong>, <strong className="text-white">Baldur&apos;s Gate 3</strong>, and{' '}
+                <strong className="text-white">Zelda</strong>. I won&apos;t invent patch details, codes, prices, or release info that
+                aren&apos;t in our content. If I don&apos;t know I&apos;ll point you at the closest guide.
               </p>
             </div>
             <SuggestedPrompts onPick={p => handleSubmit(p)} gameContext={gameContext} gameName={gameName} />
@@ -234,7 +234,9 @@ export default function ChatWidget({ embed }: Props) {
             ? 'Tip: ask about building, landing spots, weapons, or your best settings.'
             : gameContext === 'minecraft'
             ? 'Tip: ask about survival, enchantments, redstone, seeds, or building.'
-            : 'Tip: ask about any game we cover — Cookie Run, MTG, Roblox, PUBG, Fortnite, or Minecraft.'}
+            : gameContext === 'game' && gameName
+            ? `Tip: ask about beginner tips, strategy, or the best builds for ${gameName}.`
+            : `Tip: ask about any of the ${GAMES.length} games we cover — CRK, MTG, Elden Ring, BG3, Zelda, and more.`}
         </div>
       </div>
     </>

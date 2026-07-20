@@ -577,7 +577,7 @@ export function buildSearchFallback(message: string): AssistantResponse {
   return {
     answer: high
       ? `${answerOpener()} I'm not 100% sure I caught your exact question, but these guides look like a strong match.\n\n${joinLinks(links)}`
-      : `I don't have a perfect match for that on the site yet, but these are the closest guides I can point you at:\n\n${joinLinks(links)}\n\nIf this isn't what you're after, try asking about a specific game — a Cookie or build (CRK), a color or format (MTG), or a topic in Roblox, PUBG, Fortnite, or Minecraft — or browse the blog.`,
+      : `I don't have a perfect match for that on the site yet, but these are the closest guides I can point you at:\n\n${joinLinks(links)}\n\nIf this isn't what you're after, try asking about a specific game — a Cookie or build (CRK), a color or format (MTG), a boss or build (Elden Ring, BG3), or any of the other games we cover — or browse the blog.`,
     recommendedLinks: links,
     matchedTopics: ['search'],
     confidence: high ? 0.6 : 0.35,
@@ -588,7 +588,7 @@ export function buildSearchFallback(message: string): AssistantResponse {
 export function buildMissingContent(_message: string): AssistantResponse {
   const links = topInCategory('blog', 3).map(toRecommendedLink);
   return {
-    answer: `I don't have content on that yet. I won't guess at current patch details, codes, card prices, ban statuses, or release info that aren't on the site — but here's where to browse for what we do have:\n\n- **[Mythras Blog](/blog)** — every published guide across all our games (CRK, MTG, Roblox, PUBG, Fortnite, Minecraft), fresh-first\n- **[CRK Gear Guide](/gear-guide)** — builds for 167+ Cookies\n- **[CRK Glossary](/glossary/cookie-run-kingdom)** and **[MTG Glossary](/glossary/magic-the-gathering)** — term definitions\n\n${links.length > 0 ? '**Latest:**\n' + joinLinks(links) : ''}`,
+    answer: `I don't have content on that yet. I won't guess at current patch details, codes, card prices, ban statuses, or release info that aren't on the site — but here's where to browse for what we do have:\n\n- **[Mythras Blog](/blog)** — every published guide across all ${GAMES.length} games we cover, fresh-first\n- **[CRK Gear Guide](/gear-guide)** — builds for 167+ Cookies\n- **[CRK Glossary](/glossary/cookie-run-kingdom)** and **[MTG Glossary](/glossary/magic-the-gathering)** — term definitions\n\n${links.length > 0 ? '**Latest:**\n' + joinLinks(links) : ''}`,
     recommendedLinks: [
       { title: 'Mythras Blog', href: '/blog', summary: 'All published guides across every game we cover.', score: 0.5 },
       { title: 'CRK Gear Guide', href: '/gear-guide', summary: 'Build guides for 167+ Cookies.', score: 0.5 },
@@ -603,7 +603,7 @@ export function buildMissingContent(_message: string): AssistantResponse {
 
 export function buildGreeting(): AssistantResponse {
   return {
-    answer: `Hey! I'm the Mythras assistant. I answer from what's actually on the site, across every game we cover — **Cookie Run: Kingdom**, **Magic: The Gathering**, **Roblox**, **PUBG: Battlegrounds**, **Fortnite**, and **Minecraft**. Builds, tier lists, beginner guides, meta, and more. Ask me anything, or try one of the suggested prompts below.`,
+    answer: `Hey! I'm the Mythras assistant. I answer from what's actually on the site, across all ${GAMES.length} games we cover — from **Cookie Run: Kingdom** and **Magic: The Gathering** to **Elden Ring**, **Baldur's Gate 3**, and **Zelda**. Builds, tier lists, beginner guides, meta, and more. Ask me anything, or try one of the suggested prompts below.`,
     recommendedLinks: [],
     matchedTopics: ['greeting'],
     confidence: 1,

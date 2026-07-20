@@ -17,7 +17,10 @@ export const braverseRaritiesCollectingGuide: BlogPost = {
   heroImageAlt: 'Frost Queen Cookie, the kind of marquee Cookie that gets the flashiest Secret-rarity chase treatments in Braverse.',
   imageSources: [
     { src: '/images/cookies/frost-queen-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/golden-cheese-cookie.png', sourceUrl: 'owned-asset' },
     { src: '/images/cookies/shadow-milk-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/dark-enchantress-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/dark-cacao-cookie.png', sourceUrl: 'owned-asset' },
   ],
   publishDate: '2026-05-28T00:00:00.000Z',
   lastUpdated: '2026-05-30T00:00:00.000Z',
@@ -36,8 +39,11 @@ export const braverseRaritiesCollectingGuide: BlogPost = {
   readingTimeMin: 9,
   toc: [
     { id: 'the-braverse-rarity-ladder', label: 'The Braverse rarity ladder', level: 2 },
+    { id: 'what-the-full-card-pool-looks-like', label: 'What the full card pool looks like', level: 2 },
     { id: 'standard-rarities-from-common-to-extra-rare', label: 'Standard rarities, from Common to Extra Rare', level: 2 },
     { id: 'secret-rarities-and-alt-art-chase-cards', label: 'Secret rarities and alt-art chase cards', level: 2 },
+    { id: 'how-secret-cards-map-to-base-cards', label: 'How Secret cards map to base cards', level: 2 },
+    { id: 'the-two-rarities-that-break-the-pattern-exr-and-gxr', label: 'The two rarities that break the pattern: EXR and GXR', level: 2 },
     { id: 'what-hidden-cards-mean', label: 'What hidden cards mean', level: 2 },
     { id: 'how-booster-boxes-and-packs-are-configured', label: 'How booster boxes and packs are configured', level: 2 },
     { id: 'a-collecting-strategy-that-wont-break-the-bank', label: 'A smart collecting strategy', level: 2 },
@@ -68,7 +74,29 @@ Here's the ladder, roughly from most common to rarest:
 | Genesis Extra Rare | GXR | The rarest of all - a single card carries it |
 | Promotion | P | Event, tournament, and product-promo cards |
 
-A couple of notes on the odd ones out: **EXR** and **GXR** aren't really part of the "regular" base ladder - they're special chase rarities, and GXR is so exclusive that exactly one card in the whole game has it. **Promotion (P)** cards come from events, tournaments, and product bundles rather than booster packs, so you won't pull them from a box. Treatments can be added or renamed set to set, so confirm the exact rarity ladder against the official site and the latest set before you rely on it.
+A couple of notes on the odd ones out: **EXR** and **GXR** aren't really part of the "regular" base ladder - they're special chase rarities, and GXR is so exclusive that exactly one card in the whole game has it (we name it below). **Promotion (P)** cards come from events, tournaments, and product bundles rather than booster packs, so you won't pull them from a box. Treatments can be added or renamed set to set, so confirm the exact rarity ladder against the official site and the latest set before you rely on it.
+
+## What the full card pool looks like
+
+Zoom out from a single pack and the shape of the whole game gets clearer. The official database currently lists just over 2,000 card entries (counting alternate-art printings and promos as separate rows), and they break down roughly like this by rarity:
+
+| Rarity | Approx. count |
+| --- | --- |
+| Common (C) | ~615 |
+| Uncommon (U) | ~470 |
+| Super Rare (SR) | ~145 |
+| Secret Super Rare (SSR) | ~123 |
+| Rare (R) | ~120 |
+| Secret Rare (SEC) | ~110 |
+| Ultra Rare (UR) | ~83 |
+| Secret Ultra Rare (SUR) | ~81 |
+| Extra Rare (EXR) | ~11 |
+| Genesis Extra Rare (GXR) | 1 |
+| Promotion (P) | ~290 |
+
+Two things jump out. First, Commons and Uncommons are the overwhelming majority - well over half the entire pool - which is exactly why building a *playable* deck is affordable even when the chase cards aren't. Second, the Secret tiers (SEC/SSR/SUR) roughly mirror their base counterparts in number, because they're alternate printings of those same cards. That's the single most important fact about Braverse collecting, and it deserves its own section below.
+
+By card type, the pool is heavily Cookie-focused - Cookies are by far the largest group, followed by FLIP, Item, Trap, Stage, and the newer EXTRA cards. And by color, the five core colors (Red, Yellow, Green, Blue, Purple) are near-evenly represented at roughly 380-390 cards each, with two small extras: a tiny **PURE** group of special cards and the newer **BLACK** faction (around 35 cards) introduced with The Dark Enchantress War.
 
 ## Standard rarities, from Common to Extra Rare
 
@@ -89,6 +117,28 @@ Two practical notes for collectors:
 - A Secret version usually plays the same as its standard counterpart, so chasing them is a *collecting* decision, not a competitive necessity.
 - Which specific cards get Secret treatments varies by set, and the marquee Cookies tend to get the flashiest versions. We won't name "the chase card" of a given set without confirming it, and you shouldn't trust unverified pull-rate claims either - check per-set chase cards and pull rates against official sources.
 
+## How Secret cards map to base cards
+
+![Golden Cheese Cookie, an Ancient Cookie that appears at multiple rarities and alt-art treatments across several Braverse sets.](/images/cookies/golden-cheese-cookie.png)
+
+Here's the structural insight that makes Braverse collecting make sense, and it's visible right in the official card numbers. Every chase card is tied to a base card by its number. The base printing gets a plain number - say **BS7-013, Chili Pepper Cookie** at Super Rare - and the alt-art Secret version gets the *same number with an @ suffix*: **BS7-013@1**, the Secret Super Rare. They're the same card, same stats, same text; the @1 is just the dressed-up printing.
+
+Once you know that, the rarity pairs line up perfectly. Across a set you'll typically find:
+
+- Each **Rare (R)** has a matching **Secret Rare (SEC)** at @1
+- Each **Super Rare (SR)** has a matching **Secret Super Rare (SSR)** at @1
+- Each **Ultra Rare (UR)** has a matching **Secret Ultra Rare (SUR)** at @1
+
+Arena of Glory is a clean example: its ten Rares each have a SEC alt, its Super Rares each have an SSR alt, and its Ultra Rares each have a SUR alt. This is why the Secret-tier counts almost mirror the base-tier counts in the pool breakdown above. For a collector it's genuinely useful: if you want a card at its highest treatment, you're looking for that exact card number with the highest @ suffix - you're not hunting some separate, unrelated card.
+
+## The two rarities that break the pattern: EXR and GXR
+
+![Dark Enchantress Cookie, the single card in Braverse that carries the game's rarest treatment, Genesis Extra Rare.](/images/cookies/dark-enchantress-cookie.png)
+
+**EXR (Extra Rare)** and **GXR (Genesis Extra Rare)** sit outside the tidy R-SR-UR ladder. There are only about **eleven EXR cards in the entire game**, and they're an eclectic bunch rather than a clean per-set set. Most are attached to the premium **EXTRA-type Cookies** - the alt-art EXR printings of **Golden Cheese Cookie (BS8-027)**, **Dark Cacao Cookie (BS8-104)**, **Hollyberry Cookie (BS10-024)**, **White Lily Cookie (BS10-073)**, and **Pure Vanilla Cookie (BS9-088)** - with a few landing on special "title" cards named after their own set (like the *Arena of Glory* and *Cookies of Legend* cards). If you pull an EXR, you've pulled one of the scarcest things in the box.
+
+**GXR** is the top of the mountain, and it's not a category so much as a single card: **Dark Enchantress Cookie (BS11-115@3)** from The Dark Enchantress War is the *only* GXR in the game. That one Cookie actually exists at four escalating treatments off the same base number - UR (BS11-115), SUR (@1), EXR (@2), and finally GXR (@3) - so it's a neat illustration of the whole system in one card, capped by a rarity that exists exactly once. If longevity-minded collectors want a single "grail," that's the one.
+
 ## What "hidden" cards mean
 
 If you read set listings, you'll see card counts split into "regular" and "hidden" numbers (for example, a set might be described as having a few hundred regular cards plus several dozen hidden ones). **Hidden cards** appear to be the premium and alt-art pool - the higher-rarity and Secret treatments that sit on top of the base set rather than the cards you'd see in a standard checklist.
@@ -107,6 +157,8 @@ That's the configuration to expect on shelves now. You may run into older or ove
 We are deliberately not quoting box or pack prices, because they vary by retailer and over time. Check a current listing before you buy.
 
 ## A collecting strategy that won't break the bank
+
+![Dark Cacao Cookie, a marquee Purple Cookie that appears across multiple sets in escalating alt-art treatments - a tempting but expensive chase.](/images/cookies/dark-cacao-cookie.png)
 
 Whether you're collecting to play or collecting to collect, a little discipline goes a long way:
 
@@ -174,6 +226,14 @@ That said: **collect because you enjoy it, not as an investment.** TCG "investin
     {
       href: '/blog/cookie-run-braverse-tcg/best-cookie-run-braverse-starter-deck',
       anchor: 'best starter deck',
+    },
+    {
+      href: '/blog/cookie-run-braverse-tcg/cookie-run-braverse-beginner-mistakes',
+      anchor: 'beginner mistakes to avoid',
+    },
+    {
+      href: '/blog/cookie-run-braverse-tcg/cookie-run-braverse-colors-explained',
+      anchor: 'the five colors explained',
     },
   ],
   externalSources: [

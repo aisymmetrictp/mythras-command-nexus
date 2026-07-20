@@ -11,61 +11,6 @@
  },
  "posts": [
   {
-   "game": "cookie-run-braverse-tcg",
-   "slug": "cookie-run-braverse-beginner-mistakes",
-   "words": 950,
-   "inlineImg": 2,
-   "hasHero": true,
-   "internal": 5,
-   "faq": 5,
-   "hasTldr": true,
-   "hasItemList": true,
-   "hasVideo": false,
-   "ageDays": 53,
-   "score": 3,
-   "flags": [
-    "thin-body",
-    "no-video"
-   ]
-  },
-  {
-   "game": "cookie-run-braverse-tcg",
-   "slug": "cookie-run-braverse-sets-release-timeline",
-   "words": 1133,
-   "inlineImg": 3,
-   "hasHero": true,
-   "internal": 3,
-   "faq": 5,
-   "hasTldr": true,
-   "hasItemList": true,
-   "hasVideo": false,
-   "ageDays": 51,
-   "score": 3,
-   "flags": [
-    "thin-body",
-    "no-video"
-   ]
-  },
-  {
-   "game": "cookie-run-braverse-tcg",
-   "slug": "cookie-run-braverse-rarities-collecting-guide",
-   "words": 1298,
-   "inlineImg": 1,
-   "hasHero": true,
-   "internal": 2,
-   "faq": 5,
-   "hasTldr": true,
-   "hasItemList": true,
-   "hasVideo": false,
-   "ageDays": 51,
-   "score": 3,
-   "flags": [
-    "few-images",
-    "few-internal-links",
-    "no-video"
-   ]
-  },
-  {
    "game": "pokemon-pokopia",
    "slug": "pokemon-pokopia-ditto-transformations-guide",
    "words": 1448,
@@ -1085,6 +1030,24 @@
    "hasItemList": true,
    "hasVideo": false,
    "ageDays": 0,
+   "score": 2,
+   "flags": [
+    "few-internal-links",
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-rarities-collecting-guide",
+   "words": 1986,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 2,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 51,
    "score": 2,
    "flags": [
     "few-internal-links",
@@ -3952,6 +3915,23 @@
    ]
   },
   {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-sets-release-timeline",
+   "words": 1892,
+   "inlineImg": 5,
+   "hasHero": true,
+   "internal": 6,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 51,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
    "game": "magic-the-gathering",
    "slug": "selesnya-landfall-pro-tour-strixhaven-winning-deck",
    "words": 1893,
@@ -4524,6 +4504,23 @@
    "hasItemList": true,
    "hasVideo": false,
    "ageDays": 7,
+   "score": 1,
+   "flags": [
+    "no-video"
+   ]
+  },
+  {
+   "game": "cookie-run-braverse-tcg",
+   "slug": "cookie-run-braverse-beginner-mistakes",
+   "words": 1958,
+   "inlineImg": 4,
+   "hasHero": true,
+   "internal": 7,
+   "faq": 5,
+   "hasTldr": true,
+   "hasItemList": true,
+   "hasVideo": false,
+   "ageDays": 53,
    "score": 1,
    "flags": [
     "no-video"

@@ -3,7 +3,7 @@
 _Generated 2026-07-20 · 508 posts_
 
 **Original video embeds: 38/508 (7%)** — the rest are flywheel targets.
-**Thin bodies (<1200 words): 2** · **Posts with no hero image: 0**
+**Thin bodies (<1200 words): 0** · **Posts with no hero image: 0**
 
 ## Per-game health
 
@@ -11,7 +11,7 @@ _Generated 2026-07-20 · 508 posts_
 |---|--:|--:|--:|--:|--:|
 | cookie-run-kingdom | 94 | 2095 | 0 | 56 | 7 |
 | magic-the-gathering | 75 | 2178 | 0 | 75 | 3 |
-| cookie-run-braverse-tcg | 58 | 2078 | 2 | 58 | 6 |
+| cookie-run-braverse-tcg | 58 | 2120 | 0 | 58 | 6 |
 | roblox | 52 | 2089 | 0 | 52 | 4 |
 | pubg-battlegrounds | 63 | 2052 | 0 | 63 | 4 |
 | fortnite | 52 | 2118 | 0 | 52 | 2 |
@@ -38,9 +38,6 @@ _Generated 2026-07-20 · 508 posts_
 
 | Score | Game | Slug | Words | Img | Int | FAQ | Vid | Flags |
 |--:|---|---|--:|--:|--:|--:|:-:|---|
-| 3 | cookie-run-braverse-tcg | cookie-run-braverse-beginner-mistakes | 950 | 2 | 5 | 5 | — | thin-body, no-video |
-| 3 | cookie-run-braverse-tcg | cookie-run-braverse-sets-release-timeline | 1133 | 3 | 3 | 5 | — | thin-body, no-video |
-| 3 | cookie-run-braverse-tcg | cookie-run-braverse-rarities-collecting-guide | 1298 | 1 | 2 | 5 | — | few-images, few-internal-links, no-video |
 | 2 | pokemon-pokopia | pokemon-pokopia-ditto-transformations-guide | 1448 | 4 | 1 | 5 | — | few-internal-links, no-video |
 | 2 | minecraft | minecraft-building-tips | 1514 | 4 | 2 | 6 | — | few-internal-links, no-video |
 | 2 | pokemon-pokopia | pokemon-pokopia-habitat-comfort-guide | 1543 | 4 | 2 | 5 | — | few-internal-links, no-video |
@@ -68,3 +65,6 @@ _Generated 2026-07-20 · 508 posts_
 | 2 | minecraft | best-minecraft-shaders | 1821 | 2 | 0 | 6 | — | few-internal-links, no-video |
 | 2 | the-witcher-3 | witcher-3-beginner-guide | 1829 | 3 | 2 | 5 | — | few-internal-links, no-video |
 | 2 | fortnite | fortnite-beginners-guide | 1841 | 4 | 1 | 6 | — | few-internal-links, no-video |
+| 2 | the-witcher-3 | witcher-3-witcher-gear-guide | 1852 | 3 | 2 | 5 | — | few-internal-links, no-video |
+| 2 | mina-the-hollower | mina-the-hollower-sidearms-trinkets-guide | 1859 | 4 | 2 | 5 | — | few-internal-links, no-video |
+| 2 | roblox | best-roblox-obby-games | 1866 | 3 | 2 | 6 | — | few-internal-links, no-video |

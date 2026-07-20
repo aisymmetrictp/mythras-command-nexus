@@ -9,11 +9,11 @@ import { BreadcrumbSchema, WebPageSchema } from '@/components/StructuredData';
 export const metadata: Metadata = {
   title: 'Mythras Assistant — Ask Anything About Your Games',
   description:
-    'A site-content-powered chat assistant that recommends Mythras guides across Cookie Run: Kingdom, Magic: The Gathering, Roblox, PUBG, Fortnite, and Minecraft — builds, tier lists, beginner guides, meta, and more.',
+    'A site-content-powered chat assistant that recommends Mythras guides across all 24 games we cover — Cookie Run: Kingdom, Magic: The Gathering, Elden Ring, Baldur\'s Gate 3, Zelda, Minecraft, and more. Builds, tier lists, beginner guides, meta, and more.',
   alternates: { canonical: 'https://gamertagmythras.com/assistant' },
   openGraph: {
     title: 'Mythras Assistant — Ask Anything About Your Games',
-    description: 'Site-content-powered chat assistant for CRK, MTG, Roblox, PUBG, Fortnite, and Minecraft.',
+    description: 'Site-content-powered chat assistant covering all 24 games on Mythras — CRK, MTG, Elden Ring, BG3, Zelda, Minecraft, and more.',
     url: 'https://gamertagmythras.com/assistant',
     type: 'website',
   },
@@ -24,7 +24,7 @@ export default function AssistantPage() {
     <>
       <WebPageSchema
         name="Mythras Assistant"
-        description="Chat assistant for gaming guides on gamertagmythras.com — Cookie Run: Kingdom, MTG, Roblox, PUBG, Fortnite, and Minecraft."
+        description="Chat assistant for gaming guides on gamertagmythras.com — all 24 games we cover, from Cookie Run: Kingdom and MTG to Elden Ring, BG3, and Zelda."
         url="https://gamertagmythras.com/assistant"
       />
       <BreadcrumbSchema
@@ -49,9 +49,10 @@ export default function AssistantPage() {
               Ask anything about your games
             </h1>
             <p className="text-lg text-[#c8c8d4] leading-relaxed max-w-2xl mx-auto">
-              The assistant answers from what&apos;s actually live on Mythras — across Cookie Run: Kingdom, Magic:
-              The Gathering, Roblox, PUBG, Fortnite, and Minecraft. Builds, tier lists, beginner guides, meta,
-              and more. If I don&apos;t have it, I&apos;ll say so and point you at the closest guide rather than guess.
+              The assistant answers from what&apos;s actually live on Mythras — across all 24 games we cover, from
+              Cookie Run: Kingdom and Magic: The Gathering to Elden Ring, Baldur&apos;s Gate 3, and Zelda. Builds,
+              tier lists, beginner guides, meta, and more. If I don&apos;t have it, I&apos;ll say so and point you
+              at the closest guide rather than guess.
             </p>
           </section>
 

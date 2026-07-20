@@ -17,9 +17,11 @@ export const braverseSetsReleaseTimeline: BlogPost = {
   heroImageAlt: 'Shadow Milk Cookie, the headline Cookie of the Braverse set A Game of Truth and Deceit.',
   imageSources: [
     { src: '/images/cookies/shadow-milk-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/golden-cheese-cookie.png', sourceUrl: 'owned-asset' },
     { src: '/images/cookies/pitaya-dragon-cookie.png', sourceUrl: 'owned-asset' },
-    { src: '/images/cookies/dark-cacao-cookie.png', sourceUrl: 'owned-asset' },
     { src: '/images/cookies/frost-queen-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/burning-spice-cookie.png', sourceUrl: 'owned-asset' },
+    { src: '/images/cookies/dark-cacao-cookie.png', sourceUrl: 'owned-asset' },
   ],
   publishDate: '2026-05-28T00:00:00.000Z',
   lastUpdated: '2026-05-30T00:00:00.000Z',
@@ -46,7 +48,9 @@ export const braverseSetsReleaseTimeline: BlogPost = {
     { id: 'a-game-of-truth-and-deceit', label: 'A Game of Truth and Deceit', level: 2 },
     { id: 'paradise-of-passion-sloth-catacombs-of-silence', label: 'Paradise of Passion & Sloth / Catacombs of Silence', level: 2 },
     { id: 'the-dark-enchantress-war-the-newest-set', label: 'The Dark Enchantress War (the newest set)', level: 2 },
-    { id: 'a-note-on-set-codes', label: 'A note on set codes', level: 2 },
+    { id: 'which-keyword-each-set-introduced', label: 'Which keyword each set introduced', level: 2 },
+    { id: 'card-counts-and-chase-card-ratios', label: 'Card counts and chase-card ratios', level: 2 },
+    { id: 'the-set-code-map-decoded', label: 'The set-code map, decoded', level: 2 },
     { id: 'which-set-should-you-buy', label: 'Which set should you buy?', level: 2 },
   ],
   content: `If you've tried to figure out the Cookie Run: Braverse release order, you've probably hit the same wall we did: set codes and card counts get reported inconsistently across retailers, wikis, and regional listings. Part of that is because the booster product names don't map cleanly onto the underlying set-code numbering, so it's easy to wind up with the sets in the wrong order.
@@ -78,27 +82,31 @@ If you're starting out, this is the most "evergreen" set to understand because s
 
 ## Age of Heroes and Kingdoms
 
-**Age of Heroes and Kingdoms** released on **March 13, 2025**, expanding the card pool with a heroes-and-kingdoms theme. It's a meaningful chunk of new cards for deck-builders across all five colors, including the first big wave of Ancient Cookies like Golden Cheese and White Lily.
+![Golden Cheese Cookie, one of the first wave of Ancient Cookies introduced in Braverse's Age of Heroes and Kingdoms set.](/images/cookies/golden-cheese-cookie.png)
+
+**Age of Heroes and Kingdoms** released on **March 13, 2025**, expanding the card pool with a heroes-and-kingdoms theme. It's a meaningful chunk of new cards for deck-builders across all five colors, and it's the set that introduced the **Ancient** keyword - the first big wave of Ancient Cookies, including **Golden Cheese Cookie (BS3-025, Yellow)** and **White Lily Cookie (BS3-055, Green)**. This is also the largest booster in the game by card entries, which makes sense: it's actually two card-number waves (BS3 and BS4) sold under one product name, which is where a lot of the set-code confusion starts.
 
 ## Operation Timeguard
 
 ![Pitaya Dragon Cookie, a Dragon Cookie that anchors Braverse's Operation Timeguard set.](/images/cookies/pitaya-dragon-cookie.png)
 
-**Operation Timeguard** released on **June 8, 2025**, and it's the set that leaned hardest into **Dragon Cookie** cards - you'll find Pitaya Dragon, Longan Dragon, Lotus Dragon, and Ananas Dragon Cookies in its lineup. The Dragon Cookies are well-established, but their exact rules interactions are worth confirming against the official rulebook before a sanctioned event.
+**Operation Timeguard** released on **June 8, 2025**, and it's the set that introduced the **Dragon** keyword - a full color wheel of Dragon Cookies, one per color: **Pitaya Dragon (BS5-013, Red)**, **Ananas Dragon (BS5-040, Yellow)**, **Longan Dragon (BS5-056, Green)**, **Lotus Dragon (BS5-071, Blue)**, and **Lychee Dragon Cookie (BS5-093, Purple)**. Each of those five is a Level 3 with 5 HP at Ultra Rare, and each ships with a matching support card (a Nest, Cave, or Orb). Like Age of Heroes, Timeguard is a two-wave booster - its cards carry both BS5 and BS6 numbers.
 
 ## Arena of Glory
 
-**Arena of Glory** landed on **September 4, 2025**, and it's a competitively flavored set built around the **Arena** keyword - a mechanic that rewards cycling Cookies through your support area and battle area. It's where you'll find the Arena versions of Cookies like Chili Pepper, Capsaicin, Kouign-Amann, and Dark Choco.
+**Arena of Glory** landed on **September 4, 2025**, and it's the most single-mindedly themed booster in the game: virtually every Cookie in it carries the **Arena** keyword. It's where you'll find the Arena versions of Cookies like **Chili Pepper (BS7-013)**, **Capsaicin (BS7-014)**, **Kouign-Amann (BS7-035)**, and **Dark Choco Cookie (BS7-067)**. Unlike the two boosters before it, Arena of Glory is a single-wave set - everything carries a BS7 number - which is part of why it's a smaller checklist than Age of Heroes or Operation Timeguard.
 
 ## Land of Fire & Ruin, Realm of Apathy
 
 ![Frost Queen Cookie, one of the marquee Cookies featured in the Land of Fire & Ruin, Realm of Apathy Braverse set.](/images/cookies/frost-queen-cookie.png)
 
-**Land of Fire & Ruin, Realm of Apathy** released on **October 28, 2025**, and it's one of the flashiest sets for collectors. It's home to a stacked lineup of marquee Cookies - **Burning Spice, Mystic Flour, Golden Cheese, and Frost Queen** among them - plus the **Beast** keyword and a set of EXTRA Cookies. For collectors, sets like this are where the flashiest Secret-rarity chase cards live - see our [rarities and collecting guide](/blog/cookie-run-braverse-tcg/cookie-run-braverse-rarities-collecting-guide).
+![Burning Spice Cookie, one of the marquee Beast Cookies that debuted in Land of Fire & Ruin, Realm of Apathy.](/images/cookies/burning-spice-cookie.png)
+
+**Land of Fire & Ruin, Realm of Apathy** released on **October 28, 2025**, and it's a landmark set for two reasons. First, it introduced the **Beast** keyword and the game's first **EXTRA** card type - a new category of Cookie that layers on top of your board. Second, it's home to a stacked lineup of marquee Cookies: **Burning Spice (BS8-009, Red)**, **Mystic Flour (BS8-059, Green, a 6-HP Level 3)**, **Golden Cheese (BS8-027, Yellow)**, and **Dark Cacao Cookie (BS8-104, Purple)** all appear here as Ultra Rares with alt-art chase versions. This is the set where the "power creep" conversation really starts, and where the flashiest Secret-rarity chase cards live - see our [rarities and collecting guide](/blog/cookie-run-braverse-tcg/cookie-run-braverse-rarities-collecting-guide).
 
 ## A Game of Truth and Deceit
 
-**A Game of Truth and Deceit** released on **January 29, 2026**. It's the set headlined by **Shadow Milk Cookie**, alongside a wave of new Cookies spanning the color pool. The theme and featured Cookies are well-established, but the full card list is worth confirming against the official database before you rely on it.
+**A Game of Truth and Deceit** released on **January 29, 2026** (the BS9 wave). It's headlined by **Shadow Milk Cookie**, who is unusual: rather than existing in a single color, Shadow Milk shows up as an EXTRA Cookie across four colors here - **BS9-010 (Red)**, **BS9-030 (Yellow)**, **BS9-055 (Green)**, and **BS9-102 (Purple)** - with **Pure Vanilla Cookie (BS9-088)** rounding out the Blue slot. Mechanically this is the FLIP-heavy set: it carries far more FLIP cards than the boosters around it, so it plays like a different machine than the Beast-and-Break-Area sets. For a deeper card-by-card read, see our [best Truth and Deceit cards](/blog/cookie-run-braverse-tcg/best-truth-and-deceit-cards-braverse) rundown.
 
 ## Paradise of Passion & Sloth / Catacombs of Silence
 
@@ -108,13 +116,58 @@ If you're starting out, this is the most "evergreen" set to understand because s
 
 ![Dark Cacao Cookie, who returns among the lineup of Braverse's newest set, The Dark Enchantress War.](/images/cookies/dark-cacao-cookie.png)
 
-**The Dark Enchantress War** is the newest booster set, released on **May 27, 2026**, built around the Dark Enchantress storyline. As the freshest set, it's where the latest Secret-rarity chase Cookies are, and sealed product is most available right after release.
+**The Dark Enchantress War** is the newest booster set (the BS11 wave), released on **May 27, 2026**, built around the Dark Enchantress storyline. It's the most mechanically distinct set on the shelf: it introduced the **BLACK** color, an entirely new villain faction whose Cookies (led by **Dark Enchantress Cookie, BS11-115**) don't slot into the existing five-color wheel. It's also home to the single rarest card in the entire game - more on that in the [rarities guide](/blog/cookie-run-braverse-tcg/cookie-run-braverse-rarities-collecting-guide). As the freshest set, it's where the latest Secret-rarity chase Cookies are, and sealed product is most available right after release.
 
-## A note on set codes
+## Which keyword each set introduced
 
-Here's the thing about the set codes you'll see online (BS1, BS3, BS5, and so on): they do **not** run as a clean 1, 2, 3 sequence that matches release order. The card-number prefixes (you'll even spot BS2, BS4, and BS6 numbers in the database) are waves and sub-sets that don't map one-to-one onto the booster product names. So if you try to order the sets by their code numbers, you'll get it wrong.
+One of the cleanest ways to understand Braverse's history is by the mechanic each booster brought to the table. The keyword rollout is remarkably tidy:
 
-The release-date order in the table above is the reliable way to think about it. If you want to dig into specific card numbers or counts, the official card database at play.cookieruntcg.com/cards is the source of truth, and it's exactly the kind of detail we'll keep refreshed here so you don't have to chase conflicting numbers.
+| Set | Keyword / mechanic it introduced |
+| --- | --- |
+| **Brave Beginning** | The five colors and the core rules - no named tribal keyword yet. |
+| **Age of Heroes and Kingdoms** | The **Ancient** keyword (Golden Cheese, White Lily, and the rest of the legendary Cookies). |
+| **Operation Timeguard** | The **Dragon** keyword - one Dragon Cookie per color. |
+| **Arena of Glory** | The **Arena** keyword, applied to nearly the entire set. |
+| **Land of Fire & Ruin, Realm of Apathy** | The **Beast** keyword *and* the **EXTRA** card type. |
+| **A Game of Truth and Deceit** | A heavy **FLIP** package, plus more Beast and Ancient Cookies. |
+| **Paradise of Passion & Sloth / Catacombs of Silence** | Two dueling Beast build-arounds (a Break-Area engine and a mill engine). |
+| **The Dark Enchantress War** | The **BLACK** color - a whole new faction outside the five-color wheel. |
+
+If you're trying to figure out what a given set is "about," this is usually a faster answer than the box art.
+
+## Card counts and chase-card ratios
+
+People constantly ask how many cards are in each set, and the honest answer is: it depends on whether you count alternate-art printings. Every high-rarity card in Braverse has a plain base printing and a fancy alt-art Secret printing, and the official database lists those as separate entries. Counting those alt arts, here's roughly how the boosters stack up by total database entries and by how much of each set is chase-rarity (Secret, EXR, or GXR) treatment:
+
+| Set | Database entries | Chase-rarity share |
+| --- | --- | --- |
+| Age of Heroes and Kingdoms | ~306 | ~24% |
+| Operation Timeguard | ~274 | ~20% |
+| Brave Beginning | ~203 | ~22% |
+| A Game of Truth and Deceit | ~173 | ~17% |
+| Land of Fire & Ruin, Realm of Apathy | ~156 | ~21% |
+| Paradise of Passion & Sloth / Catacombs | ~155 | ~21% |
+| The Dark Enchantress War | ~150 | ~23% |
+| Arena of Glory | ~136 | ~21% |
+
+The takeaways: the two earliest boosters are the biggest because each bundles two card-number waves, and roughly one in five entries in any set is a chase-rarity alt art. That last number is why "completing" a set with the fancy versions is dramatically more expensive than assembling a playset of the base cards - the [rarities and collecting guide](/blog/cookie-run-braverse-tcg/cookie-run-braverse-rarities-collecting-guide) breaks down how to do the latter without chasing the former.
+
+## The set-code map, decoded
+
+Here's the thing about the set codes you'll see online (BS1, BS3, BS5, and so on): they do **not** run as a clean 1, 2, 3 sequence that matches booster names, because the first three boosters each contain *two* card-number waves. Once you see the actual mapping, the whole thing clicks:
+
+| Booster set | Card-number prefixes |
+| --- | --- |
+| Brave Beginning | BS1, BS2 |
+| Age of Heroes and Kingdoms | BS3, BS4 |
+| Operation Timeguard | BS5, BS6 |
+| Arena of Glory | BS7 |
+| Land of Fire & Ruin, Realm of Apathy | BS8 |
+| A Game of Truth and Deceit | BS9 |
+| Paradise of Passion & Sloth / Catacombs of Silence | BS10 |
+| The Dark Enchantress War | BS11 |
+
+So the "missing" numbers aren't missing at all: BS2 lives inside Brave Beginning, BS4 inside Age of Heroes, BS6 inside Operation Timeguard. From Arena of Glory (BS7) onward, each booster is a single prefix, so the codes finally track release order. Starter decks use their own **ST1-ST10** numbering, and promo cards carry **P** or set-prefixed numbers with an @ suffix. If you ever need to check a specific card number or count, the official card database is the source of truth, and it's the same data we use to keep this page accurate.
 
 ## Which set should you buy?
 
@@ -169,6 +222,10 @@ Whatever you buy, pair it with our [deck-building basics](/blog/cookie-run-brave
     {
       href: '/blog/cookie-run-braverse-tcg/how-to-play-cookie-run-braverse',
       anchor: 'how to play',
+    },
+    {
+      href: '/blog/cookie-run-braverse-tcg/best-truth-and-deceit-cards-braverse',
+      anchor: 'best Truth and Deceit cards',
     },
   ],
   externalSources: [
