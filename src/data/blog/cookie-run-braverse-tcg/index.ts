@@ -57,6 +57,7 @@ import { cookieRunBraverseSideboardGuide } from './posts/cookie-run-braverse-sid
 import { cookieRunBraverseExtraDeckGuide } from './posts/cookie-run-braverse-extra-deck-guide';
 import { braverseBreakAreaGuide } from './posts/cookie-run-braverse-break-area-guide';
 import { braverseBossCardsGuide } from './posts/cookie-run-braverse-boss-cards-guide';
+import { bestLandOfFireRuinCardsBraverse } from './posts/best-land-of-fire-ruin-cards-braverse';
 
 export const BRAVERSE_POSTS: BlogPost[] = [
   braverseBossCardsGuide,
@@ -117,4 +118,5 @@ export const BRAVERSE_POSTS: BlogPost[] = [
   cookieRunBraverseSideboardGuide,
   cookieRunBraverseExtraDeckGuide,
   braverseBreakAreaGuide,
+  bestLandOfFireRuinCardsBraverse,
 ];

@@ -4,9 +4,11 @@ import type { BlogPost } from '../blogTypes';
 import { pokemonPokopiaBeginnerGuide } from './posts/pokemon-pokopia-beginner-guide';
 import { pokemonPokopiaDittoTransformationsGuide } from './posts/pokemon-pokopia-ditto-transformations-guide';
 import { pokemonPokopiaHabitatComfortGuide } from './posts/pokemon-pokopia-habitat-comfort-guide';
+import { pokemonPokopiaResourceGuide } from './posts/pokemon-pokopia-resource-guide';
 
 export const POKOPIA_POSTS: BlogPost[] = [
   pokemonPokopiaBeginnerGuide,
   pokemonPokopiaDittoTransformationsGuide,
   pokemonPokopiaHabitatComfortGuide,
+  pokemonPokopiaResourceGuide,
 ];

@@ -93,6 +93,7 @@ import { crkBearJellyTrainGuide } from './posts/crk-bear-jelly-train-guide';
 import { creamPuffCookieToppingsBuild } from './posts/cream-puff-cookie-toppings-build';
 import { malaSauceCookieToppingsBuild } from './posts/mala-sauce-cookie-toppings-build';
 import { crkKingdomPassGuide } from './posts/crk-kingdom-pass-guide';
+import { pitayaDragonCookieToppingsBuild } from './posts/pitaya-dragon-cookie-toppings-build';
 
 export const CRK_POSTS: BlogPost[] = [
   creamPuffCookieToppingsBuild,
@@ -189,4 +190,5 @@ export const CRK_POSTS: BlogPost[] = [
   teaKnightCookieToppingsBuild,
   peppermintCookieToppingsBuild,
   crkBearJellyTrainGuide,
+  pitayaDragonCookieToppingsBuild,
 ];

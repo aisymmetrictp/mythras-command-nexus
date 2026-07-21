@@ -51,6 +51,7 @@ import { fortniteFishingGuide } from './posts/fortnite-fishing-guide';
 import { fortniteVehiclesGuide } from './posts/fortnite-vehicles-guide';
 import { fortniteShieldHealManagementGuide } from './posts/fortnite-shield-heal-management-guide';
 import { fortniteInventoryManagementGuide } from './posts/fortnite-inventory-management-guide';
+import { fortniteBestMouseSettingsGuide } from './posts/fortnite-best-mouse-settings-guide';
 
 export const FORTNITE_POSTS: BlogPost[] = [
   fortniteBeginnersGuide,
@@ -105,4 +106,5 @@ export const FORTNITE_POSTS: BlogPost[] = [
   fortniteVehiclesGuide,
   fortniteShieldHealManagementGuide,
   fortniteInventoryManagementGuide,
+  fortniteBestMouseSettingsGuide,
 ];
