@@ -1,6 +1,6 @@
 # Mythras // The Multiverse — Full Content Directory
 
-> Comprehensive site directory for AI systems indexing gamertagmythras.com. Includes every published blog post with title, summary, and canonical URL across all 24 games, plus the gear-guide structure and major site sections. 532 blog posts total.
+> Comprehensive site directory for AI systems indexing gamertagmythras.com. Includes every published blog post with title, summary, and canonical URL across all 24 games, plus the gear-guide structure and major site sections. 556 blog posts total.
 
 ## About the publisher
 
@@ -8,7 +8,10 @@ Mythras // The Multiverse is an independent gaming creator brand operated by an 
 
 Editorial guarantee: every guide is written by the Mythras team and fact-checked against authoritative sources before publishing (Scryfall for MTG legality, the official Cookie Run: Braverse card database, and the game wikis). Posts include their refresh cadence so readers know how often the information is updated.
 
-## Cookie Run: Kingdom — full blog post list (95)
+## Cookie Run: Kingdom — full blog post list (96)
+
+### fire-spirit-cookie-toppings-build
+Fire Spirit Cookie Toppings Build & Guide. Fire Spirit Cookie build for July 2026: Flaming toppings, substats, the 4-Fire-Cookie damage cliff, beascuit and tart picks, and the teams that pay him off. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/fire-spirit-cookie-toppings-build
 
 ### pitaya-dragon-cookie-toppings-build
 Pitaya Dragon Cookie Toppings Build & Guide. Pitaya Dragon Cookie build for July 2026: the full-ATK Raspberry topping set that feeds its DMG Resist passive, substats, beascuit, tart, Magic Candy, and teams. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/pitaya-dragon-cookie-toppings-build
@@ -295,7 +298,10 @@ Timekeeper Cookie — Best Toppings, Beascuits & Team Comps. The complete Timeke
 ### timeline-of-fate-update-guide
 Is the Timeline of Fate Update Worth It? Beginner-to-Endgame Guide to CRK v7.4. Honest breakdown of Cookie Run: Kingdom v7.4 Timeline of Fate Act 2 — Timekeeper, Ash Salt, 6-star Legendaries, Arcade Arena, Unstable Timeline, and which players should actually log in. URL: https://gamertagmythras.com/blog/cookie-run-kingdom/timeline-of-fate-update-guide
 
-## Cookie Run: Braverse — full blog post list (59)
+## Cookie Run: Braverse — full blog post list (60)
+
+### cookie-run-braverse-named-starter-decks
+Cookie Run: Braverse Named Starter Decks (ST6-ST10), Ranked. A card-by-card breakdown of the five named Braverse starter decks - Flames of Immortality, Tree of Life, Guardian Winds, Seas of Fate, Glorious Moonlight - ranked by power. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/cookie-run-braverse-named-starter-decks
 
 ### best-land-of-fire-ruin-cards-braverse
 Best Cards from Cookie Run: Braverse — Land of Fire & Ruin, Realm of Apathy. A set review of Land of Fire & Ruin, Realm of Apathy (BS8) for Cookie Run: Braverse: the first Beasts, the first EXTRA cards, and the best chase cards ranked by color. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/best-land-of-fire-ruin-cards-braverse
@@ -474,7 +480,10 @@ Every Cookie Run: Braverse Set in Order: Release Timeline & Buying Guide. A clea
 ### how-to-play-cookie-run-braverse
 How to Play Cookie Run: Braverse - A Complete Beginner Guide. Learn how to play Cookie Run: Braverse from scratch: the card types, game setup, turn phases, the rest-to-pay cost system, the FLIP mechanic, and both win conditions explained for new players. URL: https://gamertagmythras.com/blog/cookie-run-braverse-tcg/how-to-play-cookie-run-braverse
 
-## Magic: The Gathering — full blog post list (76)
+## Magic: The Gathering — full blog post list (77)
+
+### best-mtg-politics-cards
+Best Politics Cards in MTG Commander, Ranked. The best politics cards in MTG Commander, ranked. Vote cards, monarch, tempting offer, deterrents and gift effects that buy time and point the table elsewhere. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-mtg-politics-cards
 
 ### best-mtg-planeswalker-commanders
 Best Planeswalker Commanders in MTG, Ranked. The best planeswalker commanders in MTG Commander, ranked. Only 21 planeswalkers can be your commander — here are the ones worth building around, and the traps. URL: https://gamertagmythras.com/blog/magic-the-gathering/best-mtg-planeswalker-commanders
@@ -704,7 +713,10 @@ How Nathan Steuer Won Pro Tour Strixhaven With Selesnya Landfall. Nathan Steuer 
 ### standard-post-ban-meta-may-2026
 Standard After the May 2026 Ban Wave — What to Brew Now That Cori-Steel Is Gone. MTG Standard after the May 18, 2026 ban wave: all 10 banned cards, the new tier 1 decks, three brewing directions, and which cards just got way better. URL: https://gamertagmythras.com/blog/magic-the-gathering/standard-post-ban-meta-may-2026
 
-## Minecraft — full blog post list (64)
+## Minecraft — full blog post list (65)
+
+### minecraft-enchanting-setup-guide
+Minecraft Enchanting Setup Guide: Build a Level 30 Room That Actually Works. How to build a level 30 Minecraft enchanting setup: the 15-bookshelf rule, the air gap everyone gets wrong, lapis costs, anvil penalties, and librarian trades. URL: https://gamertagmythras.com/blog/minecraft/minecraft-enchanting-setup-guide
 
 ### minecraft-hardcore-mode-guide
 Minecraft Hardcore Mode Guide: How to Survive Permadeath. A complete Minecraft Hardcore mode guide: how it works, why one death ends the world, the early-game plan that keeps you alive, and the mistakes that get people killed. URL: https://gamertagmythras.com/blog/minecraft/minecraft-hardcore-mode-guide
@@ -898,7 +910,10 @@ Redstone Basics: A Beginner's Guide to Minecraft's Wiring. Redstone basics expla
 ### minecraft-survival-guide-beginners
 Minecraft Survival Guide for Beginners — Surviving Your First Days. A no-fluff Minecraft survival guide for beginners. The exact first-day tool chain, how to survive night one, and what to prioritize before mobs find you. URL: https://gamertagmythras.com/blog/minecraft/minecraft-survival-guide-beginners
 
-## Roblox — full blog post list (53)
+## Roblox — full blog post list (54)
+
+### roblox-raycasting-guide
+Roblox Raycasting Guide: Hitscan Guns, Ground Checks, and RaycastParams. Master Roblox raycasting: workspace:Raycast, RaycastParams filtering, reading RaycastResult, hitscan guns, ground checks, shapecasts, and the mistakes that break rays. URL: https://gamertagmythras.com/blog/roblox/roblox-raycasting-guide
 
 ### roblox-module-scripts-guide
 Roblox ModuleScripts Guide: Stop Copy-Pasting Code. Master Roblox ModuleScripts: how require() works, the once-per-environment cache, where to store modules, the OOP .new() pattern, and how to avoid circular requires. URL: https://gamertagmythras.com/blog/roblox/roblox-module-scripts-guide
@@ -1059,7 +1074,10 @@ Beginner's Guide to Roblox: Everything a New Player Needs. New to Roblox? Set up
 ### roblox-studio-basics
 Roblox Studio Basics: Make Your First Game. Build and publish your first Roblox game in an afternoon. Roblox Studio basics — templates, parts, the Explorer, your first Luau script, testing, and going live. URL: https://gamertagmythras.com/blog/roblox/roblox-studio-basics
 
-## Fortnite — full blog post list (53)
+## Fortnite — full blog post list (54)
+
+### fortnite-og-mode-guide
+Fortnite OG Mode Guide: The Chapter 1 Mode Explained. What Fortnite OG actually is, how its seasons rotate, the 999 mat cap, the old loot pool, the OG Pass, and how to win games on the Chapter 1 map. URL: https://gamertagmythras.com/blog/fortnite/fortnite-og-mode-guide
 
 ### fortnite-best-mouse-settings-guide
 Fortnite Best Mouse Settings: DPI, Sensitivity, and eDPI. Dial in Fortnite mouse settings that actually help: DPI, in-game sensitivity, eDPI, the separate ADS and build sliders, and the Windows options that ruin aim. URL: https://gamertagmythras.com/blog/fortnite/fortnite-best-mouse-settings-guide
@@ -1220,7 +1238,10 @@ Fortnite Editing Guide: How to Edit Faster and Cleaner. Edit faster in Fortnite:
 ### fortnite-weapon-tier-list
 Fortnite Weapon Tier List: How to Rank Any Loot Pool. A Fortnite weapon tier list that survives every season: how to rank guns by class and range, build a balanced loadout, and judge new weapons the moment they drop. URL: https://gamertagmythras.com/blog/fortnite/fortnite-weapon-tier-list
 
-## PUBG: Battlegrounds — full blog post list (64)
+## PUBG: Battlegrounds — full blog post list (65)
+
+### pubg-armor-helmets-guide
+PUBG Armor & Helmet Guide: Levels, Damage Reduction & Survival. Every PUBG vest, helmet, and backpack level explained — real damage reduction and durability numbers, the Kar98k headshot threshold, and when to upgrade. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-armor-helmets-guide
 
 ### best-pubg-attachments-per-weapon
 Best PUBG Attachments for Every Weapon. A per-weapon PUBG attachment build sheet — the exact muzzle, grip, stock, mag, and scope to run on the M416, Beryl, AKM, SLR, Mini14, Vector, UMP45, and Kar98k. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/best-pubg-attachments-per-weapon
@@ -1414,7 +1435,10 @@ PUBG Recoil Control Guide: Master Every Spray Pattern. How PUBG recoil really wo
 ### pubg-settings-sensitivity-guide
 PUBG Settings & Sensitivity Guide. Dial in PUBG: Battlegrounds settings and sensitivity — DPI, general and scope sensitivity, FOV, graphics for visibility, audio, and keybinds that win gunfights. URL: https://gamertagmythras.com/blog/pubg-battlegrounds/pubg-settings-sensitivity-guide
 
-## Genshin Impact — full blog post list (4)
+## Genshin Impact — full blog post list (5)
+
+### genshin-best-f2p-teams
+Best F2P Teams in Genshin Impact — Four-Star Squads That Clear. The best free-to-play Genshin teams, built from characters you can get without pulling. Real rotations, free weapons, farmable artifacts and the traps to avoid. URL: https://gamertagmythras.com/blog/genshin-impact/genshin-best-f2p-teams
 
 ### genshin-spiral-abyss-guide
 Genshin Spiral Abyss Guide — Floors 9-12, Two Teams and 1,200 Primogems a Month. How the Genshin Spiral Abyss actually works: the reset schedule, the 36-star target, ley line disorders, and how to build two Floor 12 teams as a near-F2P player. URL: https://gamertagmythras.com/blog/genshin-impact/genshin-spiral-abyss-guide
@@ -1428,7 +1452,10 @@ Genshin Elemental Reactions Guide — Every Multiplier Explained. Every Genshin 
 ### genshin-gacha-wish-guide
 Genshin Wish Guide — Pity, Rates and Real Primogem Costs. Genshin Impact wish guide with official rates: 90-pity, soft pity at 74, Capturing Radiance, and exactly how many primogems a guaranteed five-star costs. URL: https://gamertagmythras.com/blog/genshin-impact/genshin-gacha-wish-guide
 
-## Elden Ring — full blog post list (4)
+## Elden Ring — full blog post list (5)
+
+### elden-ring-ashes-of-war-guide
+Elden Ring Ashes of War Guide: Affinities, Whetblades, and the Ashes Worth Farming. How Ashes of War and affinities really work in Elden Ring, all five Whetblade locations, and the specific Ashes worth detouring for on a first run. URL: https://gamertagmythras.com/blog/elden-ring/elden-ring-ashes-of-war-guide
 
 ### elden-ring-boss-order-guide
 Elden Ring Boss Order: The Critical Path Ranked by Level. The full Elden Ring boss order for the critical path, which shardbearers are actually required, and the level you want to be for every main fight. URL: https://gamertagmythras.com/blog/elden-ring/elden-ring-boss-order-guide
@@ -1442,7 +1469,10 @@ Elden Ring Early Game Route: A Smarter First 10 Hours. A Limgrave route that fro
 ### elden-ring-weapon-scaling-explained
 Elden Ring Weapon Scaling Explained: Letters to Damage. What S, A, B, C, D and E actually mean in Elden Ring, the hidden numbers behind them, where stat points stop paying, and how affinities and upgrades rewrite it. URL: https://gamertagmythras.com/blog/elden-ring/elden-ring-weapon-scaling-explained
 
-## Baldur's Gate 3 — full blog post list (4)
+## Baldur's Gate 3 — full blog post list (5)
+
+### baldurs-gate-3-best-feats-guide
+Baldur's Gate 3 Best Feats: You Only Get Three of These. The best feats in Baldur's Gate 3, ranked by what they do: Tavern Brawler doubling Strength, GWM and Sharpshooter -5/+10, Savage Attacker, Alert and Lucky. URL: https://gamertagmythras.com/blog/baldurs-gate-3/baldurs-gate-3-best-feats-guide
 
 ### baldurs-gate-3-honour-mode-tips
 Baldur's Gate 3 Honour Mode Tips: How to Survive the One Save. Baldur's Gate 3 Honour Mode tips built on real mechanics: the single save, Legendary Actions, the +2 enemy tax, and the control-first builds that survive it. URL: https://gamertagmythras.com/blog/baldurs-gate-3/baldurs-gate-3-honour-mode-tips
@@ -1456,7 +1486,10 @@ Baldur's Gate 3 Multiclassing Guide: Rules and Real Builds. How multiclassing re
 ### best-baldurs-gate-3-classes-for-beginners
 Best Baldur's Gate 3 Classes for Beginners, Ranked. All 12 Baldur's Gate 3 classes ranked for new players, with verified subclass levels, hit dice, and features. Fighter, Cleric, and Warlock lead — here is why. URL: https://gamertagmythras.com/blog/baldurs-gate-3/best-baldurs-gate-3-classes-for-beginners
 
-## Counter-Strike 2 — full blog post list (4)
+## Counter-Strike 2 — full blog post list (5)
+
+### cs2-crosshair-settings-guide
+CS2 Crosshair Settings: Every Command That Actually Matters. Build a CS2 crosshair that helps you aim: every crosshair console command explained, style 4 vs style 0, sniper width, share codes, and the mistakes costing you kills. URL: https://gamertagmythras.com/blog/counter-strike-2/cs2-crosshair-settings-guide
 
 ### cs2-rank-system-explained
 CS2 Rank System Explained: CS Rating, Skill Groups, and How to Climb. How CS2 ranks actually work: the Premier CS Rating number and its seven color tiers, all 18 per-map Competitive Skill Groups, what the rating measures, and how to move it. URL: https://gamertagmythras.com/blog/counter-strike-2/cs2-rank-system-explained
@@ -1470,7 +1503,10 @@ CS2 Spray Control Guide: Recoil Patterns That Work. How CS2 recoil really works 
 ### cs2-utility-guide
 CS2 Utility Guide: Smokes, Flashes, and Molotovs. How CS2 utility really works — volumetric smokes you can shoot holes in, flash timings, molotov surface rules, and the grenade buy order that wins rounds. URL: https://gamertagmythras.com/blog/counter-strike-2/cs2-utility-guide
 
-## The Witcher 3: Wild Hunt — full blog post list (4)
+## The Witcher 3: Wild Hunt — full blog post list (5)
+
+### witcher-3-alchemy-guide
+The Witcher 3 Alchemy Guide: Oils, Potions, Decoctions and Toxicity. A Witcher 3 alchemy guide with real numbers: oil hit counts, potion toxicity costs, decoction effects, bomb math, and which Alchemy skills are worth points. URL: https://gamertagmythras.com/blog/the-witcher-3/witcher-3-alchemy-guide
 
 ### witcher-3-gwent-guide
 The Witcher 3 Gwent Guide: How to Actually Win. A Witcher 3 Gwent guide that teaches you to win: the round economy, all five factions ranked, the spy-decoy-medic engine, weather, Scorch, and which cards to chase. URL: https://gamertagmythras.com/blog/the-witcher-3/witcher-3-gwent-guide
@@ -1484,7 +1520,10 @@ The Witcher 3 Build Guide: Signs, Combat and Alchemy. A Witcher 3 build guide wi
 ### witcher-3-witcher-gear-guide
 The Witcher 3 Witcher Gear Guide: Every School Set Ranked. Every Witcher 3 school gear set compared: Griffin, Cat, Bear, Wolf, Manticore and Viper, with verified stats, 3 and 6 piece set bonuses, and a final ranking. URL: https://gamertagmythras.com/blog/the-witcher-3/witcher-3-witcher-gear-guide
 
-## The Legend of Zelda: Breath of the Wild — full blog post list (4)
+## The Legend of Zelda: Breath of the Wild — full blog post list (5)
+
+### botw-shrine-guide
+Breath of the Wild Shrine Guide: All 120, Sorted by What They Actually Give You. A Breath of the Wild shrine guide that sorts all 120 shrines by type: puzzle, Test of Strength, blessing, and the 42 shrine quests. Plus how to find them fast. URL: https://gamertagmythras.com/blog/zelda-breath-of-the-wild/botw-shrine-guide
 
 ### botw-best-armor-guide
 Breath of the Wild Best Armor Guide: Sets That Actually Matter. A Breath of the Wild armor guide with real numbers: how defense subtraction works, the Ancient and Barbarian sets, the Champion's Tunic, elemental gear, and upgrade priority. URL: https://gamertagmythras.com/blog/zelda-breath-of-the-wild/botw-best-armor-guide
@@ -1498,7 +1537,10 @@ Breath of the Wild Combat Tips: Flurry Rush and Beyond. Breath of the Wild comba
 ### botw-cooking-guide
 Breath of the Wild Cooking Guide: The Recipes That Matter. A Breath of the Wild cooking guide with real numbers: effect stacking rules, monster part duration tiers, Hearty math, elixirs, and five recipes to memorize. URL: https://gamertagmythras.com/blog/zelda-breath-of-the-wild/botw-cooking-guide
 
-## The Legend of Zelda: Ocarina of Time — full blog post list (4)
+## The Legend of Zelda: Ocarina of Time — full blog post list (5)
+
+### ocarina-of-time-boss-guide
+Ocarina of Time Boss Guide: How to Beat Every Boss. Every Ocarina of Time boss and sub-boss, with the exact weak point, the item that trivializes it, and the mistakes that get you killed — Gohma through Ganon. URL: https://gamertagmythras.com/blog/zelda-ocarina-of-time/ocarina-of-time-boss-guide
 
 ### ocarina-of-time-biggoron-sword-guide
 Ocarina of Time Biggoron's Sword Guide: The Full Trade Quest, Timers and All. The complete Biggoron's Sword trading sequence in Ocarina of Time — all eleven trades in order, the 3- and 4-minute timers, and why it beats the Giant's Knife. URL: https://gamertagmythras.com/blog/zelda-ocarina-of-time/ocarina-of-time-biggoron-sword-guide
@@ -1512,7 +1554,10 @@ Ocarina of Time Songs Guide: All 12 Melodies and Notes. Every Ocarina of Time so
 ### ocarina-of-time-water-temple-guide
 Ocarina of Time Water Temple Guide: Beat It Without Rage. How to clear the Ocarina of Time Water Temple: the three water levels, all six Small Keys, the one everyone misses, plus Dark Link and Morpha strategies. URL: https://gamertagmythras.com/blog/zelda-ocarina-of-time/ocarina-of-time-water-temple-guide
 
-## The Legend of Zelda: A Link to the Past — full blog post list (4)
+## The Legend of Zelda: A Link to the Past — full blog post list (5)
+
+### alttp-dark-world-guide
+A Link to the Past Dark World Guide: Crystals, Mirror Tricks, and the Stuff Nobody Tells You. A Link to the Past Dark World guide — Moon Pearl, Magic Mirror routing, all seven crystal dungeons, the Tempered Sword frog, Super Bomb, and Silver Arrows. URL: https://gamertagmythras.com/blog/zelda-a-link-to-the-past/alttp-dark-world-guide
 
 ### alttp-boss-guide
 A Link to the Past Boss Guide: Every Boss and How to Kill It. Every ALttP boss, from the Armos Knights to Ganon — the weapon each one needs, the Silver Arrows that decide the ending, and how to beat Moldorm. URL: https://gamertagmythras.com/blog/zelda-a-link-to-the-past/alttp-boss-guide
@@ -1526,7 +1571,10 @@ A Link to the Past Dungeon Order: All 11 Dungeons Routed. The full A Link to the
 ### alttp-items-upgrades-guide
 A Link to the Past Items and Upgrades: Every Tier Explained. Every A Link to the Past upgrade — sword tiers, mail, shields, gloves, the four bottles, half magic, medallions, capacity caps, and the Silver Arrows. URL: https://gamertagmythras.com/blog/zelda-a-link-to-the-past/alttp-items-upgrades-guide
 
-## Super Mario 64 — full blog post list (4)
+## Super Mario 64 — full blog post list (5)
+
+### super-mario-64-boss-guide
+Super Mario 64 Boss Guide: Every Boss and How to Break It. Every Super Mario 64 boss on N64 — King Bob-omb, Whomp King, Big Boo, Big Bully, Eyerok, Chill Bully, Wiggler and all three Bowsers — with hit counts and tactics. URL: https://gamertagmythras.com/blog/super-mario-64/super-mario-64-boss-guide
 
 ### super-mario-64-cap-guide
 Super Mario 64 Cap Guide: Wing, Metal, and Vanish Caps. Where the three cap switches are in Super Mario 64, how to reach each course on N64, what every cap does, its timer, and exactly which Power Stars need them. URL: https://gamertagmythras.com/blog/super-mario-64/super-mario-64-cap-guide
@@ -1540,7 +1588,10 @@ Super Mario 64 Movement Guide: Long Jump, Wall Kick, BLJ. Every Super Mario 64 m
 ### super-mario-64-secret-stars-guide
 Super Mario 64 Secret Stars: All 15 Castle Stars Located. All 15 Super Mario 64 castle secret stars on N64: the three cap courses, the Secret Aquarium, Wing Mario Over the Rainbow, MIPS, Toads, and Bowser red coins. URL: https://gamertagmythras.com/blog/super-mario-64/super-mario-64-secret-stars-guide
 
-## Half-Life 2 — full blog post list (4)
+## Half-Life 2 — full blog post list (5)
+
+### half-life-2-episodes-guide
+Half-Life 2 Episodes Guide: Episode One and Two, Explained. A full Half-Life 2 episodes guide: chapter lists for Episode One and Two, the new enemies, Hunter and Strider tactics, achievements, and how the story ends. URL: https://gamertagmythras.com/blog/half-life-2/half-life-2-episodes-guide
 
 ### half-life-2-enemies-guide
 Half-Life 2 Enemies Guide: How to Kill Everything in City 17. A Half-Life 2 enemies guide covering every headcrab, zombie, Combine soldier, antlion, gunship, and strider, with the fastest way to kill each and a threat priority list. URL: https://gamertagmythras.com/blog/half-life-2/half-life-2-enemies-guide
@@ -1554,7 +1605,10 @@ Half-Life 2 Gravity Gun Guide: Every Trick It Can Do. A Half-Life 2 gravity gun 
 ### half-life-2-weapons-guide
 Half-Life 2 Weapons Guide: Damage Numbers That Matter. Every Half-Life 2 weapon with real damage, magazine, and reserve ammo numbers, plus which ones are actually worth using and when to switch to the gravity gun. URL: https://gamertagmythras.com/blog/half-life-2/half-life-2-weapons-guide
 
-## The Last of Us — full blog post list (4)
+## The Last of Us — full blog post list (5)
+
+### the-last-of-us-weapons-guide
+The Last of Us Weapons Guide: Every Gun and What to Upgrade. Every weapon in The Last of Us Part I, where to find it, and the exact workbench upgrade order that matters — plus the guns you should stop spending parts on. URL: https://gamertagmythras.com/blog/the-last-of-us/the-last-of-us-weapons-guide
 
 ### the-last-of-us-collectibles-guide
 The Last of Us Collectibles Guide: What Actually Matters. Firefly pendants, comics, training manuals and artifacts in The Last of Us Part I — how many there are, which ones change your run, and how to 100% them. URL: https://gamertagmythras.com/blog/the-last-of-us/the-last-of-us-collectibles-guide
@@ -1568,7 +1622,10 @@ The Last of Us Grounded Mode Guide: Survive Triple Damage. Grounded strips the H
 ### the-last-of-us-infected-guide
 The Last of Us Infected Guide: How to Beat Every Type. Runners, stalkers, clickers and bloaters explained — how each infected stage sees, hunts and dies in The Last of Us, and the exact tools to use on each one. URL: https://gamertagmythras.com/blog/the-last-of-us/the-last-of-us-infected-guide
 
-## Resident Evil 4 — full blog post list (4)
+## Resident Evil 4 — full blog post list (5)
+
+### resident-evil-4-remake-treasure-guide
+RE4 Remake Treasure Guide: Every Gem Combination, Ranked. Every gem-slotted treasure in the Resident Evil 4 remake, its base and max price, the full combination multiplier table, and the 108,000 peseta Elegant Crown build. URL: https://gamertagmythras.com/blog/resident-evil-4/resident-evil-4-remake-treasure-guide
 
 ### resident-evil-4-remake-boss-guide
 Resident Evil 4 Remake Boss Guide: Every Fight, In Order. A Resident Evil 4 remake boss guide covering Del Lago, El Gigante, Mendez, Verdugo, Salazar, Krauser, and Saddler — weak points and chapters, verified against the wiki. URL: https://gamertagmythras.com/blog/resident-evil-4/resident-evil-4-remake-boss-guide
@@ -1582,7 +1639,10 @@ Resident Evil 4 Remake Merchant Guide: Spinel and Treasure. How the Resident Evi
 ### resident-evil-4-remake-weapon-upgrade-guide
 Resident Evil 4 Remake Weapon Upgrade Guide: Where to Spend. Which Resident Evil 4 remake weapons deserve your pesetas. Exclusive upgrade perks, real costs, and a spending order verified against the Resident Evil wiki. URL: https://gamertagmythras.com/blog/resident-evil-4/resident-evil-4-remake-weapon-upgrade-guide
 
-## Resident Evil Requiem — full blog post list (4)
+## Resident Evil Requiem — full blog post list (5)
+
+### resident-evil-requiem-leon-must-die-forever-guide
+Leon Must Die Forever Guide: Enhancers, Ranks, and Routes. How Leon Must Die Forever works in Resident Evil Requiem: unlocking it, the enhancer economy, spinner timers, the fast route, and the five rank loadouts. URL: https://gamertagmythras.com/blog/resident-evil-requiem/resident-evil-requiem-leon-must-die-forever-guide
 
 ### resident-evil-requiem-story-setting
 Resident Evil Requiem Story and Setting: What Is Confirmed. A spoiler-light breakdown of the confirmed Resident Evil Requiem story and setting: Grace Ashcroft, Raccoon City Syndrome, the Wrenwood Hotel, and Leon. URL: https://gamertagmythras.com/blog/resident-evil-requiem/resident-evil-requiem-story-setting
@@ -1596,7 +1656,10 @@ Grace Survival Guide: Beating Marie and the Blood Economy. Advanced Resident Evi
 ### resident-evil-requiem-leon-combat-guide
 Leon Combat Guide: The Supply Box Economy in RE Requiem. How Leon works in Resident Evil Requiem: the Tactical Tracker credit economy, Supply Box purchases, hatchet management, Blister Borne, and Elite Guard tactics. URL: https://gamertagmythras.com/blog/resident-evil-requiem/resident-evil-requiem-leon-combat-guide
 
-## Tetris — full blog post list (4)
+## Tetris — full blog post list (5)
+
+### tetris-scoring-and-attack-guide
+Tetris Scoring and Attack Explained: Points, B2B, Combos, and Garbage. Every Guideline Tetris scoring value explained, plus the versus attack table: back-to-back, combos, perfect clears, Tetris 99 badges, and TETR.IO surge. URL: https://gamertagmythras.com/blog/tetris/tetris-scoring-and-attack-guide
 
 ### tetris-sprint-40-lines-guide
 Tetris 40-Line Sprint: How to Actually Get Faster. A no-fluff Tetris 40-line sprint guide: the 100-piece rule, realistic time benchmarks, PPS vs efficiency, finesse, 9-0 vs 6-3 stacking, and DAS/ARR handling. URL: https://gamertagmythras.com/blog/tetris/tetris-sprint-40-lines-guide
@@ -1610,7 +1673,10 @@ Tetris Stacking Fundamentals: Build a Board That Wins. Learn Tetris stacking fun
 ### tetris-t-spin-guide
 The Tetris T-Spin Guide: Detection, Setups, and Damage. How T-spins really work in Guideline Tetris: the 3-corner detection rule, proper versus mini, TSD and TST setups, the DT cannon, and real damage values. URL: https://gamertagmythras.com/blog/tetris/tetris-t-spin-guide
 
-## Mina the Hollower — full blog post list (4)
+## Mina the Hollower — full blog post list (5)
+
+### mina-the-hollower-patch-notes-explained
+Mina the Hollower Patch Notes Explained: What 1.0.1 to 1.0.6 Changed. Six Mina the Hollower patches in, here is what actually changed: the Mist Shift nerf, boss damage tuning, modifier fixes, and why consoles sit a version behind. URL: https://gamertagmythras.com/blog/mina-the-hollower/mina-the-hollower-patch-notes-explained
 
 ### mina-the-hollower-exploration-tips
 Mina the Hollower Exploration Tips: Secrets, Gaps, and Backtracking. How to actually explore Tenebrous Isle in Mina the Hollower: the fake walls the burrow long jump beats, traversal sidearms, movement trinkets, and backtracking. URL: https://gamertagmythras.com/blog/mina-the-hollower/mina-the-hollower-exploration-tips
@@ -1624,7 +1690,10 @@ Mina the Hollower Sidearms and Trinkets: Full Guide. Every Mina the Hollower sid
 ### mina-the-hollower-weapons-guide
 Mina the Hollower Weapons Guide: All 5 Weapons Ranked. All five Mina the Hollower weapons explained and ranked: Nightstar, Whisper and Vesper, Blaststrike Maul, Guardian Casket, and Battery Buster, plus upgrades. URL: https://gamertagmythras.com/blog/mina-the-hollower/mina-the-hollower-weapons-guide
 
-## Pokémon Pokopia — full blog post list (4)
+## Pokémon Pokopia — full blog post list (5)
+
+### pokemon-pokopia-specialties-building-kits-guide
+Pokopia Specialties Guide: Building Kits and Your Follower Crew. Pokopia specialties explained: what Build and Bulldoze actually do, how building kits get assigned workers, and the five-Pokemon follower crew worth travelling with. URL: https://gamertagmythras.com/blog/pokemon-pokopia/pokemon-pokopia-specialties-building-kits-guide
 
 ### pokemon-pokopia-resource-guide
 Pokopia Resource Guide: Materials, Life Coins, and Dream Islands. A Pokopia resource guide: the four foundation materials, how Pokemon specialties refine them, earning Life Coins, and farming Dream Islands with Drifloon dolls. URL: https://gamertagmythras.com/blog/pokemon-pokopia/pokemon-pokopia-resource-guide
@@ -1638,7 +1707,10 @@ All 14 Ditto Transformations in Pokopia and Where To Get Them. Every Ditto trans
 ### pokemon-pokopia-habitat-comfort-guide
 Pokopia Habitat Guide: Comfort Levels and Environment Level. How Pokopia habitats really work: all 209 habitats, the four comfort tiers, the five preference categories, and how Environment Level gates your shop unlocks. URL: https://gamertagmythras.com/blog/pokemon-pokopia/pokemon-pokopia-habitat-comfort-guide
 
-## Crimson Desert — full blog post list (4)
+## Crimson Desert — full blog post list (5)
+
+### crimson-desert-camp-guide
+Crimson Desert Camp Guide: Greymane Camp, Cooking and Dispatch. Crimson Desert Greymane Camp guide: when it unlocks, how comrade dispatch missions work, cooking for boss buffs, and brewing Palmar Pills at a cauldron. URL: https://gamertagmythras.com/blog/crimson-desert/crimson-desert-camp-guide
 
 ### crimson-desert-bosses-guide
 Crimson Desert Bosses Guide: Every Showcased Fight Explained. Crimson Desert bosses broken down: how to beat White Horn, Staglord, the Reed Devil and the Queen Stoneback Crab, plus the parry-and-stagger loop that beats them all. URL: https://gamertagmythras.com/blog/crimson-desert/crimson-desert-bosses-guide

@@ -63,6 +63,7 @@ import { pubgEmergencyPickupGuide } from './posts/pubg-emergency-pickup-guide';
 import { pubgTrainingModeGuide } from './posts/pubg-training-mode-guide';
 import { pubgWeaponMasteryGuide } from './posts/pubg-weapon-mastery-guide';
 import { bestPubgAttachmentsPerWeapon } from './posts/best-pubg-attachments-per-weapon';
+import { pubgArmorHelmetsGuide } from './posts/pubg-armor-helmets-guide';
 
 export const PUBG_POSTS: BlogPost[] = [
   pubgBeginnersGuide,
@@ -129,4 +130,5 @@ export const PUBG_POSTS: BlogPost[] = [
   pubgTrainingModeGuide,
   pubgWeaponMasteryGuide,
   bestPubgAttachmentsPerWeapon,
+  pubgArmorHelmetsGuide,
 ];

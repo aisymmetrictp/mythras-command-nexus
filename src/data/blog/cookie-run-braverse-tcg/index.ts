@@ -58,6 +58,7 @@ import { cookieRunBraverseExtraDeckGuide } from './posts/cookie-run-braverse-ext
 import { braverseBreakAreaGuide } from './posts/cookie-run-braverse-break-area-guide';
 import { braverseBossCardsGuide } from './posts/cookie-run-braverse-boss-cards-guide';
 import { bestLandOfFireRuinCardsBraverse } from './posts/best-land-of-fire-ruin-cards-braverse';
+import { braverseNamedStarterDecks } from './posts/cookie-run-braverse-named-starter-decks';
 
 export const BRAVERSE_POSTS: BlogPost[] = [
   braverseBossCardsGuide,
@@ -119,4 +120,5 @@ export const BRAVERSE_POSTS: BlogPost[] = [
   cookieRunBraverseExtraDeckGuide,
   braverseBreakAreaGuide,
   bestLandOfFireRuinCardsBraverse,
+  braverseNamedStarterDecks,
 ];

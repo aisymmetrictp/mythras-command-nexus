@@ -54,6 +54,7 @@ import { robloxParticleEffectsGuide } from './posts/roblox-particle-effects-guid
 import { robloxTeleportServiceGuide } from './posts/roblox-teleport-service-guide';
 import { robloxSoundMusicGuide } from './posts/roblox-sound-music-guide';
 import { robloxModuleScriptsGuide } from './posts/roblox-module-scripts-guide';
+import { robloxRaycastingGuide } from './posts/roblox-raycasting-guide';
 
 export const ROBLOX_POSTS: BlogPost[] = [
   robloxBeginnersGuide,
@@ -109,4 +110,5 @@ export const ROBLOX_POSTS: BlogPost[] = [
   robloxTeleportServiceGuide,
   robloxSoundMusicGuide,
   robloxModuleScriptsGuide,
+  robloxRaycastingGuide,
 ];
