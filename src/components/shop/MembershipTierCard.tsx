@@ -3,6 +3,7 @@ import type { MembershipTier } from '@/data/shop/membershipTiers';
 
 export default function MembershipTierCard({ tier }: { tier: MembershipTier }) {
   const isHttp = /^https?:/.test(tier.ctaHref);
+  const isStripe = /stripe\.com/.test(tier.ctaHref);
   return (
     <div
       className={`relative flex flex-col rounded-2xl border p-6 md:p-7 transition-all ${
@@ -53,7 +54,7 @@ export default function MembershipTierCard({ tier }: { tier: MembershipTier }) {
         {tier.ctaLabel}
       </a>
       <p className="text-[11px] text-[#55556a] mt-3 text-center">
-        Checkout coming soon — join via Discord for now.
+        {isStripe ? 'Secure checkout via Stripe. Cancel anytime.' : 'Checkout coming soon — join via Discord for now.'}
       </p>
     </div>
   );

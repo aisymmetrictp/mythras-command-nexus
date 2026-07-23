@@ -24,6 +24,20 @@ export type MembershipTier = {
 
 const DISCORD = 'https://discord.gg/mFg8mbxtTS';
 
+/**
+ * Stripe Payment Links per tier, injected at build time from env.
+ * - Local/test: set in `.env.local` (gitignored) as NEXT_PUBLIC_STRIPE_LINK_*.
+ * - Live: set the LIVE-mode links as Netlify env vars, then rebuild + deploy.
+ * Until a tier's link is set, its CTA falls back to Discord (current behavior).
+ * NEXT_PUBLIC_ prefix is REQUIRED — this is a static export, so the value must
+ * be inlined into the client bundle at build time.
+ */
+const STRIPE_LINKS: Record<string, string | undefined> = {
+  wanderer: process.env.NEXT_PUBLIC_STRIPE_LINK_WANDERER,
+  champion: process.env.NEXT_PUBLIC_STRIPE_LINK_CHAMPION,
+  mythic: process.env.NEXT_PUBLIC_STRIPE_LINK_MYTHIC,
+};
+
 export const MEMBERSHIP_TIERS: MembershipTier[] = [
   {
     id: 'wanderer',
@@ -37,8 +51,8 @@ export const MEMBERSHIP_TIERS: MembershipTier[] = [
       'Monthly supporter shoutout',
       'Access to member-only updates',
     ],
-    ctaLabel: 'Join on Discord',
-    ctaHref: DISCORD,
+    ctaLabel: STRIPE_LINKS.wanderer ? 'Subscribe' : 'Join on Discord',
+    ctaHref: STRIPE_LINKS.wanderer || DISCORD,
     badge: 'Supporter',
   },
   {
@@ -54,8 +68,8 @@ export const MEMBERSHIP_TIERS: MembershipTier[] = [
       'Member-only livestream & community night access',
       'Discounts on Mythras collector drops',
     ],
-    ctaLabel: 'Join on Discord',
-    ctaHref: DISCORD,
+    ctaLabel: STRIPE_LINKS.champion ? 'Subscribe' : 'Join on Discord',
+    ctaHref: STRIPE_LINKS.champion || DISCORD,
     featured: true,
     badge: 'Most popular',
   },
@@ -72,8 +86,8 @@ export const MEMBERSHIP_TIERS: MembershipTier[] = [
       'First access to limited collector drops',
       'Annual signed card or print',
     ],
-    ctaLabel: 'Join on Discord',
-    ctaHref: DISCORD,
+    ctaLabel: STRIPE_LINKS.mythic ? 'Subscribe' : 'Join on Discord',
+    ctaHref: STRIPE_LINKS.mythic || DISCORD,
     badge: 'Premium',
   },
 ];

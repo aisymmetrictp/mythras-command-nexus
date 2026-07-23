@@ -6,7 +6,7 @@ import BlogMarkdown from './BlogMarkdown';
 import BlogTOC from './BlogTOC';
 import BlogFAQ from './BlogFAQ';
 import BlogCard from './BlogCard';
-import AffiliateCallout from './AffiliateCallout';
+import AmazonPicks from './AmazonPicks';
 import YouTubeEmbed from './YouTubeEmbed';
 import { VIDEO_MAP } from '@/data/blog/videoMap';
 import { BreadcrumbSchema, FAQSchema, ItemListSchema, MYTHRAS_PERSON_ID, MYTHRAS_ORG_ID } from '@/components/StructuredData';
@@ -158,7 +158,7 @@ export default function BlogPostBody({ post, related }: Props) {
         <BlogTOC toc={post.toc} />
         <BlogMarkdown content={post.content} />
         <BlogFAQ faqs={post.faq} />
-        <AffiliateCallout game={post.game} />
+        <AmazonPicks game={post.game} />
 
         {post.internalLinks.length > 0 && (
           <section className="my-12">
