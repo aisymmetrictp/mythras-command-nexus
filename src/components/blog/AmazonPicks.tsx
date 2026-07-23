@@ -14,8 +14,8 @@ import Image from 'next/image';
 import { ShoppingBag } from 'lucide-react';
 import { getAmazonPicks } from '@/data/shop/amazonPicks';
 
-export default function AmazonPicks({ game }: { game: string }) {
-  const picks = getAmazonPicks(game);
+export default function AmazonPicks({ game, slug }: { game: string; slug?: string }) {
+  const picks = getAmazonPicks(game, slug);
   if (picks.length === 0) return null;
 
   return (

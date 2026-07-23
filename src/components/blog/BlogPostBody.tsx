@@ -158,7 +158,7 @@ export default function BlogPostBody({ post, related }: Props) {
         <BlogTOC toc={post.toc} />
         <BlogMarkdown content={post.content} />
         <BlogFAQ faqs={post.faq} />
-        <AmazonPicks game={post.game} />
+        <AmazonPicks game={post.game} slug={post.slug} />
 
         {post.internalLinks.length > 0 && (
           <section className="my-12">

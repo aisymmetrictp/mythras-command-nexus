@@ -94,6 +94,22 @@ const MOBILE_GEAR: AmazonPick[] = [
   { searchKeywords: 'usb c power bank', title: 'Power Banks', sub: 'Longer grind sessions on Amazon' },
 ];
 
+// Curated ASIN picks for the strongest Amazon-fit games (verified live ASINs).
+// They render as title+link now and auto-upgrade to image+price once the
+// Creators API enrichment script can run. LEGO/toys/controllers are
+// commission-eligible; gift cards are deliberately excluded (Amazon pays ~0%
+// on gift cards, and they don't count toward the qualifying-sales unlock).
+const MINECRAFT_PICKS: AmazonPick[] = [
+  { asin: 'B0CRX64YFN', title: 'LEGO Minecraft Crafting Table', sub: '15th-anniversary buildable set on Amazon' },
+  { asin: 'B0CGYLHC13', title: 'LEGO Minecraft Devourer Showdown', sub: 'Action-figure battle set on Amazon' },
+  { searchKeywords: 'gaming mouse', title: 'Gaming Mice', sub: 'Lightweight, high-DPI mice on Amazon' },
+];
+const ROBLOX_PICKS: AmazonPick[] = [
+  { asin: 'B0DK3HWS59', title: 'Mobile Game Controller', sub: 'Hall-joystick gamepad (Roblox-ready) on Amazon' },
+  { searchKeywords: 'roblox action figures', title: 'Roblox Toys', sub: 'Figures & playsets on Amazon' },
+  { searchKeywords: 'gaming headset', title: 'Gaming Headsets', sub: 'Positional-audio headsets on Amazon' },
+];
+
 const DEFAULT_PICKS = GAMING_GEAR;
 
 // ── Per-game mapping ────────────────────────────────────────────────────────
@@ -110,8 +126,8 @@ export const AMAZON_PICKS_BY_GAME: Record<string, AmazonPick[]> = {
   'fortnite': GAMING_GEAR,
   'pubg-battlegrounds': GAMING_GEAR,
   'counter-strike-2': GAMING_GEAR,
-  'roblox': GAMING_GEAR,
-  'minecraft': GAMING_GEAR,
+  'roblox': ROBLOX_PICKS,
+  'minecraft': MINECRAFT_PICKS,
   'elden-ring': GAMING_GEAR,
   'the-witcher-3': GAMING_GEAR,
   'baldurs-gate-3': GAMING_GEAR,
@@ -124,7 +140,14 @@ export const AMAZON_PICKS_BY_GAME: Record<string, AmazonPick[]> = {
   'crimson-desert': GAMING_GEAR,
 };
 
-export function getAmazonPicks(game: string, limit = 3): ResolvedAmazonPick[] {
-  const picks = AMAZON_PICKS_BY_GAME[game] ?? DEFAULT_PICKS;
+/**
+ * Per-POST overrides for high-intent pages. Key = post slug; takes precedence
+ * over the per-game default so a specific guide can pin specific products.
+ * Empty by default — game-level picks already cover most posts.
+ */
+export const AMAZON_PICKS_BY_SLUG: Record<string, AmazonPick[]> = {};
+
+export function getAmazonPicks(game: string, slug?: string, limit = 3): ResolvedAmazonPick[] {
+  const picks = (slug && AMAZON_PICKS_BY_SLUG[slug]) || AMAZON_PICKS_BY_GAME[game] || DEFAULT_PICKS;
   return picks.slice(0, limit).map(resolvePick);
 }
