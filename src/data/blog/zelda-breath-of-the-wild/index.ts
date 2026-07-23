@@ -5,6 +5,7 @@ import { botwCookingGuide } from './posts/botw-cooking-guide';
 import { botwCombatTips } from './posts/botw-combat-tips';
 import { botwBestArmorGuide } from './posts/botw-best-armor-guide';
 import { botwShrineGuide } from './posts/botw-shrine-guide';
+import { botwDivineBeastsGuide } from './posts/botw-divine-beasts-guide';
 
 export const BOTW_POSTS: BlogPost[] = [
   botwBeginnerGuide,
@@ -12,4 +13,5 @@ export const BOTW_POSTS: BlogPost[] = [
   botwCombatTips,
   botwBestArmorGuide,
   botwShrineGuide,
+  botwDivineBeastsGuide,
 ];

@@ -4,6 +4,7 @@ import { alttpDungeonOrderGuide } from './posts/alttp-dungeon-order-guide';
 import { alttpItemsUpgradesGuide } from './posts/alttp-items-upgrades-guide';
 import { alttpBossGuide } from './posts/alttp-boss-guide';
 import { alttpDarkWorldGuide } from './posts/alttp-dark-world-guide';
+import { alttpHeartPiecesGuide } from './posts/alttp-heart-pieces-guide';
 
 export const ALTTP_POSTS: BlogPost[] = [
   aLinkToThePastBeginnerGuide,
@@ -11,4 +12,5 @@ export const ALTTP_POSTS: BlogPost[] = [
   alttpItemsUpgradesGuide,
   alttpBossGuide,
   alttpDarkWorldGuide,
+  alttpHeartPiecesGuide,
 ];

@@ -4,6 +4,7 @@ import { eldenRingWeaponScalingExplained } from './posts/elden-ring-weapon-scali
 import { eldenRingEarlyGameRoute } from './posts/elden-ring-early-game-route';
 import { eldenRingBossOrderGuide } from './posts/elden-ring-boss-order-guide';
 import { eldenRingAshesOfWarGuide } from './posts/elden-ring-ashes-of-war-guide';
+import { eldenRingStatusEffectsGuide } from './posts/elden-ring-status-effects-guide';
 
 export const ELDEN_RING_POSTS: BlogPost[] = [
   bestEldenRingStartingClass,
@@ -11,4 +12,5 @@ export const ELDEN_RING_POSTS: BlogPost[] = [
   eldenRingEarlyGameRoute,
   eldenRingBossOrderGuide,
   eldenRingAshesOfWarGuide,
+  eldenRingStatusEffectsGuide,
 ];

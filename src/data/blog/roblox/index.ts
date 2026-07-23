@@ -55,6 +55,7 @@ import { robloxTeleportServiceGuide } from './posts/roblox-teleport-service-guid
 import { robloxSoundMusicGuide } from './posts/roblox-sound-music-guide';
 import { robloxModuleScriptsGuide } from './posts/roblox-module-scripts-guide';
 import { robloxRaycastingGuide } from './posts/roblox-raycasting-guide';
+import { robloxCameraManipulationGuide } from './posts/roblox-camera-manipulation-guide';
 
 export const ROBLOX_POSTS: BlogPost[] = [
   robloxBeginnersGuide,
@@ -111,4 +112,5 @@ export const ROBLOX_POSTS: BlogPost[] = [
   robloxSoundMusicGuide,
   robloxModuleScriptsGuide,
   robloxRaycastingGuide,
+  robloxCameraManipulationGuide,
 ];

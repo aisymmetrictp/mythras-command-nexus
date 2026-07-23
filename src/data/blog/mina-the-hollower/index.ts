@@ -5,6 +5,7 @@ import { minaTheHollowerWeaponsGuide } from './posts/mina-the-hollower-weapons-g
 import { minaTheHollowerSidearmsTrinketsGuide } from './posts/mina-the-hollower-sidearms-trinkets-guide';
 import { minaTheHollowerExplorationTips } from './posts/mina-the-hollower-exploration-tips';
 import { minaTheHollowerPatchNotesExplained } from './posts/mina-the-hollower-patch-notes-explained';
+import { minaTheHollowerReleaseDatePlatformsGuide } from './posts/mina-the-hollower-release-date-platforms-guide';
 
 export const MINA_POSTS: BlogPost[] = [
   minaTheHollowerBeginnerGuide,
@@ -12,4 +13,5 @@ export const MINA_POSTS: BlogPost[] = [
   minaTheHollowerSidearmsTrinketsGuide,
   minaTheHollowerExplorationTips,
   minaTheHollowerPatchNotesExplained,
+  minaTheHollowerReleaseDatePlatformsGuide,
 ];

@@ -4,6 +4,7 @@ import { superMario64MovementGuide } from './posts/super-mario-64-movement-guide
 import { superMario64SecretStarsGuide } from './posts/super-mario-64-secret-stars-guide';
 import { superMario64CapGuide } from './posts/super-mario-64-cap-guide';
 import { superMario64BossGuide } from './posts/super-mario-64-boss-guide';
+import { superMario64SpeedrunGuide } from './posts/super-mario-64-speedrun-guide';
 
 export const MARIO_64_POSTS: BlogPost[] = [
   superMario64BeginnerGuide,
@@ -11,4 +12,5 @@ export const MARIO_64_POSTS: BlogPost[] = [
   superMario64SecretStarsGuide,
   superMario64CapGuide,
   superMario64BossGuide,
+  superMario64SpeedrunGuide,
 ];

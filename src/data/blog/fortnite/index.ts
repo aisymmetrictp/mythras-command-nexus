@@ -53,6 +53,7 @@ import { fortniteShieldHealManagementGuide } from './posts/fortnite-shield-heal-
 import { fortniteInventoryManagementGuide } from './posts/fortnite-inventory-management-guide';
 import { fortniteBestMouseSettingsGuide } from './posts/fortnite-best-mouse-settings-guide';
 import { fortniteOgModeGuide } from './posts/fortnite-og-mode-guide';
+import { fortniteAimAssistSettingsGuide } from './posts/fortnite-aim-assist-settings-guide';
 
 export const FORTNITE_POSTS: BlogPost[] = [
   fortniteBeginnersGuide,
@@ -109,4 +110,5 @@ export const FORTNITE_POSTS: BlogPost[] = [
   fortniteInventoryManagementGuide,
   fortniteBestMouseSettingsGuide,
   fortniteOgModeGuide,
+  fortniteAimAssistSettingsGuide,
 ];

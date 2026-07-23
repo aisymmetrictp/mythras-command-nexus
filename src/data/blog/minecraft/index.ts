@@ -66,6 +66,7 @@ import { minecraftSpawnerGuide } from './posts/minecraft-spawner-guide';
 import { minecraftAutomaticFarmsGuide } from './posts/minecraft-automatic-farms-guide';
 import { minecraftHardcoreModeGuide } from './posts/minecraft-hardcore-mode-guide';
 import { minecraftEnchantingSetupGuide } from './posts/minecraft-enchanting-setup-guide';
+import { minecraftSlimeFarmGuide } from './posts/minecraft-slime-farm-guide';
 
 export const MINECRAFT_POSTS: BlogPost[] = [
   minecraftSurvivalGuideBeginners,
@@ -133,4 +134,5 @@ export const MINECRAFT_POSTS: BlogPost[] = [
   minecraftAutomaticFarmsGuide,
   minecraftHardcoreModeGuide,
   minecraftEnchantingSetupGuide,
+  minecraftSlimeFarmGuide,
 ];
