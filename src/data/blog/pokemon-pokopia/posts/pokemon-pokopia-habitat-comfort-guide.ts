@@ -79,7 +79,7 @@ The loop reads like this. You build a habitat. A wild Pokemon notices and moves 
 
 Because of that chain, habitat construction is not a side activity you do once the "real" progression is done. It is the progression. A player with 40 residents has meaningfully more building capability than a player with 10, independent of playtime.
 
-![Bulbasaur in Pokopia — one of the species attracted by the game\\'s simplest habitat, four tiles of tall grass.](/images/blog/pokemon-pokopia/habitat-comfort-guide/bulbasaur.webp)
+![Bulbasaur in Pokopia — one of the species attracted by the game's simplest habitat, four tiles of tall grass.](/images/blog/pokemon-pokopia/habitat-comfort-guide/bulbasaur.webp)
 
 ## How habitats actually work
 
